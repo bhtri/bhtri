@@ -29,7 +29,7 @@ const generate = async () => {
   const mm = String(curDate.getMonth() + 1).padStart(2, `0`);
   const yyyy = String(curDate.getFullYear()).padStart(4, `0`);
   const today =　yyyy + `年` + mm + `月` + dd + `日`;
-  const str = `*${today}の名言 *\n\n_**${quote}**_\n\n${author}`;
+  const str = `*${today}の名言*\n\n_**${quote}**_\n\n${author}`;
   
   fs.writeFileSync("README.md", str);
 };
