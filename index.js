@@ -23,8 +23,15 @@ const generate = async () => {
   const { quote, author } = await getQuote();
 
   if (!quote) return;
-
-  fs.writeFileSync("README.md", `_**${quote}**_\n\n${author}`);
+  
+  const curDate = new Date();
+  const dd = String(curDate.getDate()).padStart(2, `0`);
+  const mm = String(curDate.getMonth() + 1).padStart(2, `0`);
+  const yyyy = String(curDate.getFullYear()).padStart(4, `0`);
+  const today =　yyyy + `年` + mm + `月` + dd + `日`;
+  const str = `*${today}の名言 *\n\n_**${quote}**_\n\n${author}`;
+  
+  fs.writeFileSync("README.md", str);
 };
 
 generate();
