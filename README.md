@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to the community, and do more Open Source projects.
 - ⚡ Fun fact: I love nature and love climbing.
-<br />
-
 ### **Languages and Tools**
 <img width="35px" height="35px" src="https://img.icons8.com/color/48/000000/vb.png"/> <img width="35px" height="35px" src="https://img.icons8.com/color/48/000000/sql.png"/> <img width="35px" height="35px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img width="35px" height="35px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> <img width="35px" height="35px" src="https://img.icons8.com/color/48/000000/swift.png"/> <img width="35px" height="35px" src="https://img.icons8.com/color/48/000000/flutter.png"/> <img width="35px" height="35px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <br />
@@ -23,3 +21,5 @@ _**Named must your fear be before banish it you can.**_
 **Yoda**
 ###
 ---
+
+[![](https://raw.githubusercontent.com/bhtri/bhtri/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
