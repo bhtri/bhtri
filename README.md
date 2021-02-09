@@ -5,10 +5,10 @@
 - 🥅 2021 Goals: Contribute more to the community, and do more Open Source projects.
 - ⚡ Fun fact: I love nature and love climbing.
 <br />
-### **Languages**
+### **Languages and Tools**
 <img width="35px" height="35px" src="https://img.icons8.com/color/48/000000/vb.png"/> <img width="35px" height="35px" src="https://img.icons8.com/color/48/000000/sql.png"/> <img width="35px" height="35px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img width="35px" height="35px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> <img width="35px" height="35px" src="https://img.icons8.com/color/48/000000/swift.png"/> <img width="35px" height="35px" src="https://img.icons8.com/color/48/000000/flutter.png"/> <img width="35px" height="35px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <br />
-<img width="35px" height="35px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img width="35px" height="35px" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/> <img width="35px" height="35px" src="https://img.icons8.com/color/48/000000/xcode.png"/> <img width="35px" height="35px" src="https://img.icons8.com/color/48/000000/git.png"/> <img width="35px" hspace="3" height="35px" src="https://img.icons8.com/officel/40/000000/react.png"/> <img width="35px" height="35px" hspace="3" src="https://img.icons8.com/color/48/000000/npm.png"/>
+<img width="35px" height="35px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img width="35px" height="35px" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/> <img width="35px" height="35px" src="https://img.icons8.com/color/48/000000/xcode.png"/> <img width="35px" height="35px" src="https://img.icons8.com/color/48/000000/git.png"/> <img width="35px" height="35px" src="https://img.icons8.com/officel/40/000000/react.png"/> <img width="35px" height="35px" src="https://img.icons8.com/color/48/000000/npm.png"/>
 
 ###
 
