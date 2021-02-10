@@ -1,6 +1,6 @@
 ### Hi there, I'm `<wdvqmj7377 />`! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="22px">
 
-## I'm a Developer, and Pianist!
+## I'm a Developer, and .... 🤔!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to the community, and do more Open Source projects.
 - ⚡ Fun fact: I love nature and love climbing.
