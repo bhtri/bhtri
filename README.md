@@ -12,13 +12,13 @@
 ###
 
 ---
-### **2021年02月09日の名言**
+### **2021年02月10日の名言**
 <br/>
 
-_**Named must your fear be before banish it you can.**_
+_**Think ahead. Don't let day-to-day operations drive out planning.**_
 <br/>
 <br/>
-**Yoda**
+**Donald Rumsfeld**
 ###
 ---
 
