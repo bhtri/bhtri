@@ -14,11 +14,13 @@
 ---
 ### **{%TITLE%}**
 
-<p align="center" style="font-size:16px">
-{%QUOTE%}
+<p align="center" style="font-size:20px">
+  <q>
+    {%QUOTE%}
+  </q>
 </p>
 
-<p align="right" style="font-size:14px; font-weight: bold">
+<p align="right" style="font-size:18px; font-weight: bold">
 {%AUTHOR%}
 </p>
 
