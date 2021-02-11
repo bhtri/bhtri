@@ -14,11 +14,13 @@
 ---
 ### **2021年02月11日の名言**
 
-<p align="center" style="font-size:16px">
-Logic will get you from A to B. Imagination will take you everywhere.
+<p align="center" style="font-size:20px">
+  <q>
+    Logic will get you from A to B. Imagination will take you everywhere.
+  </q>
 </p>
 
-<p align="right" style="font-size:14px; font-weight: bold">
+<p align="right" style="font-size:18px; font-weight: bold">
 Albert Einstein
 </p>
 
