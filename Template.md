@@ -13,13 +13,16 @@
 
 ---
 ### **{%TITLE%}**
-<br/>
 
-_**{%QUOTE%}**_
-<br/>
-<br/>
-**{%AUTHOR%}**
-###
+<p align="center" style="font-size:16px">
+{%QUOTE%}
+</p>
+
+<p align="right" style="font-size:14px; font-weight: bold">
+{%AUTHOR%}
+</p>
+
 ---
-
-[![](https://raw.githubusercontent.com/bhtri/bhtri/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bhtri/bhtri/main/profile-summary-card-output/dracula/0-profile-details.svg" />
+</p>
