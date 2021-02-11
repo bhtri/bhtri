@@ -13,13 +13,16 @@
 
 ---
 ### **2021年02月11日の名言**
-<br/>
 
-_**Go confidently in the direction of your dreams. Live the life you've imagined. As you simplify your life, the laws of the universe will be simpler.**_
-<br/>
-<br/>
-**Henry David Thoreau**
-###
+<p align="center" style="font-size:16px">
+Logic will get you from A to B. Imagination will take you everywhere.
+</p>
+
+<p align="right" style="font-size:14px; font-weight: bold">
+Albert Einstein
+</p>
+
 ---
-
-[![](https://raw.githubusercontent.com/bhtri/bhtri/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bhtri/bhtri/main/profile-summary-card-output/dracula/0-profile-details.svg" />
+</p>
