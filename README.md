@@ -12,13 +12,13 @@
 ###
 
 ---
-### **2021年02月10日の名言**
+### **2021年02月11日の名言**
 <br/>
 
-_**Think ahead. Don't let day-to-day operations drive out planning.**_
+_**Go confidently in the direction of your dreams. Live the life you've imagined. As you simplify your life, the laws of the universe will be simpler.**_
 <br/>
 <br/>
-**Donald Rumsfeld**
+**Henry David Thoreau**
 ###
 ---
 
