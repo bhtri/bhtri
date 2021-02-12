@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年02月11日の名言**
+### **2021年02月12日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Logic will get you from A to B. Imagination will take you everywhere.
+    You should never view your challenges as a disadvantage. Instead, it's important for you to understand that your experience facing and overcoming adversity is actually one of your biggest advantages.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Albert Einstein
+Michelle Obama
 </p>
 
 ---
