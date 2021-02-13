@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年02月12日の名言**
+### **2021年02月13日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    You should never view your challenges as a disadvantage. Instead, it's important for you to understand that your experience facing and overcoming adversity is actually one of your biggest advantages.
+    Winning is not everything, but the effort to win is.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Michelle Obama
+Zig Ziglar
 </p>
 
 ---
