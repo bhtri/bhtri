@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年02月13日の名言**
+### **2021年02月14日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Winning is not everything, but the effort to win is.
+    Where there is ruin, there is hope for a treasure.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Zig Ziglar
+Rumi
 </p>
 
 ---
