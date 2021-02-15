@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年02月14日の名言**
+### **2021年02月15日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Where there is ruin, there is hope for a treasure.
+    If you don't have confidence, you'll always find a way not to win
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Rumi
+Carl Lewis
 </p>
 
 ---
