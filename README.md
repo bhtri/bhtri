@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年02月16日の名言**
+### **2021年02月17日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Don't be tempted to break momentum-work through it.
+    The determination to win is the better part of winning.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+Daisaku Ikeda
 </p>
 
 ---
