@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年02月18日の名言**
+### **2021年02月19日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    What's the greater risk? Letting go of what people think or letting go of how I feel, what I believe, and who I am?
+    Don't count the days; make the days count.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Brene Brown
+Mohamad Ali
 </p>
 
 ---
