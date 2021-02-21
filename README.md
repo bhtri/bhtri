@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年02月20日の名言**
+### **2021年02月21日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    It is easy to sit up and take notice, What is difficult is getting up and taking action.
+    If you respect yourself in stressful situations, it will help you see the positive… It will help you see the message in the mess.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Honore de Balzac
+Steve Maraboli
 </p>
 
 ---
