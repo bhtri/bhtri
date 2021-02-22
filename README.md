@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年02月21日の名言**
+### **2021年02月22日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you respect yourself in stressful situations, it will help you see the positive… It will help you see the message in the mess.
+    Limitations are like mirages created by your own mind. When you realise that limitation do not exist, those around you will also feel it and allow you inside their space.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Steve Maraboli
+Stephen Richards
 </p>
 
 ---
