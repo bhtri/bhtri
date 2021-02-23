@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年02月22日の名言**
+### **2021年02月23日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Limitations are like mirages created by your own mind. When you realise that limitation do not exist, those around you will also feel it and allow you inside their space.
+    People who are crazy enough to think they can change the world, are the ones who do.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Stephen Richards
+Apple Computers
 </p>
 
 ---
