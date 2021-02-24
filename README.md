@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年02月23日の名言**
+### **2021年02月24日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    People who are crazy enough to think they can change the world, are the ones who do.
+    Once your excuses are gone, you will simply have to settle for being awesome!
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Apple Computers
+Lorii Myers
 </p>
 
 ---
