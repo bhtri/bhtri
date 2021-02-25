@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年02月24日の名言**
+### **2021年02月25日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Once your excuses are gone, you will simply have to settle for being awesome!
+    You can't succeed coming to the potluck with only a fork.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+Dave Liniger
 </p>
 
 ---
