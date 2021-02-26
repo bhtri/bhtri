@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年02月25日の名言**
+### **2021年02月26日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    You can't succeed coming to the potluck with only a fork.
+    Failure is the condiment that gives success its flavor.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Dave Liniger
+Truman Capote
 </p>
 
 ---
