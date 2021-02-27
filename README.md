@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年02月26日の名言**
+### **2021年02月27日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Failure is the condiment that gives success its flavor.
+    I keep asking myself these three questions.. What do you have? What do you want? What will you give up?
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Truman Capote
+Jack Ma
 </p>
 
 ---
