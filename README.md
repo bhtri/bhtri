@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年02月28日の名言**
+### **2021年03月01日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Excellence prospers in the absence of excuses.
+    If you like what you do, and you're lucky enough to be good at it, do it for that reason.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+Phil Grimshaw
 </p>
 
 ---
