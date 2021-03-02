@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年03月01日の名言**
+### **2021年03月02日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you like what you do, and you're lucky enough to be good at it, do it for that reason.
+    Beyond a certain point there is no return. This point has to be reached.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Phil Grimshaw
+Franz Kafka
 </p>
 
 ---
