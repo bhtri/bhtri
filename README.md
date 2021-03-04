@@ -12,16 +12,19 @@
 ###
 
 ---
-### **2021年03月03日の名言**
+### **2021年03月04日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you don't give up, you still have a chance. And when you are small, you have to be very focused and rely on your brain, not your strength.
+    One does not accumulate but eliminate.
+It is not daily increase but daily
+decrease. The height of cultivation
+always runs to simplicity.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Jack Ma
+Bruce Lee
 </p>
 
 ---
