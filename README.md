@@ -12,19 +12,16 @@
 ###
 
 ---
-### **2021年03月04日の名言**
+### **2021年03月05日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    One does not accumulate but eliminate.
-It is not daily increase but daily
-decrease. The height of cultivation
-always runs to simplicity.
+    Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Bruce Lee
+Zaha Hadid
 </p>
 
 ---
