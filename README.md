@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年03月05日の名言**
+### **2021年03月06日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them.
+    I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better. I think that's the single best piece of advice: constantly think about how you could be doing things better and questioning yourself.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Zaha Hadid
+Elon Musk
 </p>
 
 ---
