@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年03月06日の名言**
+### **2021年03月07日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better. I think that's the single best piece of advice: constantly think about how you could be doing things better and questioning yourself.
+    The best way to predict the future is to create it.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Elon Musk
+Abraham Lincoln
 </p>
 
 ---
