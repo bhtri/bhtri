@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年03月12日の名言**
+### **2021年03月13日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Whether you think you can or think you can't, you're right..
+    Life is like a camera: just focus on what is important, capture good times, develop from negative, and if things do not work out, take another shot!
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Henry Ford
+Daireth Winehouse
 </p>
 
 ---
