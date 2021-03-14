@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年03月13日の名言**
+### **2021年03月14日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Life is like a camera: just focus on what is important, capture good times, develop from negative, and if things do not work out, take another shot!
+    The beginning of freedom is the realization that you are not the possessing entity the thinker.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Daireth Winehouse
+Eckhart Tolle
 </p>
 
 ---
