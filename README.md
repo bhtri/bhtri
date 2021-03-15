@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年03月14日の名言**
+### **2021年03月15日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    The beginning of freedom is the realization that you are not the possessing entity the thinker.
+    I am an optimist. It does not seem too much use being anything else..
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Eckhart Tolle
+Winston Churchill
 </p>
 
 ---
