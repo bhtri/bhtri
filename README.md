@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年03月15日の名言**
+### **2021年03月16日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    I am an optimist. It does not seem too much use being anything else..
+    Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Winston Churchill
+Zaha Hadid
 </p>
 
 ---
