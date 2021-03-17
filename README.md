@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年03月16日の名言**
+### **2021年03月17日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them.
+    You will never win if you never begin.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Zaha Hadid
+Helen Rowland
 </p>
 
 ---
