@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年03月17日の名言**
+### **2021年03月18日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    You will never win if you never begin.
+    A quitter never wins and a winner never quits
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Helen Rowland
+Napoleon Hill
 </p>
 
 ---
