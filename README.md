@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年03月18日の名言**
+### **2021年03月19日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    A quitter never wins and a winner never quits
+    There is nothing noble about being superior to some other man. The true nobility is in being superior to your previous self.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Napoleon Hill
+Hindu Proverb
 </p>
 
 ---
