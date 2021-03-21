@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年03月20日の名言**
+### **2021年03月21日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    An aspirational diet will have you dreaming of success; but it's the attachment of expectations and tangible goals that feeds the desire, persistence, and fortitude required to make the win.
+    Life is like a camera: just focus on what is important, capture good times, develop from negative, and if things do not work out, take another shot!
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+Daireth Winehouse
 </p>
 
 ---
