@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年03月21日の名言**
+### **2021年03月22日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Life is like a camera: just focus on what is important, capture good times, develop from negative, and if things do not work out, take another shot!
+    Winning is not everything, but the effort to win is.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Daireth Winehouse
+Zig Ziglar
 </p>
 
 ---
