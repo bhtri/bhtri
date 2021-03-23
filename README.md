@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年03月22日の名言**
+### **2021年03月23日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Winning is not everything, but the effort to win is.
+    We are each gifted in a unique and important way. It is our privilege and our adventure to discover our own special light
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Zig Ziglar
+Mary Dunbar
 </p>
 
 ---
