@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年03月23日の名言**
+### **2021年03月24日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    We are each gifted in a unique and important way. It is our privilege and our adventure to discover our own special light
+    You make a living by what you earn; you make a life by what you give.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Mary Dunbar
+Winston Churchill
 </p>
 
 ---
