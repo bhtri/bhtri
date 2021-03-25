@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年03月24日の名言**
+### **2021年03月25日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    You make a living by what you earn; you make a life by what you give.
+    Feeling grateful to or appreciative of someone or something in your life actually attracts more of the things that you appreciate and value into your life.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Winston Churchill
+Christiane Northrup
 </p>
 
 ---
