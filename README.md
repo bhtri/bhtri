@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年03月26日の名言**
+### **2021年03月27日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Sometimes you climb out of bed in the morning and you think, I'm not going to make it, but you laugh inside - remembering all the times you've felt that way.
+    It isn't the mountains ahead to climb that wear you out; it's the pebble in your shoe.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Charles Bukowski
+Mohamad Ali
 </p>
 
 ---
