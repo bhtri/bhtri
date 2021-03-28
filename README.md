@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年03月27日の名言**
+### **2021年03月28日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    It isn't the mountains ahead to climb that wear you out; it's the pebble in your shoe.
+    Great things are done by a series of small things brought together.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Mohamad Ali
+Vincent Van Gogh
 </p>
 
 ---
