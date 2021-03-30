@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年03月29日の名言**
+### **2021年03月30日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Your overnight success story is always a result of everything you have done in your life until that moment.
+    If you can consciously let yourself get taken and see where you go, that's an exercise. That's discipline. To follow the scent. Let yourself go and see what happens, that takes a bit of courage.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Bel Pesce
+Bill Murray
 </p>
 
 ---
