@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年03月30日の名言**
+### **2021年03月31日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you can consciously let yourself get taken and see where you go, that's an exercise. That's discipline. To follow the scent. Let yourself go and see what happens, that takes a bit of courage.
+    The free soul is rare, but you know it when you see it - basically because you feel good, very good, when you are near or with them.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Bill Murray
+Charles Bukowski
 </p>
 
 ---
