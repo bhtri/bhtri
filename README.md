@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年04月04日の名言**
+### **2021年04月05日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Effort only fully releases its reward after a person refuses to quit.
+    The best way to predict the future is to create it.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Napoleon Hill
+Abraham Lincoln
 </p>
 
 ---
