@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年04月05日の名言**
+### **2021年04月06日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    The best way to predict the future is to create it.
+    Sustenance! Your health is always the best prescription.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Abraham Lincoln
+Lorii Myers
 </p>
 
 ---
