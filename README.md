@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年04月06日の名言**
+### **2021年04月07日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Sustenance! Your health is always the best prescription.
+    Let go of who you think you're supposed to be; embrace who you are.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+Brene Brown
 </p>
 
 ---
