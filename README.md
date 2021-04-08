@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年04月07日の名言**
+### **2021年04月08日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Let go of who you think you're supposed to be; embrace who you are.
+    The human mind and body are truly extraordinary. They are the quintessence of excellence in motion. We talk, touch, see, hear, taste, smell, and feel. We dream, aspire, and become. All that we are is mind and body and spirit-that is our universe.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Brene Brown
+Lorii Myers
 </p>
 
 ---
