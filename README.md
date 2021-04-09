@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年04月08日の名言**
+### **2021年04月09日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    The human mind and body are truly extraordinary. They are the quintessence of excellence in motion. We talk, touch, see, hear, taste, smell, and feel. We dream, aspire, and become. All that we are is mind and body and spirit-that is our universe.
+    Stop complaining. Start creating.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+Dale Patridge
 </p>
 
 ---
