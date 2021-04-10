@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年04月09日の名言**
+### **2021年04月10日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Stop complaining. Start creating.
+    Winning is not everything, but the effort to win is.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Dale Patridge
+Zig Ziglar
 </p>
 
 ---
