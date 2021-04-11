@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年04月10日の名言**
+### **2021年04月11日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Winning is not everything, but the effort to win is.
+    You defeated me But you won't defeat me again Because you have grown all you can grow.. But I am still growing (about Mount Everest).
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Zig Ziglar
+Edmund Hillary
 </p>
 
 ---
