@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年04月11日の名言**
+### **2021年04月12日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    You defeated me But you won't defeat me again Because you have grown all you can grow.. But I am still growing (about Mount Everest).
+    We hold ourselves back in ways both big and small, by lacking self-confidence, by not raising our hands, and by pulling back when we should be leaning in.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Edmund Hillary
+Sheryl Sandberg
 </p>
 
 ---
