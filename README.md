@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年04月13日の名言**
+### **2021年04月14日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Remove the temptation to settle for anything short of what you deserve.
+    Many a false step was made by standing still.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+Fortune Cookie
 </p>
 
 ---
