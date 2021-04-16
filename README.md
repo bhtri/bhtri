@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年04月15日の名言**
+### **2021年04月16日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    It is easy to sit up and take notice, What is difficult is getting up and taking action.
+    Core passions and aspirations should be consistent and in sync.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Honore de Balzac
+Lorii Myers
 </p>
 
 ---
