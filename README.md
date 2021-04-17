@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年04月16日の名言**
+### **2021年04月17日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Core passions and aspirations should be consistent and in sync.
+    Persistence is very important. You should not give up unless you are forced to give up.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+Elon Musk
 </p>
 
 ---
