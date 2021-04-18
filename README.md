@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年04月17日の名言**
+### **2021年04月18日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Persistence is very important. You should not give up unless you are forced to give up.
+    Perfection is not attainable, but if we chase perfection we can catch excellence..
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Elon Musk
+Vince Lombardi
 </p>
 
 ---
