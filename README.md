@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年04月18日の名言**
+### **2021年04月19日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Perfection is not attainable, but if we chase perfection we can catch excellence..
+    Once your excuses are gone, you will simply have to settle for being awesome!
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Vince Lombardi
+Lorii Myers
 </p>
 
 ---
