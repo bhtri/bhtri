@@ -12,11 +12,11 @@
 ###
 
 ---
-### **2021年04月19日の名言**
+### **2021年04月20日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Once your excuses are gone, you will simply have to settle for being awesome!
+    An aspirational diet will have you dreaming of success; but it's the attachment of expectations and tangible goals that feeds the desire, persistence, and fortitude required to make the win.
   </q>
 </p>
 
