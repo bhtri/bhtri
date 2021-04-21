@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年04月20日の名言**
+### **2021年04月21日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    An aspirational diet will have you dreaming of success; but it's the attachment of expectations and tangible goals that feeds the desire, persistence, and fortitude required to make the win.
+    If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+Barack Obama
 </p>
 
 ---
