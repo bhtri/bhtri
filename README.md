@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年04月21日の名言**
+### **2021年04月22日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.
+    Feeling grateful to or appreciative of someone or something in your life actually attracts more of the things that you appreciate and value into your life.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Barack Obama
+Christiane Northrup
 </p>
 
 ---
