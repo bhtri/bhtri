@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年04月22日の名言**
+### **2021年04月23日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Feeling grateful to or appreciative of someone or something in your life actually attracts more of the things that you appreciate and value into your life.
+    If you're not making mistakes, you're not taking risks, and that means you're not going anywhere. The key is to make mistakes faster than the competition, so you have more changes to learn and win.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Christiane Northrup
+John W. Holt, Jr.
 </p>
 
 ---
