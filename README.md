@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年04月23日の名言**
+### **2021年04月24日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you're not making mistakes, you're not taking risks, and that means you're not going anywhere. The key is to make mistakes faster than the competition, so you have more changes to learn and win.
+    When a man is an upright contender, only real people are bound to be around; but if he is a downright pretender, then fake people surround and always abound to be found.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John W. Holt, Jr.
+Anuj Somany
 </p>
 
 ---
