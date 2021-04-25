@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年04月24日の名言**
+### **2021年04月25日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    When a man is an upright contender, only real people are bound to be around; but if he is a downright pretender, then fake people surround and always abound to be found.
+    Named must your fear be before banish it you can.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Anuj Somany
+Yoda
 </p>
 
 ---
