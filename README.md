@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年04月25日の名言**
+### **2021年04月26日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Named must your fear be before banish it you can.
+    The best way to predict the future is to create it.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Yoda
+Abraham Lincoln
 </p>
 
 ---
