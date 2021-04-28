@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年04月27日の名言**
+### **2021年04月28日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Somewhere between the bottom of the climb and the summit is the answer to the mystery why we climb.
+    The determination to win is the better part of winning.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Greg Child
+Daisaku Ikeda
 </p>
 
 ---
