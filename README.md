@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年04月28日の名言**
+### **2021年04月29日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    The determination to win is the better part of winning.
+    The best way to not feel hopeless is to get up and do something. Don't wait for good things to happen to you. If you go out and make some good things happen, you will fill the world with hope, you will fill yourself with hope.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Daisaku Ikeda
+Barack Obama
 </p>
 
 ---
