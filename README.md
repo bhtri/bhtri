@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年05月01日の名言**
+### **2021年05月02日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    At that point where you have decided to upgrade from aspiration to expectation and have begun to visualize an outcome, something incredibly important has happened, you have committed to the process of change.
+    Whether you think you can or think you can't, you're right..
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+Henry Ford
 </p>
 
 ---
