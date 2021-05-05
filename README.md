@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年05月04日の名言**
+### **2021年05月05日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    The last time doesn't exist. It's only this time. And everything is going to be different this time. There's only now.
+    Do not be afraid to give up the good for the great.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Bill Murray
+Kenny Rogers
 </p>
 
 ---
