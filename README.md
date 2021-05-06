@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年05月05日の名言**
+### **2021年05月06日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Do not be afraid to give up the good for the great.
+    We don't have to do all of it alone. We were never meant to.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Kenny Rogers
+Brene Brown
 </p>
 
 ---
