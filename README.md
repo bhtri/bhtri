@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年05月07日の名言**
+### **2021年05月08日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.
+    I know for sure that what we dwell on is who we become.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Mark Twain
+Oprah Winfrey
 </p>
 
 ---
