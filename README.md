@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年05月09日の名言**
+### **2021年05月10日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    If we are not stretching, we are not growing. If we are not growing, we are probably not fulfilling our potential. The only person in this room that knows your potential is you.
+    If you don't give up, you still have a chance. And when you are small, you have to be very focused and rely on your brain, not your strength.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Kevin Turner 
+Jack Ma
 </p>
 
 ---
