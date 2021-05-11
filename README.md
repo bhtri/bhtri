@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年05月10日の名言**
+### **2021年05月11日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you don't give up, you still have a chance. And when you are small, you have to be very focused and rely on your brain, not your strength.
+    Stop creating a life that you need a vacation from. Instead move to where you want to live, do what you want to do, start what you want to start and create the life you want today. This isn't rehearsal people. This is YOUR life.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Jack Ma
+Dale Patridge
 </p>
 
 ---
