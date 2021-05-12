@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年05月11日の名言**
+### **2021年05月12日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Stop creating a life that you need a vacation from. Instead move to where you want to live, do what you want to do, start what you want to start and create the life you want today. This isn't rehearsal people. This is YOUR life.
+    You should never view your challenges as a disadvantage. Instead, it's important for you to understand that your experience facing and overcoming adversity is actually one of your biggest advantages.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Dale Patridge
+Michelle Obama
 </p>
 
 ---
