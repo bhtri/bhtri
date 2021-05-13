@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年05月12日の名言**
+### **2021年05月13日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    You should never view your challenges as a disadvantage. Instead, it's important for you to understand that your experience facing and overcoming adversity is actually one of your biggest advantages.
+    You gotta commit. You've gotta go out there and improvise and you've gotta be completely unafraid to die. You've got to be able to take a chance to die. And you have to die lots. You have to die all the time.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Michelle Obama
+Bill Murray
 </p>
 
 ---
