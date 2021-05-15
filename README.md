@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年05月14日の名言**
+### **2021年05月15日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Do not let what you cannot do interfere with what you can do.
+    I am an optimist. It does not seem too much use being anything else..
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John Wooden
+Winston Churchill
 </p>
 
 ---
