@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年05月15日の名言**
+### **2021年05月16日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    I am an optimist. It does not seem too much use being anything else..
+    If I work as hard as I can, I wonder how much I can do in a day?
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Winston Churchill
+Ezra Taft Benson
 </p>
 
 ---
