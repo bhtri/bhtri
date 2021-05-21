@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年05月20日の名言**
+### **2021年05月21日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Successful people appear to be traveling along one continual, successful road. What is not apparent is the perseverance it takes following each defeat to keep you on that road. No one I know of has ever experienced one success after another without defeats, failures, disappointments, and frustrations galore along the way. Learning to overcome those times of agony is what separates the winners from the losers.
+    Great ambition is the passion of a great character. Those endowed with it may perform very good or very bad acts. All depends on the principals which direct them.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-G. Kingsley Ward
+Napoleon Bonaparte
 </p>
 
 ---
