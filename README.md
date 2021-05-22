@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年05月21日の名言**
+### **2021年05月22日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Great ambition is the passion of a great character. Those endowed with it may perform very good or very bad acts. All depends on the principals which direct them.
+    A man can suffer to bring a group of people to success, not the other way.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Napoleon Bonaparte
+Ganesh
 </p>
 
 ---
