@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年05月22日の名言**
+### **2021年05月23日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    A man can suffer to bring a group of people to success, not the other way.
+    Failure is the condiment that gives success its flavor.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ganesh
+Truman Capote
 </p>
 
 ---
