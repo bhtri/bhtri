@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年05月23日の名言**
+### **2021年05月24日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Failure is the condiment that gives success its flavor.
+    You are very powerful, provided you know how powerful you are.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Truman Capote
+Yogi Bhajan
 </p>
 
 ---
