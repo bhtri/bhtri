@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年05月24日の名言**
+### **2021年05月25日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    You are very powerful, provided you know how powerful you are.
+    Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Yogi Bhajan
+Zaha Hadid
 </p>
 
 ---
