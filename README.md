@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年05月27日の名言**
+### **2021年05月28日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Your fears, your critics, your heroes, your villains: They are fictions you perceive as reality. Choose to see through them. Choose to let them go.
+    Vision without action is daydream. Action without vision is nightmare..
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Isaac Lidsky
+Japanese Proverb
 </p>
 
 ---
