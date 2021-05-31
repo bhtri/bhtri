@@ -28,3 +28,5 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/bhtri/bhtri/main/profile-summary-card-output/dracula/0-profile-details.svg" />
 </p>
+
+![](https://komarev.com/ghpvc/?username=bhtri&color=6272A4&style=flat)
