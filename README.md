@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年05月30日の名言**
+### **2021年05月31日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    When you win, say nothing. When you lose, say less.
+    We are each gifted in a unique and important way. It is our privilege and our adventure to discover our own special light
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Paul Brown
+Mary Dunbar
 </p>
 
 ---
