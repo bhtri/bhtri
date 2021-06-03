@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年06月02日の名言**
+### **2021年06月03日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you don't have confidence, you'll always find a way not to win
+    Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Carl Lewis
+Brene Brown
 </p>
 
 ---
