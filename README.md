@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年06月03日の名言**
+### **2021年06月04日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.
+    Named must your fear be before banish it you can.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Brene Brown
+Yoda
 </p>
 
 ---
