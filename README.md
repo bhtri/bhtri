@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年06月04日の名言**
+### **2021年06月05日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Named must your fear be before banish it you can.
+    Winning is nice if you don't lose your integrity in the process.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Yoda
+Arnold Horshak
 </p>
 
 ---
