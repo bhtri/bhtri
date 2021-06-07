@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年06月06日の名言**
+### **2021年06月07日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Somewhere between the bottom of the climb and the summit is the answer to the mystery why we climb.
+    Keep on going and the chances are you will stumble on something, perhaps when you are least expecting it. I have never heard of anyone stumbling on something sitting down.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Greg Child
+Charles F. Kettering
 </p>
 
 ---
