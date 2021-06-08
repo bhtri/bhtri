@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年06月07日の名言**
+### **2021年06月08日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Keep on going and the chances are you will stumble on something, perhaps when you are least expecting it. I have never heard of anyone stumbling on something sitting down.
+    Sometimes you climb out of bed in the morning and you think, I'm not going to make it, but you laugh inside - remembering all the times you've felt that way.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Charles F. Kettering
+Charles Bukowski
 </p>
 
 ---
