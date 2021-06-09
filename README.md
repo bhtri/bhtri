@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年06月08日の名言**
+### **2021年06月09日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Sometimes you climb out of bed in the morning and you think, I'm not going to make it, but you laugh inside - remembering all the times you've felt that way.
+    Vision without action is daydream. Action without vision is nightmare..
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Charles Bukowski
+Japanese Proverb
 </p>
 
 ---
