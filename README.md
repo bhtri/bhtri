@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年06月12日の名言**
+### **2021年06月13日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    The tennis ball doesn't know how old I am. The ball doesn't know if I'm a man or a woman or if I come from a communist country or not. Sport has always broken down these barriers.
+    You must be the change you want to see in the world..
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Martina Navratilova
+M.K. Gandhi
 </p>
 
 ---
