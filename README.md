@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年06月13日の名言**
+### **2021年06月14日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    You must be the change you want to see in the world..
+    Do the best you can until you know better. Then when you know better, do better.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-M.K. Gandhi
+Maya Angelou
 </p>
 
 ---
