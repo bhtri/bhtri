@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年06月14日の名言**
+### **2021年06月15日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Do the best you can until you know better. Then when you know better, do better.
+    He who is not courageous enough to take risks will accomplish nothing in life.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Maya Angelou
+Mohamad Ali
 </p>
 
 ---
