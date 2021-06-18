@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年06月17日の名言**
+### **2021年06月18日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    From now on we live in a world where man has walked on the Moon. It's not a miracle; we just decided to go.
+    If we are not stretching, we are not growing. If we are not growing, we are probably not fulfilling our potential. The only person in this room that knows your potential is you.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Tom Hanks
+Kevin Turner 
 </p>
 
 ---
