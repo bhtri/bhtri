@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年06月19日の名言**
+### **2021年06月20日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    At that point where you have decided to upgrade from aspiration to expectation and have begun to visualize an outcome, something incredibly important has happened, you have committed to the process of change.
+    If you're changing the world, you're working on important things. You're excited to get up in the morning.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+Larry Page
 </p>
 
 ---
