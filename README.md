@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年06月20日の名言**
+### **2021年06月21日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you're changing the world, you're working on important things. You're excited to get up in the morning.
+    Winning isn't everything.. It's the only thing.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Larry Page
+Vincent van Gogh
 </p>
 
 ---
