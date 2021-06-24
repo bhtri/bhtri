@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年06月23日の名言**
+### **2021年06月24日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    You must be the change you want to see in the world..
+    Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-M.K. Gandhi
+Zaha Hadid
 </p>
 
 ---
