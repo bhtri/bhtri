@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年06月26日の名言**
+### **2021年06月27日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Logic will get you from A to B. Imagination will take you everywhere.
+    You gotta commit. You've gotta go out there and improvise and you've gotta be completely unafraid to die. You've got to be able to take a chance to die. And you have to die lots. You have to die all the time.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Albert Einstein
+Bill Murray
 </p>
 
 ---
