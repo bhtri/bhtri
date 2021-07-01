@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年06月30日の名言**
+### **2021年07月01日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Stop complaining. Start creating.
+    Vision without action is daydream. Action without vision is nightmare..
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Dale Patridge
+Japanese Proverb
 </p>
 
 ---
