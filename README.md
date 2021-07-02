@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年07月01日の名言**
+### **2021年07月02日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Vision without action is daydream. Action without vision is nightmare..
+    I keep asking myself these three questions.. What do you have? What do you want? What will you give up?
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Japanese Proverb
+Jack Ma
 </p>
 
 ---
