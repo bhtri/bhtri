@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年07月03日の名言**
+### **2021年07月04日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.
+    Logic will get you from A to B. Imagination will take you everywhere.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Brene Brown
+Albert Einstein
 </p>
 
 ---
