@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年07月05日の名言**
+### **2021年07月06日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Not every day is going to offer us a chance to save somebody's life, but every day offers us an opportunity to affect one.
+    The tennis ball doesn't know how old I am. The ball doesn't know if I'm a man or a woman or if I come from a communist country or not. Sport has always broken down these barriers.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Mark Bezos
+Martina Navratilova
 </p>
 
 ---
