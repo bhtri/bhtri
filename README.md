@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年07月08日の名言**
+### **2021年07月09日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Your fears, your critics, your heroes, your villains: They are fictions you perceive as reality. Choose to see through them. Choose to let them go.
+    One voice can change a room, and if one voice can change a room, then it can change a city, and if it can change a city, it can change a state, and if it change a state, it can change a nation, and if it can change a nation, it can change the world. Your voice can change the world.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Isaac Lidsky
+Barack Obama
 </p>
 
 ---
