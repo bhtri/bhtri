@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年07月10日の名言**
+### **2021年07月11日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Our words are buttressed by our deeds, and our deeds are inspired by our convictions.
+    There's such a thin line between winning and losing.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Theodore Hesburgh
+John R. Tunis
 </p>
 
 ---
