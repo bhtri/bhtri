@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年07月12日の名言**
+### **2021年07月13日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.
+    What is the one sentence summary of how you change the world? Always work hard on something uncomfortably exciting!
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Brene Brown
+Larry Page
 </p>
 
 ---
