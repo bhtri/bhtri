@@ -26,7 +26,12 @@ Lorii Myers
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bhtri/bhtri/main/profile-summary-card-output/dracula/0-profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/bhtri/bhtri/main/profile-summary-card-output/github/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/bhtri/bhtri/main/profile-summary-card-output/github/2-most-commit-language.svg" />
 </p>
 
 ![](https://komarev.com/ghpvc/?username=bhtri&color=6272A4&style=flat)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/bhtri/bhtri/output/github-contribution-grid-snake.svg)
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
