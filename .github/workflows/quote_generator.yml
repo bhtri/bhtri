@@ -10,18 +10,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Generate quote
-      uses: actions/checkout@v2
-      uses: actions/setup-node@v1
-      with:
-        node-version: 12.16.1
-      run: npm ci
-      run: npm run generate
-
-    - name: Update README.md
-      run: |
-        git config user.email "16353896+bhtri@users.noreply.github.com"
-        git config user.name "bhtri"
-        git add .
-        git commit -m "Updated README.md" || echo "No changes to commit"
-        git push
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 12.16.1
+      - run: npm ci
+      - name: Generate quote
+        run: npm run generate
+      - name: Update README.md
+        run: |
+          git config --global user.email "16353896+bhtri@users.noreply.github.com"
+          git config --global user.name "bhtri"
+          git add .
+          git commit -m "Updated README.md" || echo "No changes to commit"
+          git push
