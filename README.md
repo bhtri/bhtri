@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年07月13日の名言**
+### **2021年07月14日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    What is the one sentence summary of how you change the world? Always work hard on something uncomfortably exciting!
+    Keep a positive mind. Remember, a failed attempt doesn't make you a failure-giving up does.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Larry Page
+Lorii Myers
 </p>
 
 ---
