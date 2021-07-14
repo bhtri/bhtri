@@ -30,7 +30,9 @@
   <img src="https://raw.githubusercontent.com/bhtri/bhtri/main/profile-summary-card-output/github/2-most-commit-language.svg" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=bhtri&color=6272A4&style=flat)
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=bhtri&color=6272A4&style=flat" />
+</p>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/bhtri/bhtri/output/github-contribution-grid-snake.svg)
 
