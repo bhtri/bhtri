@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年07月14日の名言**
+### **2021年07月15日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Keep a positive mind. Remember, a failed attempt doesn't make you a failure-giving up does.
+    You gotta commit. You've gotta go out there and improvise and you've gotta be completely unafraid to die. You've got to be able to take a chance to die. And you have to die lots. You have to die all the time.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+Bill Murray
 </p>
 
 ---
@@ -30,7 +30,9 @@ Lorii Myers
   <img src="https://raw.githubusercontent.com/bhtri/bhtri/main/profile-summary-card-output/github/2-most-commit-language.svg" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=bhtri&color=6272A4&style=flat)
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=bhtri&color=6272A4&style=flat" />
+</p>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/bhtri/bhtri/output/github-contribution-grid-snake.svg)
 
