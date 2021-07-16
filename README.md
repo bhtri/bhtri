@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年07月15日の名言**
+### **2021年07月16日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    You gotta commit. You've gotta go out there and improvise and you've gotta be completely unafraid to die. You've got to be able to take a chance to die. And you have to die lots. You have to die all the time.
+    Don't use all-or-nothing thinking. Take each day as its own day, and don't worry about it if you mess up one day. The most important thing you can do is just get back up on the horse.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Bill Murray
+Henry Cloud
 </p>
 
 ---
