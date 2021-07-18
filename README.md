@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年07月17日の名言**
+### **2021年07月18日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.
+    It is easy to sit up and take notice, What is difficult is getting up and taking action.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Mark Twain
+Honore de Balzac
 </p>
 
 ---
