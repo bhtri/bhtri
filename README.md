@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年07月18日の名言**
+### **2021年07月19日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    It is easy to sit up and take notice, What is difficult is getting up and taking action.
+    The free soul is rare, but you know it when you see it - basically because you feel good, very good, when you are near or with them.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Honore de Balzac
+Charles Bukowski
 </p>
 
 ---
