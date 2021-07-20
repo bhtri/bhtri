@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年07月19日の名言**
+### **2021年07月20日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    The free soul is rare, but you know it when you see it - basically because you feel good, very good, when you are near or with them.
+    It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Charles Bukowski
+Dale Carnegie
 </p>
 
 ---
