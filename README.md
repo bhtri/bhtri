@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年07月20日の名言**
+### **2021年07月21日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.
+    Keep on going and the chances are you will stumble on something, perhaps when you are least expecting it. I have never heard of anyone stumbling on something sitting down.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Dale Carnegie
+Charles F. Kettering
 </p>
 
 ---
