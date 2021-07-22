@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年07月21日の名言**
+### **2021年07月22日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Keep on going and the chances are you will stumble on something, perhaps when you are least expecting it. I have never heard of anyone stumbling on something sitting down.
+    People who are crazy enough to think they can change the world, are the ones who do.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Charles F. Kettering
+Apple Computers
 </p>
 
 ---
