@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年07月23日の名言**
+### **2021年07月24日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you want to test your memory, try to recall what you were worrying about one year ago today.
+    Successful people appear to be traveling along one continual, successful road. What is not apparent is the perseverance it takes following each defeat to keep you on that road. No one I know of has ever experienced one success after another without defeats, failures, disappointments, and frustrations galore along the way. Learning to overcome those times of agony is what separates the winners from the losers.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-E. Joseph Cossman
+G. Kingsley Ward
 </p>
 
 ---
