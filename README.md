@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年07月25日の名言**
+### **2021年07月26日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Winning isn't everything.. It's the only thing.
+    Luck is a dividend of sweat. The more you sweat, the luckier you get
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Vincent van Gogh
+Ray Kroc
 </p>
 
 ---
