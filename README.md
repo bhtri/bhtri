@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年07月28日の名言**
+### **2021年07月29日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    When you win, say nothing. When you lose, say less.
+    Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Paul Brown
+Brene Brown
 </p>
 
 ---
