@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年07月30日の名言**
+### **2021年07月31日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    I always advice people - Don't wait ! Do something when you are young, when you have no responsibilities. Invest time in yourself to have great Experiences that are going to enrich you, then you can't possibly lose.
+    Time to improve is limited. The clock is always on and doesn't care if you don't feel like it. Someone else does and they're passing you by.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Steve Jobs
+William James Moore
 </p>
 
 ---
