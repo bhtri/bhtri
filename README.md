@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年08月03日の名言**
+### **2021年08月04日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Sustenance! Your health is always the best prescription.
+    If you want to make your dreams come true, the first thing you have to do is wake up.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+J.M. Power
 </p>
 
 ---
