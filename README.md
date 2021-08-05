@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年08月04日の名言**
+### **2021年08月05日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you want to make your dreams come true, the first thing you have to do is wake up.
+    If you respect yourself in stressful situations, it will help you see the positive… It will help you see the message in the mess.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-J.M. Power
+Steve Maraboli
 </p>
 
 ---
