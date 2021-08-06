@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年08月05日の名言**
+### **2021年08月06日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you respect yourself in stressful situations, it will help you see the positive… It will help you see the message in the mess.
+    When there is no distraction, there is clarity.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Steve Maraboli
+Lorii Myers
 </p>
 
 ---
