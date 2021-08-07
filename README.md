@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年08月06日の名言**
+### **2021年08月07日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    When there is no distraction, there is clarity.
+    The last time doesn't exist. It's only this time. And everything is going to be different this time. There's only now.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+Bill Murray
 </p>
 
 ---
