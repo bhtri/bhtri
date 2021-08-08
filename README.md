@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年08月07日の名言**
+### **2021年08月08日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    The last time doesn't exist. It's only this time. And everything is going to be different this time. There's only now.
+    Vision without action is daydream. Action without vision is nightmare..
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Bill Murray
+Japanese Proverb
 </p>
 
 ---
