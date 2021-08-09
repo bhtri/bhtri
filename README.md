@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年08月08日の名言**
+### **2021年08月09日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Vision without action is daydream. Action without vision is nightmare..
+    Whether you think you can or think you can't, you're right..
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Japanese Proverb
+Henry Ford
 </p>
 
 ---
