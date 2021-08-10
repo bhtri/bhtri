@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年08月09日の名言**
+### **2021年08月10日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Whether you think you can or think you can't, you're right..
+    The human mind and body are truly extraordinary. They are the quintessence of excellence in motion. We talk, touch, see, hear, taste, smell, and feel. We dream, aspire, and become. All that we are is mind and body and spirit-that is our universe.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Henry Ford
+Lorii Myers
 </p>
 
 ---
