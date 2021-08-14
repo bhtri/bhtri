@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年08月13日の名言**
+### **2021年08月14日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Stress is like a pulse, if you have it you are alive.
+    In spite of everything I shall rise again: I will take up my pencil, which I have forsaken in my great discouragement, and I will go on with my drawing.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Steve Maraboli
+Vincent Van Gogh
 </p>
 
 ---
