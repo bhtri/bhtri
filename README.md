@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年08月14日の名言**
+### **2021年08月15日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    In spite of everything I shall rise again: I will take up my pencil, which I have forsaken in my great discouragement, and I will go on with my drawing.
+    Feeling grateful to or appreciative of someone or something in your life actually attracts more of the things that you appreciate and value into your life.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Vincent Van Gogh
+Christiane Northrup
 </p>
 
 ---
