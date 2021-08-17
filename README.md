@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年08月16日の名言**
+### **2021年08月17日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    When I was a little kid, I was really scared of the dark. But then I came to understand, dark just means the absence of photons in the visible wavelength 400 to 700 nanometers. Then I thought, well it's really silly to be afraid of a lack of photons. Then I wasn't afraid of the dark anymore after that.
+    You will never win if you never begin.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Elon Musk
+Helen Rowland
 </p>
 
 ---
