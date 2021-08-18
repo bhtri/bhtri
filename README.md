@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年08月17日の名言**
+### **2021年08月18日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    You will never win if you never begin.
+    It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Helen Rowland
+Dale Carnegie
 </p>
 
 ---
