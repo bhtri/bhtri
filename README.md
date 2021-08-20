@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年08月19日の名言**
+### **2021年08月20日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    When you recover or discover something that nourishes your soul and brings joy, care enough about yourself to make room for it in your life.
+    Persistence is very important. You should not give up unless you are forced to give up.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Jean Shinoda Bolen
+Elon Musk
 </p>
 
 ---
