@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年08月20日の名言**
+### **2021年08月21日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Persistence is very important. You should not give up unless you are forced to give up.
+    Climb the mountains and get their good tidings. Nature's peace will flow into you as sunshine flows into trees. The winds will blow their own freshness into you, and the storms their energy, while cares will drop away from you like the leaves of Autumn.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Elon Musk
+John Muir
 </p>
 
 ---
