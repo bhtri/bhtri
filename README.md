@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年08月21日の名言**
+### **2021年08月22日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Climb the mountains and get their good tidings. Nature's peace will flow into you as sunshine flows into trees. The winds will blow their own freshness into you, and the storms their energy, while cares will drop away from you like the leaves of Autumn.
+    You should never view your challenges as a disadvantage. Instead, it's important for you to understand that your experience facing and overcoming adversity is actually one of your biggest advantages.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John Muir
+Michelle Obama
 </p>
 
 ---
