@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年08月23日の名言**
+### **2021年08月24日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you don't have confidence, you'll always find a way not to win
+    Somewhere between the bottom of the climb and the summit is the answer to the mystery why we climb.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Carl Lewis
+Greg Child
 </p>
 
 ---
