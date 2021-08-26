@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年08月25日の名言**
+### **2021年08月26日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Your life does not get better by chance. It gets better by change.
+    The real opportunity for success lies within the person and not in the job.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Jim Rohn
+Zig Ziglar
 </p>
 
 ---
