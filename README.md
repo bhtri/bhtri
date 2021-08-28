@@ -12,11 +12,11 @@
 ###
 
 ---
-### **2021年08月27日の名言**
+### **2021年08月28日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.
+    We don't have to do all of it alone. We were never meant to.
   </q>
 </p>
 
