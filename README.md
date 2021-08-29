@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年08月28日の名言**
+### **2021年08月29日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    We don't have to do all of it alone. We were never meant to.
+    A show of confidence raises the bar
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Brene Brown
+Lorii Myers
 </p>
 
 ---
