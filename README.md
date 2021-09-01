@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年08月31日の名言**
+### **2021年09月01日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    If I work as hard as I can, I wonder how much I can do in a day?
+    You gotta commit. You've gotta go out there and improvise and you've gotta be completely unafraid to die. You've got to be able to take a chance to die. And you have to die lots. You have to die all the time.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ezra Taft Benson
+Bill Murray
 </p>
 
 ---
