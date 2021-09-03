@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年09月02日の名言**
+### **2021年09月03日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    At that point where you have decided to upgrade from aspiration to expectation and have begun to visualize an outcome, something incredibly important has happened, you have committed to the process of change.
+    When you win, say nothing. When you lose, say less.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+Paul Brown
 </p>
 
 ---
