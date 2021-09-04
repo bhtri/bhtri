@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年09月03日の名言**
+### **2021年09月04日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    When you win, say nothing. When you lose, say less.
+    Vision without action is daydream. Action without vision is nightmare..
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Paul Brown
+Japanese Proverb
 </p>
 
 ---
