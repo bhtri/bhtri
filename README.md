@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年09月05日の名言**
+### **2021年09月06日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    It is easy to sit up and take notice, What is difficult is getting up and taking action.
+    There's such a thin line between winning and losing.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Honore de Balzac
+John R. Tunis
 </p>
 
 ---
