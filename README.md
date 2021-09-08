@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年09月07日の名言**
+### **2021年09月08日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Some men see things as they are and say why.. I dream things that never were and say why not.
+    I keep asking myself these three questions.. What do you have? What do you want? What will you give up?
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-George Bernard Shaw
+Jack Ma
 </p>
 
 ---
