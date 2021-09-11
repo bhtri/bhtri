@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年09月10日の名言**
+### **2021年09月11日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Effort only fully releases its reward after a person refuses to quit.
+    At that point where you have decided to upgrade from aspiration to expectation and have begun to visualize an outcome, something incredibly important has happened, you have committed to the process of change.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Napoleon Hill
+Lorii Myers
 </p>
 
 ---
