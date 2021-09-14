@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年09月13日の名言**
+### **2021年09月14日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Sustenance! Your health is always the best prescription.
+    The real opportunity for success lies within the person and not in the job.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+Zig Ziglar
 </p>
 
 ---
