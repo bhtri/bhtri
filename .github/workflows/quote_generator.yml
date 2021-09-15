@@ -27,6 +27,7 @@ jobs:
         git config user.name "bhtri"
         git add .
         git commit -m "Updated README.md" || echo "No changes to commit"
+        git pull --rebase
         git push
 
     - name: Generate Profile Summary Cards
