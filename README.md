@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年09月14日の名言**
+### **2021年09月15日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    The real opportunity for success lies within the person and not in the job.
+    Stress is like a pulse, if you have it you are alive.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Zig Ziglar
+Steve Maraboli
 </p>
 
 ---
