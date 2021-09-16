@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年09月15日の名言**
+### **2021年09月16日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Stress is like a pulse, if you have it you are alive.
+    Vision without action is daydream. Action without vision is nightmare..
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Steve Maraboli
+Japanese Proverb
 </p>
 
 ---
