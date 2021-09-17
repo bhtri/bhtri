@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年09月16日の名言**
+### **2021年09月17日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Vision without action is daydream. Action without vision is nightmare..
+    If you don't have confidence, you'll always find a way not to win
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Japanese Proverb
+Carl Lewis
 </p>
 
 ---
