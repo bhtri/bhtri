@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年09月17日の名言**
+### **2021年09月18日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you don't have confidence, you'll always find a way not to win
+    If you want to test your memory, try to recall what you were worrying about one year ago today.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Carl Lewis
+E. Joseph Cossman
 </p>
 
 ---
