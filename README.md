@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年09月18日の名言**
+### **2021年09月19日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you want to test your memory, try to recall what you were worrying about one year ago today.
+    Do the best you can until you know better. Then when you know better, do better.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-E. Joseph Cossman
+Maya Angelou
 </p>
 
 ---
