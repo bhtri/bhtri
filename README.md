@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年09月19日の名言**
+### **2021年09月20日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Do the best you can until you know better. Then when you know better, do better.
+    Effort only fully releases its reward after a person refuses to quit.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Maya Angelou
+Napoleon Hill
 </p>
 
 ---
