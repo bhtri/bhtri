@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年09月20日の名言**
+### **2021年09月21日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Effort only fully releases its reward after a person refuses to quit.
+    When you recover or discover something that nourishes your soul and brings joy, care enough about yourself to make room for it in your life.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Napoleon Hill
+Jean Shinoda Bolen
 </p>
 
 ---
