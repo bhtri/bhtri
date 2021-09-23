@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年09月22日の名言**
+### **2021年09月23日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Winning is nice if you don't lose your integrity in the process.
+    Meaning is something you build into your life. You build it out of your own past, out of your affections and loyalties, out of the experience of humankind as it is passed on to you... You are the only one who can put them together into that unique pattern that will be your life.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Arnold Horshak
+John Gardner
 </p>
 
 ---
