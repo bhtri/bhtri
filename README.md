@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年09月25日の名言**
+### **2021年09月26日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    There's such a thin line between winning and losing.
+    Stop complaining. Start creating.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John R. Tunis
+Dale Patridge
 </p>
 
 ---
