@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年09月28日の名言**
+### **2021年09月29日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Don't be tempted to break momentum-work through it.
+    Keep on going and the chances are you will stumble on something, perhaps when you are least expecting it. I have never heard of anyone stumbling on something sitting down.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+Charles F. Kettering
 </p>
 
 ---
