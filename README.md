@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年09月29日の名言**
+### **2021年09月30日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Keep on going and the chances are you will stumble on something, perhaps when you are least expecting it. I have never heard of anyone stumbling on something sitting down.
+    If you're changing the world, you're working on important things. You're excited to get up in the morning.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Charles F. Kettering
+Larry Page
 </p>
 
 ---
