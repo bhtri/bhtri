@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年10月03日の名言**
+### **2021年10月04日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Named must your fear be before banish it you can.
+    It wasn't raining when Noah built the ark..
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Yoda
+Howard Ruff
 </p>
 
 ---
