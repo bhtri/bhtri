@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年10月04日の名言**
+### **2021年10月05日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    It wasn't raining when Noah built the ark..
+    Remember that you are very special, no one can play your role better than you.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Howard Ruff
+Damayanti Patra
 </p>
 
 ---
