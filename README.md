@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年10月07日の名言**
+### **2021年10月08日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Meaning is something you build into your life. You build it out of your own past, out of your affections and loyalties, out of the experience of humankind as it is passed on to you... You are the only one who can put them together into that unique pattern that will be your life.
+    Keep on going and the chances are you will stumble on something, perhaps when you are least expecting it. I have never heard of anyone stumbling on something sitting down.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John Gardner
+Charles F. Kettering
 </p>
 
 ---
