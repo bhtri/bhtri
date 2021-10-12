@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年10月11日の名言**
+### **2021年10月12日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Remember that you are very special, no one can play your role better than you.
+    If you don't have confidence, you'll always find a way not to win
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Damayanti Patra
+Carl Lewis
 </p>
 
 ---
