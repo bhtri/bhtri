@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年10月13日の名言**
+### **2021年10月14日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    A show of confidence raises the bar
+    When you recover or discover something that nourishes your soul and brings joy, care enough about yourself to make room for it in your life.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+Jean Shinoda Bolen
 </p>
 
 ---
