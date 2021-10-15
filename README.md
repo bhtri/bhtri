@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年10月14日の名言**
+### **2021年10月15日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    When you recover or discover something that nourishes your soul and brings joy, care enough about yourself to make room for it in your life.
+    The real opportunity for success lies within the person and not in the job.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Jean Shinoda Bolen
+Zig Ziglar
 </p>
 
 ---
