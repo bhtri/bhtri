@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年10月17日の名言**
+### **2021年10月18日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Logic will get you from A to B. Imagination will take you everywhere.
+    Stop creating a life that you need a vacation from. Instead move to where you want to live, do what you want to do, start what you want to start and create the life you want today. This isn't rehearsal people. This is YOUR life.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Albert Einstein
+Dale Patridge
 </p>
 
 ---
