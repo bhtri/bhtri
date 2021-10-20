@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年10月19日の名言**
+### **2021年10月20日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Somewhere between the bottom of the climb and the summit is the answer to the mystery why we climb.
+    Your life does not get better by chance. It gets better by change.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Greg Child
+Jim Rohn
 </p>
 
 ---
