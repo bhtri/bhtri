@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年10月24日の名言**
+### **2021年10月25日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Climb the mountains and get their good tidings. Nature's peace will flow into you as sunshine flows into trees. The winds will blow their own freshness into you, and the storms their energy, while cares will drop away from you like the leaves of Autumn.
+    The tennis ball doesn't know how old I am. The ball doesn't know if I'm a man or a woman or if I come from a communist country or not. Sport has always broken down these barriers.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John Muir
+Martina Navratilova
 </p>
 
 ---
