@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年10月26日の名言**
+### **2021年10月27日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you have dreams it is your responsibility to make them happen.
+    Stress is like a pulse, if you have it you are alive.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Bel Pesce
+Steve Maraboli
 </p>
 
 ---
