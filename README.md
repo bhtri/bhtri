@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年10月27日の名言**
+### **2021年10月28日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Stress is like a pulse, if you have it you are alive.
+    You defeated me But you won't defeat me again Because you have grown all you can grow.. But I am still growing (about Mount Everest).
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Steve Maraboli
+Edmund Hillary
 </p>
 
 ---
