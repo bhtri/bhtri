@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年10月28日の名言**
+### **2021年10月29日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    You defeated me But you won't defeat me again Because you have grown all you can grow.. But I am still growing (about Mount Everest).
+    All courses of action are risky, so prudence is not in avoiding danger (it's impossible), but calculating risk and acting decisively. Make mistakes of ambition and not mistakes of sloth. Develop the strength to do bold things, not the strength to suffer.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Edmund Hillary
+Niccolo Machiavelli
 </p>
 
 ---
