@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年11月01日の名言**
+### **2021年11月02日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    You know what it's like to wake up in the middle of the night with a vivid dream? And you know that if you don't have a pencil and pad by the bed, it will be completely gone by the next morning. Sometimes it's important to wake up and stop dreaming. When a really great dream shows up, grab it.
+    The man who removes a mountain begins by carrying away small stones..
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Larry Page
+Chinese Proverb
 </p>
 
 ---
