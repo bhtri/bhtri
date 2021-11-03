@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年11月02日の名言**
+### **2021年11月03日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    The man who removes a mountain begins by carrying away small stones..
+    When you win, say nothing. When you lose, say less.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Chinese Proverb
+Paul Brown
 </p>
 
 ---
