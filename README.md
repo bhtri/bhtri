@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年11月03日の名言**
+### **2021年11月04日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    When you win, say nothing. When you lose, say less.
+    You gotta commit. You've gotta go out there and improvise and you've gotta be completely unafraid to die. You've got to be able to take a chance to die. And you have to die lots. You have to die all the time.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Paul Brown
+Bill Murray
 </p>
 
 ---
