@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年11月05日の名言**
+### **2021年11月06日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    You will never win if you never begin.
+    Win any way as long as you can get away with it. Nice guys finish last.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Helen Rowland
+Leo Durocher
 </p>
 
 ---
