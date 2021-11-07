@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年11月06日の名言**
+### **2021年11月07日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Win any way as long as you can get away with it. Nice guys finish last.
+    The things you learn in maturity aren't simple things such as acquiring information and skills. You learn not to engage in self-destructive behavior. You learn not to burn up energy in anxiety. You discover how to manage your tensions. You learn that self-pity and resentment are among the most toxic of drugs. You find that the world loves talent but pays off on character.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Leo Durocher
+John Gardner
 </p>
 
 ---
