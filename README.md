@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年11月11日の名言**
+### **2021年11月12日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you're not making mistakes, you're not taking risks, and that means you're not going anywhere. The key is to make mistakes faster than the competition, so you have more changes to learn and win.
+    It wasn't raining when Noah built the ark..
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John W. Holt, Jr.
+Howard Ruff
 </p>
 
 ---
