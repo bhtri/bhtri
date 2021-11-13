@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年11月12日の名言**
+### **2021年11月13日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    It wasn't raining when Noah built the ark..
+    Winning is nice if you don't lose your integrity in the process.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Howard Ruff
+Arnold Horshak
 </p>
 
 ---
