@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年11月14日の名言**
+### **2021年11月15日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Stress is like a pulse, if you have it you are alive.
+    Winning isn't everything.. It's the only thing.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Steve Maraboli
+Vincent van Gogh
 </p>
 
 ---
