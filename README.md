@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年11月15日の名言**
+### **2021年11月16日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Winning isn't everything.. It's the only thing.
+    People who are crazy enough to think they can change the world, are the ones who do.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Vincent van Gogh
+Apple Computers
 </p>
 
 ---
