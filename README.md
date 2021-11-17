@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年11月16日の名言**
+### **2021年11月17日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    People who are crazy enough to think they can change the world, are the ones who do.
+    If you want to test your memory, try to recall what you were worrying about one year ago today.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Apple Computers
+E. Joseph Cossman
 </p>
 
 ---
