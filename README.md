@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年11月17日の名言**
+### **2021年11月18日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you want to test your memory, try to recall what you were worrying about one year ago today.
+    What is the one sentence summary of how you change the world? Always work hard on something uncomfortably exciting!
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-E. Joseph Cossman
+Larry Page
 </p>
 
 ---
