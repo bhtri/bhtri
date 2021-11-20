@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年11月19日の名言**
+### **2021年11月20日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    You gotta commit. You've gotta go out there and improvise and you've gotta be completely unafraid to die. You've got to be able to take a chance to die. And you have to die lots. You have to die all the time.
+    Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Bill Murray
+Brene Brown
 </p>
 
 ---
