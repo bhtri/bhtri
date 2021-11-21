@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年11月20日の名言**
+### **2021年11月21日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.
+    Vision without action is daydream. Action without vision is nightmare..
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Brene Brown
+Japanese Proverb
 </p>
 
 ---
