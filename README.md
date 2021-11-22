@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年11月21日の名言**
+### **2021年11月22日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Vision without action is daydream. Action without vision is nightmare..
+    From now on we live in a world where man has walked on the Moon. It's not a miracle; we just decided to go.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Japanese Proverb
+Tom Hanks
 </p>
 
 ---
