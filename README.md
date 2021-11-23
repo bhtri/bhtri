@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年11月22日の名言**
+### **2021年11月23日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    From now on we live in a world where man has walked on the Moon. It's not a miracle; we just decided to go.
+    We don't have to do all of it alone. We were never meant to.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Tom Hanks
+Brene Brown
 </p>
 
 ---
