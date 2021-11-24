@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年11月23日の名言**
+### **2021年11月24日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    We don't have to do all of it alone. We were never meant to.
+    If we ever stop thinking about the person we want to become, we stop learning and taking risks.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Brene Brown
+Sally Blount
 </p>
 
 ---
