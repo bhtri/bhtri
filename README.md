@@ -12,11 +12,11 @@
 ###
 
 ---
-### **2021年11月28日の名言**
+### **2021年11月29日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    At that point where you have decided to upgrade from aspiration to expectation and have begun to visualize an outcome, something incredibly important has happened, you have committed to the process of change.
+    Don't be tempted to break momentum-work through it.
   </q>
 </p>
 
