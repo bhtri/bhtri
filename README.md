@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年11月29日の名言**
+### **2021年11月30日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Don't be tempted to break momentum-work through it.
+    Luck is a dividend of sweat. The more you sweat, the luckier you get
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+Ray Kroc
 </p>
 
 ---
