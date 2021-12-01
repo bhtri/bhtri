@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年11月30日の名言**
+### **2021年12月01日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Luck is a dividend of sweat. The more you sweat, the luckier you get
+    A man who has no imagination has no wings.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ray Kroc
+Mohamad Ali
 </p>
 
 ---
