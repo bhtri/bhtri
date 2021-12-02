@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年12月01日の名言**
+### **2021年12月02日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    A man who has no imagination has no wings.
+    Winning is nice if you don't lose your integrity in the process.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Mohamad Ali
+Arnold Horshak
 </p>
 
 ---
