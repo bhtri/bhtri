@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年12月02日の名言**
+### **2021年12月03日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Winning is nice if you don't lose your integrity in the process.
+    Limitations are like mirages created by your own mind. When you realise that limitation do not exist, those around you will also feel it and allow you inside their space.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Arnold Horshak
+Stephen Richards
 </p>
 
 ---
