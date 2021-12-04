@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年12月03日の名言**
+### **2021年12月04日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Limitations are like mirages created by your own mind. When you realise that limitation do not exist, those around you will also feel it and allow you inside their space.
+    Perfection is not attainable, but if we chase perfection we can catch excellence..
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Stephen Richards
+Vince Lombardi
 </p>
 
 ---
