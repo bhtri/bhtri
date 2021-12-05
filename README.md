@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年12月04日の名言**
+### **2021年12月05日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Perfection is not attainable, but if we chase perfection we can catch excellence..
+    People who are crazy enough to think they can change the world, are the ones who do.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Vince Lombardi
+Apple Computers
 </p>
 
 ---
