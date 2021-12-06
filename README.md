@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年12月05日の名言**
+### **2021年12月06日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    People who are crazy enough to think they can change the world, are the ones who do.
+    I keep asking myself these three questions.. What do you have? What do you want? What will you give up?
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Apple Computers
+Jack Ma
 </p>
 
 ---
