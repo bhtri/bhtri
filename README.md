@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年12月06日の名言**
+### **2021年12月07日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    I keep asking myself these three questions.. What do you have? What do you want? What will you give up?
+    It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Jack Ma
+Dale Carnegie
 </p>
 
 ---
