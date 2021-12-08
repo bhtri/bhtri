@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年12月07日の名言**
+### **2021年12月08日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.
+    If you want to make your dreams come true, the first thing you have to do is wake up.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Dale Carnegie
+J.M. Power
 </p>
 
 ---
