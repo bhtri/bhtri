@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年12月08日の名言**
+### **2021年12月09日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you want to make your dreams come true, the first thing you have to do is wake up.
+    You gotta commit. You've gotta go out there and improvise and you've gotta be completely unafraid to die. You've got to be able to take a chance to die. And you have to die lots. You have to die all the time.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-J.M. Power
+Bill Murray
 </p>
 
 ---
