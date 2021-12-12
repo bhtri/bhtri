@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年12月11日の名言**
+### **2021年12月12日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    A show of confidence raises the bar
+    If you don't have confidence, you'll always find a way not to win
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+Carl Lewis
 </p>
 
 ---
