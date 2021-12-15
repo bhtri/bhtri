@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年12月14日の名言**
+### **2021年12月15日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Successful people appear to be traveling along one continual, successful road. What is not apparent is the perseverance it takes following each defeat to keep you on that road. No one I know of has ever experienced one success after another without defeats, failures, disappointments, and frustrations galore along the way. Learning to overcome those times of agony is what separates the winners from the losers.
+    Vision without action is daydream. Action without vision is nightmare..
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-G. Kingsley Ward
+Japanese Proverb
 </p>
 
 ---
