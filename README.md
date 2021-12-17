@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年12月16日の名言**
+### **2021年12月17日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    He who is not courageous enough to take risks will accomplish nothing in life.
+    Extend beyond your preconceived limits!
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Mohamad Ali
+Lorii Myers
 </p>
 
 ---
