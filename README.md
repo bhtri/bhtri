@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年12月17日の名言**
+### **2021年12月18日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Extend beyond your preconceived limits!
+    The tennis ball doesn't know how old I am. The ball doesn't know if I'm a man or a woman or if I come from a communist country or not. Sport has always broken down these barriers.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+Martina Navratilova
 </p>
 
 ---
