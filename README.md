@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年12月19日の名言**
+### **2021年12月20日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    We don't have to do all of it alone. We were never meant to.
+    Winning is nice if you don't lose your integrity in the process.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Brene Brown
+Arnold Horshak
 </p>
 
 ---
