@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年12月20日の名言**
+### **2021年12月21日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Winning is nice if you don't lose your integrity in the process.
+    If you have dreams it is your responsibility to make them happen.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Arnold Horshak
+Bel Pesce
 </p>
 
 ---
