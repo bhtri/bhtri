@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年12月21日の名言**
+### **2021年12月22日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you have dreams it is your responsibility to make them happen.
+    The journey of a thousand miles begins with one step.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Bel Pesce
+Lao Tzu
 </p>
 
 ---
