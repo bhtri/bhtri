@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年12月22日の名言**
+### **2021年12月23日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    The journey of a thousand miles begins with one step.
+    A quitter never wins and a winner never quits
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lao Tzu
+Napoleon Hill
 </p>
 
 ---
