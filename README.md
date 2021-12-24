@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年12月23日の名言**
+### **2021年12月24日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    A quitter never wins and a winner never quits
+    Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Napoleon Hill
+Brene Brown
 </p>
 
 ---
