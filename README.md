@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年12月27日の名言**
+### **2021年12月28日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Stop complaining. Start creating.
+    Our words are buttressed by our deeds, and our deeds are inspired by our convictions.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Dale Patridge
+Theodore Hesburgh
 </p>
 
 ---
