@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年12月28日の名言**
+### **2021年12月29日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Our words are buttressed by our deeds, and our deeds are inspired by our convictions.
+    Named must your fear be before banish it you can.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Theodore Hesburgh
+Yoda
 </p>
 
 ---
