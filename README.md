@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年12月29日の名言**
+### **2021年12月30日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Named must your fear be before banish it you can.
+    When you win, say nothing. When you lose, say less.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Yoda
+Paul Brown
 </p>
 
 ---
