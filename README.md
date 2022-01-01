@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2021年12月31日の名言**
+### **2022年01月01日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    If I work as hard as I can, I wonder how much I can do in a day?
+    You are very powerful, provided you know how powerful you are.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ezra Taft Benson
+Yogi Bhajan
 </p>
 
 ---
