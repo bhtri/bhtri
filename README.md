@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年01月01日の名言**
+### **2022年01月02日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    You are very powerful, provided you know how powerful you are.
+    Keep on going and the chances are you will stumble on something, perhaps when you are least expecting it. I have never heard of anyone stumbling on something sitting down.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Yogi Bhajan
+Charles F. Kettering
 </p>
 
 ---
