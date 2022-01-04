@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年01月03日の名言**
+### **2022年01月04日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you're changing the world, you're working on important things. You're excited to get up in the morning.
+    It wasn't raining when Noah built the ark..
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Larry Page
+Howard Ruff
 </p>
 
 ---
