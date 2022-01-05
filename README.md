@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年01月04日の名言**
+### **2022年01月05日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    It wasn't raining when Noah built the ark..
+    You will never win if you never begin.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Howard Ruff
+Helen Rowland
 </p>
 
 ---
