@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年01月08日の名言**
+### **2022年01月09日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.
+    An aspirational diet will have you dreaming of success; but it's the attachment of expectations and tangible goals that feeds the desire, persistence, and fortitude required to make the win.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Dale Carnegie
+Lorii Myers
 </p>
 
 ---
