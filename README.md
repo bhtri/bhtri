@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年01月10日の名言**
+### **2022年01月11日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Not every day is going to offer us a chance to save somebody's life, but every day offers us an opportunity to affect one.
+    The free soul is rare, but you know it when you see it - basically because you feel good, very good, when you are near or with them.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Mark Bezos
+Charles Bukowski
 </p>
 
 ---
