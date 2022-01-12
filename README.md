@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年01月11日の名言**
+### **{%TITLE%}**
 
 <p align="center" style="font-size:20px">
   <q>
-    The free soul is rare, but you know it when you see it - basically because you feel good, very good, when you are near or with them.
+    {%QUOTE%}
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Charles Bukowski
+{%AUTHOR%}
 </p>
 
 ---
