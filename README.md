@@ -1,8 +1,8 @@
 ### Hi there, I'm `<wdvqmj7377 />`! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="22px">
 
 ## I'm a Developer, and .... 🤔!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to the community, and do more Open Source projects.
+- 🌱 I’m currently learning Flutter
+- 🥅 2022 Goals: Contribute more to flutter community, and do more ...
 - ⚡ Fun fact: I love nature and love climbing.
 ### **Languages and Tools**
 <img width="35px" height="35px" src="https://img.icons8.com/color/48/000000/vb.png"/> <img width="35px" height="35px" src="https://img.icons8.com/color/48/000000/sql.png"/> <img width="35px" height="35px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img width="35px" height="35px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> <img width="35px" height="35px" src="https://img.icons8.com/color/48/000000/swift.png"/> <img width="35px" height="35px" src="https://img.icons8.com/color/48/000000/flutter.png"/> <img width="35px" height="35px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
@@ -12,16 +12,16 @@
 ###
 
 ---
-### **{%TITLE%}**
+### **2022年01月14日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    {%QUOTE%}
+    What you do speaks so loudly that I cannot hear what you say.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-{%AUTHOR%}
+Ralph Waldo Emerson
 </p>
 
 ---
