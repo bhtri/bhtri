@@ -7,9 +7,14 @@ fs.writeFileSync("README.md", template);
 
 const readme = fs.readFileSync(`${__dirname}/README.md`, "utf-8");
 
+// https://stackoverflow.com/a/62212128/6284714
+const agent = new https.Agent({
+    rejectUnauthorized: false
+});
+
 const getQuote = async () => {
   try {
-    const { data } = await axios.get("https://quotes.rest/qod?language=en");
+    const { data } = await axios.get("https://quotes.rest/qod?language=en", { httpsAgent: agent });
     const quote = data.contents.quotes[0].quote;
     const author = data.contents.quotes[0].author;
 
