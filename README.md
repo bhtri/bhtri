@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年01月14日の名言**
+### **2022年01月15日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    What you do speaks so loudly that I cannot hear what you say.
+    Many of life's failures are experienced by people who did not realize how close they were to success when they gave up.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ralph Waldo Emerson
+Thomas Edison
 </p>
 
 ---
