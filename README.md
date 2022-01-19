@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年01月18日の名言**
+### **2022年01月19日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Hang Out with People Who are Better than You.
+    Time to improve is limited. The clock is always on and doesn't care if you don't feel like it. Someone else does and they're passing you by.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Warren Buffett
+William James Moore
 </p>
 
 ---
