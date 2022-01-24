@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年01月23日の名言**
+### **2022年01月24日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    The last time doesn't exist. It's only this time. And everything is going to be different this time. There's only now.
+    Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Bill Murray
+Brene Brown
 </p>
 
 ---
