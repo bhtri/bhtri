@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年01月24日の名言**
+### **{%TITLE%}**
 
 <p align="center" style="font-size:20px">
   <q>
-    Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.
+    {%QUOTE%}
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Brene Brown
+{%AUTHOR%}
 </p>
 
 ---
