@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年01月27日の名言**
+### **2022年01月28日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Somewhere between the bottom of the climb and the summit is the answer to the mystery why we climb.
+    Some men see things as they are and say why.. I dream things that never were and say why not.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Greg Child
+George Bernard Shaw
 </p>
 
 ---
