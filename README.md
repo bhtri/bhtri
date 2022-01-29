@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年01月28日の名言**
+### **2022年01月29日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Some men see things as they are and say why.. I dream things that never were and say why not.
+    People rise to the occasion without hesitation when they feel inspired and challenged.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-George Bernard Shaw
+Lorii Myers
 </p>
 
 ---
