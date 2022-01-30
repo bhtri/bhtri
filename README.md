@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年01月29日の名言**
+### **2022年01月30日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    People rise to the occasion without hesitation when they feel inspired and challenged.
+    When you win, say nothing. When you lose, say less.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+Paul Brown
 </p>
 
 ---
