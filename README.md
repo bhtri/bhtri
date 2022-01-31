@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年01月30日の名言**
+### **2022年01月31日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    When you win, say nothing. When you lose, say less.
+    I am an optimist. It does not seem too much use being anything else..
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Paul Brown
+Winston Churchill
 </p>
 
 ---
