@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年01月31日の名言**
+### **2022年02月01日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    I am an optimist. It does not seem too much use being anything else..
+    The man who has confidence in himself gains the confidence of others.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Winston Churchill
+Hasidic Proverb
 </p>
 
 ---
