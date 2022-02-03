@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年02月02日の名言**
+### **2022年02月03日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    When you recover or discover something that nourishes your soul and brings joy, care enough about yourself to make room for it in your life.
+    Luck is a dividend of sweat. The more you sweat, the luckier you get
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Jean Shinoda Bolen
+Ray Kroc
 </p>
 
 ---
