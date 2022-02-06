@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年02月05日の名言**
+### **2022年02月06日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Extend beyond your preconceived limits!
+    Once a man has made a commitment to a way of life, he puts the greatest strength in the world behind him. It's something we call heart power. Once a man has made his commitment, nothing will stop him short of success.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+Vince Lombardi
 </p>
 
 ---
