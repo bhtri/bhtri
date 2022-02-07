@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年02月06日の名言**
+### **2022年02月07日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Once a man has made a commitment to a way of life, he puts the greatest strength in the world behind him. It's something we call heart power. Once a man has made his commitment, nothing will stop him short of success.
+    Ignition (n): The motivational process that occurs when your identity becomes linked to a long-term vision of your future. Triggers significant amounts of unconscious energy; usually marked by the realization: That is who I want to be.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Vince Lombardi
+ Daniel Coyle
 </p>
 
 ---
