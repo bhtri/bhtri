@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年02月07日の名言**
+### **{%TITLE%}**
 
 <p align="center" style="font-size:20px">
   <q>
-    Ignition (n): The motivational process that occurs when your identity becomes linked to a long-term vision of your future. Triggers significant amounts of unconscious energy; usually marked by the realization: That is who I want to be.
+    {%QUOTE%}
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
- Daniel Coyle
+{%AUTHOR%}
 </p>
 
 ---
