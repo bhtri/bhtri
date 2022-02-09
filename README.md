@@ -12,16 +12,16 @@
 ###
 
 ---
-### **{%TITLE%}**
+### **2022年02月09日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    {%QUOTE%}
+    An earned compliment costs nothing, but its returns are immeasurable. Very humanly, when we are complimented, when our efforts are appreciated, most of us will usually strive to perform even better down the line. What a return on the investment of delivering a few earned words of praise!
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-{%AUTHOR%}
+G. Kingsley Ward
 </p>
 
 ---
