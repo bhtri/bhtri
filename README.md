@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年02月09日の名言**
+### **2022年02月10日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    An earned compliment costs nothing, but its returns are immeasurable. Very humanly, when we are complimented, when our efforts are appreciated, most of us will usually strive to perform even better down the line. What a return on the investment of delivering a few earned words of praise!
+    Go confidently in the direction of your dreams. Live the life you've imagined. As you simplify your life, the laws of the universe will be simpler.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-G. Kingsley Ward
+Henry David Thoreau
 </p>
 
 ---
