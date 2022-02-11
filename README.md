@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年02月10日の名言**
+### **2022年02月11日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Go confidently in the direction of your dreams. Live the life you've imagined. As you simplify your life, the laws of the universe will be simpler.
+    Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Henry David Thoreau
+Zaha Hadid
 </p>
 
 ---
