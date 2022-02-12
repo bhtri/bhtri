@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年02月11日の名言**
+### **2022年02月12日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them.
+    Not every day is going to offer us a chance to save somebody's life, but every day offers us an opportunity to affect one.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Zaha Hadid
+Mark Bezos
 </p>
 
 ---
