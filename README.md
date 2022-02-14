@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年02月13日の名言**
+### **2022年02月14日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    The last time doesn't exist. It's only this time. And everything is going to be different this time. There's only now.
+    We lose ourselves in the things we love. We find ourselves there, too.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Bill Murray
+Dale Patridge
 </p>
 
 ---
