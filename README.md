@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年02月16日の名言**
+### **2022年02月17日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you like what you do, and you're lucky enough to be good at it, do it for that reason.
+    The tennis ball doesn't know how old I am. The ball doesn't know if I'm a man or a woman or if I come from a communist country or not. Sport has always broken down these barriers.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Phil Grimshaw
+Martina Navratilova
 </p>
 
 ---
