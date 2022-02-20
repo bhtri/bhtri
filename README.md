@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年02月19日の名言**
+### **2022年02月20日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Excellence prospers in the absence of excuses.
+    A quitter never wins and a winner never quits
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+Napoleon Hill
 </p>
 
 ---
