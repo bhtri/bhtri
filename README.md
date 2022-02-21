@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年02月20日の名言**
+### **2022年02月21日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    A quitter never wins and a winner never quits
+    Your fears, your critics, your heroes, your villains: They are fictions you perceive as reality. Choose to see through them. Choose to let them go.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Napoleon Hill
+Isaac Lidsky
 </p>
 
 ---
