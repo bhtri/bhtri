@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年02月21日の名言**
+### **2022年02月22日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Your fears, your critics, your heroes, your villains: They are fictions you perceive as reality. Choose to see through them. Choose to let them go.
+    If you're changing the world, you're working on important things. You're excited to get up in the morning.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Isaac Lidsky
+Larry Page
 </p>
 
 ---
