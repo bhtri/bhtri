@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年02月22日の名言**
+### **2022年02月23日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you're changing the world, you're working on important things. You're excited to get up in the morning.
+    If you don't have confidence, you'll always find a way not to win
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Larry Page
+Carl Lewis
 </p>
 
 ---
