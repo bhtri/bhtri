@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年02月23日の名言**
+### **2022年02月24日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you don't have confidence, you'll always find a way not to win
+    People who are crazy enough to think they can change the world, are the ones who do.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Carl Lewis
+Apple Computers
 </p>
 
 ---
