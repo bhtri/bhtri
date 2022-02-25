@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年02月24日の名言**
+### **2022年02月25日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    People who are crazy enough to think they can change the world, are the ones who do.
+    By failing to prepare, you are preparing to fail.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Apple Computers
+Benjamin Franklin
 </p>
 
 ---
