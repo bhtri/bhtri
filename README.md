@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年02月27日の名言**
+### **2022年02月28日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    I keep asking myself these three questions.. What do you have? What do you want? What will you give up?
+    Predicting Rain Doesn't Count. Building Arks Does.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Jack Ma
+Warren Buffett
 </p>
 
 ---
