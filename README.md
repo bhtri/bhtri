@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年02月28日の名言**
+### **2022年03月01日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Predicting Rain Doesn't Count. Building Arks Does.
+    An aspirational diet will have you dreaming of success; but it's the attachment of expectations and tangible goals that feeds the desire, persistence, and fortitude required to make the win.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Warren Buffett
+Lorii Myers
 </p>
 
 ---
