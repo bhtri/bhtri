@@ -12,11 +12,11 @@
 ###
 
 ---
-### **2022年03月01日の名言**
+### **2022年03月02日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    An aspirational diet will have you dreaming of success; but it's the attachment of expectations and tangible goals that feeds the desire, persistence, and fortitude required to make the win.
+    Don't be tempted to break momentum-work through it.
   </q>
 </p>
 
