@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年03月02日の名言**
+### **2022年03月03日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Don't be tempted to break momentum-work through it.
+    You make a living by what you earn; you make a life by what you give.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+Winston Churchill
 </p>
 
 ---
