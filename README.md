@@ -12,11 +12,11 @@
 ###
 
 ---
-### **2022年03月03日の名言**
+### **2022年03月04日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    You make a living by what you earn; you make a life by what you give.
+    Let our advance worrying become advance thinking and planning.
   </q>
 </p>
 
