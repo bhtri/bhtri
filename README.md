@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年03月04日の名言**
+### **2022年03月05日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Let our advance worrying become advance thinking and planning.
+    When you win, say nothing. When you lose, say less.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Winston Churchill
+Paul Brown
 </p>
 
 ---
