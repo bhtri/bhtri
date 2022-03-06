@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年03月05日の名言**
+### **2022年03月06日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    When you win, say nothing. When you lose, say less.
+    Your life does not get better by chance. It gets better by change.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Paul Brown
+Jim Rohn
 </p>
 
 ---
