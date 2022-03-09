@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年03月08日の名言**
+### **{%TITLE%}**
 
 <p align="center" style="font-size:20px">
   <q>
-    Each player must accept the cards life deals him or her: but once they are in hand, he or she alone must decide how to play the cards in order to win the game.
+    {%QUOTE%}
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Voltaire
+{%AUTHOR%}
 </p>
 
 ---
