@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年03月11日の名言**
+### **2022年03月12日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Luck is a dividend of sweat. The more you sweat, the luckier you get
+    Great things are done by a series of small things brought together.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ray Kroc
+Vincent Van Gogh
 </p>
 
 ---
