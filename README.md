@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年03月12日の名言**
+### **2022年03月13日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Great things are done by a series of small things brought together.
+    If you cannot do great things, do small things in a great way.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Vincent Van Gogh
+Napoleon Hill
 </p>
 
 ---
