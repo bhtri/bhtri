@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年03月13日の名言**
+### **2022年03月14日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you cannot do great things, do small things in a great way.
+    If you're changing the world, you're working on important things. You're excited to get up in the morning.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Napoleon Hill
+Larry Page
 </p>
 
 ---
