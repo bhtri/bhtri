@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年03月14日の名言**
+### **2022年03月15日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you're changing the world, you're working on important things. You're excited to get up in the morning.
+    Your overnight success story is always a result of everything you have done in your life until that moment.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Larry Page
+Bel Pesce
 </p>
 
 ---
