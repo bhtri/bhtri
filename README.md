@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年03月15日の名言**
+### **2022年03月16日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Your overnight success story is always a result of everything you have done in your life until that moment.
+    The real winners in life are the people who look at every situation with an expectation that they can make it work or make it better
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Bel Pesce
+Barbara Pletcher
 </p>
 
 ---
