@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年03月16日の名言**
+### **2022年03月17日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    The real winners in life are the people who look at every situation with an expectation that they can make it work or make it better
+    Climb the mountains and get their good tidings. Nature's peace will flow into you as sunshine flows into trees. The winds will blow their own freshness into you, and the storms their energy, while cares will drop away from you like the leaves of Autumn.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Barbara Pletcher
+John Muir
 </p>
 
 ---
