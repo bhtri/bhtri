@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年03月20日の名言**
+### **2022年03月21日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Stop complaining. Start creating.
+    Let our advance worrying become advance thinking and planning.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Dale Patridge
+Winston Churchill
 </p>
 
 ---
