@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年03月21日の名言**
+### **2022年03月22日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Let our advance worrying become advance thinking and planning.
+    Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Winston Churchill
+Brene Brown
 </p>
 
 ---
