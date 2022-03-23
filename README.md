@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年03月22日の名言**
+### **2022年03月23日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.
+    Winning is nice if you don't lose your integrity in the process.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Brene Brown
+Arnold Horshak
 </p>
 
 ---
