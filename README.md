@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年03月23日の名言**
+### **2022年03月24日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Winning is nice if you don't lose your integrity in the process.
+    The real opportunity for success lies within the person and not in the job.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Arnold Horshak
+Zig Ziglar
 </p>
 
 ---
