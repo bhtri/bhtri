@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年03月28日の名言**
+### **2022年03月29日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    He who is not courageous enough to take risks will accomplish nothing in life.
+    The determination to win is the better part of winning.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Mohamad Ali
+Daisaku Ikeda
 </p>
 
 ---
