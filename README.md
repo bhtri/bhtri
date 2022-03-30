@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年03月29日の名言**
+### **2022年03月30日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    The determination to win is the better part of winning.
+    Your fears, your critics, your heroes, your villains: They are fictions you perceive as reality. Choose to see through them. Choose to let them go.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Daisaku Ikeda
+Isaac Lidsky
 </p>
 
 ---
