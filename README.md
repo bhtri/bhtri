@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年03月31日の名言**
+### **2022年04月01日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    When you recover or discover something that nourishes your soul and brings joy, care enough about yourself to make room for it in your life.
+    You defeated me But you won't defeat me again Because you have grown all you can grow.. But I am still growing (about Mount Everest).
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Jean Shinoda Bolen
+Edmund Hillary
 </p>
 
 ---
