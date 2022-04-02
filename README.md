@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年04月01日の名言**
+### **{%TITLE%}**
 
 <p align="center" style="font-size:20px">
   <q>
-    You defeated me But you won't defeat me again Because you have grown all you can grow.. But I am still growing (about Mount Everest).
+    {%QUOTE%}
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Edmund Hillary
+{%AUTHOR%}
 </p>
 
 ---
