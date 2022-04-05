@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年04月04日の名言**
+### **{%TITLE%}**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you respect yourself in stressful situations, it will help you see the positive… It will help you see the message in the mess.
+    {%QUOTE%}
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Steve Maraboli
+{%AUTHOR%}
 </p>
 
 ---
