@@ -12,16 +12,16 @@
 ###
 
 ---
-### **{%TITLE%}**
+### **2022年04月06日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    {%QUOTE%}
+    Winning isn't everything.. It's the only thing.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-{%AUTHOR%}
+Vincent van Gogh
 </p>
 
 ---
