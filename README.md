@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年04月06日の名言**
+### **2022年04月07日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Winning isn't everything.. It's the only thing.
+    Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Vincent van Gogh
+Zaha Hadid
 </p>
 
 ---
