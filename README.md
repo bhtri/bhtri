@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年04月09日の名言**
+### **2022年04月10日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    One voice can change a room, and if one voice can change a room, then it can change a city, and if it can change a city, it can change a state, and if it change a state, it can change a nation, and if it can change a nation, it can change the world. Your voice can change the world.
+    The things you learn in maturity aren't simple things such as acquiring information and skills. You learn not to engage in self-destructive behavior. You learn not to burn up energy in anxiety. You discover how to manage your tensions. You learn that self-pity and resentment are among the most toxic of drugs. You find that the world loves talent but pays off on character.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Barack Obama
+John Gardner
 </p>
 
 ---
