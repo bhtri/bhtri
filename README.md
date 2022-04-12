@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年04月11日の名言**
+### **2022年04月12日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    We lose ourselves in the things we love. We find ourselves there, too.
+    It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Dale Patridge
+Dale Carnegie
 </p>
 
 ---
