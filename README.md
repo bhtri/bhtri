@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年04月13日の名言**
+### **2022年04月14日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Whether you think you can or think you can't, you're right..
+    I am an optimist. It does not seem too much use being anything else..
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Henry Ford
+Winston Churchill
 </p>
 
 ---
