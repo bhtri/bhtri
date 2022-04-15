@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年04月14日の名言**
+### **2022年04月15日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    I am an optimist. It does not seem too much use being anything else..
+    Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Winston Churchill
+Brene Brown
 </p>
 
 ---
