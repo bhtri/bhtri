@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年04月15日の名言**
+### **2022年04月16日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.
+    If you like what you do, and you're lucky enough to be good at it, do it for that reason.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Brene Brown
+Phil Grimshaw
 </p>
 
 ---
