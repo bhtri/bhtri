@@ -12,11 +12,11 @@
 ###
 
 ---
-### **2022年04月17日の名言**
+### **2022年04月18日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Own 100 percent of your focus. The most challenging of endurance drills will bring you to a level of optimal mental and physical performance.
+    Think in terms of opportunities and solutions instead of problems, disappointment, and failure.
   </q>
 </p>
 
