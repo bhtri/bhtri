@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年04月18日の名言**
+### **2022年04月19日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Think in terms of opportunities and solutions instead of problems, disappointment, and failure.
+    Your fears, your critics, your heroes, your villains: They are fictions you perceive as reality. Choose to see through them. Choose to let them go.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+Isaac Lidsky
 </p>
 
 ---
