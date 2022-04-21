@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年04月20日の名言**
+### **2022年04月21日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Stop creating a life that you need a vacation from. Instead move to where you want to live, do what you want to do, start what you want to start and create the life you want today. This isn't rehearsal people. This is YOUR life.
+    Limitations are like mirages created by your own mind. When you realise that limitation do not exist, those around you will also feel it and allow you inside their space.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Dale Patridge
+Stephen Richards
 </p>
 
 ---
