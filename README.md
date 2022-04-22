@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年04月21日の名言**
+### **2022年04月22日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Limitations are like mirages created by your own mind. When you realise that limitation do not exist, those around you will also feel it and allow you inside their space.
+    It wasn't raining when Noah built the ark..
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Stephen Richards
+Howard Ruff
 </p>
 
 ---
