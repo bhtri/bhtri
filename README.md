@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年04月22日の名言**
+### **2022年04月23日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    It wasn't raining when Noah built the ark..
+    An aspirational diet will have you dreaming of success; but it's the attachment of expectations and tangible goals that feeds the desire, persistence, and fortitude required to make the win.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Howard Ruff
+Lorii Myers
 </p>
 
 ---
