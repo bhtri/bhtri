@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年04月23日の名言**
+### **2022年04月24日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    An aspirational diet will have you dreaming of success; but it's the attachment of expectations and tangible goals that feeds the desire, persistence, and fortitude required to make the win.
+    Not every day is going to offer us a chance to save somebody's life, but every day offers us an opportunity to affect one.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+Mark Bezos
 </p>
 
 ---
