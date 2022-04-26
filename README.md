@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年04月25日の名言**
+### **2022年04月26日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Do not be afraid to give up the good for the great.
+    Those who know how to win are much more numerous than those who know how to make proper use of their victories
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Kenny Rogers
+Polybius
 </p>
 
 ---
