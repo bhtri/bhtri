@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年04月26日の名言**
+### **2022年04月27日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Those who know how to win are much more numerous than those who know how to make proper use of their victories
+    Vision without action is daydream. Action without vision is nightmare..
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Polybius
+Japanese Proverb
 </p>
 
 ---
