@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年04月27日の名言**
+### **2022年04月28日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Vision without action is daydream. Action without vision is nightmare..
+    The real opportunity for success lies within the person and not in the job.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Japanese Proverb
+Zig Ziglar
 </p>
 
 ---
