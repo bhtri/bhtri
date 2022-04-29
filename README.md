@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年04月28日の名言**
+### **2022年04月29日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    The real opportunity for success lies within the person and not in the job.
+    Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Zig Ziglar
+Mark Twain
 </p>
 
 ---
