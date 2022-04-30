@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年04月29日の名言**
+### **2022年04月30日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.
+    We lose ourselves in the things we love. We find ourselves there, too.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Mark Twain
+Dale Patridge
 </p>
 
 ---
