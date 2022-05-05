@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年05月04日の名言**
+### **2022年05月05日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    You should never view your challenges as a disadvantage. Instead, it's important for you to understand that your experience facing and overcoming adversity is actually one of your biggest advantages.
+    Winning is nice if you don't lose your integrity in the process.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Michelle Obama
+Arnold Horshak
 </p>
 
 ---
