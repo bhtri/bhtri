@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年05月05日の名言**
+### **2022年05月06日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Winning is nice if you don't lose your integrity in the process.
+    Excellence prospers in the absence of excuses.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Arnold Horshak
+Lorii Myers
 </p>
 
 ---
