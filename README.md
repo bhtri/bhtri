@@ -12,11 +12,11 @@
 ###
 
 ---
-### **2022年05月06日の名言**
+### **2022年05月07日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Excellence prospers in the absence of excuses.
+    An aspirational diet will have you dreaming of success; but it's the attachment of expectations and tangible goals that feeds the desire, persistence, and fortitude required to make the win.
   </q>
 </p>
 
