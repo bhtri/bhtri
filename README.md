@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年05月08日の名言**
+### **2022年05月09日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Don't use all-or-nothing thinking. Take each day as its own day, and don't worry about it if you mess up one day. The most important thing you can do is just get back up on the horse.
+    If you are born poor, it is not your mistake. But if you die poor it is your mistake.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Henry Cloud
+Bill Gates
 </p>
 
 ---
