@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年05月09日の名言**
+### **2022年05月10日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you are born poor, it is not your mistake. But if you die poor it is your mistake.
+    If you don't have confidence, you'll always find a way not to win
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Bill Gates
+Carl Lewis
 </p>
 
 ---
