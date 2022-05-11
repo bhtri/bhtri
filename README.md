@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年05月10日の名言**
+### **2022年05月11日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you don't have confidence, you'll always find a way not to win
+    We don't have to do all of it alone. We were never meant to.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Carl Lewis
+Brene Brown
 </p>
 
 ---
