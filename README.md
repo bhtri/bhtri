@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年05月11日の名言**
+### **2022年05月12日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    We don't have to do all of it alone. We were never meant to.
+    People who are crazy enough to think they can change the world, are the ones who do.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Brene Brown
+Apple Computers
 </p>
 
 ---
