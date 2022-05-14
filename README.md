@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年05月13日の名言**
+### **2022年05月14日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    One voice can change a room, and if one voice can change a room, then it can change a city, and if it can change a city, it can change a state, and if it change a state, it can change a nation, and if it can change a nation, it can change the world. Your voice can change the world.
+    If you have dreams it is your responsibility to make them happen.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Barack Obama
+Bel Pesce
 </p>
 
 ---
