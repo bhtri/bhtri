@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年05月14日の名言**
+### **2022年05月15日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you have dreams it is your responsibility to make them happen.
+    At that point where you have decided to upgrade from aspiration to expectation and have begun to visualize an outcome, something incredibly important has happened, you have committed to the process of change.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Bel Pesce
+Lorii Myers
 </p>
 
 ---
