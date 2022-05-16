@@ -12,11 +12,11 @@
 ###
 
 ---
-### **2022年05月15日の名言**
+### **2022年05月16日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    At that point where you have decided to upgrade from aspiration to expectation and have begun to visualize an outcome, something incredibly important has happened, you have committed to the process of change.
+    Remove the temptation to settle for anything short of what you deserve.
   </q>
 </p>
 
