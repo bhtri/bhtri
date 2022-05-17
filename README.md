@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年05月16日の名言**
+### **2022年05月17日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Remove the temptation to settle for anything short of what you deserve.
+    Winners lose much more often than losers. So if you keep losing but you're still trying, keep it up! You.. Re right on track.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+Matthew Keith Groves
 </p>
 
 ---
