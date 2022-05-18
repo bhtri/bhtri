@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年05月17日の名言**
+### **2022年05月18日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Winners lose much more often than losers. So if you keep losing but you're still trying, keep it up! You.. Re right on track.
+    The determination to win is the better part of winning.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Matthew Keith Groves
+Daisaku Ikeda
 </p>
 
 ---
