@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年05月18日の名言**
+### **2022年05月19日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    The determination to win is the better part of winning.
+    Not every day is going to offer us a chance to save somebody's life, but every day offers us an opportunity to affect one.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Daisaku Ikeda
+Mark Bezos
 </p>
 
 ---
