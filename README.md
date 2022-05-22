@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年05月21日の名言**
+### **2022年05月22日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Meaning is something you build into your life. You build it out of your own past, out of your affections and loyalties, out of the experience of humankind as it is passed on to you... You are the only one who can put them together into that unique pattern that will be your life.
+    Climb the mountains and get their good tidings. Nature's peace will flow into you as sunshine flows into trees. The winds will blow their own freshness into you, and the storms their energy, while cares will drop away from you like the leaves of Autumn.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John Gardner
+John Muir
 </p>
 
 ---
