@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年05月22日の名言**
+### **2022年05月23日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Climb the mountains and get their good tidings. Nature's peace will flow into you as sunshine flows into trees. The winds will blow their own freshness into you, and the storms their energy, while cares will drop away from you like the leaves of Autumn.
+    Ignition (n): The motivational process that occurs when your identity becomes linked to a long-term vision of your future. Triggers significant amounts of unconscious energy; usually marked by the realization: That is who I want to be.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John Muir
+ Daniel Coyle
 </p>
 
 ---
