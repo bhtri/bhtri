@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年05月23日の名言**
+### **2022年05月24日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Ignition (n): The motivational process that occurs when your identity becomes linked to a long-term vision of your future. Triggers significant amounts of unconscious energy; usually marked by the realization: That is who I want to be.
+    Your life does not get better by chance. It gets better by change.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
- Daniel Coyle
+Jim Rohn
 </p>
 
 ---
