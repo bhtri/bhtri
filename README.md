@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年05月24日の名言**
+### **2022年05月25日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Your life does not get better by chance. It gets better by change.
+    Sometimes you climb out of bed in the morning and you think, I'm not going to make it, but you laugh inside - remembering all the times you've felt that way.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Jim Rohn
+Charles Bukowski
 </p>
 
 ---
