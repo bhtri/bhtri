@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年05月30日の名言**
+### **2022年05月31日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    When there is no distraction, there is clarity.
+    Regardless of how you feel inside, always try to look like a winner. Even if you are behind, a sustained look of control and confidence can give you a mental edge that results in victory.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+Arthur Ashe
 </p>
 
 ---
