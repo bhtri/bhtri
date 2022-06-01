@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年05月31日の名言**
+### **2022年06月01日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Regardless of how you feel inside, always try to look like a winner. Even if you are behind, a sustained look of control and confidence can give you a mental edge that results in victory.
+    It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Arthur Ashe
+Dale Carnegie
 </p>
 
 ---
