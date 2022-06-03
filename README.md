@@ -12,16 +12,16 @@
 ###
 
 ---
-### **{%TITLE%}**
+### **2022年06月03日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    {%QUOTE%}
+    Don't be tempted to break momentum-work through it.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-{%AUTHOR%}
+Lorii Myers
 </p>
 
 ---
