@@ -12,11 +12,11 @@
 ###
 
 ---
-### **2022年06月03日の名言**
+### **2022年06月04日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Don't be tempted to break momentum-work through it.
+    Keep a positive mind. Remember, a failed attempt doesn't make you a failure-giving up does.
   </q>
 </p>
 
