@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年06月04日の名言**
+### **2022年06月05日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Keep a positive mind. Remember, a failed attempt doesn't make you a failure-giving up does.
+    Time to improve is limited. The clock is always on and doesn't care if you don't feel like it. Someone else does and they're passing you by.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+William James Moore
 </p>
 
 ---
