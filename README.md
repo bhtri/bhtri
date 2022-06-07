@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年06月06日の名言**
+### **2022年06月07日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Keep on going and the chances are you will stumble on something, perhaps when you are least expecting it. I have never heard of anyone stumbling on something sitting down.
+    Life is like a camera: just focus on what is important, capture good times, develop from negative, and if things do not work out, take another shot!
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Charles F. Kettering
+Daireth Winehouse
 </p>
 
 ---
