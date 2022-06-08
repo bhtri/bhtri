@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年06月07日の名言**
+### **2022年06月08日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Life is like a camera: just focus on what is important, capture good times, develop from negative, and if things do not work out, take another shot!
+    If you like what you do, and you're lucky enough to be good at it, do it for that reason.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Daireth Winehouse
+Phil Grimshaw
 </p>
 
 ---
