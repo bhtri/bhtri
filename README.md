@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年06月09日の名言**
+### **2022年06月10日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Not every day is going to offer us a chance to save somebody's life, but every day offers us an opportunity to affect one.
+    Climb the mountains and get their good tidings. Nature's peace will flow into you as sunshine flows into trees. The winds will blow their own freshness into you, and the storms their energy, while cares will drop away from you like the leaves of Autumn.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Mark Bezos
+John Muir
 </p>
 
 ---
