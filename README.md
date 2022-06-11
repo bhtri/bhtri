@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年06月10日の名言**
+### **2022年06月11日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Climb the mountains and get their good tidings. Nature's peace will flow into you as sunshine flows into trees. The winds will blow their own freshness into you, and the storms their energy, while cares will drop away from you like the leaves of Autumn.
+    Failure is the condiment that gives success its flavor.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John Muir
+Truman Capote
 </p>
 
 ---
