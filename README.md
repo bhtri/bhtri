@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年06月11日の名言**
+### **2022年06月12日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Failure is the condiment that gives success its flavor.
+    A loser doesn't know what he'll do if he loses, but talks about what he'll do if he wins, and a winner doesn't talk about what he'll do if he wins, but knows what he'll do if he loses.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Truman Capote
+null
 </p>
 
 ---
