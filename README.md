@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年06月15日の名言**
+### **2022年06月16日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Regardless of how you feel inside, always try to look like a winner. Even if you are behind, a sustained look of control and confidence can give you a mental edge that results in victory.
+    When you win, say nothing. When you lose, say less.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Arthur Ashe
+Paul Brown
 </p>
 
 ---
