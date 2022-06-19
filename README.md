@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年06月18日の名言**
+### **2022年06月19日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them.
+    Named must your fear be before banish it you can.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Zaha Hadid
+Yoda
 </p>
 
 ---
