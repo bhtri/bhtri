@@ -1,7 +1,7 @@
-### Hi there, I'm `<wdvqmj7377 />`! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="22px">
+### Hi there, I'm `<wdvqmj7377 />`! 👋
 
 ## I'm a Developer, and .... 🤔!
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter ! :sunglasses:
 - 🥅 2022 Goals: Contribute more to flutter community, and do more ...
 - ⚡ Fun fact: I love nature and love climbing.
 ### **Languages and Tools**
@@ -26,8 +26,7 @@
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bhtri/bhtri/main/profile-summary-card-output/github/3-stats.svg" />
-  <img src="https://raw.githubusercontent.com/bhtri/bhtri/main/profile-summary-card-output/github/2-most-commit-language.svg" />
+  <img src="https://raw.githubusercontent.com/bhtri/bhtri/main/profile-summary-card-output/dracula/1-repos-per-language.svg" />
 </p>
 
 <p align="center">
