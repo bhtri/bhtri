@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年06月19日の名言**
+### **2022年06月20日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Named must your fear be before banish it you can.
+    People rise to the occasion without hesitation when they feel inspired and challenged.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Yoda
+Lorii Myers
 </p>
 
 ---
