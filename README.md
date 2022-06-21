@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年06月20日の名言**
+### **2022年06月21日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    People rise to the occasion without hesitation when they feel inspired and challenged.
+    What you do speaks so loudly that I cannot hear what you say.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+Ralph Waldo Emerson
 </p>
 
 ---
