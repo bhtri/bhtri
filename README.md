@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年06月21日の名言**
+### **2022年06月22日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    What you do speaks so loudly that I cannot hear what you say.
+    You will never win if you never begin.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ralph Waldo Emerson
+Helen Rowland
 </p>
 
 ---
