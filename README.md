@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年06月22日の名言**
+### **2022年06月23日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    You will never win if you never begin.
+    Ideas are these disembodied life forms, they don't have a form, but they have a will. All they want is to be made manifest. If you can manage to open up your consciousness to an idea of living in a world of abundance, then you can believe that, constantly, ideas are trying to find human collaborators.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Helen Rowland
+Elizabeth Gilbert
 </p>
 
 ---
