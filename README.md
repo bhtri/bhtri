@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年06月23日の名言**
+### **2022年06月24日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Ideas are these disembodied life forms, they don't have a form, but they have a will. All they want is to be made manifest. If you can manage to open up your consciousness to an idea of living in a world of abundance, then you can believe that, constantly, ideas are trying to find human collaborators.
+    People who are crazy enough to think they can change the world, are the ones who do.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Elizabeth Gilbert
+Apple Computers
 </p>
 
 ---
