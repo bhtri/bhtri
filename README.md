@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年06月26日の名言**
+### **2022年06月27日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Some men see things as they are and say why.. I dream things that never were and say why not.
+    You must be the change you want to see in the world..
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-George Bernard Shaw
+M.K. Gandhi
 </p>
 
 ---
