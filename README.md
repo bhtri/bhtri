@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年06月27日の名言**
+### **2022年06月28日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    You must be the change you want to see in the world..
+    A show of confidence raises the bar
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-M.K. Gandhi
+Lorii Myers
 </p>
 
 ---
