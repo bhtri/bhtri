@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年06月29日の名言**
+### **2022年06月30日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    It is easy to sit up and take notice, What is difficult is getting up and taking action.
+    It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Honore de Balzac
+Dale Carnegie
 </p>
 
 ---
