@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年06月30日の名言**
+### **2022年07月01日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.
+    Winning isn't everything.. It's the only thing.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Dale Carnegie
+Vincent van Gogh
 </p>
 
 ---
