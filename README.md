@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年07月01日の名言**
+### **2022年07月02日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Winning isn't everything.. It's the only thing.
+    Named must your fear be before banish it you can.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Vincent van Gogh
+Yoda
 </p>
 
 ---
