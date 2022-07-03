@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年07月02日の名言**
+### **2022年07月03日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Named must your fear be before banish it you can.
+    When there is no distraction, there is clarity.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Yoda
+Lorii Myers
 </p>
 
 ---
