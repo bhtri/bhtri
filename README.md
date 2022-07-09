@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年07月08日の名言**
+### **2022年07月09日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Let our advance worrying become advance thinking and planning.
+    You are very powerful, provided you know how powerful you are.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Winston Churchill
+Yogi Bhajan
 </p>
 
 ---
