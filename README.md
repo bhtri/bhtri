@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年07月09日の名言**
+### **2022年07月10日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    You are very powerful, provided you know how powerful you are.
+    Whether you think you can or think you can't, you're right..
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Yogi Bhajan
+Henry Ford
 </p>
 
 ---
