@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年07月10日の名言**
+### **2022年07月11日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Whether you think you can or think you can't, you're right..
+    You must be the change you want to see in the world..
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Henry Ford
+M.K. Gandhi
 </p>
 
 ---
