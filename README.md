@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年07月11日の名言**
+### **2022年07月12日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    You must be the change you want to see in the world..
+    Perfection is not attainable, but if we chase perfection we can catch excellence..
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-M.K. Gandhi
+Vince Lombardi
 </p>
 
 ---
