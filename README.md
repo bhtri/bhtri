@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年07月12日の名言**
+### **2022年07月13日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Perfection is not attainable, but if we chase perfection we can catch excellence..
+    It is easy to sit up and take notice, What is difficult is getting up and taking action.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Vince Lombardi
+Honore de Balzac
 </p>
 
 ---
