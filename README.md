@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年07月13日の名言**
+### **2022年07月14日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    It is easy to sit up and take notice, What is difficult is getting up and taking action.
+    Let go of who you think you're supposed to be; embrace who you are.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Honore de Balzac
+Brene Brown
 </p>
 
 ---
