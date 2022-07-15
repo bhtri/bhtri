@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年07月14日の名言**
+### **2022年07月15日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Let go of who you think you're supposed to be; embrace who you are.
+    Remember that you are very special, no one can play your role better than you.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Brene Brown
+Damayanti Patra
 </p>
 
 ---
