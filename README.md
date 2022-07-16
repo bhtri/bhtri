@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年07月15日の名言**
+### **2022年07月16日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Remember that you are very special, no one can play your role better than you.
+    All courses of action are risky, so prudence is not in avoiding danger (it's impossible), but calculating risk and acting decisively. Make mistakes of ambition and not mistakes of sloth. Develop the strength to do bold things, not the strength to suffer.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Damayanti Patra
+Niccolo Machiavelli
 </p>
 
 ---
