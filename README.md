@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年07月16日の名言**
+### **2022年07月17日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    All courses of action are risky, so prudence is not in avoiding danger (it's impossible), but calculating risk and acting decisively. Make mistakes of ambition and not mistakes of sloth. Develop the strength to do bold things, not the strength to suffer.
+    Successful people appear to be traveling along one continual, successful road. What is not apparent is the perseverance it takes following each defeat to keep you on that road. No one I know of has ever experienced one success after another without defeats, failures, disappointments, and frustrations galore along the way. Learning to overcome those times of agony is what separates the winners from the losers.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Niccolo Machiavelli
+G. Kingsley Ward
 </p>
 
 ---
