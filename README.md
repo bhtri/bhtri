@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年07月18日の名言**
+### **2022年07月19日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    I know for sure that what we dwell on is who we become.
+    It isn't the mountains ahead to climb that wear you out; it's the pebble in your shoe.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Oprah Winfrey
+Mohamad Ali
 </p>
 
 ---
