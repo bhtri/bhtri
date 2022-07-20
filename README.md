@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年07月19日の名言**
+### **2022年07月20日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    It isn't the mountains ahead to climb that wear you out; it's the pebble in your shoe.
+    Never waste your time trying to explain who you are to people who are committed to misunderstanding you.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Mohamad Ali
+Dream Hampton
 </p>
 
 ---
