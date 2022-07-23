@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年07月22日の名言**
+### **2022年07月23日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Sometimes the bravest and most important thing you can do is just show up.
+    Time to improve is limited. The clock is always on and doesn't care if you don't feel like it. Someone else does and they're passing you by.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Brene Brown
+William James Moore
 </p>
 
 ---
