@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年07月24日の名言**
+### **2022年07月25日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Don't be tempted to break momentum-work through it.
+    You will never win if you never begin.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+Helen Rowland
 </p>
 
 ---
