@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年07月25日の名言**
+### **2022年07月26日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    You will never win if you never begin.
+    Some men see things as they are and say why.. I dream things that never were and say why not.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Helen Rowland
+George Bernard Shaw
 </p>
 
 ---
