@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年07月27日の名言**
+### **2022年07月28日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Perfection is not attainable, but if we chase perfection we can catch excellence..
+    Winning is nice if you don't lose your integrity in the process.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Vince Lombardi
+Arnold Horshak
 </p>
 
 ---
