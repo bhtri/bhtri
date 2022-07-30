@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年07月29日の名言**
+### **2022年07月30日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    An aspirational diet will have you dreaming of success; but it's the attachment of expectations and tangible goals that feeds the desire, persistence, and fortitude required to make the win.
+    If you have dreams it is your responsibility to make them happen.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+Bel Pesce
 </p>
 
 ---
