@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年07月30日の名言**
+### **2022年07月31日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you have dreams it is your responsibility to make them happen.
+    Where there is ruin, there is hope for a treasure.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Bel Pesce
+Rumi
 </p>
 
 ---
