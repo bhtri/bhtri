@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年07月31日の名言**
+### **2022年08月01日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Where there is ruin, there is hope for a treasure.
+    You are very powerful, provided you know how powerful you are.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Rumi
+Yogi Bhajan
 </p>
 
 ---
