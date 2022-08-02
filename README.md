@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年08月01日の名言**
+### **2022年08月02日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    You are very powerful, provided you know how powerful you are.
+    Beyond a certain point there is no return. This point has to be reached.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Yogi Bhajan
+Franz Kafka
 </p>
 
 ---
