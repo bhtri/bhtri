@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年08月02日の名言**
+### **2022年08月03日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Beyond a certain point there is no return. This point has to be reached.
+    Feeling grateful to or appreciative of someone or something in your life actually attracts more of the things that you appreciate and value into your life.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Franz Kafka
+Christiane Northrup
 </p>
 
 ---
