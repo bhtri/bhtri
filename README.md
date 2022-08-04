@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年08月03日の名言**
+### **2022年08月04日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Feeling grateful to or appreciative of someone or something in your life actually attracts more of the things that you appreciate and value into your life.
+    It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Christiane Northrup
+Dale Carnegie
 </p>
 
 ---
