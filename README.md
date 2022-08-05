@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年08月04日の名言**
+### **2022年08月05日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.
+    Many of life's failures are experienced by people who did not realize how close they were to success when they gave up.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Dale Carnegie
+Thomas Edison
 </p>
 
 ---
