@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年08月05日の名言**
+### **2022年08月06日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Many of life's failures are experienced by people who did not realize how close they were to success when they gave up.
+    Vision without action is daydream. Action without vision is nightmare..
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Thomas Edison
+Japanese Proverb
 </p>
 
 ---
