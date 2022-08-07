@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年08月06日の名言**
+### **2022年08月07日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Vision without action is daydream. Action without vision is nightmare..
+    Excellence prospers in the absence of excuses.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Japanese Proverb
+Lorii Myers
 </p>
 
 ---
