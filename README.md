@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年08月08日の名言**
+### **2022年08月09日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Whether you think you can or think you can't, you're right..
+    When you win, say nothing. When you lose, say less.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Henry Ford
+Paul Brown
 </p>
 
 ---
