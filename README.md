@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年08月09日の名言**
+### **2022年08月10日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    When you win, say nothing. When you lose, say less.
+    If I work as hard as I can, I wonder how much I can do in a day?
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Paul Brown
+Ezra Taft Benson
 </p>
 
 ---
