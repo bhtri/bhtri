@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年08月10日の名言**
+### **2022年08月11日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    If I work as hard as I can, I wonder how much I can do in a day?
+    Time to improve is limited. The clock is always on and doesn't care if you don't feel like it. Someone else does and they're passing you by.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ezra Taft Benson
+William James Moore
 </p>
 
 ---
