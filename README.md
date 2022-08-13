@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年08月12日の名言**
+### **2022年08月13日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    A man who has no imagination has no wings.
+    We don't have to do all of it alone. We were never meant to.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Mohamad Ali
+Brene Brown
 </p>
 
 ---
