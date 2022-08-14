@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年08月13日の名言**
+### **2022年08月14日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    We don't have to do all of it alone. We were never meant to.
+    You gotta commit. You've gotta go out there and improvise and you've gotta be completely unafraid to die. You've got to be able to take a chance to die. And you have to die lots. You have to die all the time.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Brene Brown
+Bill Murray
 </p>
 
 ---
