@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年08月14日の名言**
+### **2022年08月15日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    You gotta commit. You've gotta go out there and improvise and you've gotta be completely unafraid to die. You've got to be able to take a chance to die. And you have to die lots. You have to die all the time.
+    Find a purpose in life so big it will challenge every capacity to be at your best.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Bill Murray
+David O. McKay
 </p>
 
 ---
