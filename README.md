@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年08月15日の名言**
+### **2022年08月16日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Find a purpose in life so big it will challenge every capacity to be at your best.
+    Do the best you can until you know better. Then when you know better, do better.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-David O. McKay
+Maya Angelou
 </p>
 
 ---
