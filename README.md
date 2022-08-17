@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年08月16日の名言**
+### **2022年08月17日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Do the best you can until you know better. Then when you know better, do better.
+    All courses of action are risky, so prudence is not in avoiding danger (it's impossible), but calculating risk and acting decisively. Make mistakes of ambition and not mistakes of sloth. Develop the strength to do bold things, not the strength to suffer.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Maya Angelou
+Niccolo Machiavelli
 </p>
 
 ---
