@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年08月23日の名言**
+### **2022年08月24日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    You must be the change you want to see in the world..
+    You make a living by what you earn; you make a life by what you give.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-M.K. Gandhi
+Winston Churchill
 </p>
 
 ---
