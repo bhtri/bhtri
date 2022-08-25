@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年08月24日の名言**
+### **2022年08月25日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    You make a living by what you earn; you make a life by what you give.
+    From now on we live in a world where man has walked on the Moon. It's not a miracle; we just decided to go.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Winston Churchill
+Tom Hanks
 </p>
 
 ---
