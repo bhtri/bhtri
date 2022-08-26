@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年08月25日の名言**
+### **2022年08月26日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    From now on we live in a world where man has walked on the Moon. It's not a miracle; we just decided to go.
+    The man who removes a mountain begins by carrying away small stones..
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Tom Hanks
+Chinese Proverb
 </p>
 
 ---
