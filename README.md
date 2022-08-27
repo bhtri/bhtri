@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年08月26日の名言**
+### **2022年08月27日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    The man who removes a mountain begins by carrying away small stones..
+    Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Chinese Proverb
+Mark Twain
 </p>
 
 ---
