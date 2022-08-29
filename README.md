@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年08月28日の名言**
+### **2022年08月29日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Luck is a dividend of sweat. The more you sweat, the luckier you get
+    Stop complaining. Start creating.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ray Kroc
+Dale Patridge
 </p>
 
 ---
