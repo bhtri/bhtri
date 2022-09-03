@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年09月02日の名言**
+### **2022年09月03日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    I always advice people - Don't wait ! Do something when you are young, when you have no responsibilities. Invest time in yourself to have great Experiences that are going to enrich you, then you can't possibly lose.
+    Do not let what you cannot do interfere with what you can do.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Steve Jobs
+John Wooden
 </p>
 
 ---
