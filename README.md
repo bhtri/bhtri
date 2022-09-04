@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年09月03日の名言**
+### **2022年09月04日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Do not let what you cannot do interfere with what you can do.
+    Logic will get you from A to B. Imagination will take you everywhere.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John Wooden
+Albert Einstein
 </p>
 
 ---
