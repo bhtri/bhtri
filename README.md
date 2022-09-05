@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年09月04日の名言**
+### **2022年09月05日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Logic will get you from A to B. Imagination will take you everywhere.
+    Own 100 percent of your focus. The most challenging of endurance drills will bring you to a level of optimal mental and physical performance.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Albert Einstein
+Lorii Myers
 </p>
 
 ---
