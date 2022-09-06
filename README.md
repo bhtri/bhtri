@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年09月05日の名言**
+### **2022年09月06日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Own 100 percent of your focus. The most challenging of endurance drills will bring you to a level of optimal mental and physical performance.
+    You gotta commit. You've gotta go out there and improvise and you've gotta be completely unafraid to die. You've got to be able to take a chance to die. And you have to die lots. You have to die all the time.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+Bill Murray
 </p>
 
 ---
