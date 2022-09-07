@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年09月06日の名言**
+### **2022年09月07日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    You gotta commit. You've gotta go out there and improvise and you've gotta be completely unafraid to die. You've got to be able to take a chance to die. And you have to die lots. You have to die all the time.
+    When it comes to winning, you need the skill and the will.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Bill Murray
+Frank Tyger
 </p>
 
 ---
