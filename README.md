@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年09月07日の名言**
+### **2022年09月08日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    When it comes to winning, you need the skill and the will.
+    I know for sure that what we dwell on is who we become.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Frank Tyger
+Oprah Winfrey
 </p>
 
 ---
