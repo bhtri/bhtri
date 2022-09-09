@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年09月08日の名言**
+### **2022年09月09日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    I know for sure that what we dwell on is who we become.
+    All courses of action are risky, so prudence is not in avoiding danger (it's impossible), but calculating risk and acting decisively. Make mistakes of ambition and not mistakes of sloth. Develop the strength to do bold things, not the strength to suffer.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Oprah Winfrey
+Niccolo Machiavelli
 </p>
 
 ---
