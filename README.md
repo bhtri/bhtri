@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年09月10日の名言**
+### **2022年09月11日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    A quitter never wins and a winner never quits
+    You are very powerful, provided you know how powerful you are.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Napoleon Hill
+Yogi Bhajan
 </p>
 
 ---
