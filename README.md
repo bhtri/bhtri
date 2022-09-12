@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年09月11日の名言**
+### **2022年09月12日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    You are very powerful, provided you know how powerful you are.
+    If you're changing the world, you're working on important things. You're excited to get up in the morning.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Yogi Bhajan
+Larry Page
 </p>
 
 ---
