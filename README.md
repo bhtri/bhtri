@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年09月13日の名言**
+### **2022年09月14日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Once a man has made a commitment to a way of life, he puts the greatest strength in the world behind him. It's something we call heart power. Once a man has made his commitment, nothing will stop him short of success.
+    Successful people appear to be traveling along one continual, successful road. What is not apparent is the perseverance it takes following each defeat to keep you on that road. No one I know of has ever experienced one success after another without defeats, failures, disappointments, and frustrations galore along the way. Learning to overcome those times of agony is what separates the winners from the losers.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Vince Lombardi
+G. Kingsley Ward
 </p>
 
 ---
