@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年09月15日の名言**
+### **2022年09月16日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    From now on we live in a world where man has walked on the Moon. It's not a miracle; we just decided to go.
+    Extend beyond your preconceived limits!
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Tom Hanks
+Lorii Myers
 </p>
 
 ---
