@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年09月20日の名言**
+### **2022年09月21日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    When I was a little kid, I was really scared of the dark. But then I came to understand, dark just means the absence of photons in the visible wavelength 400 to 700 nanometers. Then I thought, well it's really silly to be afraid of a lack of photons. Then I wasn't afraid of the dark anymore after that.
+    Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Elon Musk
+Brene Brown
 </p>
 
 ---
