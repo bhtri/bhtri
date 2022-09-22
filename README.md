@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年09月21日の名言**
+### **2022年09月22日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.
+    If we ever stop thinking about the person we want to become, we stop learning and taking risks.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Brene Brown
+Sally Blount
 </p>
 
 ---
