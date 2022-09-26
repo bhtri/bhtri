@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年09月25日の名言**
+### **{%TITLE%}**
 
 <p align="center" style="font-size:20px">
   <q>
-    You must have a positive self perception in order to transcend anything.
+    {%QUOTE%}
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Steve Maraboli
+{%AUTHOR%}
 </p>
 
 ---
