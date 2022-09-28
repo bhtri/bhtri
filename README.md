@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年09月27日の名言**
+### **2022年09月28日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    The determination to win is the better part of winning.
+    He who is not courageous enough to take risks will accomplish nothing in life.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Daisaku Ikeda
+Mohamad Ali
 </p>
 
 ---
