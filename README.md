@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年09月28日の名言**
+### **{%TITLE%}**
 
 <p align="center" style="font-size:20px">
   <q>
-    He who is not courageous enough to take risks will accomplish nothing in life.
+    {%QUOTE%}
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Mohamad Ali
+{%AUTHOR%}
 </p>
 
 ---
