@@ -12,16 +12,16 @@
 ###
 
 ---
-### **{%TITLE%}**
+### **2022年09月30日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    {%QUOTE%}
+    Win any way as long as you can get away with it. Nice guys finish last.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-{%AUTHOR%}
+Leo Durocher
 </p>
 
 ---
