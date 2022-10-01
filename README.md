@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年09月30日の名言**
+### **2022年10月01日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Win any way as long as you can get away with it. Nice guys finish last.
+    Winning is not everything, but the effort to win is.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Leo Durocher
+Zig Ziglar
 </p>
 
 ---
