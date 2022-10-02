@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年10月01日の名言**
+### **2022年10月02日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Winning is not everything, but the effort to win is.
+    Excellence prospers in the absence of excuses.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Zig Ziglar
+Lorii Myers
 </p>
 
 ---
