@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年10月02日の名言**
+### **2022年10月03日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Excellence prospers in the absence of excuses.
+    When I see people stand fully in their truth, or when I see someone fall down, get back up, and say, 'Damn. That really hurt, but this is important to me and I'm going in again'-my gut reaction is, 'What a badass.'
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+Brene Brown
 </p>
 
 ---
