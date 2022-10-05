@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年10月04日の名言**
+### **2022年10月05日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    It isn't the mountains ahead to climb that wear you out; it's the pebble in your shoe.
+    A successful man is one who can lay a firm foundation with the bricks that others throw at him.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Mohamad Ali
+Sidney Greenberg
 </p>
 
 ---
