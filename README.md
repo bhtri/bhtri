@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年10月05日の名言**
+### **2022年10月06日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    A successful man is one who can lay a firm foundation with the bricks that others throw at him.
+    We lose ourselves in the things we love. We find ourselves there, too.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Sidney Greenberg
+Dale Patridge
 </p>
 
 ---
