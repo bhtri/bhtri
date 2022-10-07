@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年10月06日の名言**
+### **{%TITLE%}**
 
 <p align="center" style="font-size:20px">
   <q>
-    We lose ourselves in the things we love. We find ourselves there, too.
+    {%QUOTE%}
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Dale Patridge
+{%AUTHOR%}
 </p>
 
 ---
