@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年10月09日の名言**
+### **2022年10月10日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Great things are done by a series of small things brought together.
+    I know for sure that what we dwell on is who we become.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Vincent Van Gogh
+Oprah Winfrey
 </p>
 
 ---
