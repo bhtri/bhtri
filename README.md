@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年10月10日の名言**
+### **2022年10月11日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    I know for sure that what we dwell on is who we become.
+    There's such a thin line between winning and losing.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Oprah Winfrey
+John R. Tunis
 </p>
 
 ---
