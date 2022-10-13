@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年10月12日の名言**
+### **2022年10月13日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    It is easy to sit up and take notice, What is difficult is getting up and taking action.
+    Vision without action is daydream. Action without vision is nightmare..
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Honore de Balzac
+Japanese Proverb
 </p>
 
 ---
