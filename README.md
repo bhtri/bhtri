@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年10月13日の名言**
+### **{%TITLE%}**
 
 <p align="center" style="font-size:20px">
   <q>
-    Vision without action is daydream. Action without vision is nightmare..
+    {%QUOTE%}
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Japanese Proverb
+{%AUTHOR%}
 </p>
 
 ---
