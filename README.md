@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年10月16日の名言**
+### **2022年10月17日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Even if you're on the right track, you'll get run over if you just sit there..
+    Don't use all-or-nothing thinking. Take each day as its own day, and don't worry about it if you mess up one day. The most important thing you can do is just get back up on the horse.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Will Rogers
+Henry Cloud
 </p>
 
 ---
