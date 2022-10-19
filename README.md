@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年10月18日の名言**
+### **2022年10月19日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you like what you do, and you're lucky enough to be good at it, do it for that reason.
+    Some men see things as they are and say why.. I dream things that never were and say why not.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Phil Grimshaw
+George Bernard Shaw
 </p>
 
 ---
