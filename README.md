@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年10月19日の名言**
+### **2022年10月20日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Some men see things as they are and say why.. I dream things that never were and say why not.
+    At that point where you have decided to upgrade from aspiration to expectation and have begun to visualize an outcome, something incredibly important has happened, you have committed to the process of change.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-George Bernard Shaw
+Lorii Myers
 </p>
 
 ---
