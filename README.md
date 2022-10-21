@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年10月20日の名言**
+### **2022年10月21日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    At that point where you have decided to upgrade from aspiration to expectation and have begun to visualize an outcome, something incredibly important has happened, you have committed to the process of change.
+    If you don't give up, you still have a chance. And when you are small, you have to be very focused and rely on your brain, not your strength.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+Jack Ma
 </p>
 
 ---
