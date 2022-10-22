@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年10月21日の名言**
+### **2022年10月22日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you don't give up, you still have a chance. And when you are small, you have to be very focused and rely on your brain, not your strength.
+    Stop complaining. Start creating.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Jack Ma
+Dale Patridge
 </p>
 
 ---
