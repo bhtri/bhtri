@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年10月22日の名言**
+### **2022年10月23日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Stop complaining. Start creating.
+    Think in terms of opportunities and solutions instead of problems, disappointment, and failure.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Dale Patridge
+Lorii Myers
 </p>
 
 ---
