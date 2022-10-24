@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年10月23日の名言**
+### **2022年10月24日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Think in terms of opportunities and solutions instead of problems, disappointment, and failure.
+    Don't count the days; make the days count.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+Mohamad Ali
 </p>
 
 ---
