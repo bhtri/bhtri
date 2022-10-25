@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年10月24日の名言**
+### **2022年10月25日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Don't count the days; make the days count.
+    The journey of a thousand miles begins with one step.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Mohamad Ali
+Lao Tzu
 </p>
 
 ---
