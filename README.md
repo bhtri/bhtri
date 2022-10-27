@@ -12,16 +12,16 @@
 ###
 
 ---
-### **{%TITLE%}**
+### **2022年10月27日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    {%QUOTE%}
+    If you get up in the morning and think the future is going to be better, it is a bright day. Otherwise, it's not.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-{%AUTHOR%}
+Elon Musk
 </p>
 
 ---
