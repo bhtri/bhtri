@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年10月28日の名言**
+### **{%TITLE%}**
 
 <p align="center" style="font-size:20px">
   <q>
-    You gotta commit. You've gotta go out there and improvise and you've gotta be completely unafraid to die. You've got to be able to take a chance to die. And you have to die lots. You have to die all the time.
+    {%QUOTE%}
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Bill Murray
+{%AUTHOR%}
 </p>
 
 ---
