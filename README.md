@@ -12,16 +12,16 @@
 ###
 
 ---
-### **{%TITLE%}**
+### **2022年10月30日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    {%QUOTE%}
+    A man who has no imagination has no wings.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-{%AUTHOR%}
+Mohamad Ali
 </p>
 
 ---
