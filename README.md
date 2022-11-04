@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年11月03日の名言**
+### **{%TITLE%}**
 
 <p align="center" style="font-size:20px">
   <q>
-    A show of confidence raises the bar
+    {%QUOTE%}
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+{%AUTHOR%}
 </p>
 
 ---
