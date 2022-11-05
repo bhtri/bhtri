@@ -12,16 +12,16 @@
 ###
 
 ---
-### **{%TITLE%}**
+### **2022年11月05日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    {%QUOTE%}
+    Stress is like a pulse, if you have it you are alive.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-{%AUTHOR%}
+Steve Maraboli
 </p>
 
 ---
