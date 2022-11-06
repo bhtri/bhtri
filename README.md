@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年11月05日の名言**
+### **2022年11月06日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Stress is like a pulse, if you have it you are alive.
+    Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Steve Maraboli
+Brene Brown
 </p>
 
 ---
