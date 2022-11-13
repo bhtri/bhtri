@@ -11,12 +11,12 @@ jobs:
 
     steps:
     - name: Init
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
 
     - name: Setup node
-      uses: actions/setup-node@v1
+      uses: actions/setup-node@v3
       with:
-        node-version: 12.16.1
+        node-version: 16
 
     - name: Generate quote
       run: npm ci && npm run generate
