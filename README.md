@@ -12,16 +12,16 @@
 ###
 
 ---
-### **{%TITLE%}**
+### **2022年11月14日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    {%QUOTE%}
+    It is easy to sit up and take notice, What is difficult is getting up and taking action.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-{%AUTHOR%}
+Honore de Balzac
 </p>
 
 ---
