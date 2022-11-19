@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年11月18日の名言**
+### **2022年11月19日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    The determination to win is the better part of winning.
+    If you're changing the world, you're working on important things. You're excited to get up in the morning.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Daisaku Ikeda
+Larry Page
 </p>
 
 ---
