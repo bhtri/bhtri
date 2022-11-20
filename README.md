@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年11月19日の名言**
+### **{%TITLE%}**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you're changing the world, you're working on important things. You're excited to get up in the morning.
+    {%QUOTE%}
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Larry Page
+{%AUTHOR%}
 </p>
 
 ---
