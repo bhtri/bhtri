@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年11月22日の名言**
+### **2022年11月23日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Vision without action is daydream. Action without vision is nightmare..
+    Do the best you can until you know better. Then when you know better, do better.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Japanese Proverb
+Maya Angelou
 </p>
 
 ---
