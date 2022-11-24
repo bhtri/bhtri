@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年11月23日の名言**
+### **{%TITLE%}**
 
 <p align="center" style="font-size:20px">
   <q>
-    Do the best you can until you know better. Then when you know better, do better.
+    {%QUOTE%}
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Maya Angelou
+{%AUTHOR%}
 </p>
 
 ---
