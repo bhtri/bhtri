@@ -12,16 +12,16 @@
 ###
 
 ---
-### **{%TITLE%}**
+### **2022年12月04日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    {%QUOTE%}
+    You will never win if you never begin.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-{%AUTHOR%}
+Helen Rowland
 </p>
 
 ---
