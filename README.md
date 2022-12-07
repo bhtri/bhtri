@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年12月06日の名言**
+### **{%TITLE%}**
 
 <p align="center" style="font-size:20px">
   <q>
-    Do not let what you cannot do interfere with what you can do.
+    {%QUOTE%}
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John Wooden
+{%AUTHOR%}
 </p>
 
 ---
