@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年12月10日の名言**
+### **2022年12月11日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Once your excuses are gone, you will simply have to settle for being awesome!
+    Only a man who knows what it is like to be defeated can reach down to the bottom of his soul and come up with the extra ounce of power it takes to win when the match is even.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+Mohamad Ali
 </p>
 
 ---
