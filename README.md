@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年12月14日の名言**
+### **2022年12月15日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    The tennis ball doesn't know how old I am. The ball doesn't know if I'm a man or a woman or if I come from a communist country or not. Sport has always broken down these barriers.
+    People who are crazy enough to think they can change the world, are the ones who do.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Martina Navratilova
+Apple Computers
 </p>
 
 ---
