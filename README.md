@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年12月15日の名言**
+### **2022年12月16日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    People who are crazy enough to think they can change the world, are the ones who do.
+    What's the greater risk? Letting go of what people think or letting go of how I feel, what I believe, and who I am?
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Apple Computers
+Brene Brown
 </p>
 
 ---
