@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年12月16日の名言**
+### **2022年12月17日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    What's the greater risk? Letting go of what people think or letting go of how I feel, what I believe, and who I am?
+    Your overnight success story is always a result of everything you have done in your life until that moment.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Brene Brown
+Bel Pesce
 </p>
 
 ---
