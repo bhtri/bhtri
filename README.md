@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年12月17日の名言**
+### **2022年12月18日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Your overnight success story is always a result of everything you have done in your life until that moment.
+    Your life does not get better by chance. It gets better by change.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Bel Pesce
+Jim Rohn
 </p>
 
 ---
