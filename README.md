@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年12月18日の名言**
+### **2022年12月19日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Your life does not get better by chance. It gets better by change.
+    Where there is ruin, there is hope for a treasure.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Jim Rohn
+Rumi
 </p>
 
 ---
