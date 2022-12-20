@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年12月19日の名言**
+### **2022年12月20日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Where there is ruin, there is hope for a treasure.
+    Win any way as long as you can get away with it. Nice guys finish last.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Rumi
+Leo Durocher
 </p>
 
 ---
