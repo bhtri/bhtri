@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年12月20日の名言**
+### **2022年12月21日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Win any way as long as you can get away with it. Nice guys finish last.
+    Failure is the condiment that gives success its flavor.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Leo Durocher
+Truman Capote
 </p>
 
 ---
