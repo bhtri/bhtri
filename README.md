@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年12月21日の名言**
+### **2022年12月22日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Failure is the condiment that gives success its flavor.
+    Plant your own garden and decorate your own soul, instead of waiting for someone to bring you flowers.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Truman Capote
+Veronica A. Shoffstall
 </p>
 
 ---
