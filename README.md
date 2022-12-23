@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年12月22日の名言**
+### **2022年12月23日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Plant your own garden and decorate your own soul, instead of waiting for someone to bring you flowers.
+    Whether you think you can or think you can't, you're right..
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Veronica A. Shoffstall
+Henry Ford
 </p>
 
 ---
