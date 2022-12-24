@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年12月23日の名言**
+### **2022年12月24日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Whether you think you can or think you can't, you're right..
+    Find a purpose in life so big it will challenge every capacity to be at your best.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Henry Ford
+David O. McKay
 </p>
 
 ---
