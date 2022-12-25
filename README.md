@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年12月24日の名言**
+### **2022年12月25日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Find a purpose in life so big it will challenge every capacity to be at your best.
+    Let our advance worrying become advance thinking and planning.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-David O. McKay
+Winston Churchill
 </p>
 
 ---
