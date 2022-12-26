@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年12月25日の名言**
+### **2022年12月26日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Let our advance worrying become advance thinking and planning.
+    Own 100 percent of your focus. The most challenging of endurance drills will bring you to a level of optimal mental and physical performance.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Winston Churchill
+Lorii Myers
 </p>
 
 ---
