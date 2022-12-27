@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年12月26日の名言**
+### **2022年12月27日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Own 100 percent of your focus. The most challenging of endurance drills will bring you to a level of optimal mental and physical performance.
+    Every day you have a choice to be honest or deceptive. If you commit to telling the truth, you will win. You'll win more trust, you'll win more business, and you'll win more peace of mind. You'll break the system and be even more successful.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+Dale Patridge
 </p>
 
 ---
