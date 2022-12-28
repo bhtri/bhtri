@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年12月27日の名言**
+### **2022年12月28日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Every day you have a choice to be honest or deceptive. If you commit to telling the truth, you will win. You'll win more trust, you'll win more business, and you'll win more peace of mind. You'll break the system and be even more successful.
+    When I was a little kid, I was really scared of the dark. But then I came to understand, dark just means the absence of photons in the visible wavelength 400 to 700 nanometers. Then I thought, well it's really silly to be afraid of a lack of photons. Then I wasn't afraid of the dark anymore after that.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Dale Patridge
+Elon Musk
 </p>
 
 ---
