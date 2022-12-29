@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年12月28日の名言**
+### **2022年12月29日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    When I was a little kid, I was really scared of the dark. But then I came to understand, dark just means the absence of photons in the visible wavelength 400 to 700 nanometers. Then I thought, well it's really silly to be afraid of a lack of photons. Then I wasn't afraid of the dark anymore after that.
+    He who is not courageous enough to take risks will accomplish nothing in life.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Elon Musk
+Mohamad Ali
 </p>
 
 ---
