@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年12月29日の名言**
+### **2022年12月30日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    He who is not courageous enough to take risks will accomplish nothing in life.
+    If I work as hard as I can, I wonder how much I can do in a day?
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Mohamad Ali
+Ezra Taft Benson
 </p>
 
 ---
