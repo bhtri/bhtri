@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2022年12月30日の名言**
+### **2022年12月31日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    If I work as hard as I can, I wonder how much I can do in a day?
+    Extend beyond your preconceived limits!
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ezra Taft Benson
+Lorii Myers
 </p>
 
 ---
