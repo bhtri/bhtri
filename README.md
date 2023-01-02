@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年01月01日の名言**
+### **2023年01月02日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    You must have a positive self perception in order to transcend anything.
+    Excellence prospers in the absence of excuses.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Steve Maraboli
+Lorii Myers
 </p>
 
 ---
