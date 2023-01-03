@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年01月02日の名言**
+### **2023年01月03日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Excellence prospers in the absence of excuses.
+    Remember that you are very special, no one can play your role better than you.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+Damayanti Patra
 </p>
 
 ---
