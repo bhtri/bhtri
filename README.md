@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年01月03日の名言**
+### **2023年01月04日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Remember that you are very special, no one can play your role better than you.
+    Sustenance! Your health is always the best prescription.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Damayanti Patra
+Lorii Myers
 </p>
 
 ---
