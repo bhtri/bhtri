@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年01月04日の名言**
+### **2023年01月05日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Sustenance! Your health is always the best prescription.
+    One voice can change a room, and if one voice can change a room, then it can change a city, and if it can change a city, it can change a state, and if it change a state, it can change a nation, and if it can change a nation, it can change the world. Your voice can change the world.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+Barack Obama
 </p>
 
 ---
