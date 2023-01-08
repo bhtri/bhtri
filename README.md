@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年01月07日の名言**
+### **2023年01月08日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    The idea that everyone should slavishly work so they do something inefficiently so they keep their job - that just doesn't make any sense to me. That can't be the right answer.
+    I know for sure that what we dwell on is who we become.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Larry Page
+Oprah Winfrey
 </p>
 
 ---
