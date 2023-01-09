@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年01月08日の名言**
+### **2023年01月09日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    I know for sure that what we dwell on is who we become.
+    Winners lose much more often than losers. So if you keep losing but you're still trying, keep it up! You.. Re right on track.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Oprah Winfrey
+Matthew Keith Groves
 </p>
 
 ---
