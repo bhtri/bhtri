@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年01月09日の名言**
+### **2023年01月10日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Winners lose much more often than losers. So if you keep losing but you're still trying, keep it up! You.. Re right on track.
+    A man who has no imagination has no wings.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Matthew Keith Groves
+Mohamad Ali
 </p>
 
 ---
