@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年01月10日の名言**
+### **2023年01月11日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    A man who has no imagination has no wings.
+    The journey of a thousand miles begins with one step.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Mohamad Ali
+Lao Tzu
 </p>
 
 ---
