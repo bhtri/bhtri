@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年01月11日の名言**
+### **2023年01月12日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    The journey of a thousand miles begins with one step.
+    Winning is nice if you don't lose your integrity in the process.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lao Tzu
+Arnold Horshak
 </p>
 
 ---
