@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年01月12日の名言**
+### **2023年01月13日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Winning is nice if you don't lose your integrity in the process.
+    Winning is not everything, but the effort to win is.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Arnold Horshak
+Zig Ziglar
 </p>
 
 ---
