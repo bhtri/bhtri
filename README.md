@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年01月13日の名言**
+### **2023年01月14日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Winning is not everything, but the effort to win is.
+    Your fears, your critics, your heroes, your villains: They are fictions you perceive as reality. Choose to see through them. Choose to let them go.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Zig Ziglar
+Isaac Lidsky
 </p>
 
 ---
