@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年01月16日の名言**
+### **2023年01月17日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Think in terms of opportunities and solutions instead of problems, disappointment, and failure.
+    Great ambition is the passion of a great character. Those endowed with it may perform very good or very bad acts. All depends on the principals which direct them.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+Napoleon Bonaparte
 </p>
 
 ---
