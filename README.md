@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年01月18日の名言**
+### **2023年01月19日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    It wasn't raining when Noah built the ark..
+    Meaning is something you build into your life. You build it out of your own past, out of your affections and loyalties, out of the experience of humankind as it is passed on to you... You are the only one who can put them together into that unique pattern that will be your life.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Howard Ruff
+John Gardner
 </p>
 
 ---
