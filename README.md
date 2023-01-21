@@ -12,16 +12,19 @@
 ###
 
 ---
-### **2023年01月20日の名言**
+### **2023年01月21日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Only a man who knows what it is like to be defeated can reach down to the bottom of his soul and come up with the extra ounce of power it takes to win when the match is even.
+    One does not accumulate but eliminate.
+It is not daily increase but daily
+decrease. The height of cultivation
+always runs to simplicity.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Mohamad Ali
+Bruce Lee
 </p>
 
 ---
