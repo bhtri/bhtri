@@ -12,19 +12,16 @@
 ###
 
 ---
-### **2023年01月21日の名言**
+### **2023年01月22日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    One does not accumulate but eliminate.
-It is not daily increase but daily
-decrease. The height of cultivation
-always runs to simplicity.
+    Do not worry if you have built your castles in the air. They are where they should be. Now put the foundations under them.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Bruce Lee
+Henry David Thoreau
 </p>
 
 ---
