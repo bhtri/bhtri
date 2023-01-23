@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年01月22日の名言**
+### **2023年01月23日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Do not worry if you have built your castles in the air. They are where they should be. Now put the foundations under them.
+    Winning is nice if you don't lose your integrity in the process.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Henry David Thoreau
+Arnold Horshak
 </p>
 
 ---
