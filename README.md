@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年01月23日の名言**
+### **2023年01月24日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Winning is nice if you don't lose your integrity in the process.
+    In spite of everything I shall rise again: I will take up my pencil, which I have forsaken in my great discouragement, and I will go on with my drawing.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Arnold Horshak
+Vincent Van Gogh
 </p>
 
 ---
