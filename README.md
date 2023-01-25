@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年01月24日の名言**
+### **2023年01月25日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    In spite of everything I shall rise again: I will take up my pencil, which I have forsaken in my great discouragement, and I will go on with my drawing.
+    There's such a thin line between winning and losing.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Vincent Van Gogh
+John R. Tunis
 </p>
 
 ---
