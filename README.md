@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年01月25日の名言**
+### **2023年01月26日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    There's such a thin line between winning and losing.
+    Some men see things as they are and say why.. I dream things that never were and say why not.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John R. Tunis
+George Bernard Shaw
 </p>
 
 ---
