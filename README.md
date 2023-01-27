@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年01月26日の名言**
+### **2023年01月27日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Some men see things as they are and say why.. I dream things that never were and say why not.
+    I am an optimist. It does not seem too much use being anything else..
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-George Bernard Shaw
+Winston Churchill
 </p>
 
 ---
