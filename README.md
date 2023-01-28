@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年01月27日の名言**
+### **2023年01月28日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    I am an optimist. It does not seem too much use being anything else..
+    Stop complaining. Start creating.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Winston Churchill
+Dale Patridge
 </p>
 
 ---
