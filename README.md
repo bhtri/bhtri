@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年02月01日の名言**
+### **2023年02月02日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Regardless of how you feel inside, always try to look like a winner. Even if you are behind, a sustained look of control and confidence can give you a mental edge that results in victory.
+    When I see people stand fully in their truth, or when I see someone fall down, get back up, and say, 'Damn. That really hurt, but this is important to me and I'm going in again'-my gut reaction is, 'What a badass.'
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Arthur Ashe
+Brene Brown
 </p>
 
 ---
