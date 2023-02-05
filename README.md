@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年02月04日の名言**
+### **2023年02月05日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Feeling grateful to or appreciative of someone or something in your life actually attracts more of the things that you appreciate and value into your life.
+    Don't use all-or-nothing thinking. Take each day as its own day, and don't worry about it if you mess up one day. The most important thing you can do is just get back up on the horse.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Christiane Northrup
+Henry Cloud
 </p>
 
 ---
