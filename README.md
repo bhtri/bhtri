@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年02月06日の名言**
+### **2023年02月07日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Even if you're on the right track, you'll get run over if you just sit there..
+    Plant your own garden and decorate your own soul, instead of waiting for someone to bring you flowers.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Will Rogers
+Veronica A. Shoffstall
 </p>
 
 ---
