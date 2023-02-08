@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年02月07日の名言**
+### **2023年02月08日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Plant your own garden and decorate your own soul, instead of waiting for someone to bring you flowers.
+    Ideas are these disembodied life forms, they don't have a form, but they have a will. All they want is to be made manifest. If you can manage to open up your consciousness to an idea of living in a world of abundance, then you can believe that, constantly, ideas are trying to find human collaborators.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Veronica A. Shoffstall
+Elizabeth Gilbert
 </p>
 
 ---
