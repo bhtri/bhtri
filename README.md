@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年02月08日の名言**
+### **2023年02月09日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Ideas are these disembodied life forms, they don't have a form, but they have a will. All they want is to be made manifest. If you can manage to open up your consciousness to an idea of living in a world of abundance, then you can believe that, constantly, ideas are trying to find human collaborators.
+    Great ambition is the passion of a great character. Those endowed with it may perform very good or very bad acts. All depends on the principals which direct them.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Elizabeth Gilbert
+Napoleon Bonaparte
 </p>
 
 ---
