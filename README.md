@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年02月09日の名言**
+### **2023年02月10日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Great ambition is the passion of a great character. Those endowed with it may perform very good or very bad acts. All depends on the principals which direct them.
+    Don't be tempted to break momentum-work through it.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Napoleon Bonaparte
+Lorii Myers
 </p>
 
 ---
