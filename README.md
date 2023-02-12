@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年02月11日の名言**
+### **2023年02月12日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Your fears, your critics, your heroes, your villains: They are fictions you perceive as reality. Choose to see through them. Choose to let them go.
+    Own 100 percent of your focus. The most challenging of endurance drills will bring you to a level of optimal mental and physical performance.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Isaac Lidsky
+Lorii Myers
 </p>
 
 ---
