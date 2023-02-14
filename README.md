@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年02月13日の名言**
+### **2023年02月14日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Persistence is very important. You should not give up unless you are forced to give up.
+    If you want to make your dreams come true, the first thing you have to do is wake up.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Elon Musk
+J.M. Power
 </p>
 
 ---
