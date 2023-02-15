@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年02月14日の名言**
+### **2023年02月15日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you want to make your dreams come true, the first thing you have to do is wake up.
+    Keep a positive mind. Remember, a failed attempt doesn't make you a failure-giving up does.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-J.M. Power
+Lorii Myers
 </p>
 
 ---
