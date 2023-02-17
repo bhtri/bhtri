@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年02月16日の名言**
+### **2023年02月17日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    It is easy to sit up and take notice, What is difficult is getting up and taking action.
+    If you're not making mistakes, you're not taking risks, and that means you're not going anywhere. The key is to make mistakes faster than the competition, so you have more changes to learn and win.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Honore de Balzac
+John W. Holt, Jr.
 </p>
 
 ---
