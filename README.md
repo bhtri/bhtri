@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年02月17日の名言**
+### **2023年02月18日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you're not making mistakes, you're not taking risks, and that means you're not going anywhere. The key is to make mistakes faster than the competition, so you have more changes to learn and win.
+    When you recover or discover something that nourishes your soul and brings joy, care enough about yourself to make room for it in your life.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John W. Holt, Jr.
+Jean Shinoda Bolen
 </p>
 
 ---
