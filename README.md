@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年02月18日の名言**
+### **2023年02月19日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    When you recover or discover something that nourishes your soul and brings joy, care enough about yourself to make room for it in your life.
+    Limitations are like mirages created by your own mind. When you realise that limitation do not exist, those around you will also feel it and allow you inside their space.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Jean Shinoda Bolen
+Stephen Richards
 </p>
 
 ---
