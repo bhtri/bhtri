@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年02月19日の名言**
+### **2023年02月20日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Limitations are like mirages created by your own mind. When you realise that limitation do not exist, those around you will also feel it and allow you inside their space.
+    If we are not stretching, we are not growing. If we are not growing, we are probably not fulfilling our potential. The only person in this room that knows your potential is you.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Stephen Richards
+Kevin Turner 
 </p>
 
 ---
