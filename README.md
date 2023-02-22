@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年02月21日の名言**
+### **2023年02月22日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Stop complaining. Start creating.
+    If you cannot do great things, do small things in a great way.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Dale Patridge
+Napoleon Hill
 </p>
 
 ---
