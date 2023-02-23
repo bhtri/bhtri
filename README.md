@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年02月22日の名言**
+### **2023年02月23日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you cannot do great things, do small things in a great way.
+    Failure is the condiment that gives success its flavor.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Napoleon Hill
+Truman Capote
 </p>
 
 ---
