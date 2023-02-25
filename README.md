@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年02月24日の名言**
+### **2023年02月25日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Things are not bad in themselves, but our cowardice makes them so.
+    Life is like a camera: just focus on what is important, capture good times, develop from negative, and if things do not work out, take another shot!
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Michel de Montaigne
+Daireth Winehouse
 </p>
 
 ---
