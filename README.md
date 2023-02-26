@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年02月25日の名言**
+### **2023年02月26日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Life is like a camera: just focus on what is important, capture good times, develop from negative, and if things do not work out, take another shot!
+    We are each gifted in a unique and important way. It is our privilege and our adventure to discover our own special light
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Daireth Winehouse
+Mary Dunbar
 </p>
 
 ---
