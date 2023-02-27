@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年02月26日の名言**
+### **2023年02月27日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    We are each gifted in a unique and important way. It is our privilege and our adventure to discover our own special light
+    The man who has confidence in himself gains the confidence of others.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Mary Dunbar
+Hasidic Proverb
 </p>
 
 ---
