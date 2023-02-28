@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年02月27日の名言**
+### **2023年02月28日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    The man who has confidence in himself gains the confidence of others.
+    It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Hasidic Proverb
+Dale Carnegie
 </p>
 
 ---
