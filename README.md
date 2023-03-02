@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年03月01日の名言**
+### **2023年03月02日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    People rise to the occasion without hesitation when they feel inspired and challenged.
+    Stress is like a pulse, if you have it you are alive.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+Steve Maraboli
 </p>
 
 ---
