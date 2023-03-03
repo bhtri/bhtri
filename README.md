@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年03月02日の名言**
+### **2023年03月03日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Stress is like a pulse, if you have it you are alive.
+    Plant your own garden and decorate your own soul, instead of waiting for someone to bring you flowers.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Steve Maraboli
+Veronica A. Shoffstall
 </p>
 
 ---
