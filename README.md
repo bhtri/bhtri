@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年03月03日の名言**
+### **2023年03月04日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Plant your own garden and decorate your own soul, instead of waiting for someone to bring you flowers.
+    Each player must accept the cards life deals him or her: but once they are in hand, he or she alone must decide how to play the cards in order to win the game.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Veronica A. Shoffstall
+Voltaire
 </p>
 
 ---
