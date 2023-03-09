@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年03月08日の名言**
+### **2023年03月09日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Whether you think you can or think you can't, you're right..
+    Effort only fully releases its reward after a person refuses to quit.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Henry Ford
+Napoleon Hill
 </p>
 
 ---
