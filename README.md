@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年03月10日の名言**
+### **2023年03月11日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    I keep asking myself these three questions.. What do you have? What do you want? What will you give up?
+    Some men see things as they are and say why.. I dream things that never were and say why not.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Jack Ma
+George Bernard Shaw
 </p>
 
 ---
