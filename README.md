@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年03月11日の名言**
+### **2023年03月12日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Some men see things as they are and say why.. I dream things that never were and say why not.
+    Winning is nice if you don't lose your integrity in the process.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-George Bernard Shaw
+Arnold Horshak
 </p>
 
 ---
