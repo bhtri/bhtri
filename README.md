@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年03月14日の名言**
+### **2023年03月15日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Find a purpose in life so big it will challenge every capacity to be at your best.
+    Own 100 percent of your focus. The most challenging of endurance drills will bring you to a level of optimal mental and physical performance.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-David O. McKay
+Lorii Myers
 </p>
 
 ---
