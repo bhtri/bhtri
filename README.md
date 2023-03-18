@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年03月17日の名言**
+### **2023年03月18日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    I am an optimist. It does not seem too much use being anything else..
+    If you like what you do, and you're lucky enough to be good at it, do it for that reason.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Winston Churchill
+Phil Grimshaw
 </p>
 
 ---
