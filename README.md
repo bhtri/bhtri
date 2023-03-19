@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年03月18日の名言**
+### **2023年03月19日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you like what you do, and you're lucky enough to be good at it, do it for that reason.
+    Sustenance! Your health is always the best prescription.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Phil Grimshaw
+Lorii Myers
 </p>
 
 ---
