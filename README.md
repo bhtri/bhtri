@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年03月19日の名言**
+### **2023年03月20日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Sustenance! Your health is always the best prescription.
+    Your overnight success story is always a result of everything you have done in your life until that moment.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+Bel Pesce
 </p>
 
 ---
