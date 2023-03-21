@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年03月20日の名言**
+### **2023年03月21日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Your overnight success story is always a result of everything you have done in your life until that moment.
+    A man can suffer to bring a group of people to success, not the other way.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Bel Pesce
+Ganesh
 </p>
 
 ---
