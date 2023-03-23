@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年03月22日の名言**
+### **2023年03月23日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    It is easy to sit up and take notice, What is difficult is getting up and taking action.
+    If you don't give up, you still have a chance. And when you are small, you have to be very focused and rely on your brain, not your strength.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Honore de Balzac
+Jack Ma
 </p>
 
 ---
