@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年03月23日の名言**
+### **2023年03月24日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you don't give up, you still have a chance. And when you are small, you have to be very focused and rely on your brain, not your strength.
+    The tennis ball doesn't know how old I am. The ball doesn't know if I'm a man or a woman or if I come from a communist country or not. Sport has always broken down these barriers.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Jack Ma
+Martina Navratilova
 </p>
 
 ---
