@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年03月25日の名言**
+### **2023年03月26日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Beyond a certain point there is no return. This point has to be reached.
+    When there is no distraction, there is clarity.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Franz Kafka
+Lorii Myers
 </p>
 
 ---
