@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年03月26日の名言**
+### **2023年03月27日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    When there is no distraction, there is clarity.
+    Do not let what you cannot do interfere with what you can do.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lorii Myers
+John Wooden
 </p>
 
 ---
