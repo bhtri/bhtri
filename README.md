@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年03月27日の名言**
+### **2023年03月28日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Do not let what you cannot do interfere with what you can do.
+    Do the best you can until you know better. Then when you know better, do better.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John Wooden
+Maya Angelou
 </p>
 
 ---
