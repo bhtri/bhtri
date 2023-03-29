@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年03月28日の名言**
+### **2023年03月29日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Do the best you can until you know better. Then when you know better, do better.
+    Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma - which is living with the results of other people's thinking. Don't let the noise of other's opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Maya Angelou
+Steve Jobs
 </p>
 
 ---
