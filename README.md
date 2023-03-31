@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年03月30日の名言**
+### **2023年03月31日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Don't be afraid of losing, be afraid of playing a game and not learning something.
+    Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Dan Heisman
+Brene Brown
 </p>
 
 ---
