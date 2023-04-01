@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年03月31日の名言**
+### **2023年04月01日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.
+    Great things are done by a series of small things brought together.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Brene Brown
+Vincent Van Gogh
 </p>
 
 ---
