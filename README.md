@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年04月03日の名言**
+### **2023年04月04日の名言**
 
 <p align="center" style="font-size:20px">
   <q>
-    I always advice people - Don't wait ! Do something when you are young, when you have no responsibilities. Invest time in yourself to have great Experiences that are going to enrich you, then you can't possibly lose.
+    Hang Out with People Who are Better than You.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Steve Jobs
+Warren Buffett
 </p>
 
 ---
