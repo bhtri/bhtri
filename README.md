@@ -12,16 +12,16 @@
 ###
 
 ---
-### **2023年04月04日の名言**
+### **{%TITLE%}**
 
 <p align="center" style="font-size:20px">
   <q>
-    Hang Out with People Who are Better than You.
+    {%QUOTE%}
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Warren Buffett
+{%AUTHOR%}
 </p>
 
 ---
