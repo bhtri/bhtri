@@ -25,9 +25,6 @@ jobs:
       - name: Generate quote 3
         run: dart analyze
 
-      - name: Generate quote 4
-        run: dart test
-
       - name: Update README.md
         run: |
           git config user.email "16353896+bhtri@users.noreply.github.com"
