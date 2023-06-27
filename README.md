@@ -29,12 +29,12 @@
 
 <p align="center" style="font-size:20px">
   <q>
-    There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.
+    The world is round so that friendship may encircle it.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Epictetus
+Pierre Teilhard de Chardin
 </p>
 
 ---
