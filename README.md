@@ -29,7 +29,7 @@
 
 <p align="center" style="font-size:20px">
   <q>
-    Each friend represents a world in us, a world not born until they arrive, and it is only by this meeting that a new world is born.
+    The dream was always running ahead of me. To catch up, to live for a moment in unison with it, that was the miracle.
   </q>
 </p>
 
