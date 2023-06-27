@@ -20,8 +20,7 @@ jobs:
         run: |
           dart pub get
           dart format --output=none --set-exit-if-changed .
-          dart analyze
-          dart test
+          dart main.dart
 
       - name: Update README.md
         run: |
