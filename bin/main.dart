@@ -75,6 +75,5 @@ void main() async {
   }
 }
 
-
 // https://qiita.com/s-yoshiki/items/436bbe1f7160b610b05c
 // https://simpleicons.org/
