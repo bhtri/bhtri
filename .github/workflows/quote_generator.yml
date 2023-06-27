@@ -17,9 +17,10 @@ jobs:
       uses: dart-lang/setup-dart@v1
 
     - name: Generate quote
-      run: dart pub get
-      run: dart format --output=none --set-exit-if-changed .
-      run: dart main.dart
+      run: |
+        dart pub get
+        dart format --output=none --set-exit-if-changed .
+        dart main.dart
 
     - name: Update README.md
       run: |
