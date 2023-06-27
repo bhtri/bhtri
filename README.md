@@ -29,12 +29,12 @@
 
 <p align="center" style="font-size:20px">
   <q>
-    True happiness means forging a strong spirit that is undefeated, no matter how trying our circumstances.
+    One secret of success in life is for a man to be ready for his opportunity when it comes.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Daisaku Ikeda
+Benjamin Disraeli
 </p>
 
 ---
