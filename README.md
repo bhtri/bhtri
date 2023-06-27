@@ -29,12 +29,12 @@
 
 <p align="center" style="font-size:20px">
   <q>
-    It is impossible to escape the impression that people commonly use false standards of measurement — that they seek power, success and wealth for themselves and admire them in others, and that they underestimate what is of true value in life.
+    True happiness means forging a strong spirit that is undefeated, no matter how trying our circumstances.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Sigmund Freud
+Daisaku Ikeda
 </p>
 
 ---
