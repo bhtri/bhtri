@@ -4,6 +4,7 @@
 </p>
 
 ## I'm a Developer, and .... 🤔!
+
 - 👋 I’m currently learning Flutter ! :sunglasses:
 - 🌱 2023 Goals: Contribute more to flutter community, and do more ...
 - ⚡ Fun fact: I love nature and love climbing.
@@ -23,16 +24,17 @@
 ###
 
 ---
+
 ### **2023年06月27日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Autumn is a second spring when every leaf is a flower.
+    There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Albert Camus
+Epictetus
 </p>
 
 ---
@@ -49,3 +51,7 @@ Albert Camus
 ![github contribution grid snake animation](https://raw.githubusercontent.com/bhtri/bhtri/output/github-contribution-grid-snake.svg)
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
+
+![gitartwork](gitartwork.svg)
+
+_generated with [jasineri/gitartwork](https://github.com/jasineri/gitartwork)_

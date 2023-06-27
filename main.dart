@@ -6,34 +6,39 @@ import 'package:http/http.dart' as http;
 import 'package:intl/intl.dart';
 
 void main() async {
-  Map<String, dynamic> map = await getRandomQuotes();
-  final DateFormat outputFormat = DateFormat('yyyy年MM月dd日');
-  final String quote = map['content'] ?? '';
-  final String author = map['author'] ?? '';
-  final String title = outputFormat.format(DateTime.now());
-  String strReadme = '';
-
-  // https://api.dart.dev/stable/3.0.5/dart-io/File-class.html
-  final File file_template = File('Template.md');
-  Stream<String> lines = file_template.openRead().transform(utf8.decoder).transform(LineSplitter());
   try {
-    await for (String line in lines) {
-      strReadme += '$line\n';
+    Map<String, dynamic> map = await getRandomQuotes();
+    final DateFormat outputFormat = DateFormat('yyyy年MM月dd日');
+    final String quote = map['content'] ?? '';
+    final String author = map['author'] ?? '';
+    final String title = outputFormat.format(DateTime.now());
+    String strReadme = '';
+
+    // https://api.dart.dev/stable/3.0.5/dart-io/File-class.html
+    final File file_template = File('Template.md');
+    Stream<String> lines = file_template.openRead().transform(utf8.decoder).transform(LineSplitter());
+    try {
+      await for (String line in lines) {
+        strReadme += '$line\n';
+      }
+    } catch (e, s) {
+      print('Exception details:\n $e');
+      print('Stack trace:\n $s');
+      return;
     }
+
+    strReadme = strReadme.replaceAll(RegExp(r'{%QUOTE%}'), quote);
+    strReadme = strReadme.replaceAll(RegExp(r'{%AUTHOR%}'), author);
+    strReadme = strReadme.replaceAll(RegExp(r'{%TITLE%}'), title);
+
+    final File file_readme = File('README.md');
+    file_readme.writeAsString(strReadme, mode: FileMode.write, encoding: utf8);
+
+    print('Done!!!');
   } catch (e, s) {
     print('Exception details:\n $e');
     print('Stack trace:\n $s');
-    return;
   }
-
-  strReadme = strReadme.replaceAll(RegExp(r'{%QUOTE%}'), quote);
-  strReadme = strReadme.replaceAll(RegExp(r'{%AUTHOR%}'), author);
-  strReadme = strReadme.replaceAll(RegExp(r'{%TITLE%}'), title);
-
-  final File file_readme = File('README.md');
-  file_readme.writeAsString(strReadme, mode: FileMode.write, encoding: utf8);
-
-  print('Done!!!');
 }
 
 Future<Map<String, dynamic>> getRandomQuotes() async {
