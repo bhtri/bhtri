@@ -29,12 +29,12 @@
 
 <p align="center" style="font-size:20px">
   <q>
-    The world is round so that friendship may encircle it.
+    Truth, and goodness, and beauty are but different faces of the same all.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Pierre Teilhard de Chardin
+Ralph Waldo Emerson
 </p>
 
 ---
