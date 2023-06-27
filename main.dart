@@ -5,6 +5,36 @@ import 'dart:async';
 import 'package:http/http.dart' as http;
 import 'package:intl/intl.dart';
 
+Future<Map<String, dynamic>> getRandomQuotes() async {
+  try {
+    // https://github.com/lukePeavey/quotable
+    Map<String, dynamic> map = {};
+    const String domain = 'api.quotable.io';
+    const String path = '/quotes/random';
+    final Map<String, dynamic> queryParameters = {
+      'limit': '1',
+    };
+
+    final Uri uri = Uri.https(domain, path, queryParameters);
+    http.Response response = await http.get(uri);
+
+    if (response.statusCode == 200) {
+      final List<dynamic> jsonData = jsonDecode(response.body);
+      if (jsonData.isNotEmpty) {
+        map.addAll(jsonData[0]);
+      }
+    } else {
+      return Future.error(Exception('Can not get random quotes'));
+    }
+
+    return map;
+  } catch (e, s) {
+    print('Exception details:\n $e');
+    print('Stack trace:\n $s');
+    return {};
+  }
+}
+
 void main() async {
   try {
     Map<String, dynamic> map = await getRandomQuotes();
@@ -41,35 +71,6 @@ void main() async {
   }
 }
 
-Future<Map<String, dynamic>> getRandomQuotes() async {
-  try {
-    // https://github.com/lukePeavey/quotable
-    Map<String, dynamic> map = {};
-    const String domain = 'api.quotable.io';
-    const String path = '/quotes/random';
-    final Map<String, dynamic> queryParameters = {
-      'limit': '1',
-    };
-
-    final Uri uri = Uri.https(domain, path, queryParameters);
-    http.Response response = await http.get(uri);
-
-    if (response.statusCode == 200) {
-      final List<dynamic> jsonData = jsonDecode(response.body);
-      if (jsonData.isNotEmpty) {
-        map.addAll(jsonData[0]);
-      }
-    } else {
-      return Future.error(Exception('Can not get random quotes'));
-    }
-
-    return map;
-  } catch (e, s) {
-    print('Exception details:\n $e');
-    print('Stack trace:\n $s');
-    return {};
-  }
-}
 
 // https://qiita.com/s-yoshiki/items/436bbe1f7160b610b05c
 // https://simpleicons.org/
