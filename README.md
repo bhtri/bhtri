@@ -29,12 +29,12 @@
 
 <p align="center" style="font-size:20px">
   <q>
-    Truth, and goodness, and beauty are but different faces of the same all.
+    Each friend represents a world in us, a world not born until they arrive, and it is only by this meeting that a new world is born.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ralph Waldo Emerson
+Anaïs Nin
 </p>
 
 ---
