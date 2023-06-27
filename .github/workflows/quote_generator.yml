@@ -16,10 +16,17 @@ jobs:
       - name: Setup Dart SDK
         uses: dart-lang/setup-dart@v1.5.0
 
-      - name: Generate quote
-        run: |
-          dart pub get
-          dart format --output=none --set-exit-if-changed .
+      - name: Generate quote 1
+        run: dart pub get
+
+      - name: Generate quote 2
+        run: dart format --output=none --set-exit-if-changed .
+
+      - name: Generate quote 3
+        run: dart analyze
+
+      - name: Generate quote 4
+        run: dart test
 
       - name: Update README.md
         run: |
