@@ -13,13 +13,13 @@ jobs:
     - name: Init
       uses: actions/checkout@v3
 
-    - name: Setup node
-      uses: actions/setup-node@v3
-      with:
-        node-version: 16
+    - name: Setup dart lang
+      uses: dart-lang/setup-dart@v1
 
     - name: Generate quote
-      run: npm ci && npm run generate
+      run: dart pub get
+      run: dart format --output=none --set-exit-if-changed .
+      run: dart main.dart
 
     - name: Update README.md
       run: |
@@ -37,10 +37,17 @@ jobs:
       with:
         USERNAME: ${{ github.repository_owner }}
 
+    - name: Make gitartwork SVG
+      uses: jasineri/gitartwork@v1
+      with:
+        user_name: jasineri
+        text: WDVQMJ7377
+      uses: jasineri/simple-push-action@v1
+
     - name: Generate github-contribution-grid-snake.svg
       uses: Platane/snk@master
       with:
-        github_user_name: bhtri
+        github_user_name: ${{ github.repository_owner }}
         svg_out_path: dist/github-contribution-grid-snake.svg
         gif_out_path: dist/github-contribution-grid-snake.gif
 
