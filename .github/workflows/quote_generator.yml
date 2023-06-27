@@ -43,6 +43,8 @@ jobs:
       with:
         user_name: jasineri
         text: WDVQMJ7377
+
+    - name: Make gitartwork SVG push action
       uses: jasineri/simple-push-action@v1
 
     - name: Generate github-contribution-grid-snake.svg
