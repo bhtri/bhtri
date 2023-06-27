@@ -37,7 +37,11 @@ Future<Map<String, dynamic>> getRandomQuotes() async {
 
 void main() async {
   try {
-    Map<String, dynamic> map = await getRandomQuotes();
+    // Map<String, dynamic> map = await getRandomQuotes();
+    Map<String, dynamic> map = {
+      'content': 'content',
+      'author': 'author',
+    };
     final DateFormat outputFormat = DateFormat('yyyy年MM月dd日');
     final String quote = map['content'] ?? '';
     final String author = map['author'] ?? '';
