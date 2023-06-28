@@ -30,12 +30,12 @@
 
 <p align="center" style="font-size:20px">
   <q>
-    Just as a flower, which seems beautiful has color but no perfume, so are the fruitless words of a man who speaks them but does them not.
+    Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Dhammapada
+Maya Angelou
 </p>
 
 ---
