@@ -30,12 +30,12 @@
 
 <p align="center" style="font-size:20px">
   <q>
-    The greatest achievement of humanity is not its works of art, science, or technology, but the recognition of its own dysfunction.
+    Just as a flower, which seems beautiful has color but no perfume, so are the fruitless words of a man who speaks them but does them not.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Eckhart Tolle
+Dhammapada
 </p>
 
 ---
