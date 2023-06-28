@@ -1,6 +1,7 @@
-<p align='center'></p>
-<p>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I'm+%3Cwdvqmj7377+%2F%3E%2C+a+mobile+developer.;The+Best+Thing+Never+Come+Easy" alt="Typing SVG" /></a>
+<p align='center'>
+  <p>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I'm+%3Cwdvqmj7377+%2F%3E%2C+a+mobile+developer.;The+Best+Thing+Never+Come+Easy" alt="Typing SVG" /></a>
+  </p>
 </p>
 
 ## I'm a Developer, and .... 🤔!
@@ -29,12 +30,12 @@
 
 <p align="center" style="font-size:20px">
   <q>
-    All human wisdom is summed up in two words; wait and hope.
+    The greatest achievement of humanity is not its works of art, science, or technology, but the recognition of its own dysfunction.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Alexandre Dumas
+Eckhart Tolle
 </p>
 
 ---
