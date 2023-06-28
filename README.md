@@ -25,16 +25,16 @@
 
 ---
 
-### **2023年06月27日**
+### **2023年06月28日**
 
 <p align="center" style="font-size:20px">
   <q>
-    One secret of success in life is for a man to be ready for his opportunity when it comes.
+    All human wisdom is summed up in two words; wait and hope.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Benjamin Disraeli
+Alexandre Dumas
 </p>
 
 ---
