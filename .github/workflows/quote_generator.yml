@@ -24,6 +24,9 @@ jobs:
         run: |
           pwd
           ls -l
+          mkdir dist/
+          mv "/gitartwork.svg" "/dist/gitartwork.svg"
+          ls -l
 
       - name: Setup Dart SDK
         uses: dart-lang/setup-dart@v1.5.0
