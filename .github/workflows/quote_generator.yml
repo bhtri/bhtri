@@ -16,9 +16,9 @@ jobs:
       - name: Make gitartwork SVG
         steps:
           uses: jasineri/gitartwork@v1
-            with:
-              user_name: ${{ github.repository_owner }}
-              text: WDVQMJ7377
+          with:
+            user_name: ${{ github.repository_owner }}
+            text: WDVQMJ7377
           uses: jasineri/simple-push-action@v1
 
       - name: Setup Dart SDK
