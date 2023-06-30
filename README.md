@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年06月29日**
+### **2023年06月30日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Loyalty and friendship, which is to me the same, created all the wealth that I've ever thought I'd have.
+    In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ernie Banks
+Richard Bach
 </p>
 
 ---
