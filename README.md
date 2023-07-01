@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年06月30日**
+### **2023年07月01日**
 
 <p align="center" style="font-size:20px">
   <q>
-    In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice.
+    It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Richard Bach
+Leonardo da Vinci
 </p>
 
 ---
