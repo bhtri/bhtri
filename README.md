@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年07月01日**
+### **2023年07月02日**
 
 <p align="center" style="font-size:20px">
   <q>
-    It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things.
+    Each misfortune you encounter will carry in it the seed of tomorrows good luck.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Leonardo da Vinci
+Og Mandino
 </p>
 
 ---
