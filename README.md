@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年07月02日**
+### **2023年07月03日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Each misfortune you encounter will carry in it the seed of tomorrows good luck.
+    We should all be thankful for those people who rekindle the inner spirit.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Og Mandino
+Albert Schweitzer
 </p>
 
 ---
