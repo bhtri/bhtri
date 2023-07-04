@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年07月03日**
+### **2023年07月04日**
 
 <p align="center" style="font-size:20px">
   <q>
-    We should all be thankful for those people who rekindle the inner spirit.
+    Freedom is what you do with what's been done to you.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Albert Schweitzer
+Jean-Paul Sartre
 </p>
 
 ---
