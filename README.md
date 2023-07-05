@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年07月04日**
+### **2023年07月05日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Freedom is what you do with what's been done to you.
+    In all things of nature there is something of the marvelous.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Jean-Paul Sartre
+Aristotle
 </p>
 
 ---
