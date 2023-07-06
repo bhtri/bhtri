@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年07月05日**
+### **2023年07月06日**
 
 <p align="center" style="font-size:20px">
   <q>
-    In all things of nature there is something of the marvelous.
+    Bodily exercise, when compulsory, does no harm to the body; but knowledge which is acquired under compulsion obtains no hold on the mind.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Aristotle
+Plato
 </p>
 
 ---
