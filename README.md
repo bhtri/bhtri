@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年07月06日**
+### **2023年07月07日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Bodily exercise, when compulsory, does no harm to the body; but knowledge which is acquired under compulsion obtains no hold on the mind.
+    The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Plato
+Margaret Chase Smith
 </p>
 
 ---
