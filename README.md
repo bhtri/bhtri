@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年07月07日**
+### **2023年07月08日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character.
+    Radiate boundless love towards the entire world — above, below, and across — unhindered, without ill will, without enmity.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Margaret Chase Smith
+The Buddha
 </p>
 
 ---
