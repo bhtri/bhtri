@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年07月08日**
+### **2023年07月09日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Radiate boundless love towards the entire world — above, below, and across — unhindered, without ill will, without enmity.
+    Don't worry about people stealing your ideas. If your ideas are any good, you'll have to ram them down people's throats.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-The Buddha
+Howard H. Aiken
 </p>
 
 ---
