@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年07月09日**
+### **2023年07月10日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Don't worry about people stealing your ideas. If your ideas are any good, you'll have to ram them down people's throats.
+    He who is contented is rich.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Howard H. Aiken
+Laozi
 </p>
 
 ---
