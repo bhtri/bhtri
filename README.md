@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年07月10日**
+### **2023年07月11日**
 
 <p align="center" style="font-size:20px">
   <q>
-    He who is contented is rich.
+    Who sows virtue reaps honor.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Laozi
+Leonardo da Vinci
 </p>
 
 ---
