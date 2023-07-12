@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年07月11日**
+### **2023年07月12日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Who sows virtue reaps honor.
+    It is a characteristic of wisdom not to do desperate things.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Leonardo da Vinci
+Henry David Thoreau
 </p>
 
 ---
