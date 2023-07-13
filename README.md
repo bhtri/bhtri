@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年07月12日**
+### **2023年07月13日**
 
 <p align="center" style="font-size:20px">
   <q>
-    It is a characteristic of wisdom not to do desperate things.
+    The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Henry David Thoreau
+Booker T. Washington
 </p>
 
 ---
