@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年07月13日**
+### **2023年07月14日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts.
+    I don't believe in failure. It's not failure if you enjoyed the process.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Booker T. Washington
+Oprah Winfrey
 </p>
 
 ---
