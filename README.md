@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年07月14日**
+### **2023年07月16日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I don't believe in failure. It's not failure if you enjoyed the process.
+    Love does not consist of gazing at each other, but in looking together in the same direction.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Oprah Winfrey
+Antoine de Saint-Exupéry
 </p>
 
 ---
