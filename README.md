@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年07月16日**
+### **2023年07月17日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Love does not consist of gazing at each other, but in looking together in the same direction.
+    I don't turn to greeting cards for wisdom and advice, but they are a fine reflection of the general drift of the culture.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Antoine de Saint-Exupéry
+Susan Orlean
 </p>
 
 ---
