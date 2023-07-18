@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年07月17日**
+### **2023年07月18日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I don't turn to greeting cards for wisdom and advice, but they are a fine reflection of the general drift of the culture.
+    Give, even if you only have a little.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Susan Orlean
+The Buddha
 </p>
 
 ---
