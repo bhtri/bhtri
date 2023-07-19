@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年07月18日**
+### **2023年07月19日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Give, even if you only have a little.
+    Friendship is essentially a partnership.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-The Buddha
+Aristotle
 </p>
 
 ---
