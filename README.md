@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年07月19日**
+### **2023年07月20日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Friendship is essentially a partnership.
+    Technology frightens me to death. It's designed by engineers to impress other engineers. And they always come with instruction booklets that are written by engineers for other engineers — which is why almost no technology ever works.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Aristotle
+John Cleese
 </p>
 
 ---
