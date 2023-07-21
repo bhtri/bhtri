@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年07月20日**
+### **2023年07月21日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Technology frightens me to death. It's designed by engineers to impress other engineers. And they always come with instruction booklets that are written by engineers for other engineers — which is why almost no technology ever works.
+    If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John Cleese
+Confucius
 </p>
 
 ---
