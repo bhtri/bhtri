@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年07月21日**
+### **2023年07月22日**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?
+    My friends are my estate.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Confucius
+Emily Dickinson
 </p>
 
 ---
