@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年07月22日**
+### **2023年07月23日**
 
 <p align="center" style="font-size:20px">
   <q>
-    My friends are my estate.
+    Small opportunities are often the beginning of great enterprises.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Emily Dickinson
+Demosthenes
 </p>
 
 ---
