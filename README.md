@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年07月23日**
+### **2023年07月24日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Small opportunities are often the beginning of great enterprises.
+    If a man watches three football games in a row, he should be declared legally dead.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Demosthenes
+Erma Bombeck
 </p>
 
 ---
