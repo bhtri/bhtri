@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年07月24日**
+### **2023年07月25日**
 
 <p align="center" style="font-size:20px">
   <q>
-    If a man watches three football games in a row, he should be declared legally dead.
+    Without passion man is a mere latent force and possibility, like the flint which awaits the shock of the iron before it can give forth its spark.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Erma Bombeck
+Henri-Frédéric Amiel
 </p>
 
 ---
