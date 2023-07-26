@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年07月25日**
+### **2023年07月26日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Without passion man is a mere latent force and possibility, like the flint which awaits the shock of the iron before it can give forth its spark.
+    If the stars should appear but one night every thousand years how man would marvel and adore.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Henri-Frédéric Amiel
+Ralph Waldo Emerson
 </p>
 
 ---
