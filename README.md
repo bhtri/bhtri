@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年07月26日**
+### **2023年07月27日**
 
 <p align="center" style="font-size:20px">
   <q>
-    If the stars should appear but one night every thousand years how man would marvel and adore.
+    The greatest obstacle to connecting with our joy is resentment.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ralph Waldo Emerson
+Pema Chödrön
 </p>
 
 ---
