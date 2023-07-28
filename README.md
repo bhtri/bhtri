@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年07月27日**
+### **2023年07月28日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The greatest obstacle to connecting with our joy is resentment.
+    Wisdom and penetration are the fruit of experience, not the lessons of retirement and leisure. Great necessities call out great virtues.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Pema Chödrön
+Abigail Adams
 </p>
 
 ---
