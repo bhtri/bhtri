@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年07月28日**
+### **2023年07月29日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Wisdom and penetration are the fruit of experience, not the lessons of retirement and leisure. Great necessities call out great virtues.
+    Do not turn back when you are just at the goal.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Abigail Adams
+Publilius Syrus
 </p>
 
 ---
