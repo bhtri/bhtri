@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年07月29日**
+### **2023年07月30日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Do not turn back when you are just at the goal.
+    Success in business requires training and discipline and hard work. But if you're not frightened by these things, the opportunities are just as great today as they ever were.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Publilius Syrus
+David Rockefeller
 </p>
 
 ---
