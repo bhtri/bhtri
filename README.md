@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年07月31日**
+### **2023年08月01日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Both formerly and now, it is only suffering that I describe, and the cessation of suffering.
+    On every thorn, delightful wisdom grows, in every rill a sweet instruction flows.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-The Buddha
+Edward Young
 </p>
 
 ---
