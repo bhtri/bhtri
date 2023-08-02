@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年08月01日**
+### **2023年08月02日**
 
 <p align="center" style="font-size:20px">
   <q>
-    On every thorn, delightful wisdom grows, in every rill a sweet instruction flows.
+    The sum of wisdom is that time is never lost that is devoted to work.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Edward Young
+Ralph Waldo Emerson
 </p>
 
 ---
