@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年08月02日**
+### **2023年08月03日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The sum of wisdom is that time is never lost that is devoted to work.
+    Half the lies they tell about me aren't true.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ralph Waldo Emerson
+Yogi Berra
 </p>
 
 ---
