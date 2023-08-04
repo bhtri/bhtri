@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年08月03日**
+### **2023年08月04日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Half the lies they tell about me aren't true.
+    Lots of people want to ride with you in the limo, but what you want is someone who will take the bus with you when the limo breaks down.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Yogi Berra
+Oprah Winfrey
 </p>
 
 ---
