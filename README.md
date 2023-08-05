@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年08月04日**
+### **2023年08月05日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Lots of people want to ride with you in the limo, but what you want is someone who will take the bus with you when the limo breaks down.
+    It is through science that we prove, but through intuition that we discover.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Oprah Winfrey
+Henri Poincaré
 </p>
 
 ---
