@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年08月05日**
+### **2023年08月06日**
 
 <p align="center" style="font-size:20px">
   <q>
-    It is through science that we prove, but through intuition that we discover.
+    I begin with an idea and then it becomes something else.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Henri Poincaré
+Pablo Picasso
 </p>
 
 ---
