@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年08月06日**
+### **2023年08月07日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I begin with an idea and then it becomes something else.
+    I know where I'm going and I know the truth, and I don't have to be what you want me to be. I'm free to be what I want.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Pablo Picasso
+Muhammad Ali
 </p>
 
 ---
