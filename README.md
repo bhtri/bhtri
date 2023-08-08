@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年08月07日**
+### **2023年08月08日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I know where I'm going and I know the truth, and I don't have to be what you want me to be. I'm free to be what I want.
+    You are that vast thing that you see far, far off with great telescopes.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Muhammad Ali
+Alan Watts
 </p>
 
 ---
