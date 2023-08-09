@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年08月08日**
+### **2023年08月09日**
 
 <p align="center" style="font-size:20px">
   <q>
-    You are that vast thing that you see far, far off with great telescopes.
+    The cautious seldom err.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Alan Watts
+Confucius
 </p>
 
 ---
