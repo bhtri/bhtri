@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年08月09日**
+### **2023年08月10日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The cautious seldom err.
+    One who is too insistent on his own views, finds few to agree with him.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Confucius
+Laozi
 </p>
 
 ---
