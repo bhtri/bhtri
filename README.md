@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年08月10日**
+### **2023年08月11日**
 
 <p align="center" style="font-size:20px">
   <q>
-    One who is too insistent on his own views, finds few to agree with him.
+    When deeds and words are in accord, the whole world is transformed.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Laozi
+Zhuang Zhou
 </p>
 
 ---
