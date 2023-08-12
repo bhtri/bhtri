@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年08月11日**
+### **2023年08月12日**
 
 <p align="center" style="font-size:20px">
   <q>
-    When deeds and words are in accord, the whole world is transformed.
+    Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Zhuang Zhou
+Winston Churchill
 </p>
 
 ---
