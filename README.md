@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年08月12日**
+### **2023年08月13日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen.
+    If facts are the seeds that later produce knowledge and wisdom, then the emotions and the impressions of the senses are the fertile soil in which the seeds must grow.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Winston Churchill
+Rachel Carson
 </p>
 
 ---
