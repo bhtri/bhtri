@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年08月13日**
+### **2023年08月14日**
 
 <p align="center" style="font-size:20px">
   <q>
-    If facts are the seeds that later produce knowledge and wisdom, then the emotions and the impressions of the senses are the fertile soil in which the seeds must grow.
+    You were not born a winner, and you were not born a loser. You are what you make yourself be.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Rachel Carson
+Lou Holtz
 </p>
 
 ---
