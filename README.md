@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年08月14日**
+### **2023年08月15日**
 
 <p align="center" style="font-size:20px">
   <q>
-    You were not born a winner, and you were not born a loser. You are what you make yourself be.
+    Self-trust is the first secret of success.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lou Holtz
+Ralph Waldo Emerson
 </p>
 
 ---
