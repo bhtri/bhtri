@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年08月15日**
+### **2023年08月16日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Self-trust is the first secret of success.
+    Honesty is the first chapter in the book of wisdom.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ralph Waldo Emerson
+Thomas Jefferson
 </p>
 
 ---
