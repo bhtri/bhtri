@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年08月16日**
+### **2023年08月17日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Honesty is the first chapter in the book of wisdom.
+    A man who doesn't trust himself can never really trust anyone else.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Thomas Jefferson
+Jean François Paul de Gondi
 </p>
 
 ---
