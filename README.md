@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年08月17日**
+### **2023年08月18日**
 
 <p align="center" style="font-size:20px">
   <q>
-    A man who doesn't trust himself can never really trust anyone else.
+    Don't talk about what you have done or what you are going to do.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Jean François Paul de Gondi
+Thomas Jefferson
 </p>
 
 ---
