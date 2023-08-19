@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年08月18日**
+### **2023年08月19日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Don't talk about what you have done or what you are going to do.
+    Everyone thinks of changing the world, but no one thinks of changing himself.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Thomas Jefferson
+Leo Tolstoy
 </p>
 
 ---
