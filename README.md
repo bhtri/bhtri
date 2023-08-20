@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年08月19日**
+### **2023年08月20日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Everyone thinks of changing the world, but no one thinks of changing himself.
+    You can't shake hands with a clenched fist.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Leo Tolstoy
+Indira Gandhi
 </p>
 
 ---
