@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年08月20日**
+### **2023年08月21日**
 
 <p align="center" style="font-size:20px">
   <q>
-    You can't shake hands with a clenched fist.
+    Absence makes the heart grow fonder.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Indira Gandhi
+Thomas Haynes Bayly
 </p>
 
 ---
