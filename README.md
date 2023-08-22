@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年08月21日**
+### **2023年08月22日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Absence makes the heart grow fonder.
+    It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Thomas Haynes Bayly
+Dalai Lama
 </p>
 
 ---
