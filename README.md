@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年08月22日**
+### **2023年08月23日**
 
 <p align="center" style="font-size:20px">
   <q>
-    It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others.
+    Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Dalai Lama
+Thomas Edison
 </p>
 
 ---
