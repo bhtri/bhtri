@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年08月23日**
+### **2023年08月24日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.
+    Technology is anything that wasn't around when you were born.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Thomas Edison
+Man Ray
 </p>
 
 ---
