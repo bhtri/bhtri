@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年08月24日**
+### **2023年08月25日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Technology is anything that wasn't around when you were born.
+    Experience is simply the name we give our mistakes.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Man Ray
+Oscar Wilde
 </p>
 
 ---
