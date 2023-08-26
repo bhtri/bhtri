@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年08月25日**
+### **2023年08月26日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Experience is simply the name we give our mistakes.
+    The secret of business is to know something that nobody else knows.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Oscar Wilde
+Aristotle Onassis
 </p>
 
 ---
