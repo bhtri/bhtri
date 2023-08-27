@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年08月26日**
+### **2023年08月27日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The secret of business is to know something that nobody else knows.
+    It is in the nature of things that joy arises in a person free from remorse.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Aristotle Onassis
+The Buddha
 </p>
 
 ---
