@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年08月27日**
+### **2023年08月28日**
 
 <p align="center" style="font-size:20px">
   <q>
-    It is in the nature of things that joy arises in a person free from remorse.
+    Love is flower like; Friendship is like a sheltering tree.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-The Buddha
+Samuel Taylor Coleridge
 </p>
 
 ---
