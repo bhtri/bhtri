@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年08月28日**
+### **2023年08月29日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Love is flower like; Friendship is like a sheltering tree.
+    Our passion is our strength.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Samuel Taylor Coleridge
+Billie Armstrong
 </p>
 
 ---
