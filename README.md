@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年08月29日**
+### **2023年08月30日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Our passion is our strength.
+    Start with what is right rather than what is acceptable.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Billie Armstrong
+Franz Kafka
 </p>
 
 ---
