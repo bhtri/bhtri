@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年08月30日**
+### **2023年08月31日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Start with what is right rather than what is acceptable.
+    Life isn't about finding yourself. Life is about creating yourself.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Franz Kafka
+Bernard Shaw
 </p>
 
 ---
