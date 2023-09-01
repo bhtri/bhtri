@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年08月31日**
+### **2023年09月01日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Life isn't about finding yourself. Life is about creating yourself.
+    America's freedom of religion, and freedom from religion, offers every wisdom tradition an opportunity to address our soul-deep needs: Christianity, Judaism, Islam, Buddhism, Hinduism, secular humanism, agnosticism and atheism among others.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Bernard Shaw
+Parker Palmer
 </p>
 
 ---
