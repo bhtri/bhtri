@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年09月01日**
+### **2023年09月02日**
 
 <p align="center" style="font-size:20px">
   <q>
-    America's freedom of religion, and freedom from religion, offers every wisdom tradition an opportunity to address our soul-deep needs: Christianity, Judaism, Islam, Buddhism, Hinduism, secular humanism, agnosticism and atheism among others.
+    Gratitude is not only the greatest of virtues, but the parent of all the others.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Parker Palmer
+Cicero
 </p>
 
 ---
