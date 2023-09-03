@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年09月02日**
+### **2023年09月03日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Gratitude is not only the greatest of virtues, but the parent of all the others.
+    Only when we are no longer afraid do we begin to live.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Cicero
+Dorothy Thompson
 </p>
 
 ---
