@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年09月03日**
+### **2023年09月04日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Only when we are no longer afraid do we begin to live.
+    If one is estranged from oneself, then one is estranged from others too. If one is out of touch with oneself, then one cannot touch others.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Dorothy Thompson
+Anne Lindbergh
 </p>
 
 ---
