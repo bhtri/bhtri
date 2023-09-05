@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年09月04日**
+### **2023年09月05日**
 
 <p align="center" style="font-size:20px">
   <q>
-    If one is estranged from oneself, then one is estranged from others too. If one is out of touch with oneself, then one cannot touch others.
+    A dream is your creative vision for your life in the future. You must break out of your current comfort zone and become comfortable with the unfamiliar and the unknown.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Anne Lindbergh
+Denis Waitley
 </p>
 
 ---
