@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年09月05日**
+### **2023年09月06日**
 
 <p align="center" style="font-size:20px">
   <q>
-    A dream is your creative vision for your life in the future. You must break out of your current comfort zone and become comfortable with the unfamiliar and the unknown.
+    Good timber does not grow with ease; the stronger the wind, the stronger the trees.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Denis Waitley
+J. Willard Marriott
 </p>
 
 ---
