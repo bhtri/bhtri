@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年09月06日**
+### **2023年09月07日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Good timber does not grow with ease; the stronger the wind, the stronger the trees.
+    The mark of your ignorance is the depth of your belief in injustice and tragedy. What the caterpillar calls the end of the world, the Master calls the butterfly.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-J. Willard Marriott
+Richard Bach
 </p>
 
 ---
