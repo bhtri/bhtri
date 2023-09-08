@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年09月07日**
+### **2023年09月08日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The mark of your ignorance is the depth of your belief in injustice and tragedy. What the caterpillar calls the end of the world, the Master calls the butterfly.
+    The things that one most wants to do are the things that are probably most worth doing.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Richard Bach
+Winifred Holtby
 </p>
 
 ---
