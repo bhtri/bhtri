@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年09月08日**
+### **2023年09月09日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The things that one most wants to do are the things that are probably most worth doing.
+    Life is what happens while you are making other plans.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Winifred Holtby
+John Lennon
 </p>
 
 ---
