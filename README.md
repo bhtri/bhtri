@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年09月09日**
+### **2023年09月10日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Life is what happens while you are making other plans.
+    Take rest; a field that has rested gives a bountiful crop.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John Lennon
+Ovid
 </p>
 
 ---
