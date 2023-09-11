@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年09月10日**
+### **2023年09月11日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Take rest; a field that has rested gives a bountiful crop.
+    You always have two choices: your commitment versus your fear.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ovid
+Sammy Davis Jr.
 </p>
 
 ---
