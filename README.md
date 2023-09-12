@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年09月11日**
+### **2023年09月12日**
 
 <p align="center" style="font-size:20px">
   <q>
-    You always have two choices: your commitment versus your fear.
+    Everything comes to him who hustles while he waits.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Sammy Davis Jr.
+Thomas Edison
 </p>
 
 ---
