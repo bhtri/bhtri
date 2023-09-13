@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年09月12日**
+### **2023年09月13日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Everything comes to him who hustles while he waits.
+    Impossibilities are merely things which we have not yet learned.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Thomas Edison
+Charles W. Chesnutt
 </p>
 
 ---
