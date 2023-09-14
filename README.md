@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年09月13日**
+### **2023年09月14日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Impossibilities are merely things which we have not yet learned.
+    Wisdom is oftentimes nearer when we stoop than when we soar.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Charles W. Chesnutt
+William Wordsworth
 </p>
 
 ---
