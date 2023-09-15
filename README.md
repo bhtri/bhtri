@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年09月14日**
+### **2023年09月15日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Wisdom is oftentimes nearer when we stoop than when we soar.
+    The way you see people is the way you treat them, and the way you treat them is what they become.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-William Wordsworth
+Johann Wolfgang von Goethe
 </p>
 
 ---
