@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年09月15日**
+### **2023年09月16日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The way you see people is the way you treat them, and the way you treat them is what they become.
+    The friendship that can cease has never been real.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Johann Wolfgang von Goethe
+Jerome
 </p>
 
 ---
