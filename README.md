@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年09月16日**
+### **2023年09月17日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The friendship that can cease has never been real.
+    Science gives us knowledge, but only philosophy can give us wisdom.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Jerome
+Will Durant
 </p>
 
 ---
