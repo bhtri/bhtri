@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年09月17日**
+### **2023年09月18日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Science gives us knowledge, but only philosophy can give us wisdom.
+    Life without love is like a tree without blossoms or fruit.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Will Durant
+Kahlil Gibran
 </p>
 
 ---
