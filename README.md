@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年09月18日**
+### **2023年09月19日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Life without love is like a tree without blossoms or fruit.
+    One that desires to excel should endeavor in those things that are in themselves most excellent.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Kahlil Gibran
+Epictetus
 </p>
 
 ---
