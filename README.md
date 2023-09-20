@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年09月19日**
+### **2023年09月20日**
 
 <p align="center" style="font-size:20px">
   <q>
-    One that desires to excel should endeavor in those things that are in themselves most excellent.
+    Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Epictetus
+Aristotle
 </p>
 
 ---
