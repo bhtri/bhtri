@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年09月20日**
+### **2023年09月21日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing.
+    Friendships are the family we make - not the one we inherit. I've always been someone to whom friendship, elective affinities, is as important as family.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Aristotle
+Salman Rushdie
 </p>
 
 ---
