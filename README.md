@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年09月21日**
+### **2023年09月22日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Friendships are the family we make - not the one we inherit. I've always been someone to whom friendship, elective affinities, is as important as family.
+    Obstacles are those frightful things you see when you take your eyes off your goal.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Salman Rushdie
+Henry Ford
 </p>
 
 ---
