@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年09月22日**
+### **2023年09月23日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Obstacles are those frightful things you see when you take your eyes off your goal.
+    Gratitude is riches. Complaint is poverty.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Henry Ford
+Doris Day
 </p>
 
 ---
