@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年09月23日**
+### **2023年09月24日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Gratitude is riches. Complaint is poverty.
+    Fame usually comes to those who are thinking about something else.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Doris Day
+Oliver Wendell Holmes Jr.
 </p>
 
 ---
