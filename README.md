@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年09月24日**
+### **2023年09月25日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Fame usually comes to those who are thinking about something else.
+    You don't look out there for God, something in the sky, you look in you.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Oliver Wendell Holmes Jr.
+Alan Watts
 </p>
 
 ---
