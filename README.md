@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年09月25日**
+### **2023年09月26日**
 
 <p align="center" style="font-size:20px">
   <q>
-    You don't look out there for God, something in the sky, you look in you.
+    Sorrow is knowledge, those that know the most must mourn the deepest, the tree of knowledge is not the tree of life.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Alan Watts
+Lord Byron
 </p>
 
 ---
