@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年09月26日**
+### **2023年09月27日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Sorrow is knowledge, those that know the most must mourn the deepest, the tree of knowledge is not the tree of life.
+    There surely is in human nature an inherent propensity to extract all the good out of all the evil.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lord Byron
+Benjamin Haydon
 </p>
 
 ---
