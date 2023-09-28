@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年09月27日**
+### **2023年09月28日**
 
 <p align="center" style="font-size:20px">
   <q>
-    There surely is in human nature an inherent propensity to extract all the good out of all the evil.
+    Wisdom begins at the end.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Benjamin Haydon
+Daniel Webster
 </p>
 
 ---
