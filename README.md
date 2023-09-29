@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年09月28日**
+### **2023年09月29日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Wisdom begins at the end.
+    The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Daniel Webster
+Mortimer J. Adler
 </p>
 
 ---
