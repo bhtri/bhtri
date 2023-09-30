@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年09月29日**
+### **2023年09月30日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live.
+    He who talks more is sooner exhausted.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Mortimer J. Adler
+Laozi
 </p>
 
 ---
