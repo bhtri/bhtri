@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年09月30日**
+### **2023年10月01日**
 
 <p align="center" style="font-size:20px">
   <q>
-    He who talks more is sooner exhausted.
+    What lies behind us and what lies before us are tiny matters compared to what lies within us.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Laozi
+Ralph Waldo Emerson
 </p>
 
 ---
