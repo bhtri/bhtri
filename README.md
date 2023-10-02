@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年10月01日**
+### **2023年10月02日**
 
 <p align="center" style="font-size:20px">
   <q>
-    What lies behind us and what lies before us are tiny matters compared to what lies within us.
+    Applause is a receipt, not a bill.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ralph Waldo Emerson
+Dale Carnegie
 </p>
 
 ---
