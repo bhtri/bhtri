@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年10月02日**
+### **2023年10月03日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Applause is a receipt, not a bill.
+    The more light you allow within you, the brighter the world you live in will be.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Dale Carnegie
+Shakti Gawain
 </p>
 
 ---
