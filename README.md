@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年10月03日**
+### **2023年10月04日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The more light you allow within you, the brighter the world you live in will be.
+    One may say the eternal mystery of the world is its comprehensibility.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Shakti Gawain
+Albert Einstein
 </p>
 
 ---
