@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年10月04日**
+### **2023年10月05日**
 
 <p align="center" style="font-size:20px">
   <q>
-    One may say the eternal mystery of the world is its comprehensibility.
+    Tell me and I forget. Teach me and I remember. Involve me and I learn.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Albert Einstein
+Benjamin Franklin
 </p>
 
 ---
