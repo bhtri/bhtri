@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年10月05日**
+### **2023年10月06日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Tell me and I forget. Teach me and I remember. Involve me and I learn.
+    You cannot be lonely if you like the person you're alone with.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Benjamin Franklin
+Wayne Dyer
 </p>
 
 ---
