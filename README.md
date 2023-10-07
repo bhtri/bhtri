@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年10月06日**
+### **2023年10月07日**
 
 <p align="center" style="font-size:20px">
   <q>
-    You cannot be lonely if you like the person you're alone with.
+    There are three methods to gaining wisdom. The first is reflection, which is the highest. The second is limitation, which is the easiest. The third is experience, which is the bitterest.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Wayne Dyer
+Confucius
 </p>
 
 ---
