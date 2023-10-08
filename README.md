@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年10月07日**
+### **2023年10月08日**
 
 <p align="center" style="font-size:20px">
   <q>
-    There are three methods to gaining wisdom. The first is reflection, which is the highest. The second is limitation, which is the easiest. The third is experience, which is the bitterest.
+    The more sand that has escaped from the hourglass of our life, the clearer we should see through it.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Confucius
+Jean-Paul Sartre
 </p>
 
 ---
