@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年10月08日**
+### **2023年10月09日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The more sand that has escaped from the hourglass of our life, the clearer we should see through it.
+    There are things so deep and complex that only intuition can reach it in our stage of development as human beings.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Jean-Paul Sartre
+John Astin
 </p>
 
 ---
