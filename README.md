@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年10月09日**
+### **2023年10月10日**
 
 <p align="center" style="font-size:20px">
   <q>
-    There are things so deep and complex that only intuition can reach it in our stage of development as human beings.
+    It is not so important to know everything as to appreciate what we learn.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John Astin
+Hannah More
 </p>
 
 ---
