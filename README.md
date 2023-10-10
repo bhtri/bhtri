@@ -31,12 +31,12 @@
 
 <p align="center" style="font-size:20px">
   <q>
-    It is not so important to know everything as to appreciate what we learn.
+    Write your plans in pencil and give God the eraser.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Hannah More
+Paulo Coelho
 </p>
 
 ---
