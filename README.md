@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年10月10日**
+### **2023年10月11日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Write your plans in pencil and give God the eraser.
+    The fox has many tricks. The hedgehog has but one. But that is the best of all.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Paulo Coelho
+Erasmus
 </p>
 
 ---
