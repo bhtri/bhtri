@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年10月11日**
+### **2023年10月12日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The fox has many tricks. The hedgehog has but one. But that is the best of all.
+    Rejoicing in our joy, not suffering over our suffering, makes someone a friend.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Erasmus
+Friedrich Nietzsche
 </p>
 
 ---
