@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年10月12日**
+### **2023年10月13日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Rejoicing in our joy, not suffering over our suffering, makes someone a friend.
+    It all depends on how we look at things, and not how they are in themselves.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Friedrich Nietzsche
+Carl Jung
 </p>
 
 ---
