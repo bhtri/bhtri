@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年10月13日**
+### **2023年10月14日**
 
 <p align="center" style="font-size:20px">
   <q>
-    It all depends on how we look at things, and not how they are in themselves.
+    Baseball is the only field of endeavor where a man can succeed three times out of ten and be considered a good performer.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Carl Jung
+Ted Williams
 </p>
 
 ---
