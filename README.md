@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年10月14日**
+### **2023年10月15日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Baseball is the only field of endeavor where a man can succeed three times out of ten and be considered a good performer.
+    And when the world is created, it is created in such a way that those eternal objects of God's loving wisdom become actualities - interacting with one another, relating to God in the finite realm.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ted Williams
+Rowan Williams
 </p>
 
 ---
