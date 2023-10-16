@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年10月15日**
+### **2023年10月16日**
 
 <p align="center" style="font-size:20px">
   <q>
-    And when the world is created, it is created in such a way that those eternal objects of God's loving wisdom become actualities - interacting with one another, relating to God in the finite realm.
+    Don't believe what your eyes are telling you. All they show is limitation. Look with your understanding, find out what you already know, and you'll see the way to fly.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Rowan Williams
+Richard Bach
 </p>
 
 ---
