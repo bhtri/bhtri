@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年10月16日**
+### **2023年10月17日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Don't believe what your eyes are telling you. All they show is limitation. Look with your understanding, find out what you already know, and you'll see the way to fly.
+    The greater danger for most of us lies not in setting our aim too high and falling short; but in setting our aim too low and achieving our mark.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Richard Bach
+Michelangelo
 </p>
 
 ---
