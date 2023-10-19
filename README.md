@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年10月18日**
+### **2023年10月19日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Better than a thousand hollow words, is one word that brings peace.
+    Be slow in choosing a friend, slower in changing.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-The Buddha
+Benjamin Franklin
 </p>
 
 ---
