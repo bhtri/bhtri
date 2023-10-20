@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年10月19日**
+### **2023年10月20日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Be slow in choosing a friend, slower in changing.
+    Everything you can imagine is real.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Benjamin Franklin
+Pablo Picasso
 </p>
 
 ---
