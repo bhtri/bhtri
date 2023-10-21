@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年10月20日**
+### **2023年10月21日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Everything you can imagine is real.
+    In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Pablo Picasso
+Eric Hoffer
 </p>
 
 ---
