@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年10月21日**
+### **2023年10月22日**
 
 <p align="center" style="font-size:20px">
   <q>
-    In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists.
+    Do something wonderful, people may imitate it.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Eric Hoffer
+Albert Schweitzer
 </p>
 
 ---
