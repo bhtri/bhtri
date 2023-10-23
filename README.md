@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年10月22日**
+### **2023年10月23日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Do something wonderful, people may imitate it.
+    There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Albert Schweitzer
+Alfred Korzybski
 </p>
 
 ---
