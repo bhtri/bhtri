@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年10月23日**
+### **2023年10月24日**
 
 <p align="center" style="font-size:20px">
   <q>
-    There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking.
+    I have an everyday religion that works for me. Love yourself first, and everything else falls into line.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Alfred Korzybski
+Lucille Ball
 </p>
 
 ---
