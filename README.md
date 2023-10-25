@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年10月24日**
+### **2023年10月25日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I have an everyday religion that works for me. Love yourself first, and everything else falls into line.
+    We aim above the mark to hit the mark.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lucille Ball
+Ralph Waldo Emerson
 </p>
 
 ---
