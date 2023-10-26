@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年10月25日**
+### **2023年10月26日**
 
 <p align="center" style="font-size:20px">
   <q>
-    We aim above the mark to hit the mark.
+    We all live with the objective of being happy; our lives are all different and yet the same.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ralph Waldo Emerson
+Anne Frank
 </p>
 
 ---
