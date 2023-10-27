@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年10月26日**
+### **2023年10月27日**
 
 <p align="center" style="font-size:20px">
   <q>
-    We all live with the objective of being happy; our lives are all different and yet the same.
+    Any sufficiently advanced technology is equivalent to magic.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Anne Frank
+Arthur C. Clarke
 </p>
 
 ---
