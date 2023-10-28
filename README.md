@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年10月27日**
+### **2023年10月28日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Any sufficiently advanced technology is equivalent to magic.
+    Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Arthur C. Clarke
+William Saroyan
 </p>
 
 ---
