@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年10月28日**
+### **2023年10月29日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know.
+    A successful person is one who can lay a firm foundation with the bricks that others throw at him or her.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-William Saroyan
+David Brinkley
 </p>
 
 ---
