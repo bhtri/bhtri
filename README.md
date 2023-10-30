@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年10月29日**
+### **2023年10月30日**
 
 <p align="center" style="font-size:20px">
   <q>
-    A successful person is one who can lay a firm foundation with the bricks that others throw at him or her.
+    A leader is one who knows the way, goes the way, and shows the way.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-David Brinkley
+John C. Maxwell
 </p>
 
 ---
