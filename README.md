@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年10月30日**
+### **2023年10月31日**
 
 <p align="center" style="font-size:20px">
   <q>
-    A leader is one who knows the way, goes the way, and shows the way.
+    Perseverance is a great element of success. If you only knock long enough and loud enough at the gate, you are sure to wake up somebody.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John C. Maxwell
+Henry Wadsworth Longfellow
 </p>
 
 ---
