@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年10月31日**
+### **2023年11月01日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Perseverance is a great element of success. If you only knock long enough and loud enough at the gate, you are sure to wake up somebody.
+    Share your smile with the world. It's a symbol of friendship and peace.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Henry Wadsworth Longfellow
+Christie Brinkley
 </p>
 
 ---
