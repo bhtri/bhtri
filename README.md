@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年11月01日**
+### **2023年11月02日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Share your smile with the world. It's a symbol of friendship and peace.
+    What is a weed? A plant whose virtues have not yet been discovered.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Christie Brinkley
+Ralph Waldo Emerson
 </p>
 
 ---
