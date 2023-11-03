@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年11月02日**
+### **2023年11月03日**
 
 <p align="center" style="font-size:20px">
   <q>
-    What is a weed? A plant whose virtues have not yet been discovered.
+    Love and compassion open our own inner life, reducing stress, distrust and loneliness.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ralph Waldo Emerson
+Dalai Lama
 </p>
 
 ---
