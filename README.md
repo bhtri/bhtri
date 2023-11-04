@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年11月03日**
+### **2023年11月04日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Love and compassion open our own inner life, reducing stress, distrust and loneliness.
+    If we open a quarrel between past and present, we shall find that we have lost the future.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Dalai Lama
+Winston Churchill
 </p>
 
 ---
