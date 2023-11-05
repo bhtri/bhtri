@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年11月04日**
+### **2023年11月05日**
 
 <p align="center" style="font-size:20px">
   <q>
-    If we open a quarrel between past and present, we shall find that we have lost the future.
+    And the attitude of faith is the very opposite of clinging to belief, of holding on.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Winston Churchill
+Alan Watts
 </p>
 
 ---
