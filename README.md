@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年11月05日**
+### **2023年11月06日**
 
 <p align="center" style="font-size:20px">
   <q>
-    And the attitude of faith is the very opposite of clinging to belief, of holding on.
+    We should all be thankful for those people who rekindle the inner spirit.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Alan Watts
+Albert Schweitzer
 </p>
 
 ---
