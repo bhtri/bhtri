@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年11月06日**
+### **2023年11月07日**
 
 <p align="center" style="font-size:20px">
   <q>
-    We should all be thankful for those people who rekindle the inner spirit.
+    A man may fulfil the object of his existence by asking a question he cannot answer and attempting a task he cannot achieve.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Albert Schweitzer
+Oliver Wendell Holmes Jr.
 </p>
 
 ---
