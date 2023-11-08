@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年11月07日**
+### **2023年11月08日**
 
 <p align="center" style="font-size:20px">
   <q>
-    A man may fulfil the object of his existence by asking a question he cannot answer and attempting a task he cannot achieve.
+    Love is blind; friendship closes its eyes.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Oliver Wendell Holmes Jr.
+Friedrich Nietzsche
 </p>
 
 ---
