@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年11月08日**
+### **2023年11月09日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Love is blind; friendship closes its eyes.
+    Knowledge is proud that it knows so much; wisdom is humble that it knows no more.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Friedrich Nietzsche
+William Cowper
 </p>
 
 ---
