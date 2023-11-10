@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年11月09日**
+### **2023年11月10日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Knowledge is proud that it knows so much; wisdom is humble that it knows no more.
+    Through perseverance many people win success out of what seemed destined to be certain failure.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-William Cowper
+Benjamin Disraeli
 </p>
 
 ---
