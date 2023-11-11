@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年11月10日**
+### **2023年11月11日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Through perseverance many people win success out of what seemed destined to be certain failure.
+    Without hard work, nothing grows but weeds.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Benjamin Disraeli
+Gordon Hinckley
 </p>
 
 ---
