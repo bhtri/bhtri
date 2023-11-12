@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年11月11日**
+### **2023年11月12日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Without hard work, nothing grows but weeds.
+    The greatest gift of life is friendship, and I have received it.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Gordon Hinckley
+Hubert Humphrey
 </p>
 
 ---
