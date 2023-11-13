@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年11月12日**
+### **2023年11月13日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The greatest gift of life is friendship, and I have received it.
+    All human wisdom is summed up in two words; wait and hope.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Hubert Humphrey
+Alexandre Dumas
 </p>
 
 ---
