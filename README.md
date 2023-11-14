@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年11月13日**
+### **2023年11月14日**
 
 <p align="center" style="font-size:20px">
   <q>
-    All human wisdom is summed up in two words; wait and hope.
+    No enterprise is more likely to succeed than one concealed from the enemy until it is ripe for execution.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Alexandre Dumas
+Niccolò Machiavelli
 </p>
 
 ---
