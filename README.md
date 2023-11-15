@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年11月14日**
+### **2023年11月15日**
 
 <p align="center" style="font-size:20px">
   <q>
-    No enterprise is more likely to succeed than one concealed from the enemy until it is ripe for execution.
+    Life is what you make of it. Always has been, always will be.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Niccolò Machiavelli
+Grandma Moses
 </p>
 
 ---
