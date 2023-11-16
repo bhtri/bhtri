@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年11月15日**
+### **2023年11月16日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Life is what you make of it. Always has been, always will be.
+    The happiness of a man in this life does not consist in the absence but in the mastery of his passions.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Grandma Moses
+Alfred Tennyson
 </p>
 
 ---
