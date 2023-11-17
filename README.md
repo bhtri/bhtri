@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年11月16日**
+### **2023年11月17日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The happiness of a man in this life does not consist in the absence but in the mastery of his passions.
+    No act of kindness, no matter how small, is ever wasted.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Alfred Tennyson
+Aesop
 </p>
 
 ---
