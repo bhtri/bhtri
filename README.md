@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年11月17日**
+### **2023年11月18日**
 
 <p align="center" style="font-size:20px">
   <q>
-    No act of kindness, no matter how small, is ever wasted.
+    Friendship, like love, is destroyed by long absence, though it may be increased by short intermissions.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Aesop
+Samuel Johnson
 </p>
 
 ---
