@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年11月18日**
+### **2023年11月19日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Friendship, like love, is destroyed by long absence, though it may be increased by short intermissions.
+    True friendship is a plant of slow growth, and must undergo and withstand the shocks of adversity, before it is entitled to the appellation.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Samuel Johnson
+George Washington
 </p>
 
 ---
