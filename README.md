@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年11月19日**
+### **2023年11月20日**
 
 <p align="center" style="font-size:20px">
   <q>
-    True friendship is a plant of slow growth, and must undergo and withstand the shocks of adversity, before it is entitled to the appellation.
+    Life is not a problem to be solved, but a reality to be experienced.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-George Washington
+Søren Kierkegaard
 </p>
 
 ---
