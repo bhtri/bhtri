@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年11月20日**
+### **2023年11月21日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Life is not a problem to be solved, but a reality to be experienced.
+    Friends are the siblings God never gave us.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Søren Kierkegaard
+Mencius
 </p>
 
 ---
