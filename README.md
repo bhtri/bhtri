@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年11月21日**
+### **2023年11月22日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Friends are the siblings God never gave us.
+    It is the mark of an educated mind to be able to entertain a thought without accepting it.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Mencius
+Aristotle
 </p>
 
 ---
