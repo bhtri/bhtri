@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年11月22日**
+### **2023年11月23日**
 
 <p align="center" style="font-size:20px">
   <q>
-    It is the mark of an educated mind to be able to entertain a thought without accepting it.
+    God gave us the gift of life; it is up to us to give ourselves the gift of living well.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Aristotle
+Voltaire
 </p>
 
 ---
