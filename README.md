@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年11月23日**
+### **2023年11月24日**
 
 <p align="center" style="font-size:20px">
   <q>
-    God gave us the gift of life; it is up to us to give ourselves the gift of living well.
+    This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Voltaire
+Thomas Carlyle
 </p>
 
 ---
