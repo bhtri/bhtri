@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年11月24日**
+### **2023年11月25日**
 
 <p align="center" style="font-size:20px">
   <q>
-    This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.
+    Life is a succession of lessons, which must be lived to be understood.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Thomas Carlyle
+Ralph Waldo Emerson
 </p>
 
 ---
