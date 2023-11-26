@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年11月25日**
+### **2023年11月26日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Life is a succession of lessons, which must be lived to be understood.
+    Think for yourselves and let others enjoy the privilege to do so too.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ralph Waldo Emerson
+Voltaire
 </p>
 
 ---
