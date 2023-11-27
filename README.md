@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年11月26日**
+### **2023年11月27日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Think for yourselves and let others enjoy the privilege to do so too.
+    No garden is without its weeds.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Voltaire
+Thomas Fuller
 </p>
 
 ---
