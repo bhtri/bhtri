@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年11月27日**
+### **2023年11月28日**
 
 <p align="center" style="font-size:20px">
   <q>
-    No garden is without its weeds.
+    Where there is great love, there are always miracles.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Thomas Fuller
+Willa Cather
 </p>
 
 ---
