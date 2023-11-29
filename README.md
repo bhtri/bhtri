@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年11月28日**
+### **2023年11月29日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Where there is great love, there are always miracles.
+    I cannot always control what goes on outside. But I can always control what goes on inside.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Willa Cather
+Wayne Dyer
 </p>
 
 ---
