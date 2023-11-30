@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年11月29日**
+### **2023年11月30日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I cannot always control what goes on outside. But I can always control what goes on inside.
+    We could never learn to be brave and patient if there were only joy in the world.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Wayne Dyer
+Helen Keller
 </p>
 
 ---
