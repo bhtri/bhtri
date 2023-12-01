@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年11月30日**
+### **2023年12月01日**
 
 <p align="center" style="font-size:20px">
   <q>
-    We could never learn to be brave and patient if there were only joy in the world.
+    Don't smother each other. No one can grow in the shade.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Helen Keller
+Leo Buscaglia
 </p>
 
 ---
