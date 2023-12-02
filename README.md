@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年12月01日**
+### **2023年12月02日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Don't smother each other. No one can grow in the shade.
+    To dare is to lose ones footing momentarily. To not dare is to lose oneself.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Leo Buscaglia
+Søren Kierkegaard
 </p>
 
 ---
