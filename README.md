@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年12月02日**
+### **2023年12月03日**
 
 <p align="center" style="font-size:20px">
   <q>
-    To dare is to lose ones footing momentarily. To not dare is to lose oneself.
+    They can conquer who believe they can.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Søren Kierkegaard
+Virgil
 </p>
 
 ---
