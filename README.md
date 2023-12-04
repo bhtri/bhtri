@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年12月03日**
+### **2023年12月04日**
 
 <p align="center" style="font-size:20px">
   <q>
-    They can conquer who believe they can.
+    Although there may be tragedy in your life, there's always a possibility to triumph. It doesn't matter who you are, where you come from. The ability to triumph begins with you. Always.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Virgil
+Oprah Winfrey
 </p>
 
 ---
