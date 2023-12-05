@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年12月04日**
+### **2023年12月05日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Although there may be tragedy in your life, there's always a possibility to triumph. It doesn't matter who you are, where you come from. The ability to triumph begins with you. Always.
+    I am always doing that which I cannot do, in order that I may learn how to do it.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Oprah Winfrey
+Pablo Picasso
 </p>
 
 ---
