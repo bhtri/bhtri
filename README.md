@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年12月05日**
+### **2023年12月06日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I am always doing that which I cannot do, in order that I may learn how to do it.
+    We live in a society bloated with data yet starved for wisdom. We're connected 24/7, yet anxiety, fear, depression and loneliness are at an all-time high. We must course-correct.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Pablo Picasso
+Elizabeth Kapu'uwailani Lindsey
 </p>
 
 ---
