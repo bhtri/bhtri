@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年12月06日**
+### **2023年12月07日**
 
 <p align="center" style="font-size:20px">
   <q>
-    We live in a society bloated with data yet starved for wisdom. We're connected 24/7, yet anxiety, fear, depression and loneliness are at an all-time high. We must course-correct.
+    A quarrel between friends, when made up, adds a new tie to friendship.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Elizabeth Kapu'uwailani Lindsey
+Francis de Sales
 </p>
 
 ---
