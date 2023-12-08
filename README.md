@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年12月07日**
+### **2023年12月08日**
 
 <p align="center" style="font-size:20px">
   <q>
-    A quarrel between friends, when made up, adds a new tie to friendship.
+    Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Francis de Sales
+Stephen Hawking
 </p>
 
 ---
