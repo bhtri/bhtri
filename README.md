@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年12月08日**
+### **2023年12月09日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious.
+    Continuous effort - not strength or intelligence - is the key to unlocking our potential.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Stephen Hawking
+Winston Churchill
 </p>
 
 ---
