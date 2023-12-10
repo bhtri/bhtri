@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年12月09日**
+### **2023年12月10日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Continuous effort - not strength or intelligence - is the key to unlocking our potential.
+    It's easier to resist at the beginning than at the end.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Winston Churchill
+Leonardo da Vinci
 </p>
 
 ---
