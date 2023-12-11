@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年12月10日**
+### **2023年12月11日**
 
 <p align="center" style="font-size:20px">
   <q>
-    It's easier to resist at the beginning than at the end.
+    I have never been hurt by anything I didn't say.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Leonardo da Vinci
+Calvin Coolidge
 </p>
 
 ---
