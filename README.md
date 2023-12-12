@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年12月11日**
+### **2023年12月12日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I have never been hurt by anything I didn't say.
+    A noble one produces an abundance of merit by having a compassionate mind towards all living beings.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Calvin Coolidge
+The Buddha
 </p>
 
 ---
