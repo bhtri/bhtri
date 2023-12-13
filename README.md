@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年12月12日**
+### **2023年12月13日**
 
 <p align="center" style="font-size:20px">
   <q>
-    A noble one produces an abundance of merit by having a compassionate mind towards all living beings.
+    It's important to know that words don't move mountains. Work, exacting work moves mountains.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-The Buddha
+Danilo Dolci
 </p>
 
 ---
