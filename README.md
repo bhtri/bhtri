@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年12月13日**
+### **2023年12月14日**
 
 <p align="center" style="font-size:20px">
   <q>
-    It's important to know that words don't move mountains. Work, exacting work moves mountains.
+    Self-trust is the first secret of success.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Danilo Dolci
+Ralph Waldo Emerson
 </p>
 
 ---
