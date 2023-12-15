@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年12月14日**
+### **2023年12月15日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Self-trust is the first secret of success.
+    A monarchy conducted with infinite wisdom and infinite benevolence is the most perfect of all possible governments.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ralph Waldo Emerson
+Ezra Stiles
 </p>
 
 ---
