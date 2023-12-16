@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年12月15日**
+### **2023年12月16日**
 
 <p align="center" style="font-size:20px">
   <q>
-    A monarchy conducted with infinite wisdom and infinite benevolence is the most perfect of all possible governments.
+    Genuine sincerity opens people's hearts, while manipulation causes them to close.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ezra Stiles
+Daisaku Ikeda
 </p>
 
 ---
