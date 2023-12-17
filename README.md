@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年12月16日**
+### **2023年12月17日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Genuine sincerity opens people's hearts, while manipulation causes them to close.
+    Keep your eyes on the stars and your feet on the ground.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Daisaku Ikeda
+Theodore Roosevelt
 </p>
 
 ---
