@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年12月17日**
+### **2023年12月18日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Keep your eyes on the stars and your feet on the ground.
+    How far that little candle throws its beams! So shines a good deed in a naughty world.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Theodore Roosevelt
+William Shakespeare
 </p>
 
 ---
