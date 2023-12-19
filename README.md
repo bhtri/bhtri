@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年12月18日**
+### **2023年12月19日**
 
 <p align="center" style="font-size:20px">
   <q>
-    How far that little candle throws its beams! So shines a good deed in a naughty world.
+    The fact is, with every friendship you make, and every bond of trust you establish, you are shaping the image of America projected to the rest of the world. That is so important. So when you study abroad, you're actually helping to make America stronger.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-William Shakespeare
+Michelle Obama
 </p>
 
 ---
