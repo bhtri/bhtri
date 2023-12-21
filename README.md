@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年12月20日**
+### **2023年12月21日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Just as much as we see in others, we have in ourselves.
+    It is better to have enough ideas for some of them to be wrong, than to be always right by having no ideas at all.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-William Hazlitt
+Edward de Bono
 </p>
 
 ---
