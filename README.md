@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年12月21日**
+### **2023年12月22日**
 
 <p align="center" style="font-size:20px">
   <q>
-    It is better to have enough ideas for some of them to be wrong, than to be always right by having no ideas at all.
+    Be glad of life because it gives you the chance to love, to work, to play, and to look up at the stars.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Edward de Bono
+Henry van Dyke Jr.
 </p>
 
 ---
