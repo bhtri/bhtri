@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年12月22日**
+### **2023年12月23日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Be glad of life because it gives you the chance to love, to work, to play, and to look up at the stars.
+    I don't look to jump over 7-foot bars; I look around for 1-foot bars that I can step over.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Henry van Dyke Jr.
+Warren Buffett
 </p>
 
 ---
