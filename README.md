@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年12月23日**
+### **2023年12月24日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I don't look to jump over 7-foot bars; I look around for 1-foot bars that I can step over.
+    He is a wise man who does not grieve for the things which he has not but rejoices for those which he has.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Warren Buffett
+Epictetus
 </p>
 
 ---
