@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年12月24日**
+### **2023年12月25日**
 
 <p align="center" style="font-size:20px">
   <q>
-    He is a wise man who does not grieve for the things which he has not but rejoices for those which he has.
+    Trust your hunches. They're usually based on facts filed away just below the conscious level.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Epictetus
+Joyce Brothers
 </p>
 
 ---
