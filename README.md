@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年12月26日**
+### **2023年12月27日**
 
 <p align="center" style="font-size:20px">
   <q>
-    When a friend is in trouble, don't annoy him by asking if there is anything you can do. Think up something appropriate and do it.
+    Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-A. Powell Davies
+Aristotle
 </p>
 
 ---
