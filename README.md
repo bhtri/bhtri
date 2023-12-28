@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年12月27日**
+### **2023年12月28日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing.
+    Genuine sincerity opens people's hearts, while manipulation causes them to close.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Aristotle
+Daisaku Ikeda
 </p>
 
 ---
