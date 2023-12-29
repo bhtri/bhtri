@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年12月28日**
+### **2023年12月29日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Genuine sincerity opens people's hearts, while manipulation causes them to close.
+    It is important to our friends to believe that we are unreservedly frank with them, and important to friendship that we are not.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Daisaku Ikeda
+Mignon McLaughlin
 </p>
 
 ---
