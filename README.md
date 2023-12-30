@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年12月29日**
+### **2023年12月30日**
 
 <p align="center" style="font-size:20px">
   <q>
-    It is important to our friends to believe that we are unreservedly frank with them, and important to friendship that we are not.
+    Wise kings generally have wise counselors; and he must be a wise man himself who is capable of distinguishing one.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Mignon McLaughlin
+Diogenes
 </p>
 
 ---
