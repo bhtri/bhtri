@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年12月30日**
+### **2023年12月31日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Wise kings generally have wise counselors; and he must be a wise man himself who is capable of distinguishing one.
+    The way a team plays as a whole determines its success. You may have the greatest bunch of individual stars in the world, but if they don't play together, the club won't be worth a dime.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Diogenes
+Babe Ruth
 </p>
 
 ---
