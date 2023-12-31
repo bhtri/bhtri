@@ -31,12 +31,12 @@
 
 <p align="center" style="font-size:20px">
   <q>
-    The way a team plays as a whole determines its success. You may have the greatest bunch of individual stars in the world, but if they don't play together, the club won't be worth a dime.
+    The free man is he who does not fear to go to the end of his thought.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Babe Ruth
+Léon Blum
 </p>
 
 ---
