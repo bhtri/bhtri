@@ -27,16 +27,16 @@
 
 ---
 
-### **2023年12月31日**
+### **2024年01月01日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The free man is he who does not fear to go to the end of his thought.
+    Courage is not the absence of fear, but simply moving on with dignity despite that fear.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Léon Blum
+Pat Riley
 </p>
 
 ---
