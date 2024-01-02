@@ -27,16 +27,16 @@
 
 ---
 
-### **2024年01月01日**
+### **2024年01月02日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Courage is not the absence of fear, but simply moving on with dignity despite that fear.
+    Life is about timing.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Pat Riley
+Carl Lewis
 </p>
 
 ---
