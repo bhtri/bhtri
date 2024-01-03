@@ -27,16 +27,16 @@
 
 ---
 
-### **2024年01月02日**
+### **2024年01月03日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Life is about timing.
+    Obstacles are those frightful things you see when you take your eyes off your goal.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Carl Lewis
+Henry Ford
 </p>
 
 ---
