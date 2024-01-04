@@ -27,16 +27,16 @@
 
 ---
 
-### **2024年01月03日**
+### **2024年01月04日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Obstacles are those frightful things you see when you take your eyes off your goal.
+    Trust your hunches. They're usually based on facts filed away just below the conscious level.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Henry Ford
+Joyce Brothers
 </p>
 
 ---
