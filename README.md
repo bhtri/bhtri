@@ -27,16 +27,16 @@
 
 ---
 
-### **2024年01月05日**
+### **2024年01月06日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.
+    Follow effective action with quiet reflection. From the quiet reflection will come even more effective action.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-William Arthur Ward
+Peter Drucker
 </p>
 
 ---
