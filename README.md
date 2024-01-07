@@ -27,16 +27,16 @@
 
 ---
 
-### **2024年01月06日**
+### **2024年01月07日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Follow effective action with quiet reflection. From the quiet reflection will come even more effective action.
+    If you don't like something, change it. If you can't change it, change your attitude.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Peter Drucker
+Maya Angelou
 </p>
 
 ---
