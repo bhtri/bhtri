@@ -27,16 +27,16 @@
 
 ---
 
-### **2024年01月07日**
+### **2024年01月08日**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you don't like something, change it. If you can't change it, change your attitude.
+    Everyone has an invisible sign hanging from their neck saying, 'Make me feel important.' Never forget this message when working with people.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Maya Angelou
+Mary Kay Ash
 </p>
 
 ---
