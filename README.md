@@ -27,16 +27,16 @@
 
 ---
 
-### **2024年01月08日**
+### **2024年01月09日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Everyone has an invisible sign hanging from their neck saying, 'Make me feel important.' Never forget this message when working with people.
+    Life is just a chance to grow a soul.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Mary Kay Ash
+A. Powell Davies
 </p>
 
 ---
