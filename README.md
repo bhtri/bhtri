@@ -27,16 +27,16 @@
 
 ---
 
-### **2024年01月09日**
+### **2024年01月10日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Life is just a chance to grow a soul.
+    You can fool all the people some of the time, and some of the people all the time, but you cannot fool all the people all the time.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-A. Powell Davies
+Abraham Lincoln
 </p>
 
 ---
