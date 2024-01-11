@@ -27,16 +27,16 @@
 
 ---
 
-### **2024年01月10日**
+### **2024年01月11日**
 
 <p align="center" style="font-size:20px">
   <q>
-    You can fool all the people some of the time, and some of the people all the time, but you cannot fool all the people all the time.
+    All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Abraham Lincoln
+Bruce Lee
 </p>
 
 ---
