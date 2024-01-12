@@ -27,16 +27,16 @@
 
 ---
 
-### **2024年01月11日**
+### **2024年01月12日**
 
 <p align="center" style="font-size:20px">
   <q>
-    All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns.
+    What lies behind us and what lies before us are tiny matters compared to what lies within us.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Bruce Lee
+Ralph Waldo Emerson
 </p>
 
 ---
