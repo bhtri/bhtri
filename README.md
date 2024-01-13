@@ -27,16 +27,16 @@
 
 ---
 
-### **2024年01月12日**
+### **2024年01月13日**
 
 <p align="center" style="font-size:20px">
   <q>
-    What lies behind us and what lies before us are tiny matters compared to what lies within us.
+    I gave my life to become the person I am right now. Was it worth it?
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ralph Waldo Emerson
+Richard Bach
 </p>
 
 ---
