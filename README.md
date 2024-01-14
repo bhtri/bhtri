@@ -27,16 +27,16 @@
 
 ---
 
-### **2024年01月13日**
+### **2024年01月14日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I gave my life to become the person I am right now. Was it worth it?
+    Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Richard Bach
+Maya Angelou
 </p>
 
 ---
