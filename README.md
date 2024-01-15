@@ -27,16 +27,16 @@
 
 ---
 
-### **2024年01月14日**
+### **2024年01月15日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible.
+    Should a person do good, let him do it again and again. Let him find pleasure therein, for blissful is the accumulation of good.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Maya Angelou
+The Buddha
 </p>
 
 ---
