@@ -27,16 +27,16 @@
 
 ---
 
-### **2024年01月15日**
+### **2024年01月16日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Should a person do good, let him do it again and again. Let him find pleasure therein, for blissful is the accumulation of good.
+    If you surrender to the wind, you can ride it.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-The Buddha
+Toni Morrison
 </p>
 
 ---
