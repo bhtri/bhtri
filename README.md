@@ -27,16 +27,16 @@
 
 ---
 
-### **2024年01月16日**
+### **2024年01月17日**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you surrender to the wind, you can ride it.
+    The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Toni Morrison
+Henry Miller
 </p>
 
 ---
