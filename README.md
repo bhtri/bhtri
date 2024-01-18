@@ -27,16 +27,16 @@
 
 ---
 
-### **2024年01月17日**
+### **2024年01月18日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself.
+    Wisdom cannot come by railroad or automobile or airplane or be hurried up by telegraph or telephone.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Henry Miller
+John Burroughs
 </p>
 
 ---
