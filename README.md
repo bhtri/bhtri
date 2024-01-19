@@ -27,16 +27,16 @@
 
 ---
 
-### **2024年01月18日**
+### **2024年01月19日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Wisdom cannot come by railroad or automobile or airplane or be hurried up by telegraph or telephone.
+    First comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. The beginning, as you will observe, is in your imagination.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John Burroughs
+Napoleon Hill
 </p>
 
 ---
