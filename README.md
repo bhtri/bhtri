@@ -27,16 +27,16 @@
 
 ---
 
-### **2024年01月19日**
+### **2024年01月20日**
 
 <p align="center" style="font-size:20px">
   <q>
-    First comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. The beginning, as you will observe, is in your imagination.
+    All phenomena are preceded by the mind, created by the mind, and have the mind as their master.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Napoleon Hill
+The Buddha
 </p>
 
 ---
