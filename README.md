@@ -27,16 +27,16 @@
 
 ---
 
-### **2024年01月20日**
+### **2024年01月21日**
 
 <p align="center" style="font-size:20px">
   <q>
-    All phenomena are preceded by the mind, created by the mind, and have the mind as their master.
+    Time you enjoy wasting, was not wasted.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-The Buddha
+John Lennon
 </p>
 
 ---
