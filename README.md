@@ -27,16 +27,16 @@
 
 ---
 
-### **2024年01月21日**
+### **2024年01月22日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Time you enjoy wasting, was not wasted.
+    Only I can change my life. No one can do it for me.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John Lennon
+Carol Burnett
 </p>
 
 ---
