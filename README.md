@@ -27,16 +27,16 @@
 
 ---
 
-### **2024年01月22日**
+### **2024年01月23日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Only I can change my life. No one can do it for me.
+    Friendship is held to be the severest test of character. It is easy, we think, to be loyal to a family and clan, whose blood is in your own veins.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Carol Burnett
+Charles Eastman
 </p>
 
 ---
