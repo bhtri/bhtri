@@ -27,16 +27,16 @@
 
 ---
 
-### **2024年01月23日**
+### **2024年01月24日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Friendship is held to be the severest test of character. It is easy, we think, to be loyal to a family and clan, whose blood is in your own veins.
+    All the world is a stage, And all the men and women merely players. They have their exits and entrances; Each man in his time plays many parts.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Charles Eastman
+William Shakespeare
 </p>
 
 ---
