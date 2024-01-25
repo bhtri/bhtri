@@ -27,16 +27,16 @@
 
 ---
 
-### **2024年01月24日**
+### **2024年01月25日**
 
 <p align="center" style="font-size:20px">
   <q>
-    All the world is a stage, And all the men and women merely players. They have their exits and entrances; Each man in his time plays many parts.
+    Eternal nothingness is fine if you happen to be dressed for it.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-William Shakespeare
+Woody Allen
 </p>
 
 ---
