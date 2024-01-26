@@ -27,16 +27,16 @@
 
 ---
 
-### **2024年01月25日**
+### **2024年01月26日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Eternal nothingness is fine if you happen to be dressed for it.
+    What is not started today is never finished tomorrow.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Woody Allen
+Johann Wolfgang von Goethe
 </p>
 
 ---
