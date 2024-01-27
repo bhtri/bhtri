@@ -27,16 +27,16 @@
 
 ---
 
-### **2024年01月26日**
+### **2024年01月27日**
 
 <p align="center" style="font-size:20px">
   <q>
-    What is not started today is never finished tomorrow.
+    We all live with the objective of being happy; our lives are all different and yet the same.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Johann Wolfgang von Goethe
+Anne Frank
 </p>
 
 ---
