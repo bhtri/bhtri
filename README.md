@@ -27,16 +27,16 @@
 
 ---
 
-### **2024年01月27日**
+### **2024年01月28日**
 
 <p align="center" style="font-size:20px">
   <q>
-    We all live with the objective of being happy; our lives are all different and yet the same.
+    Things that were hard to bear are sweet to remember.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Anne Frank
+Seneca the Younger
 </p>
 
 ---
