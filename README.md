@@ -27,16 +27,16 @@
 
 ---
 
-### **2024年01月28日**
+### **2024年01月29日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Things that were hard to bear are sweet to remember.
+    Men of perverse opinion do not know the excellence of what is in their hands, till someone dash it from them.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Seneca the Younger
+Sophocles
 </p>
 
 ---
