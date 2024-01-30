@@ -27,16 +27,16 @@
 
 ---
 
-### **2024年01月29日**
+### **2024年01月30日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Men of perverse opinion do not know the excellence of what is in their hands, till someone dash it from them.
+    Should a seeker not find a companion who is better or equal, let them resolutely pursue a solitary course.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Sophocles
+The Buddha
 </p>
 
 ---
