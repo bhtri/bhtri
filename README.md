@@ -27,16 +27,16 @@
 
 ---
 
-### **2024年01月30日**
+### **2024年01月31日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Should a seeker not find a companion who is better or equal, let them resolutely pursue a solitary course.
+    The bird of paradise alights only upon the hand that does not grasp.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-The Buddha
+John Berry
 </p>
 
 ---
