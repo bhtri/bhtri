@@ -27,16 +27,16 @@
 
 ---
 
-### **2024年01月31日**
+### **2024年02月01日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The bird of paradise alights only upon the hand that does not grasp.
+    Never do things others can do and will do, if there are things others cannot do or will not do.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John Berry
+Amelia Earhart
 </p>
 
 ---
