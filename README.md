@@ -27,16 +27,16 @@
 
 ---
 
-### **2024年02月01日**
+### **2024年02月02日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Never do things others can do and will do, if there are things others cannot do or will not do.
+    True friendship ought never to conceal what it thinks.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Amelia Earhart
+Jerome
 </p>
 
 ---
