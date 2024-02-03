@@ -27,16 +27,16 @@
 
 ---
 
-### **2024年02月02日**
+### **2024年02月03日**
 
 <p align="center" style="font-size:20px">
   <q>
-    True friendship ought never to conceal what it thinks.
+    There is nothing happens to any person but what was in his power to go through with.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Jerome
+Marcus Aurelius
 </p>
 
 ---
