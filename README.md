@@ -27,16 +27,16 @@
 
 ---
 
-### **2024年02月03日**
+### **2024年02月04日**
 
 <p align="center" style="font-size:20px">
   <q>
-    There is nothing happens to any person but what was in his power to go through with.
+    In action a great heart is the chief qualification. In work, a great head.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Marcus Aurelius
+Arthur Schopenhauer
 </p>
 
 ---
