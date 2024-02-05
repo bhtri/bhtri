@@ -27,16 +27,16 @@
 
 ---
 
-### **2024年02月04日**
+### **2024年02月05日**
 
 <p align="center" style="font-size:20px">
   <q>
-    In action a great heart is the chief qualification. In work, a great head.
+    Moral excellence comes about as a result of habit. We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Arthur Schopenhauer
+Aristotle
 </p>
 
 ---
