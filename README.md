@@ -27,16 +27,16 @@
 
 ---
 
-### **2024年02月05日**
+### **2024年02月06日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Moral excellence comes about as a result of habit. We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.
+    Without passion man is a mere latent force and possibility, like the flint which awaits the shock of the iron before it can give forth its spark.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Aristotle
+Henri-Frédéric Amiel
 </p>
 
 ---
