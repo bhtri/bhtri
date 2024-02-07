@@ -27,16 +27,16 @@
 
 ---
 
-### **2024年02月06日**
+### **2024年02月07日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Without passion man is a mere latent force and possibility, like the flint which awaits the shock of the iron before it can give forth its spark.
+    Nothing happens unless first we dream.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Henri-Frédéric Amiel
+Carl Sandburg
 </p>
 
 ---
