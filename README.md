@@ -27,16 +27,16 @@
 
 ---
 
-### **2024年02月07日**
+### **2024年02月08日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Nothing happens unless first we dream.
+    All our dreams can come true, if we have the courage to pursue them.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Carl Sandburg
+Walt Disney
 </p>
 
 ---
