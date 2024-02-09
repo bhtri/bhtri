@@ -27,16 +27,16 @@
 
 ---
 
-### **2024年02月08日**
+### **2024年02月09日**
 
 <p align="center" style="font-size:20px">
   <q>
-    All our dreams can come true, if we have the courage to pursue them.
+    If you cannot do great things, do small things in a great way.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Walt Disney
+Napoleon Hill
 </p>
 
 ---
