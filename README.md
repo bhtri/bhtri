@@ -27,16 +27,16 @@
 
 ---
 
-### **2024年02月09日**
+### **2024年02月10日**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you cannot do great things, do small things in a great way.
+    
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Napoleon Hill
+
 </p>
 
 ---
