@@ -10,7 +10,8 @@ Future<Map<String, dynamic>> getRandomQuotes() async {
     // Handshake error in client
     // https://yuji-ueda.hatenadiary.jp/entry/2019/07/07/201846
     HttpClient client = HttpClient();
-    client.badCertificateCallback = ((X509Certificate cert, String host, int port) => true);
+    client.badCertificateCallback =
+        ((X509Certificate cert, String host, int port) => true);
     final http = IOClient(client);
 
     // https://github.com/lukePeavey/quotable
@@ -52,7 +53,10 @@ void main() async {
 
     // https://api.dart.dev/stable/3.0.5/dart-io/File-class.html
     final File file_template = File('Template.md');
-    Stream<String> lines = file_template.openRead().transform(utf8.decoder).transform(LineSplitter());
+    Stream<String> lines = file_template
+        .openRead()
+        .transform(utf8.decoder)
+        .transform(LineSplitter());
     try {
       await for (String line in lines) {
         strReadme += '$line\n';
