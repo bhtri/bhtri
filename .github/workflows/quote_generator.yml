@@ -22,10 +22,16 @@ jobs:
       - name: Setup Dart SDK
         uses: dart-lang/setup-dart@v1
 
-      - name: Generate quote
+      - name: Install dependencies
         run: dart pub get
+
+      - name: Run dart format
         run: dart format --output=none --set-exit-if-changed .
+
+      - name: Run dart analyze
         run: dart analyze
+
+      - name: Generate quote
         run: dart bin/main.dart
 
       - name: Update README.md
