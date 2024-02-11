@@ -7,8 +7,10 @@
 
 ## I'm a Developer, and .... 🤔!
 
-- 👋 I’m currently learning Flutter ! :sunglasses:
-- 🌱 2023 Goals: Contribute more to flutter community, and do more ...
+- ⏳ Learning ASP.NET, Frontend, Backend Web develop, ... ! :sunglasses:
+- 🌱 2024 Goals: Contribute more to dev community, and do more ...
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 💬 Ask me about football, game crossfire.
 - ⚡ Fun fact: I love nature and love climbing.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width = 30px> </h2>
