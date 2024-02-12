@@ -33,12 +33,12 @@
 
 <p align="center" style="font-size:20px">
   <q>
-    Do what you can. Want what you have. Be who you are.
+    Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Forrest Church
+Arthur Rubinstein
 </p>
 
 ---
