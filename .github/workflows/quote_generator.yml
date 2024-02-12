@@ -32,6 +32,9 @@ jobs:
         run: dart analyze
 
       - name: Generate quote
+        env:
+          TEST_REPO_SECRET: ${{ secrets.REPO_SECRET }}
+          TEST_ENV_TOKEN: ${{ secrets.ENV_SECRET }}
         run: dart bin/main.dart
 
       - name: Update README.md

@@ -44,6 +44,10 @@ Future<Map<String, dynamic>> getRandomQuotes() async {
 
 void main() async {
   try {
+    // https://api.dart.dev/stable/3.0.5/dart-io/Platform-class.html
+    Map<String, String> envVars = Platform.environment;
+    envVars.forEach((k, v) => print("Key=$k Value=$v"));
+
     Map<String, dynamic> map = await getRandomQuotes();
     final DateFormat outputFormat = DateFormat('yyyy年MM月dd日');
     final String quote = map['content'] ?? '';
