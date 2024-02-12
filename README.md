@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年02月11日**
+### **2024年02月12日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Love doesn't make the world go round; love is what makes the ride worthwhile.
+    Do what you can. Want what you have. Be who you are.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Elizabeth Browning
+Forrest Church
 </p>
 
 ---
