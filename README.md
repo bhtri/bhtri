@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年02月12日**
+### **2024年02月13日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings.
+    Successful people ask better questions, and as a result, they get better answers.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Arthur Rubinstein
+Tony Robbins
 </p>
 
 ---
