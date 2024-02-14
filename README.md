@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年02月13日**
+### **2024年02月14日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Successful people ask better questions, and as a result, they get better answers.
+    Smile, breathe and go slowly.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Tony Robbins
+Thích Nhất Hạnh
 </p>
 
 ---
