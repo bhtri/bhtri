@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年02月14日**
+### **2024年02月15日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Smile, breathe and go slowly.
+    Until you make peace with who you are, you will never be content with what you have.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Thích Nhất Hạnh
+Doris Mortman
 </p>
 
 ---
