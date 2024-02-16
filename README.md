@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年02月15日**
+### **2024年02月16日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Until you make peace with who you are, you will never be content with what you have.
+    Through perseverance many people win success out of what seemed destined to be certain failure.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Doris Mortman
+Benjamin Disraeli
 </p>
 
 ---
