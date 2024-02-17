@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年02月16日**
+### **2024年02月17日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Through perseverance many people win success out of what seemed destined to be certain failure.
+    This is the final test of a gentleman: his respect for those who can be of no possible value to him.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Benjamin Disraeli
+William Lyon Phelps
 </p>
 
 ---
