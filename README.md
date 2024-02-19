@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年02月18日**
+### **2024年02月19日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Liberty, taking the word in its concrete sense, consists in the ability to choose.
+    Wisdom is the supreme part of happiness.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Simone Weil
+Sophocles
 </p>
 
 ---
