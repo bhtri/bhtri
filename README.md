@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年02月20日**
+### **2024年02月21日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.
+    My friends are my estate.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Og Mandino
+Emily Dickinson
 </p>
 
 ---
