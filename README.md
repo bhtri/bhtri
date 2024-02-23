@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年02月22日**
+### **2024年02月23日**
 
 <p align="center" style="font-size:20px">
   <q>
-    No snowflake in an avalanche ever feels responsible.
+    Simply put, you believer that things or people make you unhappy, but this is not accurate. You make yourself unhappy.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Voltaire
+Wayne Dyer
 </p>
 
 ---
