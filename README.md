@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年02月24日**
+### **2024年02月25日**
 
 <p align="center" style="font-size:20px">
   <q>
-    We must embrace pain and burn it as fuel for our journey.
+    Friends... they cherish one another's hopes. They are kind to one another's dreams.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Kenji Miyazawa
+Henry David Thoreau
 </p>
 
 ---
