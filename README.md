@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年02月25日**
+### **2024年02月26日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Friends... they cherish one another's hopes. They are kind to one another's dreams.
+    Courage is not the absence of fear, but simply moving on with dignity despite that fear.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Henry David Thoreau
+Pat Riley
 </p>
 
 ---
