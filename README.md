@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年02月26日**
+### **2024年02月27日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Courage is not the absence of fear, but simply moving on with dignity despite that fear.
+    Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Pat Riley
+Stephen Hawking
 </p>
 
 ---
