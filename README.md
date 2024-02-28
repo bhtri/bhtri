@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年02月27日**
+### **2024年02月28日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious.
+    Write your plans in pencil and give God the eraser.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Stephen Hawking
+Paulo Coelho
 </p>
 
 ---
