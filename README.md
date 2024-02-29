@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年02月28日**
+### **2024年02月29日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Write your plans in pencil and give God the eraser.
+    The only limit to our realization of tomorrow will be our doubts of today.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Paulo Coelho
+Franklin D. Roosevelt
 </p>
 
 ---
