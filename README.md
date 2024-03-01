@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年02月29日**
+### **2024年03月01日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The only limit to our realization of tomorrow will be our doubts of today.
+    Imagination is not a talent of some men but is the health of every man.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Franklin D. Roosevelt
+Ralph Waldo Emerson
 </p>
 
 ---
