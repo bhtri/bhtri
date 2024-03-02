@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年03月01日**
+### **2024年03月02日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Imagination is not a talent of some men but is the health of every man.
+    The older I get the more wisdom I find in the ancient rule of taking first things first. A process which often reduces the most complex human problem to a manageable proportion.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ralph Waldo Emerson
+Dwight D. Eisenhower
 </p>
 
 ---
