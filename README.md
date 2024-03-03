@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年03月02日**
+### **2024年03月03日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The older I get the more wisdom I find in the ancient rule of taking first things first. A process which often reduces the most complex human problem to a manageable proportion.
+    Very little is needed to make a happy life; it is all within yourself, in your way of thinking.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Dwight D. Eisenhower
+Marcus Aurelius
 </p>
 
 ---
