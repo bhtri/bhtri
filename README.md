@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年03月03日**
+### **2024年03月04日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Very little is needed to make a happy life; it is all within yourself, in your way of thinking.
+    The greatest mistake you can make in life is to be continually fearing you will make one.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Marcus Aurelius
+Elbert Hubbard
 </p>
 
 ---
