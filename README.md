@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年03月04日**
+### **2024年03月05日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The greatest mistake you can make in life is to be continually fearing you will make one.
+    True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Elbert Hubbard
+William Penn
 </p>
 
 ---
