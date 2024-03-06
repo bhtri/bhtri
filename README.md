@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年03月05日**
+### **2024年03月06日**
 
 <p align="center" style="font-size:20px">
   <q>
-    True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment.
+    I'm not afraid of storms, for I'm learning how to sail my ship.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-William Penn
+Louisa May Alcott
 </p>
 
 ---
