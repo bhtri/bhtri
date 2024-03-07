@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年03月06日**
+### **2024年03月07日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I'm not afraid of storms, for I'm learning how to sail my ship.
+    Even if you're on the right track, you'll get run over if you just sit there.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Louisa May Alcott
+Will Rogers
 </p>
 
 ---
