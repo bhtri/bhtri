@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年03月07日**
+### **2024年03月08日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Even if you're on the right track, you'll get run over if you just sit there.
+    We cannot solve our problems with the same thinking we used when we created them.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Will Rogers
+Albert Einstein
 </p>
 
 ---
