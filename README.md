@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年03月08日**
+### **2024年03月09日**
 
 <p align="center" style="font-size:20px">
   <q>
-    We cannot solve our problems with the same thinking we used when we created them.
+    Do not mind anything that anyone tells you about anyone else. Judge everyone and everything for yourself.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Albert Einstein
+Henry James
 </p>
 
 ---
