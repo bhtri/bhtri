@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年03月09日**
+### **2024年03月10日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Do not mind anything that anyone tells you about anyone else. Judge everyone and everything for yourself.
+    In all chaos there is a cosmos, in all disorder a secret order.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Henry James
+Carl Jung
 </p>
 
 ---
