@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年03月10日**
+### **2024年03月11日**
 
 <p align="center" style="font-size:20px">
   <q>
-    In all chaos there is a cosmos, in all disorder a secret order.
+    Luck is what happens when preparation meets opportunity.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Carl Jung
+Seneca the Younger
 </p>
 
 ---
