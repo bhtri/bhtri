@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年03月11日**
+### **2024年03月12日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Luck is what happens when preparation meets opportunity.
+    Men are disturbed not by things, but by the view which they take of them.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Seneca the Younger
+Epictetus
 </p>
 
 ---
