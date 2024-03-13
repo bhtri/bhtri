@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年03月12日**
+### **2024年03月13日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Men are disturbed not by things, but by the view which they take of them.
+    One's philosophy is not best expressed in words; it is expressed in the choices one makes... and the choices we make are ultimately our responsibility.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Epictetus
+Eleanor Roosevelt
 </p>
 
 ---
