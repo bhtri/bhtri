@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年03月13日**
+### **2024年03月14日**
 
 <p align="center" style="font-size:20px">
   <q>
-    One's philosophy is not best expressed in words; it is expressed in the choices one makes... and the choices we make are ultimately our responsibility.
+    Keep your face always toward the sunshine - and shadows will fall behind you.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Eleanor Roosevelt
+Walt Whitman
 </p>
 
 ---
