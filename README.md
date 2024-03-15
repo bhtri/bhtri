@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年03月14日**
+### **2024年03月15日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Keep your face always toward the sunshine - and shadows will fall behind you.
+    A friend is, as it were, a second self.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Walt Whitman
+Cicero
 </p>
 
 ---
