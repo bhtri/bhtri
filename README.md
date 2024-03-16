@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年03月15日**
+### **2024年03月16日**
 
 <p align="center" style="font-size:20px">
   <q>
-    A friend is, as it were, a second self.
+    The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Cicero
+Isaac Asimov
 </p>
 
 ---
