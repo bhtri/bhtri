@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年03月16日**
+### **2024年03月17日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
+    Follow your instincts. That is where true wisdom manifests itself.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Isaac Asimov
+Oprah Winfrey
 </p>
 
 ---
