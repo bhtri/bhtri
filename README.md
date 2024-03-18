@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年03月17日**
+### **2024年03月18日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Follow your instincts. That is where true wisdom manifests itself.
+    Don't ruin the present with the ruined past.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Oprah Winfrey
+Ellen Gilchrist
 </p>
 
 ---
