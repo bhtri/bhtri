@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年03月18日**
+### **2024年03月19日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Don't ruin the present with the ruined past.
+    Change your thoughts and you change your world.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ellen Gilchrist
+Norman Vincent Peale
 </p>
 
 ---
