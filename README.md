@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年03月19日**
+### **2024年03月20日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Change your thoughts and you change your world.
+    The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Norman Vincent Peale
+Helen Keller
 </p>
 
 ---
