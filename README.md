@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年03月20日**
+### **2024年03月21日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart.
+    There are two kinds of failures: those who thought and never did, and those who did and never thought.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Helen Keller
+Laurence J. Peter
 </p>
 
 ---
