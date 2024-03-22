@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年03月21日**
+### **2024年03月22日**
 
 <p align="center" style="font-size:20px">
   <q>
-    There are two kinds of failures: those who thought and never did, and those who did and never thought.
+    Do more than dream: work.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Laurence J. Peter
+William Arthur Ward
 </p>
 
 ---
