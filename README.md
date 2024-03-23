@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年03月22日**
+### **2024年03月23日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Do more than dream: work.
+    Science investigates; religion interprets. Science gives man knowledge which is power; religion gives man wisdom which is control.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-William Arthur Ward
+Martin Luther King Jr.
 </p>
 
 ---
