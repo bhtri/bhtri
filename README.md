@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年03月23日**
+### **2024年03月24日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Science investigates; religion interprets. Science gives man knowledge which is power; religion gives man wisdom which is control.
+    Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Martin Luther King Jr.
+Henry Reed
 </p>
 
 ---
