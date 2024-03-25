@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年03月24日**
+### **2024年03月25日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Intuition is the very force or activity of the soul in its experience through whatever has been the experience of the soul itself.
+    Most powerful is he who has himself in his own power.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Henry Reed
+Seneca the Younger
 </p>
 
 ---
