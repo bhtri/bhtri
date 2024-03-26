@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年03月25日**
+### **2024年03月26日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Most powerful is he who has himself in his own power.
+    One loyal friend is worth ten thousand relatives.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Seneca the Younger
+Euripides
 </p>
 
 ---
