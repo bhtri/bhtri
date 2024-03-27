@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年03月26日**
+### **2024年03月27日**
 
 <p align="center" style="font-size:20px">
   <q>
-    One loyal friend is worth ten thousand relatives.
+    Know how to listen, and you will profit even from those who talk badly.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Euripides
+Plutarch
 </p>
 
 ---
