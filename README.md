@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年03月27日**
+### **2024年03月28日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Know how to listen, and you will profit even from those who talk badly.
+    Imagination is not a talent of some men but is the health of every man.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Plutarch
+Ralph Waldo Emerson
 </p>
 
 ---
