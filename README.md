@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年03月28日**
+### **2024年03月29日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Imagination is not a talent of some men but is the health of every man.
+    A day of worry is more exhausting than a day of work.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ralph Waldo Emerson
+John Lubbock
 </p>
 
 ---
