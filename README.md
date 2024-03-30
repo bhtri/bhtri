@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年03月29日**
+### **2024年03月30日**
 
 <p align="center" style="font-size:20px">
   <q>
-    A day of worry is more exhausting than a day of work.
+    A rolling stone gathers no moss.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John Lubbock
+Publilius Syrus
 </p>
 
 ---
