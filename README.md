@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年03月30日**
+### **2024年03月31日**
 
 <p align="center" style="font-size:20px">
   <q>
-    A rolling stone gathers no moss.
+    We are wiser than we know.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Publilius Syrus
+Ralph Waldo Emerson
 </p>
 
 ---
