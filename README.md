@@ -33,12 +33,12 @@
 
 <p align="center" style="font-size:20px">
   <q>
-    We are wiser than we know.
+    The fact is, with every friendship you make, and every bond of trust you establish, you are shaping the image of America projected to the rest of the world. That is so important. So when you study abroad, you're actually helping to make America stronger.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ralph Waldo Emerson
+Michelle Obama
 </p>
 
 ---
