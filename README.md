@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年03月31日**
+### **2024年04月01日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The fact is, with every friendship you make, and every bond of trust you establish, you are shaping the image of America projected to the rest of the world. That is so important. So when you study abroad, you're actually helping to make America stronger.
+    Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Michelle Obama
+Wolfgang Amadeus Mozart
 </p>
 
 ---
