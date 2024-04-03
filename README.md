@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年04月02日**
+### **2024年04月03日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Intuition will tell the thinking mind where to look next.
+    I'm not in this world to live up to your expectations and you're not in this world to live up to mine.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Jonas Salk
+Bruce Lee
 </p>
 
 ---
