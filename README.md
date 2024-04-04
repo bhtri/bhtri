@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年04月03日**
+### **2024年04月04日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I'm not in this world to live up to your expectations and you're not in this world to live up to mine.
+    Honesty is the first chapter in the book of wisdom.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Bruce Lee
+Thomas Jefferson
 </p>
 
 ---
