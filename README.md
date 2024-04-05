@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年04月04日**
+### **2024年04月05日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Honesty is the first chapter in the book of wisdom.
+    Honesty is the best policy.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Thomas Jefferson
+Benjamin Franklin
 </p>
 
 ---
