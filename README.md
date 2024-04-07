@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年04月06日**
+### **2024年04月07日**
 
 <p align="center" style="font-size:20px">
   <q>
-    You're not obligated to win. You're obligated to keep trying to do the best you can every day.
+    A man is great by deeds, not by birth.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Marian Wright Edelman
+Chanakya
 </p>
 
 ---
