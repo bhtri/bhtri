@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年04月07日**
+### **2024年04月08日**
 
 <p align="center" style="font-size:20px">
   <q>
-    A man is great by deeds, not by birth.
+    We lost because we told ourselves we lost.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Chanakya
+Leo Tolstoy
 </p>
 
 ---
