@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年04月08日**
+### **2024年04月09日**
 
 <p align="center" style="font-size:20px">
   <q>
-    We lost because we told ourselves we lost.
+    Anticipate the difficult by managing the easy.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Leo Tolstoy
+Laozi
 </p>
 
 ---
