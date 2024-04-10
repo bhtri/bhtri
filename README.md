@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年04月09日**
+### **2024年04月10日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Anticipate the difficult by managing the easy.
+    All this modern technology just makes people try to do everything at once.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Laozi
+Bill Watterson
 </p>
 
 ---
