@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年04月10日**
+### **2024年04月11日**
 
 <p align="center" style="font-size:20px">
   <q>
-    All this modern technology just makes people try to do everything at once.
+    I will prepare and some day my chance will come.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Bill Watterson
+Abraham Lincoln
 </p>
 
 ---
