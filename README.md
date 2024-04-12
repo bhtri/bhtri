@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年04月11日**
+### **2024年04月12日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I will prepare and some day my chance will come.
+    Wisdom often times consists of knowing what to do next.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Abraham Lincoln
+Herbert Hoover
 </p>
 
 ---
