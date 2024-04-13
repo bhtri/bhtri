@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年04月12日**
+### **2024年04月13日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Wisdom often times consists of knowing what to do next.
+    Meditation brings wisdom, lack of meditation leaves ignorance. Know well what leads you forward and what holds you back and choose the path that leads to wisdom.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Herbert Hoover
+The Buddha
 </p>
 
 ---
