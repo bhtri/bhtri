@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年04月13日**
+### **2024年04月14日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Meditation brings wisdom, lack of meditation leaves ignorance. Know well what leads you forward and what holds you back and choose the path that leads to wisdom.
+    Happiness is found in doing, not merely possessing.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-The Buddha
+Napoleon Hill
 </p>
 
 ---
