@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年04月14日**
+### **2024年04月15日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Happiness is found in doing, not merely possessing.
+    Real success is finding your lifework in the work that you love.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Napoleon Hill
+David McCullough
 </p>
 
 ---
