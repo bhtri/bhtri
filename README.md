@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年04月15日**
+### **2024年04月16日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Real success is finding your lifework in the work that you love.
+    I don't believe you have to be better than everybody else. I believe you have to be better than you ever thought you could be.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-David McCullough
+Ken Venturi
 </p>
 
 ---
