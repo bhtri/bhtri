@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年04月16日**
+### **2024年04月17日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I don't believe you have to be better than everybody else. I believe you have to be better than you ever thought you could be.
+    Forgiveness is that subtle thread that binds both love and friendship. Without forgiveness, you may not even have a child one day.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ken Venturi
+George Foreman
 </p>
 
 ---
