@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年04月17日**
+### **2024年04月18日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Forgiveness is that subtle thread that binds both love and friendship. Without forgiveness, you may not even have a child one day.
+    Trying to define yourself is like trying to bite your own teeth.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-George Foreman
+Alan Watts
 </p>
 
 ---
