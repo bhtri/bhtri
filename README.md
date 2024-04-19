@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年04月18日**
+### **2024年04月19日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Trying to define yourself is like trying to bite your own teeth.
+    I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Alan Watts
+Og Mandino
 </p>
 
 ---
