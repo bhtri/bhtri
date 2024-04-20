@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年04月19日**
+### **2024年04月20日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.
+    Love is composed of a single soul inhabiting two bodies.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Og Mandino
+Aristotle
 </p>
 
 ---
