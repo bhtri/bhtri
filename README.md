@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年04月20日**
+### **2024年04月21日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Love is composed of a single soul inhabiting two bodies.
+    Fears are nothing more than a state of mind.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Aristotle
+Napoleon Hill
 </p>
 
 ---
