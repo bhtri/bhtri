@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年04月21日**
+### **2024年04月22日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Fears are nothing more than a state of mind.
+    Our kindness may be the most persuasive argument for that which we believe.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Napoleon Hill
+Gordon Hinckley
 </p>
 
 ---
