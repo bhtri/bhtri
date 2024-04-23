@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年04月22日**
+### **2024年04月23日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Our kindness may be the most persuasive argument for that which we believe.
+    It is only with the heart that one can see rightly, what is essential is invisible to the eye.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Gordon Hinckley
+Antoine de Saint-Exupéry
 </p>
 
 ---
