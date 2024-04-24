@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年04月23日**
+### **2024年04月24日**
 
 <p align="center" style="font-size:20px">
   <q>
-    It is only with the heart that one can see rightly, what is essential is invisible to the eye.
+    Wisdom begins in wonder.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Antoine de Saint-Exupéry
+Socrates
 </p>
 
 ---
