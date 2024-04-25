@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年04月24日**
+### **2024年04月25日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Wisdom begins in wonder.
+    There is no greater harm than that of time wasted.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Socrates
+Michelangelo
 </p>
 
 ---
