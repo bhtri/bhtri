@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年04月25日**
+### **2024年04月26日**
 
 <p align="center" style="font-size:20px">
   <q>
-    There is no greater harm than that of time wasted.
+    Friendships are the family we make - not the one we inherit. I've always been someone to whom friendship, elective affinities, is as important as family.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Michelangelo
+Salman Rushdie
 </p>
 
 ---
