@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年04月26日**
+### **2024年04月27日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Friendships are the family we make - not the one we inherit. I've always been someone to whom friendship, elective affinities, is as important as family.
+    Should you find a wise critic to point out your faults, follow him as you would a guide to hidden treasure.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Salman Rushdie
+The Buddha
 </p>
 
 ---
