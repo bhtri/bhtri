@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年04月27日**
+### **2024年04月28日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Should you find a wise critic to point out your faults, follow him as you would a guide to hidden treasure.
+    The sum of wisdom is that time is never lost that is devoted to work.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-The Buddha
+Ralph Waldo Emerson
 </p>
 
 ---
