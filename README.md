@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年04月28日**
+### **2024年04月29日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The sum of wisdom is that time is never lost that is devoted to work.
+    Government of the people, by the people, for the people, shall not perish from the Earth.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ralph Waldo Emerson
+Abraham Lincoln
 </p>
 
 ---
