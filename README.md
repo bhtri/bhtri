@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年04月29日**
+### **2024年04月30日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Government of the people, by the people, for the people, shall not perish from the Earth.
+    Very little is needed to make a happy life; it is all within yourself, in your way of thinking.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Abraham Lincoln
+Marcus Aurelius
 </p>
 
 ---
