@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年04月30日**
+### **2024年05月01日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Very little is needed to make a happy life; it is all within yourself, in your way of thinking.
+    Knowledge speaks, but wisdom listens.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Marcus Aurelius
+Jimi Hendrix
 </p>
 
 ---
