@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年05月01日**
+### **2024年05月02日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Knowledge speaks, but wisdom listens.
+    There is never enough time to do everything, but there is always enough time to do the most important thing.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Jimi Hendrix
+Brian Tracy
 </p>
 
 ---
