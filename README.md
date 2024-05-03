@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年05月02日**
+### **2024年05月03日**
 
 <p align="center" style="font-size:20px">
   <q>
-    There is never enough time to do everything, but there is always enough time to do the most important thing.
+    The more light you allow within you, the brighter the world you live in will be.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Brian Tracy
+Shakti Gawain
 </p>
 
 ---
