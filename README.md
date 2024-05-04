@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年05月03日**
+### **2024年05月04日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The more light you allow within you, the brighter the world you live in will be.
+    At the center of your being, you have the answer; you know who you are, and you know what you want.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Shakti Gawain
+Laozi
 </p>
 
 ---
