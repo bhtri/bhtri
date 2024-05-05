@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年05月04日**
+### **2024年05月05日**
 
 <p align="center" style="font-size:20px">
   <q>
-    At the center of your being, you have the answer; you know who you are, and you know what you want.
+    The only way to have a friend is to be one.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Laozi
+Ralph Waldo Emerson
 </p>
 
 ---
