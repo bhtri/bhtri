@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年05月05日**
+### **2024年05月06日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The only way to have a friend is to be one.
+    Wisdom comes alone through suffering.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ralph Waldo Emerson
+Aeschylus
 </p>
 
 ---
