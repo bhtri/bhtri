@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年05月06日**
+### **2024年05月07日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Wisdom comes alone through suffering.
+    A person who never made a mistake never tried anything new.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Aeschylus
+Albert Einstein
 </p>
 
 ---
