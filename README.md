@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年05月07日**
+### **2024年05月08日**
 
 <p align="center" style="font-size:20px">
   <q>
-    A person who never made a mistake never tried anything new.
+    A true friend freely, advises justly, assists readily, adventures boldly, takes all patiently, defends courageously, and continues a friend unchangeably.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Albert Einstein
+William C. Menninger
 </p>
 
 ---
