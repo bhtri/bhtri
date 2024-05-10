@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年05月09日**
+### **2024年05月10日**
 
 <p align="center" style="font-size:20px">
   <q>
-    You are always free to change your mind and choose a different future, or a different past.
+    Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Richard Bach
+Albert Einstein
 </p>
 
 ---
