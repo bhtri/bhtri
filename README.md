@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年05月10日**
+### **2024年05月11日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.
+    A heart well prepared for adversity in bad times hopes, and in good times fears for a change in fortune.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Albert Einstein
+Horace
 </p>
 
 ---
