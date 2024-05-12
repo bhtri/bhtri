@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年05月11日**
+### **2024年05月12日**
 
 <p align="center" style="font-size:20px">
   <q>
-    A heart well prepared for adversity in bad times hopes, and in good times fears for a change in fortune.
+    Just trust yourself, then you will know how to live.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Horace
+Johann Wolfgang von Goethe
 </p>
 
 ---
