@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年05月12日**
+### **2024年05月13日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Just trust yourself, then you will know how to live.
+    Make it a rule of life never to regret and never to look back. Regret is an appalling waste of energy; you can't build on it; it's only for wallowing in.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Johann Wolfgang von Goethe
+Katherine Mansfield
 </p>
 
 ---
