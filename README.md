@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年05月13日**
+### **2024年05月14日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Make it a rule of life never to regret and never to look back. Regret is an appalling waste of energy; you can't build on it; it's only for wallowing in.
+    There is no way to happiness, happiness is the way.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Katherine Mansfield
+Thích Nhất Hạnh
 </p>
 
 ---
