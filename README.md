@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年05月14日**
+### **2024年05月15日**
 
 <p align="center" style="font-size:20px">
   <q>
-    There is no way to happiness, happiness is the way.
+    Joy is what happens to us when we allow ourselves to recognize how good things really are.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Thích Nhất Hạnh
+Marianne Williamson
 </p>
 
 ---
