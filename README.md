@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年05月15日**
+### **2024年05月16日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Joy is what happens to us when we allow ourselves to recognize how good things really are.
+    Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Marianne Williamson
+Napoleon Hill
 </p>
 
 ---
