@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年05月16日**
+### **2024年05月17日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times.
+    Habit, if not resisted, soon becomes necessity.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Napoleon Hill
+Augustine of Hippo
 </p>
 
 ---
