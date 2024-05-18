@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年05月17日**
+### **2024年05月18日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Habit, if not resisted, soon becomes necessity.
+    The only real mistake is the one from which we learn nothing.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Augustine of Hippo
+John Powell
 </p>
 
 ---
