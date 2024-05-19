@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年05月18日**
+### **2024年05月19日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The only real mistake is the one from which we learn nothing.
+    Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John Powell
+Bernice Reagon
 </p>
 
 ---
