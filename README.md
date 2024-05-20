@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年05月19日**
+### **2024年05月20日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.
+    If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Bernice Reagon
+Barack Obama
 </p>
 
 ---
