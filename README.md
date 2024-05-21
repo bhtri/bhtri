@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年05月20日**
+### **2024年05月21日**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.
+    Fine words and an insinuating appearance are seldom associated with true virtue
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Barack Obama
+Confucius
 </p>
 
 ---
