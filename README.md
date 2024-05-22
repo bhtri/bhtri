@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年05月21日**
+### **2024年05月22日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Fine words and an insinuating appearance are seldom associated with true virtue
+    An organization's ability to learn, and translate that learning into action rapidly, is the ultimate competitive advantage.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Confucius
+Jack Welch
 </p>
 
 ---
