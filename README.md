@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年05月23日**
+### **2024年05月24日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Every gift from a friend is a wish for your happiness.
+    The person born with a talent they are meant to use will find their greatest happiness in using it.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Richard Bach
+Johann Wolfgang von Goethe
 </p>
 
 ---
