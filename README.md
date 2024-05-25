@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年05月24日**
+### **2024年05月25日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The person born with a talent they are meant to use will find their greatest happiness in using it.
+    One loyal friend is worth ten thousand relatives.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Johann Wolfgang von Goethe
+Euripides
 </p>
 
 ---
