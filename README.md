@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年05月25日**
+### **2024年05月26日**
 
 <p align="center" style="font-size:20px">
   <q>
-    One loyal friend is worth ten thousand relatives.
+    We are all something, but none of us are everything.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Euripides
+Blaise Pascal
 </p>
 
 ---
