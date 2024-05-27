@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年05月26日**
+### **2024年05月27日**
 
 <p align="center" style="font-size:20px">
   <q>
-    We are all something, but none of us are everything.
+    Much wisdom often goes with fewest words.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Blaise Pascal
+Sophocles
 </p>
 
 ---
