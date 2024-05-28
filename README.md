@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年05月27日**
+### **2024年05月28日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Much wisdom often goes with fewest words.
+    A man sees in the world what he carries in his heart.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Sophocles
+Johann Wolfgang von Goethe
 </p>
 
 ---
