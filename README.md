@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年05月28日**
+### **2024年05月29日**
 
 <p align="center" style="font-size:20px">
   <q>
-    A man sees in the world what he carries in his heart.
+    Only when we are no longer afraid do we begin to live.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Johann Wolfgang von Goethe
+Dorothy Thompson
 </p>
 
 ---
