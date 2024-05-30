@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年05月29日**
+### **2024年05月30日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Only when we are no longer afraid do we begin to live.
+    Even an animal, if you show genuine affection, gradually trust develops... If you always showing bad face and beating, how can you develop friendship?
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Dorothy Thompson
+Dalai Lama
 </p>
 
 ---
