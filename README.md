@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年05月30日**
+### **2024年05月31日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Even an animal, if you show genuine affection, gradually trust develops... If you always showing bad face and beating, how can you develop friendship?
+    You should ignore that person’s impure behavior by way of speech and body, and focus on the fact that they get an openness and clarity of heart from time to time. That’s how to get rid of resentment for that person.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Dalai Lama
+The Buddha
 </p>
 
 ---
