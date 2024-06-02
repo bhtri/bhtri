@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年06月01日**
+### **2024年06月02日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Set your goals high, and don't stop till you get there.
+    He who fears being conquered is sure of defeat.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Bo Jackson
+Napoleon
 </p>
 
 ---
