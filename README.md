@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年06月02日**
+### **2024年06月03日**
 
 <p align="center" style="font-size:20px">
   <q>
-    He who fears being conquered is sure of defeat.
+    Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Napoleon
+Samuel Beckett
 </p>
 
 ---
