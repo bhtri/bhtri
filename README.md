@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年06月03日**
+### **2024年06月04日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.
+    It is fatal to enter any war without the will to win it.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Samuel Beckett
+Douglas MacArthur
 </p>
 
 ---
