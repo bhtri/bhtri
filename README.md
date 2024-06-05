@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年06月04日**
+### **2024年06月05日**
 
 <p align="center" style="font-size:20px">
   <q>
-    It is fatal to enter any war without the will to win it.
+    What you do not want done to yourself, do not do to others.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Douglas MacArthur
+Confucius
 </p>
 
 ---
