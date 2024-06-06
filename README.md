@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年06月05日**
+### **2024年06月06日**
 
 <p align="center" style="font-size:20px">
   <q>
-    What you do not want done to yourself, do not do to others.
+    Keep yourself to the sunshine and you cannot see the shadow.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Confucius
+Helen Keller
 </p>
 
 ---
