@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年06月06日**
+### **2024年06月07日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Keep yourself to the sunshine and you cannot see the shadow.
+    Science investigates; religion interprets. Science gives man knowledge which is power; religion gives man wisdom which is control.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Helen Keller
+Martin Luther King Jr.
 </p>
 
 ---
