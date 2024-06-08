@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年06月07日**
+### **2024年06月08日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Science investigates; religion interprets. Science gives man knowledge which is power; religion gives man wisdom which is control.
+    The function of wisdom is to discriminate between good and evil.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Martin Luther King Jr.
+Cicero
 </p>
 
 ---
