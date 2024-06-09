@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年06月08日**
+### **2024年06月09日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The function of wisdom is to discriminate between good and evil.
+    Every day is a new opportunity. You can build on yesterday's success or put its failures behind and start over again. That's the way life is, with a new game every day, and that's the way baseball is.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Cicero
+Bob Feller
 </p>
 
 ---
