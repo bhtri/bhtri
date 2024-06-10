@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年06月09日**
+### **2024年06月10日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Every day is a new opportunity. You can build on yesterday's success or put its failures behind and start over again. That's the way life is, with a new game every day, and that's the way baseball is.
+    Anything you really want, you can attain, if you really go after it.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Bob Feller
+Wayne Dyer
 </p>
 
 ---
