@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年06月10日**
+### **2024年06月11日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Anything you really want, you can attain, if you really go after it.
+    You can stand tall without standing on someone. You can be a victor without having victims.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Wayne Dyer
+Harriet Woods
 </p>
 
 ---
