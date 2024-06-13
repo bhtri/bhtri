@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年06月12日**
+### **2024年06月13日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Friendship without self-interest is one of the rare and beautiful things of life.
+    Failure will never overtake me if my determination to succeed is strong enough.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-James F. Byrnes
+Og Mandino
 </p>
 
 ---
