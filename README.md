@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年06月13日**
+### **2024年06月14日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Failure will never overtake me if my determination to succeed is strong enough.
+    We lost because we told ourselves we lost.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Og Mandino
+Leo Tolstoy
 </p>
 
 ---
