@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年06月14日**
+### **2024年06月15日**
 
 <p align="center" style="font-size:20px">
   <q>
-    We lost because we told ourselves we lost.
+    We need never be ashamed of our tears.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Leo Tolstoy
+Charles Dickens
 </p>
 
 ---
