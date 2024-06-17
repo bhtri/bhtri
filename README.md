@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年06月16日**
+### **2024年06月17日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Our lives are a sum total of the choices we have made.
+    Belief consists in accepting the affirmations of the soul; Unbelief, in denying them.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Wayne Dyer
+Ralph Waldo Emerson
 </p>
 
 ---
