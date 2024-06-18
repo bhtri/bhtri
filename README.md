@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年06月17日**
+### **2024年06月18日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Belief consists in accepting the affirmations of the soul; Unbelief, in denying them.
+    When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ralph Waldo Emerson
+Joseph Campbell
 </p>
 
 ---
