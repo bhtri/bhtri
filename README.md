@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年06月18日**
+### **2024年06月19日**
 
 <p align="center" style="font-size:20px">
   <q>
-    When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness.
+    Love is never lost. If not reciprocated, it will flow back and soften and purify the heart.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Joseph Campbell
+Washington Irving
 </p>
 
 ---
