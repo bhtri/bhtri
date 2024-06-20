@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年06月19日**
+### **2024年06月20日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Love is never lost. If not reciprocated, it will flow back and soften and purify the heart.
+    Both formerly and now, it is only suffering that I describe, and the cessation of suffering.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Washington Irving
+The Buddha
 </p>
 
 ---
