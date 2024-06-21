@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年06月20日**
+### **2024年06月21日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Both formerly and now, it is only suffering that I describe, and the cessation of suffering.
+    Think in the morning. Act in the noon. Eat in the evening. Sleep in the night.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-The Buddha
+William Blake
 </p>
 
 ---
