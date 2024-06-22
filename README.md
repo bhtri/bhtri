@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年06月21日**
+### **2024年06月22日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Think in the morning. Act in the noon. Eat in the evening. Sleep in the night.
+    We will develop and cultivate the liberation of mind by lovingkindness, make it our vehicle, make it our basis, stabilize it, exercise ourselves in it, and fully perfect it.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-William Blake
+The Buddha
 </p>
 
 ---
