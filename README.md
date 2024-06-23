@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年06月22日**
+### **2024年06月23日**
 
 <p align="center" style="font-size:20px">
   <q>
-    We will develop and cultivate the liberation of mind by lovingkindness, make it our vehicle, make it our basis, stabilize it, exercise ourselves in it, and fully perfect it.
+    What lies behind us and what lies before us are small matters compared to what lies within us.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-The Buddha
+Oliver Wendell Holmes Jr.
 </p>
 
 ---
