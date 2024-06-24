@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年06月23日**
+### **2024年06月24日**
 
 <p align="center" style="font-size:20px">
   <q>
-    What lies behind us and what lies before us are small matters compared to what lies within us.
+    There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Oliver Wendell Holmes Jr.
+Dalai Lama
 </p>
 
 ---
