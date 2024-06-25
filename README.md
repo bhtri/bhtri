@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年06月24日**
+### **2024年06月25日**
 
 <p align="center" style="font-size:20px">
   <q>
-    There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.
+    There is no duty we so underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Dalai Lama
+Robert Louis Stevenson
 </p>
 
 ---
