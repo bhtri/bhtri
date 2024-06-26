@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年06月25日**
+### **2024年06月26日**
 
 <p align="center" style="font-size:20px">
   <q>
-    There is no duty we so underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world.
+    The only real mistake is the one from which we learn nothing.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Robert Louis Stevenson
+John Powell
 </p>
 
 ---
