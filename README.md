@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年06月26日**
+### **2024年06月27日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The only real mistake is the one from which we learn nothing.
+    Our strength grows out of our weaknesses.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John Powell
+Ralph Waldo Emerson
 </p>
 
 ---
