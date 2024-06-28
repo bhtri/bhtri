@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年06月27日**
+### **2024年06月28日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Our strength grows out of our weaknesses.
+    I am always doing that which I cannot do, in order that I may learn how to do it.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ralph Waldo Emerson
+Pablo Picasso
 </p>
 
 ---
