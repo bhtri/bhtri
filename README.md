@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年06月28日**
+### **2024年06月29日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I am always doing that which I cannot do, in order that I may learn how to do it.
+    Through perseverance many people win success out of what seemed destined to be certain failure.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Pablo Picasso
+Benjamin Disraeli
 </p>
 
 ---
