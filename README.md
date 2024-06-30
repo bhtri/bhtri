@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年06月29日**
+### **2024年06月30日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Through perseverance many people win success out of what seemed destined to be certain failure.
+    Small opportunities are often the beginning of great enterprises.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Benjamin Disraeli
+Demosthenes
 </p>
 
 ---
