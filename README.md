@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年06月30日**
+### **2024年07月01日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Small opportunities are often the beginning of great enterprises.
+    I'm a great believer in luck and I find the harder I work, the more I have of it.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Demosthenes
+Thomas Jefferson
 </p>
 
 ---
