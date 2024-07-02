@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年07月01日**
+### **2024年07月02日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I'm a great believer in luck and I find the harder I work, the more I have of it.
+    Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Thomas Jefferson
+William Arthur Ward
 </p>
 
 ---
