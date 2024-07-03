@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年07月02日**
+### **2024年07月03日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.
+    It is not fair to ask of others what you are unwilling to do yourself.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-William Arthur Ward
+Eleanor Roosevelt
 </p>
 
 ---
