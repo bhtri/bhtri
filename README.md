@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年07月03日**
+### **2024年07月04日**
 
 <p align="center" style="font-size:20px">
   <q>
-    It is not fair to ask of others what you are unwilling to do yourself.
+    Time stays long enough for anyone who will use it.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Eleanor Roosevelt
+Leonardo da Vinci
 </p>
 
 ---
