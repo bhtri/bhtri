@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年07月04日**
+### **2024年07月05日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Time stays long enough for anyone who will use it.
+    There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Leonardo da Vinci
+Epictetus
 </p>
 
 ---
