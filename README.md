@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年07月05日**
+### **2024年07月06日**
 
 <p align="center" style="font-size:20px">
   <q>
-    There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.
+    People usually compare the computer to the head of the human being. I would say that hardware is the bone of the head, the skull. The semiconductor is the brain within the head. The software is the wisdom. And data is the knowledge.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Epictetus
+Masayoshi Son
 </p>
 
 ---
