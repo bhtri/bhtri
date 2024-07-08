@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年07月07日**
+### **2024年07月08日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The heart has its reasons which reason knows not of.
+    People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Blaise Pascal
+Johann Wolfgang von Goethe
 </p>
 
 ---
