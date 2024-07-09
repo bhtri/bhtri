@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年07月08日**
+### **2024年07月09日**
 
 <p align="center" style="font-size:20px">
   <q>
-    People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not.
+    Know, first, who you are, and then adorn yourself accordingly.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Johann Wolfgang von Goethe
+Epictetus
 </p>
 
 ---
