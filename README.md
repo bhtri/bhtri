@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年07月09日**
+### **2024年07月10日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Know, first, who you are, and then adorn yourself accordingly.
+    Success is not final; failure is not fatal: it is the courage to continue that counts.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Epictetus
+Winston Churchill
 </p>
 
 ---
