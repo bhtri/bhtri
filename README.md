@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年07月10日**
+### **2024年07月11日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Success is not final; failure is not fatal: it is the courage to continue that counts.
+    Things turn out best for those who make the best of the way things turn out.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Winston Churchill
+Jack Buck
 </p>
 
 ---
