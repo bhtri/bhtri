@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年07月11日**
+### **2024年07月12日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Things turn out best for those who make the best of the way things turn out.
+    Friendship is always a sweet responsibility, never an opportunity.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Jack Buck
+Kahlil Gibran
 </p>
 
 ---
