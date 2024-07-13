@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年07月12日**
+### **2024年07月13日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Friendship is always a sweet responsibility, never an opportunity.
+    Don't leave a stone unturned. It's always something, to know you have done the most you could.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Kahlil Gibran
+Charles Dickens
 </p>
 
 ---
