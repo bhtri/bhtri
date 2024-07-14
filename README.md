@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年07月13日**
+### **2024年07月14日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Don't leave a stone unturned. It's always something, to know you have done the most you could.
+    Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Charles Dickens
+Ralph Waldo Emerson
 </p>
 
 ---
