@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年07月14日**
+### **2024年07月15日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him.
+    Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ralph Waldo Emerson
+Hannah Arendt
 </p>
 
 ---
