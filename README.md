@@ -33,12 +33,12 @@
 
 <p align="center" style="font-size:20px">
   <q>
-    Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.
+    You can stand tall without standing on someone. You can be a victor without having victims.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Hannah Arendt
+Harriet Woods
 </p>
 
 ---
