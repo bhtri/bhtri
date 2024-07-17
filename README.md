@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年07月16日**
+### **2024年07月17日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Consider that not only do negative thoughts and emotions destroy our experience of peace, but they also undermine our health.
+    The noblest worship is to make yourself as good and as just as you can.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Dalai Lama
+Isocrates
 </p>
 
 ---
