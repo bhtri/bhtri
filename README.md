@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年07月17日**
+### **2024年07月18日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The noblest worship is to make yourself as good and as just as you can.
+    I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Isocrates
+Marilyn Monroe
 </p>
 
 ---
