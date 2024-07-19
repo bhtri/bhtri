@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年07月18日**
+### **2024年07月19日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.
+    Sometimes the most important thing in a whole day is the rest we take between two deep breaths.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Marilyn Monroe
+Etty Hillesum
 </p>
 
 ---
