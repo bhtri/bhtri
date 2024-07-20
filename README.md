@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年07月19日**
+### **2024年07月20日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Sometimes the most important thing in a whole day is the rest we take between two deep breaths.
+    We do not quit playing because we grow old, we grow old because we quit playing.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Etty Hillesum
+Oliver Wendell Holmes Jr.
 </p>
 
 ---
