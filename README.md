@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年07月20日**
+### **2024年07月21日**
 
 <p align="center" style="font-size:20px">
   <q>
-    We do not quit playing because we grow old, we grow old because we quit playing.
+    Small opportunities are often the beginning of great enterprises.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Oliver Wendell Holmes Jr.
+Demosthenes
 </p>
 
 ---
