@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年07月21日**
+### **2024年07月22日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Small opportunities are often the beginning of great enterprises.
+    All experiences are preceded by mind, having mind as their master, created by mind.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Demosthenes
+The Buddha
 </p>
 
 ---
