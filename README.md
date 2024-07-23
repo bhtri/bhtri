@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年07月22日**
+### **2024年07月23日**
 
 <p align="center" style="font-size:20px">
   <q>
-    All experiences are preceded by mind, having mind as their master, created by mind.
+    Imagination is the living power and prime agent of all human perception.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-The Buddha
+Samuel Taylor Coleridge
 </p>
 
 ---
