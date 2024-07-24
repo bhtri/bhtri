@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年07月23日**
+### **2024年07月24日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Imagination is the living power and prime agent of all human perception.
+    By believing passionately in something that does not yet exist, we create it.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Samuel Taylor Coleridge
+Nikos Kazantzakis
 </p>
 
 ---
