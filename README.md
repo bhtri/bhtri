@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年07月24日**
+### **2024年07月25日**
 
 <p align="center" style="font-size:20px">
   <q>
-    By believing passionately in something that does not yet exist, we create it.
+    The greatest remedy for anger is delay.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Nikos Kazantzakis
+Seneca the Younger
 </p>
 
 ---
