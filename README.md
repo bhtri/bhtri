@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年07月25日**
+### **2024年07月26日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The greatest remedy for anger is delay.
+    If the stars should appear but one night every thousand years how man would marvel and adore.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Seneca the Younger
+Ralph Waldo Emerson
 </p>
 
 ---
