@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年07月26日**
+### **2024年07月27日**
 
 <p align="center" style="font-size:20px">
   <q>
-    If the stars should appear but one night every thousand years how man would marvel and adore.
+    The secret of getting ahead is getting started.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ralph Waldo Emerson
+Mark Twain
 </p>
 
 ---
