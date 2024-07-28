@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年07月27日**
+### **2024年07月28日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The secret of getting ahead is getting started.
+    If you are bitter, you are like a dry leaf that you can just squash, and you can get blown away by the wind. There is much more wisdom in forgiveness.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Mark Twain
+Vusi Mahlasela
 </p>
 
 ---
