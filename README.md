@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年07月28日**
+### **2024年07月29日**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you are bitter, you are like a dry leaf that you can just squash, and you can get blown away by the wind. There is much more wisdom in forgiveness.
+    I don't turn to greeting cards for wisdom and advice, but they are a fine reflection of the general drift of the culture.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Vusi Mahlasela
+Susan Orlean
 </p>
 
 ---
