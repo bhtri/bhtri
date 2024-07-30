@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年07月29日**
+### **2024年07月30日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I don't turn to greeting cards for wisdom and advice, but they are a fine reflection of the general drift of the culture.
+    Wisdom is nothing but a preparation of the soul, a capacity, a secret art of thinking, feeling and breathing thoughts of unity at every moment of life.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Susan Orlean
+Hermann Hesse
 </p>
 
 ---
