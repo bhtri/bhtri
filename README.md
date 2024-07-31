@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年07月30日**
+### **2024年07月31日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Wisdom is nothing but a preparation of the soul, a capacity, a secret art of thinking, feeling and breathing thoughts of unity at every moment of life.
+    We have committed the Golden Rule to memory; let us now commit it to life.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Hermann Hesse
+Edwin Markham
 </p>
 
 ---
