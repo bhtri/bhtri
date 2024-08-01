@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年07月31日**
+### **2024年08月01日**
 
 <p align="center" style="font-size:20px">
   <q>
-    We have committed the Golden Rule to memory; let us now commit it to life.
+    Real magic in relationships means an absence of judgement of others.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Edwin Markham
+Wayne Dyer
 </p>
 
 ---
