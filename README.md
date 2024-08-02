@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年08月01日**
+### **2024年08月02日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Real magic in relationships means an absence of judgement of others.
+    When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Wayne Dyer
+Helen Keller
 </p>
 
 ---
