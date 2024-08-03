@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年08月02日**
+### **2024年08月03日**
 
 <p align="center" style="font-size:20px">
   <q>
-    When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.
+    It is not wisdom but Authority that makes a law.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Helen Keller
+Thomas Hobbes
 </p>
 
 ---
