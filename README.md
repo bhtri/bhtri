@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年08月03日**
+### **2024年08月04日**
 
 <p align="center" style="font-size:20px">
   <q>
-    It is not wisdom but Authority that makes a law.
+    Stay committed to your decisions, but stay flexible in your approach.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Thomas Hobbes
+Tony Robbins
 </p>
 
 ---
