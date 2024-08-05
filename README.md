@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年08月04日**
+### **2024年08月05日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Stay committed to your decisions, but stay flexible in your approach.
+    The foolish man seeks happiness in the distance, the wise grows it under his feet.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Tony Robbins
+James Oppenheim
 </p>
 
 ---
