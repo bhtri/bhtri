@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年08月05日**
+### **2024年08月06日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The foolish man seeks happiness in the distance, the wise grows it under his feet.
+    There is nothing impossible to him who will try.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-James Oppenheim
+Alexander the Great
 </p>
 
 ---
