@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年08月06日**
+### **2024年08月07日**
 
 <p align="center" style="font-size:20px">
   <q>
-    There is nothing impossible to him who will try.
+    There is only one success - to be able to spend your life in your own way.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Alexander the Great
+Christopher Morley
 </p>
 
 ---
