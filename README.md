@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年08月07日**
+### **2024年08月08日**
 
 <p align="center" style="font-size:20px">
   <q>
-    There is only one success - to be able to spend your life in your own way.
+    At the center of your being, you have the answer; you know who you are, and you know what you want.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Christopher Morley
+Laozi
 </p>
 
 ---
