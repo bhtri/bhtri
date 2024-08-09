@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年08月08日**
+### **2024年08月09日**
 
 <p align="center" style="font-size:20px">
   <q>
-    At the center of your being, you have the answer; you know who you are, and you know what you want.
+    Just as much as we see in others, we have in ourselves.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Laozi
+William Hazlitt
 </p>
 
 ---
