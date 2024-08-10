@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年08月09日**
+### **2024年08月10日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Just as much as we see in others, we have in ourselves.
+    Fortune favors the brave.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-William Hazlitt
+Virgil
 </p>
 
 ---
