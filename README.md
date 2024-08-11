@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年08月10日**
+### **2024年08月11日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Fortune favors the brave.
+    Sometimes I am happy and sometimes not. I am, after all, a human being, you know. And I am glad that we are sometimes happy and sometimes not. You get your wisdom working by having different emotions.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Virgil
+Yoko Ono
 </p>
 
 ---
