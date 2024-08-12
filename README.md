@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年08月11日**
+### **2024年08月12日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Sometimes I am happy and sometimes not. I am, after all, a human being, you know. And I am glad that we are sometimes happy and sometimes not. You get your wisdom working by having different emotions.
+    Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Yoko Ono
+Anaïs Nin
 </p>
 
 ---
