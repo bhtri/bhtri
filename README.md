@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年08月12日**
+### **2024年08月13日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living.
+    The lure of the distant and the difficult is deceptive. The great opportunity is where you are.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Anaïs Nin
+John Burroughs
 </p>
 
 ---
