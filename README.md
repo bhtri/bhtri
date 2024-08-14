@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年08月13日**
+### **2024年08月14日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The lure of the distant and the difficult is deceptive. The great opportunity is where you are.
+    Friends are those rare people who ask how we are and then wait to hear the answer.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John Burroughs
+Ed Cunningham
 </p>
 
 ---
