@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年08月14日**
+### **2024年08月15日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Friends are those rare people who ask how we are and then wait to hear the answer.
+    Knowledge is of no value unless you put it into practice.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ed Cunningham
+Anton Chekhov
 </p>
 
 ---
