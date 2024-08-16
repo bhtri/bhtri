@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年08月15日**
+### **2024年08月16日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Knowledge is of no value unless you put it into practice.
+    Any sufficiently advanced technology is equivalent to magic.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Anton Chekhov
+Arthur C. Clarke
 </p>
 
 ---
