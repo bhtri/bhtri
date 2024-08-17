@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年08月16日**
+### **2024年08月17日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Any sufficiently advanced technology is equivalent to magic.
+    It is through science that we prove, but through intuition that we discover.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Arthur C. Clarke
+Henri Poincaré
 </p>
 
 ---
