@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年08月17日**
+### **2024年08月18日**
 
 <p align="center" style="font-size:20px">
   <q>
-    It is through science that we prove, but through intuition that we discover.
+    We are either progressing or retrograding all the while. There is no such thing as remaining stationary in this life.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Henri Poincaré
+James Freeman Clarke
 </p>
 
 ---
