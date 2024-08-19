@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年08月18日**
+### **2024年08月19日**
 
 <p align="center" style="font-size:20px">
   <q>
-    We are either progressing or retrograding all the while. There is no such thing as remaining stationary in this life.
+    We must not allow ourselves to become like the system we oppose.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-James Freeman Clarke
+Desmond Tutu
 </p>
 
 ---
