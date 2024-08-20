@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年08月19日**
+### **2024年08月20日**
 
 <p align="center" style="font-size:20px">
   <q>
-    We must not allow ourselves to become like the system we oppose.
+    Meditation is the dissolution of thoughts in eternal awareness or Pure consciousness without objectification, knowing without thinking, merging finitude in infinity.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Desmond Tutu
+Voltaire
 </p>
 
 ---
