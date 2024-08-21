@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年08月20日**
+### **2024年08月21日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Meditation is the dissolution of thoughts in eternal awareness or Pure consciousness without objectification, knowing without thinking, merging finitude in infinity.
+    The greatest mistake you can make in life is to be continually fearing you will make one.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Voltaire
+Elbert Hubbard
 </p>
 
 ---
