@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年08月21日**
+### **2024年08月22日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The greatest mistake you can make in life is to be continually fearing you will make one.
+    Think how hard physics would be if particles could think.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Elbert Hubbard
+Murray Gell-Mann
 </p>
 
 ---
