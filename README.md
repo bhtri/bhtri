@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年08月22日**
+### **2024年08月23日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Think how hard physics would be if particles could think.
+    Logic is the beginning of wisdom, not the end.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Murray Gell-Mann
+Leonard Nimoy
 </p>
 
 ---
