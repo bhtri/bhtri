@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年08月23日**
+### **2024年08月24日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Logic is the beginning of wisdom, not the end.
+    Ideas are the beginning points of all fortunes.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Leonard Nimoy
+Napoleon Hill
 </p>
 
 ---
