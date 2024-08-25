@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年08月24日**
+### **2024年08月25日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Ideas are the beginning points of all fortunes.
+    A wise man will make more opportunities than he finds.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Napoleon Hill
+Francis Bacon
 </p>
 
 ---
