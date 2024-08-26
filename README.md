@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年08月25日**
+### **2024年08月26日**
 
 <p align="center" style="font-size:20px">
   <q>
-    A wise man will make more opportunities than he finds.
+    I won't close down a business of subnormal profitability merely to add a fraction of a point to our corporate returns. I also feel it inappropriate for even an exceptionally profitable company to fund an operation once it appears to have unending losses in prospect. Adam Smith would disagree with my first proposition and Karl Marx would disagree with my second; the middle ground is the only position that leaves me comfortable.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Francis Bacon
+Warren Buffett
 </p>
 
 ---
