@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年08月27日**
+### **2024年08月28日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Spread love everywhere you go. Let no one ever come to you without leaving happier.
+    It is more shameful to distrust our friends than to be deceived by them.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Mother Teresa
+Confucius
 </p>
 
 ---
