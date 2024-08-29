@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年08月28日**
+### **2024年08月29日**
 
 <p align="center" style="font-size:20px">
   <q>
-    It is more shameful to distrust our friends than to be deceived by them.
+    Be not angry that you cannot make others as you wish them to be, since you cannot make yourself as you wish to be.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Confucius
+Thomas à Kempis
 </p>
 
 ---
