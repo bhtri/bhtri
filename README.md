@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年08月30日**
+### **2024年08月31日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I begin with an idea and then it becomes something else.
+    Take time to deliberate, but when the time for action has arrived, stop thinking and go in.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Pablo Picasso
+Napoleon
 </p>
 
 ---
