@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年08月31日**
+### **2024年09月01日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Take time to deliberate, but when the time for action has arrived, stop thinking and go in.
+    The more you know yourself, the more you forgive yourself.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Napoleon
+Confucius
 </p>
 
 ---
