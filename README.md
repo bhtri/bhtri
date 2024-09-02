@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年09月01日**
+### **2024年09月02日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The more you know yourself, the more you forgive yourself.
+    If you change the way you look at things, the things you look at change.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Confucius
+Wayne Dyer
 </p>
 
 ---
