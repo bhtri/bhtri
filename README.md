@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年09月02日**
+### **2024年09月03日**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you change the way you look at things, the things you look at change.
+    Men are disturbed not by things, but by the view which they take of them.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Wayne Dyer
+Epictetus
 </p>
 
 ---
