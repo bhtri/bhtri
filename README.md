@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年09月03日**
+### **2024年09月04日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Men are disturbed not by things, but by the view which they take of them.
+    Be the chief but never the lord.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Epictetus
+Laozi
 </p>
 
 ---
