@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年09月04日**
+### **2024年09月05日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Be the chief but never the lord.
+    You are not here merely to make a living. You are here in order to enable the world to live more amply, with greater vision, with a finer spirit of hope and achievement. You are here to enrich the world, and you impoverish yourself if you forget the errand.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Laozi
+Woodrow Wilson
 </p>
 
 ---
