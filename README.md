@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年09月05日**
+### **2024年09月06日**
 
 <p align="center" style="font-size:20px">
   <q>
-    You are not here merely to make a living. You are here in order to enable the world to live more amply, with greater vision, with a finer spirit of hope and achievement. You are here to enrich the world, and you impoverish yourself if you forget the errand.
+    Music in the soul can be heard by the universe.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Woodrow Wilson
+Laozi
 </p>
 
 ---
