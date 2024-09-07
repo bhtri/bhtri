@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年09月06日**
+### **2024年09月07日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Music in the soul can be heard by the universe.
+    Friendship, like love, is destroyed by long absence, though it may be increased by short intermissions.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Laozi
+Samuel Johnson
 </p>
 
 ---
