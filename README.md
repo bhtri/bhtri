@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年09月07日**
+### **2024年09月08日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Friendship, like love, is destroyed by long absence, though it may be increased by short intermissions.
+    If we look at the world with a love of life, the world will reveal its beauty to us.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Samuel Johnson
+Daisaku Ikeda
 </p>
 
 ---
