@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年09月08日**
+### **2024年09月09日**
 
 <p align="center" style="font-size:20px">
   <q>
-    If we look at the world with a love of life, the world will reveal its beauty to us.
+    Friendship is one mind in two bodies.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Daisaku Ikeda
+Mencius
 </p>
 
 ---
