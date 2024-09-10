@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年09月09日**
+### **2024年09月10日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Friendship is one mind in two bodies.
+    If you have a harem of 40 women, you never get to know any of them very well.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Mencius
+Warren Buffett
 </p>
 
 ---
