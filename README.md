@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年09月10日**
+### **2024年09月11日**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you have a harem of 40 women, you never get to know any of them very well.
+    Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Warren Buffett
+Thích Nhất Hạnh
 </p>
 
 ---
