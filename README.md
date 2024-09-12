@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年09月11日**
+### **2024年09月12日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy.
+    I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Thích Nhất Hạnh
+Kurt Vonnegut
 </p>
 
 ---
