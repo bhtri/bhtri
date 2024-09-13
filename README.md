@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年09月12日**
+### **2024年09月13日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex.
+    Reality is merely an illusion, albeit a very persistent one.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Kurt Vonnegut
+Albert Einstein
 </p>
 
 ---
