@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年09月13日**
+### **2024年09月14日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Reality is merely an illusion, albeit a very persistent one.
+    He who lives in harmony with himself lives in harmony with the universe.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Albert Einstein
+Marcus Aurelius
 </p>
 
 ---
