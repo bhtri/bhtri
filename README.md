@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年09月14日**
+### **2024年09月15日**
 
 <p align="center" style="font-size:20px">
   <q>
-    He who lives in harmony with himself lives in harmony with the universe.
+    When you come to the end of your rope, tie a knot and hang on.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Marcus Aurelius
+Franklin D. Roosevelt
 </p>
 
 ---
