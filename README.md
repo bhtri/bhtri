@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年09月15日**
+### **2024年09月16日**
 
 <p align="center" style="font-size:20px">
   <q>
-    When you come to the end of your rope, tie a knot and hang on.
+    Write your plans in pencil and give God the eraser.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Franklin D. Roosevelt
+Paulo Coelho
 </p>
 
 ---
