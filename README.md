@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年09月16日**
+### **2024年09月17日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Write your plans in pencil and give God the eraser.
+    Through pride we are ever deceiving ourselves. But deep down below the surface of the average conscience a still, small voice says to us, something is out of tune.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Paulo Coelho
+Carl Jung
 </p>
 
 ---
