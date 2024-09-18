@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年09月17日**
+### **2024年09月18日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Through pride we are ever deceiving ourselves. But deep down below the surface of the average conscience a still, small voice says to us, something is out of tune.
+    Time is the most valuable thing a man can spend.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Carl Jung
+Theophrastus
 </p>
 
 ---
