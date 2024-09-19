@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年09月18日**
+### **2024年09月19日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Time is the most valuable thing a man can spend.
+    A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Theophrastus
+George Bernard Shaw
 </p>
 
 ---
