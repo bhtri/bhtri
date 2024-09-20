@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年09月19日**
+### **2024年09月20日**
 
 <p align="center" style="font-size:20px">
   <q>
-    A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.
+    Sometimes I am happy and sometimes not. I am, after all, a human being, you know. And I am glad that we are sometimes happy and sometimes not. You get your wisdom working by having different emotions.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-George Bernard Shaw
+Yoko Ono
 </p>
 
 ---
