@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年09月20日**
+### **2024年09月21日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Sometimes I am happy and sometimes not. I am, after all, a human being, you know. And I am glad that we are sometimes happy and sometimes not. You get your wisdom working by having different emotions.
+    A tree is known by its fruit; a man by his deeds. A good deed is never lost; he who sows courtesy reaps friendship, and he who plants kindness gathers love.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Yoko Ono
+Basil of Caesarea
 </p>
 
 ---
