@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年09月21日**
+### **2024年09月22日**
 
 <p align="center" style="font-size:20px">
   <q>
-    A tree is known by its fruit; a man by his deeds. A good deed is never lost; he who sows courtesy reaps friendship, and he who plants kindness gathers love.
+    The greatest way to live with honor in this world is to be what we pretend to be.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Basil of Caesarea
+Socrates
 </p>
 
 ---
