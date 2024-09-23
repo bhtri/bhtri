@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年09月22日**
+### **2024年09月23日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The greatest way to live with honor in this world is to be what we pretend to be.
+    Acquaintances we meet, enjoy, and can easily leave behind; but friendship grows deep roots.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Socrates
+H. Jackson Brown Jr.
 </p>
 
 ---
