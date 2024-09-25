@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年09月24日**
+### **2024年09月25日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Yesterday is history. Tomorrow is a mystery. And today? Today is a gift. That is why we call it the present.
+    Without this playing with fantasy no creative work has ever yet come to birth. The debt we owe to the play of the imagination is incalculable.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Babatunde Olatunji
+Carl Jung
 </p>
 
 ---
