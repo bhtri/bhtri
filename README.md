@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年09月25日**
+### **2024年09月26日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Without this playing with fantasy no creative work has ever yet come to birth. The debt we owe to the play of the imagination is incalculable.
+    I believe in one thing only, the power of human will.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Carl Jung
+Joseph Stalin
 </p>
 
 ---
