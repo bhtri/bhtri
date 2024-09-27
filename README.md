@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年09月26日**
+### **2024年09月27日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I believe in one thing only, the power of human will.
+    No one is useless in this world who lightens the burdens of another.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Joseph Stalin
+Charles Dickens
 </p>
 
 ---
