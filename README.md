@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年09月27日**
+### **2024年09月28日**
 
 <p align="center" style="font-size:20px">
   <q>
-    No one is useless in this world who lightens the burdens of another.
+    The ideals which have lighted my way, and time after time have given me new courage to face life cheerfully, have been Kindness, Beauty, and Truth. The trite subjects of human efforts, possessions, outward success, luxury have always seemed to me contemptible.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Charles Dickens
+Albert Einstein
 </p>
 
 ---
