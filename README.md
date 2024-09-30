@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年09月29日**
+### **2024年09月30日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I can, therefore I am.
+    Even an animal, if you show genuine affection, gradually trust develops... If you always showing bad face and beating, how can you develop friendship?
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Simone Weil
+Dalai Lama
 </p>
 
 ---
