@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年09月30日**
+### **2024年10月01日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Even an animal, if you show genuine affection, gradually trust develops... If you always showing bad face and beating, how can you develop friendship?
+    Anybody can make history. Only a great man can write it.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Dalai Lama
+Oscar Wilde
 </p>
 
 ---
