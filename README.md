@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年10月01日**
+### **2024年10月02日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Anybody can make history. Only a great man can write it.
+    The man of knowledge must be able not only to love his enemies but also to hate his friends.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Oscar Wilde
+Friedrich Nietzsche
 </p>
 
 ---
