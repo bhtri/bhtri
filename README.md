@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年10月02日**
+### **2024年10月03日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The man of knowledge must be able not only to love his enemies but also to hate his friends.
+    Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, vision cleared, ambition inspired, and success achieved.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Friedrich Nietzsche
+Helen Keller
 </p>
 
 ---
