@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年10月03日**
+### **2024年10月04日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, vision cleared, ambition inspired, and success achieved.
+    Happiness is found in doing, not merely possessing.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Helen Keller
+Napoleon Hill
 </p>
 
 ---
