@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年10月04日**
+### **2024年10月05日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Happiness is found in doing, not merely possessing.
+    To change one's life, start immediately, do it flamboyantly, no exceptions.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Napoleon Hill
+William James
 </p>
 
 ---
