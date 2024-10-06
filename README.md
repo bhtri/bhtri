@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年10月05日**
+### **2024年10月06日**
 
 <p align="center" style="font-size:20px">
   <q>
-    To change one's life, start immediately, do it flamboyantly, no exceptions.
+    It is impossible to love and to be wise.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-William James
+Francis Bacon
 </p>
 
 ---
