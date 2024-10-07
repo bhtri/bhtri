@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年10月06日**
+### **2024年10月07日**
 
 <p align="center" style="font-size:20px">
   <q>
-    It is impossible to love and to be wise.
+    Without this playing with fantasy no creative work has ever yet come to birth. The debt we owe to the play of the imagination is incalculable.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Francis Bacon
+Carl Jung
 </p>
 
 ---
