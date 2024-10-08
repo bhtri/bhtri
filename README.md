@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年10月07日**
+### **2024年10月08日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Without this playing with fantasy no creative work has ever yet come to birth. The debt we owe to the play of the imagination is incalculable.
+    Should someone do good, let them do it again and again. They should develop this habit, for the accumulation of goodness brings joy.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Carl Jung
+The Buddha
 </p>
 
 ---
