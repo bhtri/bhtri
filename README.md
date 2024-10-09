@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年10月08日**
+### **2024年10月09日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Should someone do good, let them do it again and again. They should develop this habit, for the accumulation of goodness brings joy.
+    People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-The Buddha
+Johann Wolfgang von Goethe
 </p>
 
 ---
