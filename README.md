@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年10月09日**
+### **2024年10月10日**
 
 <p align="center" style="font-size:20px">
   <q>
-    People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not.
+    You were not born a winner, and you were not born a loser. You are what you make yourself be.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Johann Wolfgang von Goethe
+Lou Holtz
 </p>
 
 ---
