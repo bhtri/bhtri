@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年10月10日**
+### **2024年10月11日**
 
 <p align="center" style="font-size:20px">
   <q>
-    You were not born a winner, and you were not born a loser. You are what you make yourself be.
+    The world is round so that friendship may encircle it.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lou Holtz
+Pierre Teilhard de Chardin
 </p>
 
 ---
