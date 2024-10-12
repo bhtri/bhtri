@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年10月11日**
+### **2024年10月12日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The world is round so that friendship may encircle it.
+    What is necessary to change a person is to change his awareness of himself.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Pierre Teilhard de Chardin
+Abraham Maslow
 </p>
 
 ---
