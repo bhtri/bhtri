@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年10月12日**
+### **2024年10月13日**
 
 <p align="center" style="font-size:20px">
   <q>
-    What is necessary to change a person is to change his awareness of himself.
+    They can do all because they think they can.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Abraham Maslow
+Virgil
 </p>
 
 ---
