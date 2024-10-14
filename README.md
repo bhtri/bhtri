@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年10月13日**
+### **2024年10月14日**
 
 <p align="center" style="font-size:20px">
   <q>
-    They can do all because they think they can.
+    I never did anything worth doing by accident, nor did any of my inventions come by accident
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Virgil
+Thomas Edison
 </p>
 
 ---
