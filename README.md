@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年10月14日**
+### **2024年10月15日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I never did anything worth doing by accident, nor did any of my inventions come by accident
+    If you don't design your own life plan, chances are you'll fall into someone else's plan. And guess what they have planned for you? Not much.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Thomas Edison
+Jim Rohn
 </p>
 
 ---
