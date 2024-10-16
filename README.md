@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年10月15日**
+### **2024年10月16日**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you don't design your own life plan, chances are you'll fall into someone else's plan. And guess what they have planned for you? Not much.
+    Friendship at first sight, like love at first sight, is said to be the only truth.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Jim Rohn
+Herman Melville
 </p>
 
 ---
