@@ -33,12 +33,12 @@
 
 <p align="center" style="font-size:20px">
   <q>
-    The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.
+    You may say I'm a dreamer, but I'm not the only one, I hope someday you will join us, and the world will live as one.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Helen Keller
+John Lennon
 </p>
 
 ---
