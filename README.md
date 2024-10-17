@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年10月16日**
+### **2024年10月17日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Friendship at first sight, like love at first sight, is said to be the only truth.
+    The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Herman Melville
+Helen Keller
 </p>
 
 ---
