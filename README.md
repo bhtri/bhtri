@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年10月17日**
+### **2024年10月18日**
 
 <p align="center" style="font-size:20px">
   <q>
-    You may say I'm a dreamer, but I'm not the only one, I hope someday you will join us, and the world will live as one.
+    We can change our lives. We can do, have, and be exactly what we wish.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John Lennon
+Tony Robbins
 </p>
 
 ---
