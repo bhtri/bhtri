@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年10月18日**
+### **2024年10月19日**
 
 <p align="center" style="font-size:20px">
   <q>
-    We can change our lives. We can do, have, and be exactly what we wish.
+    The art of progress is to preserve order amid change, and to preserve change amid order.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Tony Robbins
+Alfred North Whitehead
 </p>
 
 ---
