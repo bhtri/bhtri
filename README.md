@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年10月19日**
+### **2024年10月20日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The art of progress is to preserve order amid change, and to preserve change amid order.
+    All things must come to the soul from its roots, from where it is planted.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Alfred North Whitehead
+Teresa of Ávila
 </p>
 
 ---
