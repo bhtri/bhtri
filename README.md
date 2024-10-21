@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年10月20日**
+### **2024年10月21日**
 
 <p align="center" style="font-size:20px">
   <q>
-    All things must come to the soul from its roots, from where it is planted.
+    Communications tools don't get socially interesting until they get technologically boring.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Teresa of Ávila
+Clay Shirky
 </p>
 
 ---
