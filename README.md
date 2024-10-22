@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年10月21日**
+### **2024年10月22日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Communications tools don't get socially interesting until they get technologically boring.
+    The ladder of success is never crowded at the top.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Clay Shirky
+Napoleon Hill
 </p>
 
 ---
