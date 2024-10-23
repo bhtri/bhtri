@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年10月22日**
+### **2024年10月23日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The ladder of success is never crowded at the top.
+    We are not animals. We are not a product of what has happened to us in our past. We have the power of choice.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Napoleon Hill
+Stephen Covey
 </p>
 
 ---
