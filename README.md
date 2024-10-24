@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年10月23日**
+### **2024年10月24日**
 
 <p align="center" style="font-size:20px">
   <q>
-    We are not animals. We are not a product of what has happened to us in our past. We have the power of choice.
+    He who has imagination without learning has wings but no feet.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Stephen Covey
+Joseph Joubert
 </p>
 
 ---
