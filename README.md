@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年10月24日**
+### **2024年10月25日**
 
 <p align="center" style="font-size:20px">
   <q>
-    He who has imagination without learning has wings but no feet.
+    Friendship is always a sweet responsibility, never an opportunity.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Joseph Joubert
+Kahlil Gibran
 </p>
 
 ---
