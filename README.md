@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年10月25日**
+### **2024年10月26日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Friendship is always a sweet responsibility, never an opportunity.
+    You are that vast thing that you see far, far off with great telescopes.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Kahlil Gibran
+Alan Watts
 </p>
 
 ---
