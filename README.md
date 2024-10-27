@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年10月26日**
+### **2024年10月27日**
 
 <p align="center" style="font-size:20px">
   <q>
-    You are that vast thing that you see far, far off with great telescopes.
+    People may doubt what you say, but they will believe what you do.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Alan Watts
+Lewis Cass
 </p>
 
 ---
