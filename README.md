@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年10月27日**
+### **2024年10月28日**
 
 <p align="center" style="font-size:20px">
   <q>
-    People may doubt what you say, but they will believe what you do.
+    If you change the way you look at things, the things you look at change.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lewis Cass
+Wayne Dyer
 </p>
 
 ---
