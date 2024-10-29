@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年10月28日**
+### **2024年10月29日**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you change the way you look at things, the things you look at change.
+    The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Wayne Dyer
+Walter Benjamin
 </p>
 
 ---
