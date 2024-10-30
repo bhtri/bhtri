@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年10月29日**
+### **2024年10月30日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out.
+    Being entirely honest with oneself is a good exercise.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Walter Benjamin
+Sigmund Freud
 </p>
 
 ---
