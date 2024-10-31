@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年10月30日**
+### **2024年10月31日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Being entirely honest with oneself is a good exercise.
+    Good thoughts are no better than good dreams, unless they be executed.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Sigmund Freud
+Ralph Waldo Emerson
 </p>
 
 ---
