@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年10月31日**
+### **2024年11月01日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Good thoughts are no better than good dreams, unless they be executed.
+    Be the chief but never the lord.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ralph Waldo Emerson
+Laozi
 </p>
 
 ---
