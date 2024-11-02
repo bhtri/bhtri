@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年11月01日**
+### **2024年11月02日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Be the chief but never the lord.
+    Life is a succession of moments. To live each one is to succeed.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Laozi
+Corita Kent
 </p>
 
 ---
