@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年11月02日**
+### **2024年11月03日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Life is a succession of moments. To live each one is to succeed.
+    Friendship is certainly the finest balm for the pangs of disappointed love.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Corita Kent
+Jane Austen
 </p>
 
 ---
