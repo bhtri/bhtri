@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年11月03日**
+### **2024年11月04日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Friendship is certainly the finest balm for the pangs of disappointed love.
+    It is easier to live through someone else than to become complete yourself.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Jane Austen
+Betty Friedan
 </p>
 
 ---
