@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年11月04日**
+### **2024年11月05日**
 
 <p align="center" style="font-size:20px">
   <q>
-    It is easier to live through someone else than to become complete yourself.
+    Anything you really want, you can attain, if you really go after it.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Betty Friedan
+Wayne Dyer
 </p>
 
 ---
