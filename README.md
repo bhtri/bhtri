@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年11月05日**
+### **2024年11月06日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Anything you really want, you can attain, if you really go after it.
+    In all things of nature there is something of the marvelous.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Wayne Dyer
+Aristotle
 </p>
 
 ---
