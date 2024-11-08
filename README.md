@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年11月07日**
+### **2024年11月08日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The opportunity for brotherhood presents itself every time you meet a human being.
+    Chaos and Order are not enemies, only opposites.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Jane Wyman
+Richard Garriott
 </p>
 
 ---
