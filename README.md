@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年11月09日**
+### **2024年11月10日**
 
 <p align="center" style="font-size:20px">
   <q>
-    You should ignore that person’s impure behavior by way of speech and body, and focus on the fact that they get an openness and clarity of heart from time to time. That’s how to get rid of resentment for that person.
+    Let the beauty of what you love be what you do.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-The Buddha
+Rumi
 </p>
 
 ---
