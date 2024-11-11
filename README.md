@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年11月10日**
+### **2024年11月11日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Let the beauty of what you love be what you do.
+    Nature gave us one tongue and two ears so we could hear twice as much as we speak.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Rumi
+Epictetus
 </p>
 
 ---
