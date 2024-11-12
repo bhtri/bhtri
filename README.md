@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年11月11日**
+### **2024年11月12日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Nature gave us one tongue and two ears so we could hear twice as much as we speak.
+    What we achieve inwardly will change outer reality.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Epictetus
+Plutarch
 </p>
 
 ---
