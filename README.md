@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年11月12日**
+### **2024年11月13日**
 
 <p align="center" style="font-size:20px">
   <q>
-    What we achieve inwardly will change outer reality.
+    Minds are like parachutes. They only function when open.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Plutarch
+Thomas Dewar
 </p>
 
 ---
