@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年11月13日**
+### **2024年11月14日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Minds are like parachutes. They only function when open.
+    Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Thomas Dewar
+George Washington
 </p>
 
 ---
