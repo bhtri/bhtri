@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年11月14日**
+### **2024年11月15日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence.
+    You don't look out there for God, something in the sky, you look in you.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-George Washington
+Alan Watts
 </p>
 
 ---
