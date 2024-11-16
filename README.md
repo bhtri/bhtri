@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年11月15日**
+### **2024年11月16日**
 
 <p align="center" style="font-size:20px">
   <q>
-    You don't look out there for God, something in the sky, you look in you.
+    It takes courage to grow up and become who you really are.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Alan Watts
+E. E. Cummings
 </p>
 
 ---
