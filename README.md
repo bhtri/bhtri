@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年11月16日**
+### **2024年11月17日**
 
 <p align="center" style="font-size:20px">
   <q>
-    It takes courage to grow up and become who you really are.
+    When watching after yourself, you watch after others. When watching after others, you watch after yourself.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-E. E. Cummings
+The Buddha
 </p>
 
 ---
