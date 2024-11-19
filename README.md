@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年11月18日**
+### **2024年11月19日**
 
 <p align="center" style="font-size:20px">
   <q>
-    If it turns out that there is a God, I don't think that he's evil. But the worst that you can say about him is that basically he's an underachiever.
+    Those that know, do. Those that understand, teach.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Woody Allen
+Aristotle
 </p>
 
 ---
