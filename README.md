@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年11月19日**
+### **2024年11月20日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Those that know, do. Those that understand, teach.
+    I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Aristotle
+Herbert Bayard Swope
 </p>
 
 ---
