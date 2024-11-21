@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年11月20日**
+### **2024年11月21日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody.
+    Rare as is true love, true friendship is rarer.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Herbert Bayard Swope
+Jean de La Fontaine
 </p>
 
 ---
