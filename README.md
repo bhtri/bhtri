@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年11月22日**
+### **2024年11月23日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I decided that it was not wisdom that enabled poets to write their poetry, but a kind of instinct or inspiration, such as you find in seers and prophets who deliver all their sublime messages without knowing in the least what they mean.
+    Respect should be earned by actions, and not acquired by years.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Isocrates
+Frank Lloyd Wright
 </p>
 
 ---
