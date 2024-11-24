@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年11月23日**
+### **2024年11月24日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Respect should be earned by actions, and not acquired by years.
+    Value your friendship. Value your relationships.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Frank Lloyd Wright
+Barbara Bush
 </p>
 
 ---
