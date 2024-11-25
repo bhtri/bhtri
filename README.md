@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年11月24日**
+### **2024年11月25日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Value your friendship. Value your relationships.
+    Never put off till tomorrow what you can do today.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Barbara Bush
+Thomas Jefferson
 </p>
 
 ---
