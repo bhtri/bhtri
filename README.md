@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年11月25日**
+### **2024年11月26日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Never put off till tomorrow what you can do today.
+    Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Thomas Jefferson
+Napoleon Hill
 </p>
 
 ---
