@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年11月26日**
+### **2024年11月27日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times.
+    Friendship is one mind in two bodies.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Napoleon Hill
+Mencius
 </p>
 
 ---
