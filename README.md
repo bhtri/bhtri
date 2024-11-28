@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年11月27日**
+### **2024年11月28日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Friendship is one mind in two bodies.
+    I love you the more in that I believe you had liked me for my own sake and for nothing else.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Mencius
+John Keats
 </p>
 
 ---
