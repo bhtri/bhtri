@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年11月28日**
+### **2024年11月29日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I love you the more in that I believe you had liked me for my own sake and for nothing else.
+    The really unhappy person is the one who leaves undone what they can do, and starts doing what they don't understand; no wonder they come to grief.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John Keats
+Johann Wolfgang von Goethe
 </p>
 
 ---
