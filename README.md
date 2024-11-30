@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年11月29日**
+### **2024年11月30日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The really unhappy person is the one who leaves undone what they can do, and starts doing what they don't understand; no wonder they come to grief.
+    The two most powerful warriors are patience and time.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Johann Wolfgang von Goethe
+Leo Tolstoy
 </p>
 
 ---
