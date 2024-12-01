@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年11月30日**
+### **2024年12月01日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The two most powerful warriors are patience and time.
+    All the world is a stage, And all the men and women merely players. They have their exits and entrances; Each man in his time plays many parts.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Leo Tolstoy
+William Shakespeare
 </p>
 
 ---
