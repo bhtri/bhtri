@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年12月01日**
+### **2024年12月02日**
 
 <p align="center" style="font-size:20px">
   <q>
-    All the world is a stage, And all the men and women merely players. They have their exits and entrances; Each man in his time plays many parts.
+    Genius is one per cent inspiration, ninety-nine per cent perspiration.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-William Shakespeare
+Thomas Edison
 </p>
 
 ---
