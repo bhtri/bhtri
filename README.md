@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年12月02日**
+### **2024年12月03日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Genius is one per cent inspiration, ninety-nine per cent perspiration.
+    I'm not interested in age. People who tell me their age are silly. You're as old as you feel.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Thomas Edison
+Elizabeth Arden
 </p>
 
 ---
