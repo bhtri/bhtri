@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年12月03日**
+### **2024年12月04日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I'm not interested in age. People who tell me their age are silly. You're as old as you feel.
+    Science is organized knowledge. Wisdom is organized life.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Elizabeth Arden
+Immanuel Kant
 </p>
 
 ---
