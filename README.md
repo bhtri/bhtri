@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年12月05日**
+### **2024年12月06日**
 
 <p align="center" style="font-size:20px">
   <q>
-    When a friend is in trouble, don't annoy him by asking if there is anything you can do. Think up something appropriate and do it.
+    Injuries may be forgiven, but not forgotten.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-A. Powell Davies
+Aesop
 </p>
 
 ---
