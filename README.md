@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年12月06日**
+### **2024年12月07日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Injuries may be forgiven, but not forgotten.
+    If it turns out that there is a God, I don't think that he's evil. But the worst that you can say about him is that basically he's an underachiever.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Aesop
+Woody Allen
 </p>
 
 ---
