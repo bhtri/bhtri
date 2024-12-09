@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年12月08日**
+### **2024年12月09日**
 
 <p align="center" style="font-size:20px">
   <q>
-    In three words I can sum up everything I've learned about life: it goes on.
+    An ounce of emotion is equal to a ton of facts.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Robert Frost
+John Junor
 </p>
 
 ---
