@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年12月09日**
+### **2024年12月10日**
 
 <p align="center" style="font-size:20px">
   <q>
-    An ounce of emotion is equal to a ton of facts.
+    The Universal Zulu Nation stands to acknowledge wisdom, understanding, freedom, justice, and equality, peace, unity, love, and having fun, work, overcoming the negative through the positive, science, mathematics, faith, facts, and the wonders of God, whether we call him Allah, Jehovah, Yahweh, or Jah.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John Junor
+Afrika Bambaataa
 </p>
 
 ---
