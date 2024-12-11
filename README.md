@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年12月10日**
+### **2024年12月11日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The Universal Zulu Nation stands to acknowledge wisdom, understanding, freedom, justice, and equality, peace, unity, love, and having fun, work, overcoming the negative through the positive, science, mathematics, faith, facts, and the wonders of God, whether we call him Allah, Jehovah, Yahweh, or Jah.
+    If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Afrika Bambaataa
+Dalai Lama
 </p>
 
 ---
