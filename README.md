@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年12月11日**
+### **2024年12月12日**
 
 <p align="center" style="font-size:20px">
   <q>
-    If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace.
+    The personal life deeply lived always expands into truths beyond itself.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Dalai Lama
+Anaïs Nin
 </p>
 
 ---
