@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年12月12日**
+### **2024年12月13日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The personal life deeply lived always expands into truths beyond itself.
+    You can only grow if you're willing to feel awkward and uncomfortable when you try something new.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Anaïs Nin
+Brian Tracy
 </p>
 
 ---
