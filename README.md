@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年12月13日**
+### **2024年12月14日**
 
 <p align="center" style="font-size:20px">
   <q>
-    You can only grow if you're willing to feel awkward and uncomfortable when you try something new.
+    Friendship is one of our most treasured relationships, but it isn't codified and celebrated; it's never going to give you a party.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Brian Tracy
+Hanya Yanagihara
 </p>
 
 ---
