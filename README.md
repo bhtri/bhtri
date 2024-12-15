@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年12月14日**
+### **2024年12月15日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Friendship is one of our most treasured relationships, but it isn't codified and celebrated; it's never going to give you a party.
+    Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Hanya Yanagihara
+Tony Robbins
 </p>
 
 ---
