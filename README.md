@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年12月15日**
+### **2024年12月16日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant.
+    What other people may find in poetry or art museums, I find in the flight of a good drive.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Tony Robbins
+Arnold Palmer
 </p>
 
 ---
