@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年12月16日**
+### **2024年12月17日**
 
 <p align="center" style="font-size:20px">
   <q>
-    What other people may find in poetry or art museums, I find in the flight of a good drive.
+    The less effort, the faster and more powerful you will be.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Arnold Palmer
+Bruce Lee
 </p>
 
 ---
