@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年12月17日**
+### **2024年12月18日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The less effort, the faster and more powerful you will be.
+    To lead people walk behind them.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Bruce Lee
+Laozi
 </p>
 
 ---
