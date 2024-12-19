@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年12月18日**
+### **2024年12月19日**
 
 <p align="center" style="font-size:20px">
   <q>
-    To lead people walk behind them.
+    Make the best use of what is in your power and take the rest as it happens.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Laozi
+Epictetus
 </p>
 
 ---
