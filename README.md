@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年12月19日**
+### **2024年12月20日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Make the best use of what is in your power and take the rest as it happens.
+    I am always ready to learn although I do not always like being taught.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Epictetus
+Winston Churchill
 </p>
 
 ---
