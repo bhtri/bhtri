@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年12月20日**
+### **2024年12月21日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I am always ready to learn although I do not always like being taught.
+    An ounce of emotion is equal to a ton of facts.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Winston Churchill
+John Junor
 </p>
 
 ---
