@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年12月21日**
+### **2024年12月22日**
 
 <p align="center" style="font-size:20px">
   <q>
-    An ounce of emotion is equal to a ton of facts.
+    Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John Junor
+William Ellery Channing
 </p>
 
 ---
