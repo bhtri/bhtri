@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年12月22日**
+### **2024年12月23日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict.
+    You're not obligated to win. You're obligated to keep trying to do the best you can every day.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-William Ellery Channing
+Marian Wright Edelman
 </p>
 
 ---
