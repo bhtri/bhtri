@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年12月23日**
+### **2024年12月24日**
 
 <p align="center" style="font-size:20px">
   <q>
-    You're not obligated to win. You're obligated to keep trying to do the best you can every day.
+    To see things in the seed, that is genius.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Marian Wright Edelman
+Laozi
 </p>
 
 ---
