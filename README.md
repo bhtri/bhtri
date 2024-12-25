@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年12月24日**
+### **2024年12月25日**
 
 <p align="center" style="font-size:20px">
   <q>
-    To see things in the seed, that is genius.
+    He who lives in harmony with himself lives in harmony with the universe.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Laozi
+Marcus Aurelius
 </p>
 
 ---
