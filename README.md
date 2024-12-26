@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年12月25日**
+### **2024年12月26日**
 
 <p align="center" style="font-size:20px">
   <q>
-    He who lives in harmony with himself lives in harmony with the universe.
+    Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Marcus Aurelius
+Robert Graves
 </p>
 
 ---
