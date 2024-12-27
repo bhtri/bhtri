@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年12月26日**
+### **2024年12月27日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer.
+    Act as if what you do makes a difference. It does.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Robert Graves
+William James
 </p>
 
 ---
