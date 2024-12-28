@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年12月27日**
+### **2024年12月28日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Act as if what you do makes a difference. It does.
+    If you don't know where you are going, you will probably end up somewhere else.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-William James
+Laurence J. Peter
 </p>
 
 ---
