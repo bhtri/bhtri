@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年12月28日**
+### **2024年12月29日**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you don't know where you are going, you will probably end up somewhere else.
+    Be faithful in small things because it is in them that your strength lies.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Laurence J. Peter
+Mother Teresa
 </p>
 
 ---
