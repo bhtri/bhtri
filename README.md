@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年12月29日**
+### **2024年12月30日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Be faithful in small things because it is in them that your strength lies.
+    Those who are blessed with the most talent don't necessarily outperform everyone else. It's the people with follow-through who excel.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Mother Teresa
+Mary Kay Ash
 </p>
 
 ---
