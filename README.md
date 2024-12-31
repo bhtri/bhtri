@@ -29,16 +29,16 @@
 
 ---
 
-### **2024年12月30日**
+### **2024年12月31日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Those who are blessed with the most talent don't necessarily outperform everyone else. It's the people with follow-through who excel.
+    Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Mary Kay Ash
+Albert Einstein
 </p>
 
 ---
