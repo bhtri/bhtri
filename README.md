@@ -29,11 +29,11 @@
 
 ---
 
-### **2024年12月31日**
+### **2025年01月01日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Imagination is more important than knowledge. For while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.
+    I never think of the future. It comes soon enough.
   </q>
 </p>
 
