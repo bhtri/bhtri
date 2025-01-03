@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年01月02日**
+### **2025年01月03日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Well begun is half done.
+    Never do things others can do and will do, if there are things others cannot do or will not do.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Aristotle
+Amelia Earhart
 </p>
 
 ---
