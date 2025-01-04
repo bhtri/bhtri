@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年01月03日**
+### **2025年01月04日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Never do things others can do and will do, if there are things others cannot do or will not do.
+    A thing long expected takes the form of the unexpected when at last it comes.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Amelia Earhart
+Mark Twain
 </p>
 
 ---
