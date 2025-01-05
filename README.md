@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年01月04日**
+### **2025年01月05日**
 
 <p align="center" style="font-size:20px">
   <q>
-    A thing long expected takes the form of the unexpected when at last it comes.
+    Reality is merely an illusion, albeit a very persistent one.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Mark Twain
+Albert Einstein
 </p>
 
 ---
