@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年01月05日**
+### **2025年01月06日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Reality is merely an illusion, albeit a very persistent one.
+    Only put off until tomorrow what you are willing to die having left undone.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Albert Einstein
+Pablo Picasso
 </p>
 
 ---
