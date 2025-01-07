@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年01月06日**
+### **2025年01月07日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Only put off until tomorrow what you are willing to die having left undone.
+    Don't look back. Something might be gaining on you.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Pablo Picasso
+Satchel Paige
 </p>
 
 ---
