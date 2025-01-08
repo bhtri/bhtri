@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年01月07日**
+### **2025年01月08日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Don't look back. Something might be gaining on you.
+    Intuition will tell the thinking mind where to look next.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Satchel Paige
+Jonas Salk
 </p>
 
 ---
