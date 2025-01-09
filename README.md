@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年01月08日**
+### **2025年01月09日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Intuition will tell the thinking mind where to look next.
+    First say to yourself what you would be; and then do what you have to do.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Jonas Salk
+Epictetus
 </p>
 
 ---
