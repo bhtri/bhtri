@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年01月09日**
+### **2025年01月10日**
 
 <p align="center" style="font-size:20px">
   <q>
-    First say to yourself what you would be; and then do what you have to do.
+    If you have knowledge, let others light their candles in it.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Epictetus
+Margaret Fuller
 </p>
 
 ---
