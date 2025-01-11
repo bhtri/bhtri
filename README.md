@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年01月10日**
+### **2025年01月11日**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you have knowledge, let others light their candles in it.
+    I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Margaret Fuller
+Herbert Bayard Swope
 </p>
 
 ---
