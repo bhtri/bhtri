@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年01月11日**
+### **2025年01月12日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody.
+    Fans don't boo nobodies.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Herbert Bayard Swope
+Reggie Jackson (basketball, born 1990)
 </p>
 
 ---
