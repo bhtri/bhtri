@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年01月12日**
+### **2025年01月13日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Fans don't boo nobodies.
+    Be here now. Be someplace else later. Is that so complicated?
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Reggie Jackson (basketball, born 1990)
+David Bader
 </p>
 
 ---
