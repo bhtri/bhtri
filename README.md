@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年01月13日**
+### **2025年01月14日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Be here now. Be someplace else later. Is that so complicated?
+    Kindness is the language which the deaf can hear and the blind can see.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-David Bader
+Mark Twain
 </p>
 
 ---
