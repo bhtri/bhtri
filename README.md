@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年01月14日**
+### **2025年01月15日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Kindness is the language which the deaf can hear and the blind can see.
+    Take time to deliberate, but when the time for action has arrived, stop thinking and go in.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Mark Twain
+Napoleon
 </p>
 
 ---
