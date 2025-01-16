@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年01月15日**
+### **2025年01月16日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Take time to deliberate, but when the time for action has arrived, stop thinking and go in.
+    I can, therefore I am.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Napoleon
+Simone Weil
 </p>
 
 ---
