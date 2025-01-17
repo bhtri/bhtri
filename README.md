@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年01月16日**
+### **2025年01月17日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I can, therefore I am.
+    It's just a job. Grass grows, birds fly, waves pound the sand. I beat people up.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Simone Weil
+Muhammad Ali
 </p>
 
 ---
