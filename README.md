@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年01月17日**
+### **2025年01月18日**
 
 <p align="center" style="font-size:20px">
   <q>
-    It's just a job. Grass grows, birds fly, waves pound the sand. I beat people up.
+    Love, friendship and respect do not unite people as much as a common hatred for something.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Muhammad Ali
+Anton Chekhov
 </p>
 
 ---
