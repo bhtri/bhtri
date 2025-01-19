@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年01月18日**
+### **2025年01月19日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Love, friendship and respect do not unite people as much as a common hatred for something.
+    Should a person do good, let him do it again and again. Let him find pleasure therein, for blissful is the accumulation of good.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Anton Chekhov
+The Buddha
 </p>
 
 ---
