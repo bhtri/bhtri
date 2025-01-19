@@ -33,12 +33,12 @@
 
 <p align="center" style="font-size:20px">
   <q>
-    Should a person do good, let him do it again and again. Let him find pleasure therein, for blissful is the accumulation of good.
+    History will be kind to me for I intend to write it.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-The Buddha
+Winston Churchill
 </p>
 
 ---
