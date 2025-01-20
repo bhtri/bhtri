@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年01月19日**
+### **2025年01月20日**
 
 <p align="center" style="font-size:20px">
   <q>
-    History will be kind to me for I intend to write it.
+    We must become the change we want to see.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Winston Churchill
+Mahatma Gandhi
 </p>
 
 ---
