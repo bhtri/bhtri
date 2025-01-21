@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年01月20日**
+### **2025年01月21日**
 
 <p align="center" style="font-size:20px">
   <q>
-    We must become the change we want to see.
+    To climb steep hills requires a slow pace at first.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Mahatma Gandhi
+William Shakespeare
 </p>
 
 ---
