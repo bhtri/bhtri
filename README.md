@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年01月21日**
+### **2025年01月22日**
 
 <p align="center" style="font-size:20px">
   <q>
-    To climb steep hills requires a slow pace at first.
+    If you wish to be a writer, write.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-William Shakespeare
+Epictetus
 </p>
 
 ---
