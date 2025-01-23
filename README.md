@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年01月22日**
+### **2025年01月23日**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you wish to be a writer, write.
+    Thought is the blossom; language the bud; action the fruit behind it.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Epictetus
+Ralph Waldo Emerson
 </p>
 
 ---
