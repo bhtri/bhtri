@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年01月23日**
+### **2025年01月24日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Thought is the blossom; language the bud; action the fruit behind it.
+    You give before you get.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ralph Waldo Emerson
+Napoleon Hill
 </p>
 
 ---
