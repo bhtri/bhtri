@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年01月25日**
+### **2025年01月26日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The first step to getting the things you want out of life is this: decide what you want.
+    Important principles may, and must, be inflexible.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ben Stein
+Abraham Lincoln
 </p>
 
 ---
