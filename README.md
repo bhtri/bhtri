@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年01月26日**
+### **2025年01月27日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Important principles may, and must, be inflexible.
+    Wisdom and penetration are the fruit of experience, not the lessons of retirement and leisure. Great necessities call out great virtues.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Abraham Lincoln
+Abigail Adams
 </p>
 
 ---
