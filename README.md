@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年01月27日**
+### **2025年01月28日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Wisdom and penetration are the fruit of experience, not the lessons of retirement and leisure. Great necessities call out great virtues.
+    The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Abigail Adams
+Honoré de Balzac
 </p>
 
 ---
