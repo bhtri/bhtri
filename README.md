@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年01月28日**
+### **2025年01月29日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition.
+    In romance, we feel the need to zoom in and expound on our partner's foibles in intimate detail; in friendship, we tend to do the opposite, avoiding confrontation through fear, lethargy or both.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Honoré de Balzac
+Mariella Frostrup
 </p>
 
 ---
