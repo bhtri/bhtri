@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年01月29日**
+### **2025年01月30日**
 
 <p align="center" style="font-size:20px">
   <q>
-    In romance, we feel the need to zoom in and expound on our partner's foibles in intimate detail; in friendship, we tend to do the opposite, avoiding confrontation through fear, lethargy or both.
+    Ardently do today what must be done. Who knows? Tomorrow, death comes.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Mariella Frostrup
+The Buddha
 </p>
 
 ---
