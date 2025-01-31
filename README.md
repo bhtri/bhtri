@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年01月30日**
+### **2025年01月31日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Ardently do today what must be done. Who knows? Tomorrow, death comes.
+    There is nothing in a caterpillar that tells you it's going to be a butterfly.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-The Buddha
+Buckminster Fuller
 </p>
 
 ---
