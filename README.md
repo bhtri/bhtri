@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年01月31日**
+### **2025年02月01日**
 
 <p align="center" style="font-size:20px">
   <q>
-    There is nothing in a caterpillar that tells you it's going to be a butterfly.
+    The important thing is this: to be able at any moment to sacrifice what we are for what we could become.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Buckminster Fuller
+Charles Du Bos
 </p>
 
 ---
