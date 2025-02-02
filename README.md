@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年02月01日**
+### **2025年02月02日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The important thing is this: to be able at any moment to sacrifice what we are for what we could become.
+    Life is what happens while you are making other plans.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Charles Du Bos
+John Lennon
 </p>
 
 ---
