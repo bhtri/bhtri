@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年02月02日**
+### **2025年02月03日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Life is what happens while you are making other plans.
+    He who knows that enough is enough will always have enough.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John Lennon
+Laozi
 </p>
 
 ---
