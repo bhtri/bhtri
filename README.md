@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年02月03日**
+### **2025年02月04日**
 
 <p align="center" style="font-size:20px">
   <q>
-    He who knows that enough is enough will always have enough.
+    Whatever we expect with confidence becomes our own self-fulfilling prophecy.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Laozi
+Brian Tracy
 </p>
 
 ---
