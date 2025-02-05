@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年02月04日**
+### **2025年02月05日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Whatever we expect with confidence becomes our own self-fulfilling prophecy.
+    A true friend is the most precious of all possessions and the one we take the least thought about acquiring.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Brian Tracy
+François de La Rochefoucauld
 </p>
 
 ---
