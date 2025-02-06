@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年02月05日**
+### **2025年02月06日**
 
 <p align="center" style="font-size:20px">
   <q>
-    A true friend is the most precious of all possessions and the one we take the least thought about acquiring.
+    Real magic in relationships means an absence of judgement of others.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-François de La Rochefoucauld
+Wayne Dyer
 </p>
 
 ---
