@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年02月06日**
+### **2025年02月07日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Real magic in relationships means an absence of judgement of others.
+    The best way out is always through.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Wayne Dyer
+Robert Frost
 </p>
 
 ---
