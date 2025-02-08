@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年02月07日**
+### **2025年02月08日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The best way out is always through.
+    Here is one quality that one must possess to win, and that is definiteness of purpose, the knowledge of what one wants, and a burning desire to possess it.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Robert Frost
+Napoleon Hill
 </p>
 
 ---
