@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年02月10日**
+### **2025年02月11日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Don't be dismayed by good-byes. A farewell is necessary before you can meet again. And meeting again, after moments or lifetimes, is certain for those who are friends.
+    Who looks outside, dreams, who looks inside, awakes.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Richard Bach
+Carl Jung
 </p>
 
 ---
