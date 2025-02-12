@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年02月11日**
+### **2025年02月12日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Who looks outside, dreams, who looks inside, awakes.
+    Experience is not what happens to you; it's what you do with what happens to you.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Carl Jung
+Aldous Huxley
 </p>
 
 ---
