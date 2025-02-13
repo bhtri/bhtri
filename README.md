@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年02月12日**
+### **2025年02月13日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Experience is not what happens to you; it's what you do with what happens to you.
+    The greater our knowledge increases the more our ignorance unfolds.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Aldous Huxley
+John F. Kennedy
 </p>
 
 ---
