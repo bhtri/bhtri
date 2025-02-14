@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年02月13日**
+### **2025年02月14日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The greater our knowledge increases the more our ignorance unfolds.
+    The spirit, the will to win, and the will to excel, are the things that endure. These qualities are so much more important than the events that occur.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John F. Kennedy
+Vince Lombardi
 </p>
 
 ---
