@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年02月14日**
+### **2025年02月15日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The spirit, the will to win, and the will to excel, are the things that endure. These qualities are so much more important than the events that occur.
+    We don't stop playing because we grow old; we grow old because we stop playing.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Vince Lombardi
+Bernard Shaw
 </p>
 
 ---
