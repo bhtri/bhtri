@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年02月15日**
+### **2025年02月16日**
 
 <p align="center" style="font-size:20px">
   <q>
-    We don't stop playing because we grow old; we grow old because we stop playing.
+    We must not allow ourselves to become like the system we oppose.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Bernard Shaw
+Desmond Tutu
 </p>
 
 ---
