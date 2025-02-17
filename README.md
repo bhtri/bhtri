@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年02月16日**
+### **2025年02月17日**
 
 <p align="center" style="font-size:20px">
   <q>
-    We must not allow ourselves to become like the system we oppose.
+    We will develop and cultivate the liberation of mind by lovingkindness, make it our vehicle, make it our basis, stabilize it, exercise ourselves in it, and fully perfect it.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Desmond Tutu
+The Buddha
 </p>
 
 ---
