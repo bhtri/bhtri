@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年02月17日**
+### **2025年02月18日**
 
 <p align="center" style="font-size:20px">
   <q>
-    We will develop and cultivate the liberation of mind by lovingkindness, make it our vehicle, make it our basis, stabilize it, exercise ourselves in it, and fully perfect it.
+    A true friend is someone who is there for you when he'd rather be anywhere else.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-The Buddha
+Len Wein
 </p>
 
 ---
