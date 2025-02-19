@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年02月18日**
+### **2025年02月19日**
 
 <p align="center" style="font-size:20px">
   <q>
-    A true friend is someone who is there for you when he'd rather be anywhere else.
+    Without this playing with fantasy no creative work has ever yet come to birth. The debt we owe to the play of the imagination is incalculable.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Len Wein
+Carl Jung
 </p>
 
 ---
