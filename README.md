@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年02月19日**
+### **2025年02月20日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Without this playing with fantasy no creative work has ever yet come to birth. The debt we owe to the play of the imagination is incalculable.
+    Follow your instincts. That is where true wisdom manifests itself.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Carl Jung
+Oprah Winfrey
 </p>
 
 ---
