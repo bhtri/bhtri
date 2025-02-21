@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年02月20日**
+### **2025年02月21日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Follow your instincts. That is where true wisdom manifests itself.
+    You always succeed in producing a result.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Oprah Winfrey
+Tony Robbins
 </p>
 
 ---
