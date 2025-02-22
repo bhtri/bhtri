@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年02月21日**
+### **2025年02月22日**
 
 <p align="center" style="font-size:20px">
   <q>
-    You always succeed in producing a result.
+    Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Tony Robbins
+Harriet Tubman
 </p>
 
 ---
