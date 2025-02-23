@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年02月22日**
+### **2025年02月23日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.
+    The superior man is satisfied and composed; the mean man is always full of distress.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Harriet Tubman
+Confucius
 </p>
 
 ---
