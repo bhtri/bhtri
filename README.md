@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年02月23日**
+### **2025年02月24日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The superior man is satisfied and composed; the mean man is always full of distress.
+    The cause is hidden. The effect is visible to all.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Confucius
+Ovid
 </p>
 
 ---
