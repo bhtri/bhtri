@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年02月24日**
+### **2025年02月25日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The cause is hidden. The effect is visible to all.
+    The art challenges the technology, and the technology inspires the art.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ovid
+John Lasseter
 </p>
 
 ---
