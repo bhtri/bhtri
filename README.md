@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年02月25日**
+### **2025年02月26日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The art challenges the technology, and the technology inspires the art.
+    The greatest obstacle to connecting with our joy is resentment.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John Lasseter
+Pema Chödrön
 </p>
 
 ---
