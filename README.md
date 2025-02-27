@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年02月26日**
+### **2025年02月27日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The greatest obstacle to connecting with our joy is resentment.
+    Trouble is only opportunity in work clothes.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Pema Chödrön
+Henry J. Kaiser
 </p>
 
 ---
