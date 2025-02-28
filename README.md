@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年02月27日**
+### **2025年02月28日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Trouble is only opportunity in work clothes.
+    Go for it now. The future is promised to no one.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Henry J. Kaiser
+Wayne Dyer
 </p>
 
 ---
