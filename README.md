@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年02月28日**
+### **2025年03月01日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Go for it now. The future is promised to no one.
+    Faith, as well intentioned as it may be, must be built on facts, not fiction--faith in fiction is a damnable false hope.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Wayne Dyer
+Thomas Edison
 </p>
 
 ---
