@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年03月01日**
+### **2025年03月02日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Faith, as well intentioned as it may be, must be built on facts, not fiction--faith in fiction is a damnable false hope.
+    The rule of friendship means there should be mutual sympathy between them, each supplying what the other lacks and trying to benefit the other, always using friendly and sincere words.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Thomas Edison
+Cicero
 </p>
 
 ---
