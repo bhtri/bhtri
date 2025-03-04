@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年03月03日**
+### **2025年03月04日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The grand essentials of happiness are: something to do, something to love, and something to hope for.
+    There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Alexander Chalmers
+Plato
 </p>
 
 ---
