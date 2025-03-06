@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年03月05日**
+### **2025年03月06日**
 
 <p align="center" style="font-size:20px">
   <q>
-    It is very easy to forgive others their mistakes; it takes more grit to forgive them for having witnessed your own.
+    Our shared values define us more than our differences. And acknowledging those shared values can see us through our challenges today if we have the wisdom to trust in them again.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Jessamyn West
+John McCain
 </p>
 
 ---
