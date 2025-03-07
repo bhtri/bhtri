@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年03月06日**
+### **2025年03月07日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Our shared values define us more than our differences. And acknowledging those shared values can see us through our challenges today if we have the wisdom to trust in them again.
+    Having nothing, nothing can he lose.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John McCain
+William Shakespeare
 </p>
 
 ---
