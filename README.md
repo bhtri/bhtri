@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年03月07日**
+### **2025年03月08日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Having nothing, nothing can he lose.
+    Hope arouses, as nothing else can arouse, a passion for the possible.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-William Shakespeare
+William Sloane Coffin
 </p>
 
 ---
