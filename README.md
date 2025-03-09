@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年03月08日**
+### **2025年03月09日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Hope arouses, as nothing else can arouse, a passion for the possible.
+    Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-William Sloane Coffin
+Doug Larson
 </p>
 
 ---
