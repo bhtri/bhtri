@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年03月09日**
+### **2025年03月10日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk.
+    The minute you settle for less than you deserve, you get even less than you settled for.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Doug Larson
+Maureen Dowd
 </p>
 
 ---
