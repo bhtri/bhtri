@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年03月10日**
+### **2025年03月11日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The minute you settle for less than you deserve, you get even less than you settled for.
+    If I know what love is, it is because of you.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Maureen Dowd
+Hermann Hesse
 </p>
 
 ---
