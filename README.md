@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年03月11日**
+### **2025年03月12日**
 
 <p align="center" style="font-size:20px">
   <q>
-    If I know what love is, it is because of you.
+    The wisest men follow their own direction.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Hermann Hesse
+Euripides
 </p>
 
 ---
