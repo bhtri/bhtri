@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年03月12日**
+### **2025年03月13日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The wisest men follow their own direction.
+    Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Euripides
+Horace
 </p>
 
 ---
