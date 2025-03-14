@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年03月13日**
+### **2025年03月14日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.
+    Stay away from what might have been and look at what will be.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Horace
+Marsha Petrie Sue
 </p>
 
 ---
