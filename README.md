@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年03月14日**
+### **2025年03月15日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Stay away from what might have been and look at what will be.
+    When one tugs at a single thing in nature, he finds it attached to the rest of the world.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Marsha Petrie Sue
+John Muir
 </p>
 
 ---
