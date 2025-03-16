@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年03月15日**
+### **2025年03月16日**
 
 <p align="center" style="font-size:20px">
   <q>
-    When one tugs at a single thing in nature, he finds it attached to the rest of the world.
+    Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John Muir
+Eleanor Roosevelt
 </p>
 
 ---
