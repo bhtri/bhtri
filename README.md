@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年03月16日**
+### **2025年03月17日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.
+    A good head and a good heart are always a formidable combination.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Eleanor Roosevelt
+Nelson Mandela
 </p>
 
 ---
