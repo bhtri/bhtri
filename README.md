@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年03月18日**
+### **2025年03月19日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Success in business requires training and discipline and hard work. But if you're not frightened by these things, the opportunities are just as great today as they ever were.
+    Go for it now. The future is promised to no one.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-David Rockefeller
+Wayne Dyer
 </p>
 
 ---
