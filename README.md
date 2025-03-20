@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年03月19日**
+### **2025年03月20日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Go for it now. The future is promised to no one.
+    The greatest mistake you can make in life is to be continually fearing you will make one.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Wayne Dyer
+Elbert Hubbard
 </p>
 
 ---
