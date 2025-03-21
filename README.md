@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年03月20日**
+### **2025年03月21日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The greatest mistake you can make in life is to be continually fearing you will make one.
+    I know but one freedom and that is the freedom of the mind.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Elbert Hubbard
+Antoine de Saint-Exupéry
 </p>
 
 ---
