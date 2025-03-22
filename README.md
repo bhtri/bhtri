@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年03月21日**
+### **2025年03月22日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I know but one freedom and that is the freedom of the mind.
+    Always bear in mind that your own resolution to succeed is more important than any other.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Antoine de Saint-Exupéry
+Abraham Lincoln
 </p>
 
 ---
