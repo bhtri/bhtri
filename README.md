@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年03月22日**
+### **2025年03月23日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Always bear in mind that your own resolution to succeed is more important than any other.
+    Everyone has an invisible sign hanging from their neck saying, 'Make me feel important.' Never forget this message when working with people.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Abraham Lincoln
+Mary Kay Ash
 </p>
 
 ---
