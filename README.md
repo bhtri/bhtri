@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年03月23日**
+### **2025年03月24日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Everyone has an invisible sign hanging from their neck saying, 'Make me feel important.' Never forget this message when working with people.
+    Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Mary Kay Ash
+Horace
 </p>
 
 ---
