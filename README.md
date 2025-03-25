@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年03月24日**
+### **2025年03月25日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.
+    I am not the first Buddha who came upon Earth, nor shall I be the last. In due time, another Buddha will arise in the world - a Holy One, a supremely enlightened One, endowed with wisdom in conduct, auspicious, knowing the universe, an incomparable leader of men, a master of angels and mortals.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Horace
+The Buddha
 </p>
 
 ---
