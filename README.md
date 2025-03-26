@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年03月25日**
+### **2025年03月26日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I am not the first Buddha who came upon Earth, nor shall I be the last. In due time, another Buddha will arise in the world - a Holy One, a supremely enlightened One, endowed with wisdom in conduct, auspicious, knowing the universe, an incomparable leader of men, a master of angels and mortals.
+    What lies behind us and what lies before us are small matters compared to what lies within us.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-The Buddha
+Oliver Wendell Holmes Jr.
 </p>
 
 ---
