@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年03月26日**
+### **2025年03月27日**
 
 <p align="center" style="font-size:20px">
   <q>
-    What lies behind us and what lies before us are small matters compared to what lies within us.
+    The will to win, the desire to succeed, the urge to reach your full potential... these are the keys that will unlock the door to personal excellence.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Oliver Wendell Holmes Jr.
+Confucius
 </p>
 
 ---
