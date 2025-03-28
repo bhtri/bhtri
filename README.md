@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年03月27日**
+### **2025年03月28日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The will to win, the desire to succeed, the urge to reach your full potential... these are the keys that will unlock the door to personal excellence.
+    Start with what is right rather than what is acceptable.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Confucius
+Franz Kafka
 </p>
 
 ---
