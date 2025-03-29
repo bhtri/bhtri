@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年03月28日**
+### **2025年03月29日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Start with what is right rather than what is acceptable.
+    The strong bond of friendship is not always a balanced equation; friendship is not always about giving and taking in equal shares. Instead, friendship is grounded in a feeling that you know exactly who will be there for you when you need something, no matter what or when.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Franz Kafka
+Simon Sinek
 </p>
 
 ---
