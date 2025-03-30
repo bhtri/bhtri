@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年03月29日**
+### **2025年03月30日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The strong bond of friendship is not always a balanced equation; friendship is not always about giving and taking in equal shares. Instead, friendship is grounded in a feeling that you know exactly who will be there for you when you need something, no matter what or when.
+    Even an animal, if you show genuine affection, gradually trust develops... If you always showing bad face and beating, how can you develop friendship?
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Simon Sinek
+Dalai Lama
 </p>
 
 ---
