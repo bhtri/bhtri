@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年03月30日**
+### **2025年03月31日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Even an animal, if you show genuine affection, gradually trust develops... If you always showing bad face and beating, how can you develop friendship?
+    Adversity causes some men to break, others to break records.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Dalai Lama
+William Arthur Ward
 </p>
 
 ---
