@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年03月31日**
+### **2025年04月01日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Adversity causes some men to break, others to break records.
+    Memory is the mother of all wisdom.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-William Arthur Ward
+Samuel Johnson
 </p>
 
 ---
