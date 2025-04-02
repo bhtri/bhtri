@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年04月01日**
+### **2025年04月02日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Memory is the mother of all wisdom.
+    When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Samuel Johnson
+Confucius
 </p>
 
 ---
