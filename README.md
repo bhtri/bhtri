@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年04月02日**
+### **2025年04月03日**
 
 <p align="center" style="font-size:20px">
   <q>
-    When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps.
+    I'm not afraid of storms, for I'm learning how to sail my ship.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Confucius
+Louisa May Alcott
 </p>
 
 ---
