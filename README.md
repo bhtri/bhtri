@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年04月03日**
+### **2025年04月04日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I'm not afraid of storms, for I'm learning how to sail my ship.
+    He who is fixed to a star does not change his mind.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Louisa May Alcott
+Leonardo da Vinci
 </p>
 
 ---
