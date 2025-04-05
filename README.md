@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年04月04日**
+### **2025年04月05日**
 
 <p align="center" style="font-size:20px">
   <q>
-    He who is fixed to a star does not change his mind.
+    People are not lazy. They simply have impotent goals - that is, goals that do not inspire them.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Leonardo da Vinci
+Tony Robbins
 </p>
 
 ---
