@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年04月05日**
+### **2025年04月06日**
 
 <p align="center" style="font-size:20px">
   <q>
-    People are not lazy. They simply have impotent goals - that is, goals that do not inspire them.
+    We cannot do everything at once, but we can do something at once.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Tony Robbins
+Calvin Coolidge
 </p>
 
 ---
