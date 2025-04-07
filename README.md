@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年04月06日**
+### **2025年04月07日**
 
 <p align="center" style="font-size:20px">
   <q>
-    We cannot do everything at once, but we can do something at once.
+    What we see depends mainly on what we look for.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Calvin Coolidge
+John Lubbock
 </p>
 
 ---
