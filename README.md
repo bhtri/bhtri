@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年04月07日**
+### **2025年04月08日**
 
 <p align="center" style="font-size:20px">
   <q>
-    What we see depends mainly on what we look for.
+    We are wiser than we know.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John Lubbock
+Ralph Waldo Emerson
 </p>
 
 ---
