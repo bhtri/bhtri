@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年04月08日**
+### **2025年04月09日**
 
 <p align="center" style="font-size:20px">
   <q>
-    We are wiser than we know.
+    Once we accept our limits, we go beyond them.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ralph Waldo Emerson
+Albert Einstein
 </p>
 
 ---
