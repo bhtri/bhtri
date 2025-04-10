@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年04月09日**
+### **2025年04月10日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Once we accept our limits, we go beyond them.
+    He who knows others is wise. He who knows himself is enlightened.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Albert Einstein
+Laozi
 </p>
 
 ---
