@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年04月10日**
+### **2025年04月11日**
 
 <p align="center" style="font-size:20px">
   <q>
-    He who knows others is wise. He who knows himself is enlightened.
+    Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Laozi
+Hannah Arendt
 </p>
 
 ---
