@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年04月11日**
+### **2025年04月12日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.
+    Yesterday's home runs don't win today's games.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Hannah Arendt
+Babe Ruth
 </p>
 
 ---
