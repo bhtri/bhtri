@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年04月12日**
+### **2025年04月13日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Yesterday's home runs don't win today's games.
+    It is one of the severest tests of friendship to tell your friend his faults. So to love a man that you cannot bear to see a stain upon him, and to speak painful truth through loving words, that is friendship.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Babe Ruth
+Henry Ward Beecher
 </p>
 
 ---
