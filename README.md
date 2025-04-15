@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年04月14日**
+### **2025年04月15日**
 
 <p align="center" style="font-size:20px">
   <q>
-    There surely is in human nature an inherent propensity to extract all the good out of all the evil.
+    Through pride we are ever deceiving ourselves. But deep down below the surface of the average conscience a still, small voice says to us, something is out of tune.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Benjamin Haydon
+Carl Jung
 </p>
 
 ---
