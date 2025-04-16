@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年04月15日**
+### **2025年04月16日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Through pride we are ever deceiving ourselves. But deep down below the surface of the average conscience a still, small voice says to us, something is out of tune.
+    Of all possessions a friend is the most precious.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Carl Jung
+Herodotus
 </p>
 
 ---
