@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年04月16日**
+### **2025年04月17日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Of all possessions a friend is the most precious.
+    Constant kindness can accomplish much. As the sun makes ice melt, kindness causes misunderstanding, mistrust, and hostility to evaporate.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Herodotus
+Albert Schweitzer
 </p>
 
 ---
