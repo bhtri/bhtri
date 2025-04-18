@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年04月17日**
+### **2025年04月18日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Constant kindness can accomplish much. As the sun makes ice melt, kindness causes misunderstanding, mistrust, and hostility to evaporate.
+    If you're trying to achieve, there will be roadblocks. I've had them; everybody has had them. But obstacles don't have to stop you. If you run into a wall, don't turn around and give up. Figure out how to climb it, go through it, or work around it.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Albert Schweitzer
+Michael Jordan
 </p>
 
 ---
