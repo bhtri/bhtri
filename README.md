@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年04月18日**
+### **2025年04月19日**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you're trying to achieve, there will be roadblocks. I've had them; everybody has had them. But obstacles don't have to stop you. If you run into a wall, don't turn around and give up. Figure out how to climb it, go through it, or work around it.
+    Does wisdom perhaps appear on the earth as a raven which is inspired by the smell of carrion?
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Michael Jordan
+Friedrich Nietzsche
 </p>
 
 ---
