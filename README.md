@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年04月19日**
+### **2025年04月20日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Does wisdom perhaps appear on the earth as a raven which is inspired by the smell of carrion?
+    The Superior Man is aware of Righteousness, the inferior man is aware of advantage.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Friedrich Nietzsche
+Confucius
 </p>
 
 ---
