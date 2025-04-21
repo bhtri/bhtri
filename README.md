@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年04月20日**
+### **2025年04月21日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The Superior Man is aware of Righteousness, the inferior man is aware of advantage.
+    Give whatever you are doing and whoever you are with the gift of your attention.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Confucius
+Jim Rohn
 </p>
 
 ---
