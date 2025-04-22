@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年04月21日**
+### **2025年04月22日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Give whatever you are doing and whoever you are with the gift of your attention.
+    Know how to listen, and you will profit even from those who talk badly.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Jim Rohn
+Plutarch
 </p>
 
 ---
