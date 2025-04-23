@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年04月22日**
+### **2025年04月23日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Know how to listen, and you will profit even from those who talk badly.
+    I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Plutarch
+Og Mandino
 </p>
 
 ---
