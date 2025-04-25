@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年04月24日**
+### **2025年04月25日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Friendship often ends in love, but love in friendship - never.
+    Genuine sincerity opens people's hearts, while manipulation causes them to close.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Albert Camus
+Daisaku Ikeda
 </p>
 
 ---
