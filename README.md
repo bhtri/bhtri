@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年04月25日**
+### **2025年04月26日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Genuine sincerity opens people's hearts, while manipulation causes them to close.
+    The longer we dwell on our misfortunes, the greater is their power to harm us.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Daisaku Ikeda
+Voltaire
 </p>
 
 ---
