@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年04月26日**
+### **2025年04月27日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The longer we dwell on our misfortunes, the greater is their power to harm us.
+    Courage is not the absence of fear, but simply moving on with dignity despite that fear.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Voltaire
+Pat Riley
 </p>
 
 ---
