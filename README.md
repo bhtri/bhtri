@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年04月27日**
+### **2025年04月28日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Courage is not the absence of fear, but simply moving on with dignity despite that fear.
+    Tragedy is a tool for the living to gain wisdom, not a guide by which to live.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Pat Riley
+Robert F. Kennedy
 </p>
 
 ---
