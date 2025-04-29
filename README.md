@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年04月28日**
+### **2025年04月29日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Tragedy is a tool for the living to gain wisdom, not a guide by which to live.
+    When you are content to be simply yourself and don't compare or compete, everybody will respect you.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Robert F. Kennedy
+Laozi
 </p>
 
 ---
