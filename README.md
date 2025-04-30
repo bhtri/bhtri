@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年04月29日**
+### **2025年04月30日**
 
 <p align="center" style="font-size:20px">
   <q>
-    When you are content to be simply yourself and don't compare or compete, everybody will respect you.
+    By oneself is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one made pure.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Laozi
+The Buddha
 </p>
 
 ---
