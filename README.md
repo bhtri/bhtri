@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年05月01日**
+### **2025年05月02日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I can't change the direction of the wind, but I can adjust my sails to always reach my destination.
+    If you want things to be different, perhaps the answer is to become different yourself.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Jimmy Dean
+Norman Vincent Peale
 </p>
 
 ---
