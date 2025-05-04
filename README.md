@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年05月03日**
+### **2025年05月04日**
 
 <p align="center" style="font-size:20px">
   <q>
-    When you are offended at any man's fault, turn to yourself and study your own failings. Then you will forget your anger.
+    Swim upstream. Go the other way. Ignore the conventional wisdom.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Epictetus
+Sam Walton
 </p>
 
 ---
