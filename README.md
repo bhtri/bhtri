@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年05月04日**
+### **2025年05月05日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Swim upstream. Go the other way. Ignore the conventional wisdom.
+    Be here now. Be someplace else later. Is that so complicated?
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Sam Walton
+David Bader
 </p>
 
 ---
