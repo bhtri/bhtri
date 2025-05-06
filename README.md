@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年05月05日**
+### **2025年05月06日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Be here now. Be someplace else later. Is that so complicated?
+    Let none find fault with others; let none see the omissions and commissions of others. But let one see one's own acts, done and undone.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-David Bader
+The Buddha
 </p>
 
 ---
