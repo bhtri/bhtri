@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年05月06日**
+### **2025年05月07日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Let none find fault with others; let none see the omissions and commissions of others. But let one see one's own acts, done and undone.
+    Genius unrefined resembles a flash of lightning, but wisdom is like the sun.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-The Buddha
+Franz Grillparzer
 </p>
 
 ---
