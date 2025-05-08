@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年05月07日**
+### **2025年05月08日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Genius unrefined resembles a flash of lightning, but wisdom is like the sun.
+    True friendship is like sound health; the value of it is seldom known until it is lost.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Franz Grillparzer
+Charles Caleb Colton
 </p>
 
 ---
