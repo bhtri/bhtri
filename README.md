@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年05月09日**
+### **2025年05月10日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Resolutely train yourself to attain peace.
+    Life isn't about finding yourself. Life is about creating yourself.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-The Buddha
+Bernard Shaw
 </p>
 
 ---
