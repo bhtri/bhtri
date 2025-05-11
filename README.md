@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年05月10日**
+### **2025年05月11日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Life isn't about finding yourself. Life is about creating yourself.
+    Happiness is a perfume you cannot pour on others without getting a few drops on yourself.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Bernard Shaw
+Ralph Waldo Emerson
 </p>
 
 ---
