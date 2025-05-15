@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年05月14日**
+### **2025年05月15日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Experience is not what happens to a man. It is what a man does with what happens to him.
+    Nothing will work unless you do.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Aldous Huxley
+Maya Angelou
 </p>
 
 ---
