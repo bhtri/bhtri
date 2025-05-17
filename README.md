@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年05月16日**
+### **2025年05月17日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I decided that it was not wisdom that enabled poets to write their poetry, but a kind of instinct or inspiration, such as you find in seers and prophets who deliver all their sublime messages without knowing in the least what they mean.
+    Tennis is a perfect combination of violent action taking place in an atmosphere of total tranquillity.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Isocrates
+Billie Jean King
 </p>
 
 ---
