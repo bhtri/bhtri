@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年05月17日**
+### **2025年05月18日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Tennis is a perfect combination of violent action taking place in an atmosphere of total tranquillity.
+    Wisdom begins at the end.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Billie Jean King
+Daniel Webster
 </p>
 
 ---
