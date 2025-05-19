@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年05月18日**
+### **2025年05月19日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Wisdom begins at the end.
+    Fear grows in darkness; if you think there's a bogeyman around, turn on the light.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Daniel Webster
+Dorothy Thompson
 </p>
 
 ---
