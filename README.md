@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年05月19日**
+### **2025年05月20日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Fear grows in darkness; if you think there's a bogeyman around, turn on the light.
+    Happiness is when what you think, what you say, and what you do are in harmony.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Dorothy Thompson
+Mahatma Gandhi
 </p>
 
 ---
