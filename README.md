@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年05月20日**
+### **2025年05月21日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Happiness is when what you think, what you say, and what you do are in harmony.
+    Age does not protect you from love. But love, to some extent, protects you from age.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Mahatma Gandhi
+Anaïs Nin
 </p>
 
 ---
