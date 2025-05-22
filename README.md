@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年05月21日**
+### **2025年05月22日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Age does not protect you from love. But love, to some extent, protects you from age.
+    Technology has to be invented or adopted.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Anaïs Nin
+Jared Diamond
 </p>
 
 ---
