@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年05月22日**
+### **2025年05月23日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Technology has to be invented or adopted.
+    I am not bothered by the fact that I am unknown. I am bothered when I do not know others.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Jared Diamond
+Confucius
 </p>
 
 ---
