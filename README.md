@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年05月23日**
+### **2025年05月24日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I am not bothered by the fact that I am unknown. I am bothered when I do not know others.
+    Our most intimate friend is not he to whom we show the worst, but the best of our nature.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Confucius
+Nathaniel Hawthorne
 </p>
 
 ---
