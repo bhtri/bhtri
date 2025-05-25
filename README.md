@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年05月24日**
+### **2025年05月25日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Our most intimate friend is not he to whom we show the worst, but the best of our nature.
+    It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Nathaniel Hawthorne
+Epictetus
 </p>
 
 ---
