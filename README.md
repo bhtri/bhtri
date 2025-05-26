@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年05月25日**
+### **2025年05月26日**
 
 <p align="center" style="font-size:20px">
   <q>
-    It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.
+    Were here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Epictetus
+Whoopi Goldberg
 </p>
 
 ---
