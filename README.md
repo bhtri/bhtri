@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年05月26日**
+### **2025年05月27日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Were here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark.
+    Simply put, you believer that things or people make you unhappy, but this is not accurate. You make yourself unhappy.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Whoopi Goldberg
+Wayne Dyer
 </p>
 
 ---
