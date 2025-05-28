@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年05月27日**
+### **2025年05月28日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Simply put, you believer that things or people make you unhappy, but this is not accurate. You make yourself unhappy.
+    It is more shameful to distrust our friends than to be deceived by them.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Wayne Dyer
+Confucius
 </p>
 
 ---
