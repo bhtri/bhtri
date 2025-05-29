@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年05月28日**
+### **2025年05月29日**
 
 <p align="center" style="font-size:20px">
   <q>
-    It is more shameful to distrust our friends than to be deceived by them.
+    Friendship... is not something you learn in school. But if you haven't learned the meaning of friendship, you really haven't learned anything.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Confucius
+Muhammad Ali
 </p>
 
 ---
