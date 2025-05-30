@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年05月29日**
+### **2025年05月30日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Friendship... is not something you learn in school. But if you haven't learned the meaning of friendship, you really haven't learned anything.
+    A failure is a man who has blundered but is not capable of cashing in on the experience.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Muhammad Ali
+Elbert Hubbard
 </p>
 
 ---
