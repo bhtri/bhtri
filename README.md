@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年05月30日**
+### **2025年05月31日**
 
 <p align="center" style="font-size:20px">
   <q>
-    A failure is a man who has blundered but is not capable of cashing in on the experience.
+    By oneself is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one made pure.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Elbert Hubbard
+The Buddha
 </p>
 
 ---
