@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年05月31日**
+### **2025年06月01日**
 
 <p align="center" style="font-size:20px">
   <q>
-    By oneself is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one made pure.
+    I can't imagine a person becoming a success who doesn't give this game of life everything he's got.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-The Buddha
+Walter Cronkite
 </p>
 
 ---
