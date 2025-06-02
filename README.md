@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年06月01日**
+### **2025年06月02日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I can't imagine a person becoming a success who doesn't give this game of life everything he's got.
+    A goal without a plan is just a wish.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Walter Cronkite
+Larry Elder
 </p>
 
 ---
