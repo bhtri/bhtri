@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年06月02日**
+### **2025年06月03日**
 
 <p align="center" style="font-size:20px">
   <q>
-    A goal without a plan is just a wish.
+    I love you the more in that I believe you had liked me for my own sake and for nothing else.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Larry Elder
+John Keats
 </p>
 
 ---
