@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年06月03日**
+### **2025年06月04日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I love you the more in that I believe you had liked me for my own sake and for nothing else.
+    Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John Keats
+Wolfgang Amadeus Mozart
 </p>
 
 ---
