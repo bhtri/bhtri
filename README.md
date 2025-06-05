@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年06月04日**
+### **2025年06月05日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius.
+    When deeds and words are in accord, the whole world is transformed.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Wolfgang Amadeus Mozart
+Zhuang Zhou
 </p>
 
 ---
