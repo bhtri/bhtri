@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年06月05日**
+### **2025年06月06日**
 
 <p align="center" style="font-size:20px">
   <q>
-    When deeds and words are in accord, the whole world is transformed.
+    Everything you are against weakens you. Everything you are for empowers you.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Zhuang Zhou
+Wayne Dyer
 </p>
 
 ---
