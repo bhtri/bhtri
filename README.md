@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年06月06日**
+### **2025年06月07日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Everything you are against weakens you. Everything you are for empowers you.
+    Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Wayne Dyer
+Horace
 </p>
 
 ---
