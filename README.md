@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年06月07日**
+### **2025年06月08日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.
+    Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Horace
+Anaïs Nin
 </p>
 
 ---
