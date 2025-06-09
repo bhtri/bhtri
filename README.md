@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年06月08日**
+### **2025年06月09日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living.
+    Your talent is God's gift to you. What you do with it is your gift back to God.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Anaïs Nin
+Leo Buscaglia
 </p>
 
 ---
