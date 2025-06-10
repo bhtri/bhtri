@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年06月09日**
+### **2025年06月10日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Your talent is God's gift to you. What you do with it is your gift back to God.
+    Quick decisions are unsafe decisions.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Leo Buscaglia
+Sophocles
 </p>
 
 ---
