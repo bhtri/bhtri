@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年06月10日**
+### **2025年06月11日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Quick decisions are unsafe decisions.
+    Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Sophocles
+Marcus Aurelius
 </p>
 
 ---
