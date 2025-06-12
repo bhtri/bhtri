@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年06月11日**
+### **2025年06月12日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.
+    No pessimist ever discovered the secrets of the stars, or sailed to an uncharted land, or opened a new heaven to the human spirit.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Marcus Aurelius
+Helen Keller
 </p>
 
 ---
