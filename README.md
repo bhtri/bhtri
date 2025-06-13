@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年06月12日**
+### **2025年06月13日**
 
 <p align="center" style="font-size:20px">
   <q>
-    No pessimist ever discovered the secrets of the stars, or sailed to an uncharted land, or opened a new heaven to the human spirit.
+    Life is not a problem to be solved, but a reality to be experienced.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Helen Keller
+Søren Kierkegaard
 </p>
 
 ---
