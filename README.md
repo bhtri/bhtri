@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年06月13日**
+### **2025年06月14日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Life is not a problem to be solved, but a reality to be experienced.
+    What worries you masters you.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Søren Kierkegaard
+Haddon Robinson
 </p>
 
 ---
