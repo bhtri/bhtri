@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年06月14日**
+### **2025年06月15日**
 
 <p align="center" style="font-size:20px">
   <q>
-    What worries you masters you.
+    By accepting yourself and being fully what you are, your presence can make others happy.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Haddon Robinson
+Jane Roberts
 </p>
 
 ---
