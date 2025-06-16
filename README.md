@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年06月15日**
+### **2025年06月16日**
 
 <p align="center" style="font-size:20px">
   <q>
-    By accepting yourself and being fully what you are, your presence can make others happy.
+    Some people go to priests; others to poetry; I to my friends.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Jane Roberts
+Virginia Woolf
 </p>
 
 ---
