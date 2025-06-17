@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年06月16日**
+### **2025年06月17日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Some people go to priests; others to poetry; I to my friends.
+    No work or love will flourish out of guilt, fear, or hollowness of heart, just as no valid plans for the future can be made by those who have no capacity for living now.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Virginia Woolf
+Alan Watts
 </p>
 
 ---
