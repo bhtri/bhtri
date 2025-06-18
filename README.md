@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年06月17日**
+### **2025年06月18日**
 
 <p align="center" style="font-size:20px">
   <q>
-    No work or love will flourish out of guilt, fear, or hollowness of heart, just as no valid plans for the future can be made by those who have no capacity for living now.
+    There is only one success - to be able to spend your life in your own way.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Alan Watts
+Christopher Morley
 </p>
 
 ---
