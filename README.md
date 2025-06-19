@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年06月18日**
+### **2025年06月19日**
 
 <p align="center" style="font-size:20px">
   <q>
-    There is only one success - to be able to spend your life in your own way.
+    The difference between what we do and what we are capable of doing would suffice to solve most of the world's problems.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Christopher Morley
+Mahatma Gandhi
 </p>
 
 ---
