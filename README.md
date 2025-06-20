@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年06月19日**
+### **2025年06月20日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The difference between what we do and what we are capable of doing would suffice to solve most of the world's problems.
+    In all chaos there is a cosmos, in all disorder a secret order.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Mahatma Gandhi
+Carl Jung
 </p>
 
 ---
