@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年06月20日**
+### **2025年06月21日**
 
 <p align="center" style="font-size:20px">
   <q>
-    In all chaos there is a cosmos, in all disorder a secret order.
+    Be the change that you want to see in the world.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Carl Jung
+Mahatma Gandhi
 </p>
 
 ---
