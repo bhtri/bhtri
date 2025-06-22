@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年06月21日**
+### **2025年06月22日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Be the change that you want to see in the world.
+    When you judge another, you do not define them, you define yourself.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Mahatma Gandhi
+Wayne Dyer
 </p>
 
 ---
