@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年06月22日**
+### **2025年06月23日**
 
 <p align="center" style="font-size:20px">
   <q>
-    When you judge another, you do not define them, you define yourself.
+    Ceasing to do evil, Cultivating the good, Purifying the heart: This is the teaching of the Buddhas.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Wayne Dyer
+The Buddha
 </p>
 
 ---
