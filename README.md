@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年06月23日**
+### **2025年06月24日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Ceasing to do evil, Cultivating the good, Purifying the heart: This is the teaching of the Buddhas.
+    He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-The Buddha
+Tryon Edwards
 </p>
 
 ---
