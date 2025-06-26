@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年06月25日**
+### **2025年06月26日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Listen to what you know instead of what you fear.
+    Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigor of the mind.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Richard Bach
+Leonardo da Vinci
 </p>
 
 ---
