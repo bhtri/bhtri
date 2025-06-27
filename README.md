@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年06月26日**
+### **2025年06月27日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigor of the mind.
+    The things that one most wants to do are the things that are probably most worth doing.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Leonardo da Vinci
+Winifred Holtby
 </p>
 
 ---
