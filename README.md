@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年06月27日**
+### **2025年06月28日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The things that one most wants to do are the things that are probably most worth doing.
+    The more you care, the stronger you can be.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Winifred Holtby
+Jim Rohn
 </p>
 
 ---
