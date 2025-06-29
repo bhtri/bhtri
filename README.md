@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年06月28日**
+### **2025年06月29日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The more you care, the stronger you can be.
+    The rule of friendship means there should be mutual sympathy between them, each supplying what the other lacks and trying to benefit the other, always using friendly and sincere words.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Jim Rohn
+Cicero
 </p>
 
 ---
