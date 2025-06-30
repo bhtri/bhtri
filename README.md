@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年06月29日**
+### **2025年06月30日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The rule of friendship means there should be mutual sympathy between them, each supplying what the other lacks and trying to benefit the other, always using friendly and sincere words.
+    The greatest remedy for anger is delay.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Cicero
+Seneca the Younger
 </p>
 
 ---
