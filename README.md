@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年06月30日**
+### **2025年07月01日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The greatest remedy for anger is delay.
+    Technology made large populations possible; large populations now make technology indispensable.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Seneca the Younger
+Joseph Wood Krutch
 </p>
 
 ---
