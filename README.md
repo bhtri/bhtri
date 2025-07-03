@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年07月02日**
+### **2025年07月03日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Share your smile with the world. It's a symbol of friendship and peace.
+    Imagination is more important than knowledge...
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Christie Brinkley
+Albert Einstein
 </p>
 
 ---
