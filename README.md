@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年07月03日**
+### **2025年07月04日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Imagination is more important than knowledge...
+    Consider that not only do negative thoughts and emotions destroy our experience of peace, but they also undermine our health.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Albert Einstein
+Dalai Lama
 </p>
 
 ---
