@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年07月04日**
+### **2025年07月05日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Consider that not only do negative thoughts and emotions destroy our experience of peace, but they also undermine our health.
+    I never considered a difference of opinion in politics, in religion, in philosophy, as cause for withdrawing from a friend.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Dalai Lama
+Thomas Jefferson
 </p>
 
 ---
