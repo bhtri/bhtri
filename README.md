@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年07月05日**
+### **2025年07月06日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I never considered a difference of opinion in politics, in religion, in philosophy, as cause for withdrawing from a friend.
+    I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Thomas Jefferson
+Og Mandino
 </p>
 
 ---
