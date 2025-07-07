@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年07月06日**
+### **2025年07月07日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.
+    It always seems impossible until it's done.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Og Mandino
+Nelson Mandela
 </p>
 
 ---
