@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年07月07日**
+### **2025年07月08日**
 
 <p align="center" style="font-size:20px">
   <q>
-    It always seems impossible until it's done.
+    The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Nelson Mandela
+William Arthur Ward
 </p>
 
 ---
