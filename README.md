@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年07月08日**
+### **2025年07月09日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.
+    I'm astounded by people who want to 'know' the universe when it's hard enough to find your way around Chinatown.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-William Arthur Ward
+Woody Allen
 </p>
 
 ---
