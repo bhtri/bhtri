@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年07月09日**
+### **2025年07月10日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I'm astounded by people who want to 'know' the universe when it's hard enough to find your way around Chinatown.
+    Knowledge is knowing that a tomato is a fruit. Wisdom is knowing not to put it in a fruit salad.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Woody Allen
+Brian O'Driscoll
 </p>
 
 ---
