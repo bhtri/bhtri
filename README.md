@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年07月10日**
+### **2025年07月11日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Knowledge is knowing that a tomato is a fruit. Wisdom is knowing not to put it in a fruit salad.
+    The language of friendship is not words but meanings.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Brian O'Driscoll
+Henry David Thoreau
 </p>
 
 ---
