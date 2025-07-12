@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年07月11日**
+### **2025年07月12日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The language of friendship is not words but meanings.
+    All things must come to the soul from its roots, from where it is planted.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Henry David Thoreau
+Teresa of Ávila
 </p>
 
 ---
