@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年07月12日**
+### **2025年07月13日**
 
 <p align="center" style="font-size:20px">
   <q>
-    All things must come to the soul from its roots, from where it is planted.
+    The sincere friends of this world are as ship lights in the stormiest of nights.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Teresa of Ávila
+Giotto
 </p>
 
 ---
