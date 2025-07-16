@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年07月15日**
+### **2025年07月16日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Our strength grows out of our weaknesses.
+    An optimist is a person who sees a green light everywhere, while the pessimist sees only the red spotlight... The truly wise person is color-blind.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ralph Waldo Emerson
+Albert Schweitzer
 </p>
 
 ---
