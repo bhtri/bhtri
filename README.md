@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年07月16日**
+### **2025年07月17日**
 
 <p align="center" style="font-size:20px">
   <q>
-    An optimist is a person who sees a green light everywhere, while the pessimist sees only the red spotlight... The truly wise person is color-blind.
+    A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Albert Schweitzer
+Jeff Bezos
 </p>
 
 ---
