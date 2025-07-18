@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年07月17日**
+### **2025年07月18日**
 
 <p align="center" style="font-size:20px">
   <q>
-    A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.
+    When you are offended at any man's fault, turn to yourself and study your own failings. Then you will forget your anger.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Jeff Bezos
+Epictetus
 </p>
 
 ---
