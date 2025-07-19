@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年07月18日**
+### **2025年07月19日**
 
 <p align="center" style="font-size:20px">
   <q>
-    When you are offended at any man's fault, turn to yourself and study your own failings. Then you will forget your anger.
+    Everything that irritates us about others can lead us to a better understanding of ourselves.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Epictetus
+Carl Jung
 </p>
 
 ---
