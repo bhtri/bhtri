@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年07月20日**
+### **2025年07月21日**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you are out to describe the truth, leave elegance to the tailor.
+    In seed time learn, in harvest teach, in winter enjoy.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Albert Einstein
+William Blake
 </p>
 
 ---
