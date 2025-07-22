@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年07月21日**
+### **2025年07月22日**
 
 <p align="center" style="font-size:20px">
   <q>
-    In seed time learn, in harvest teach, in winter enjoy.
+    Many men go fishing all of their lives without knowing that it is not fish they are after.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-William Blake
+Henry David Thoreau
 </p>
 
 ---
