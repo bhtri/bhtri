@@ -33,12 +33,12 @@
 
 <p align="center" style="font-size:20px">
   <q>
-    Many men go fishing all of their lives without knowing that it is not fish they are after.
+    There is not one big cosmic meaning for all, there is only the meaning we each give to our life.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Henry David Thoreau
+Anaïs Nin
 </p>
 
 ---
