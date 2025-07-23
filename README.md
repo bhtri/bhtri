@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年07月22日**
+### **2025年07月23日**
 
 <p align="center" style="font-size:20px">
   <q>
-    There is not one big cosmic meaning for all, there is only the meaning we each give to our life.
+    Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Anaïs Nin
+Thomas Edison
 </p>
 
 ---
