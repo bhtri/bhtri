@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年07月23日**
+### **2025年07月24日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.
+    Just trust yourself, then you will know how to live.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Thomas Edison
+Johann Wolfgang von Goethe
 </p>
 
 ---
