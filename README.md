@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年07月24日**
+### **2025年07月25日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Just trust yourself, then you will know how to live.
+    Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Johann Wolfgang von Goethe
+Norman Vincent Peale
 </p>
 
 ---
