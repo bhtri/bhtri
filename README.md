@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年07月25日**
+### **2025年07月26日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy.
+    To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Norman Vincent Peale
+Pema Chödrön
 </p>
 
 ---
