@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年07月26日**
+### **2025年07月27日**
 
 <p align="center" style="font-size:20px">
   <q>
-    To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.
+    Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Pema Chödrön
+Sri Chinmoy
 </p>
 
 ---
