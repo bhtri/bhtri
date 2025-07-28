@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年07月27日**
+### **2025年07月28日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest.
+    Keep me away from the wisdom which does not cry, the philosophy which does not laugh and the greatness which does not bow before children.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Sri Chinmoy
+Kahlil Gibran
 </p>
 
 ---
