@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年07月28日**
+### **2025年07月29日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Keep me away from the wisdom which does not cry, the philosophy which does not laugh and the greatness which does not bow before children.
+    There is a wisdom of the head, and a wisdom of the heart.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Kahlil Gibran
+Charles Dickens
 </p>
 
 ---
