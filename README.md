@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年07月29日**
+### **2025年07月30日**
 
 <p align="center" style="font-size:20px">
   <q>
-    There is a wisdom of the head, and a wisdom of the heart.
+    Perfection of means and confusion of ends seems to characterize our age.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Charles Dickens
+Albert Einstein
 </p>
 
 ---
