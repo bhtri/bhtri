@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年07月30日**
+### **2025年07月31日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Perfection of means and confusion of ends seems to characterize our age.
+    Experience is not what happens to a man. It is what a man does with what happens to him.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Albert Einstein
+Aldous Huxley
 </p>
 
 ---
