@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年07月31日**
+### **2025年08月01日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Experience is not what happens to a man. It is what a man does with what happens to him.
+    Reviewing what you have learned and learning anew, you are fit to be a teacher.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Aldous Huxley
+Confucius
 </p>
 
 ---
