@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年08月01日**
+### **2025年08月02日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Reviewing what you have learned and learning anew, you are fit to be a teacher.
+    Injuries may be forgiven, but not forgotten.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Confucius
+Aesop
 </p>
 
 ---
