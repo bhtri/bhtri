@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年08月03日**
+### **2025年08月04日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Always remember that you are absolutely unique. Just like everyone else.
+    What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Margaret Mead
+Wayne Dyer
 </p>
 
 ---
