@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年08月04日**
+### **2025年08月05日**
 
 <p align="center" style="font-size:20px">
   <q>
-    What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.
+    The more you care, the stronger you can be.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Wayne Dyer
+Jim Rohn
 </p>
 
 ---
