@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年08月05日**
+### **2025年08月06日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The more you care, the stronger you can be.
+    Our work is the presentation of our capabilities.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Jim Rohn
+Edward Gibbon
 </p>
 
 ---
