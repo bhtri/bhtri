@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年08月06日**
+### **2025年08月07日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Our work is the presentation of our capabilities.
+    One of the most beautiful qualities of true friendship is to understand and to be understood.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Edward Gibbon
+Seneca the Younger
 </p>
 
 ---
