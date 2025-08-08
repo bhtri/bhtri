@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年08月07日**
+### **2025年08月08日**
 
 <p align="center" style="font-size:20px">
   <q>
-    One of the most beautiful qualities of true friendship is to understand and to be understood.
+    People are not lazy. They simply have impotent goals - that is, goals that do not inspire them.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Seneca the Younger
+Tony Robbins
 </p>
 
 ---
