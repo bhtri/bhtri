@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年08月08日**
+### **2025年08月09日**
 
 <p align="center" style="font-size:20px">
   <q>
-    People are not lazy. They simply have impotent goals - that is, goals that do not inspire them.
+    There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Tony Robbins
+Alfred Korzybski
 </p>
 
 ---
