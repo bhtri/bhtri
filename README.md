@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年08月09日**
+### **2025年08月10日**
 
 <p align="center" style="font-size:20px">
   <q>
-    There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking.
+    Arriving at one point is the starting point to another.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Alfred Korzybski
+John Dewey
 </p>
 
 ---
