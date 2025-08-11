@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年08月10日**
+### **2025年08月11日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Arriving at one point is the starting point to another.
+    There are no failures. Just experiences and your reactions to them.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John Dewey
+Tom Krause
 </p>
 
 ---
