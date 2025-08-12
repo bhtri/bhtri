@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年08月11日**
+### **2025年08月12日**
 
 <p align="center" style="font-size:20px">
   <q>
-    There are no failures. Just experiences and your reactions to them.
+    Ceasing to do evil, Cultivating the good, Purifying the heart: This is the teaching of the Buddhas.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Tom Krause
+The Buddha
 </p>
 
 ---
