@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年08月12日**
+### **2025年08月13日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Ceasing to do evil, Cultivating the good, Purifying the heart: This is the teaching of the Buddhas.
+    To get the full value of joy you must have someone to divide it with.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-The Buddha
+Mark Twain
 </p>
 
 ---
