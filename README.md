@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年08月13日**
+### **2025年08月14日**
 
 <p align="center" style="font-size:20px">
   <q>
-    To get the full value of joy you must have someone to divide it with.
+    The future is completely open, and we are writing it moment to moment.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Mark Twain
+Pema Chödrön
 </p>
 
 ---
