@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年08月14日**
+### **2025年08月15日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The future is completely open, and we are writing it moment to moment.
+    Well begun is half done.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Pema Chödrön
+Aristotle
 </p>
 
 ---
