@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年08月15日**
+### **2025年08月16日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Well begun is half done.
+    I know not age, nor weariness nor defeat.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Aristotle
+Rose Kennedy
 </p>
 
 ---
