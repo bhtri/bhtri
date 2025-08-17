@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年08月16日**
+### **2025年08月17日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I know not age, nor weariness nor defeat.
+    Those who dare to fail miserably can achieve greatly.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Rose Kennedy
+John F. Kennedy
 </p>
 
 ---
