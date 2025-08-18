@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年08月17日**
+### **2025年08月18日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Those who dare to fail miserably can achieve greatly.
+    To study and not think is a waste. To think and not study is dangerous.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John F. Kennedy
+Confucius
 </p>
 
 ---
