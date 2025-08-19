@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年08月18日**
+### **2025年08月19日**
 
 <p align="center" style="font-size:20px">
   <q>
-    To study and not think is a waste. To think and not study is dangerous.
+    Business, you know, may bring you money, but friendship hardly ever does.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Confucius
+Jane Austen
 </p>
 
 ---
