@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年08月20日**
+### **2025年08月21日**
 
 <p align="center" style="font-size:20px">
   <q>
-    A disciplined mind brings happiness.
+    Serious sport has nothing to do with fair play. It is bound up with hatred, jealousy, boastfulness, disregard of all rules and sadistic pleasure in witnessing violence. In other words, it is war minus the shooting.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-The Buddha
+George Orwell
 </p>
 
 ---
