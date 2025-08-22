@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年08月21日**
+### **2025年08月22日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Serious sport has nothing to do with fair play. It is bound up with hatred, jealousy, boastfulness, disregard of all rules and sadistic pleasure in witnessing violence. In other words, it is war minus the shooting.
+    Dost thou love life? Then do not squander time, for that is the stuff life is made of.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-George Orwell
+Benjamin Franklin
 </p>
 
 ---
