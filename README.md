@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年08月22日**
+### **2025年08月23日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Dost thou love life? Then do not squander time, for that is the stuff life is made of.
+    The sincere friends of this world are as ship lights in the stormiest of nights.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Benjamin Franklin
+Giotto
 </p>
 
 ---
