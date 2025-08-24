@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年08月23日**
+### **2025年08月24日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The sincere friends of this world are as ship lights in the stormiest of nights.
+    Many men go fishing all of their lives without knowing that it is not fish they are after.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Giotto
+Henry David Thoreau
 </p>
 
 ---
