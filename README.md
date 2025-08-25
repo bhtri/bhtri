@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年08月24日**
+### **2025年08月25日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Many men go fishing all of their lives without knowing that it is not fish they are after.
+    If one does not know to which port is sailing, no wind is favorable.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Henry David Thoreau
+Seneca the Younger
 </p>
 
 ---
