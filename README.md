@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年08月25日**
+### **2025年08月26日**
 
 <p align="center" style="font-size:20px">
   <q>
-    If one does not know to which port is sailing, no wind is favorable.
+    Never put off till tomorrow what you can do today.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Seneca the Younger
+Thomas Jefferson
 </p>
 
 ---
