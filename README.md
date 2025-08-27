@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年08月26日**
+### **2025年08月27日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Never put off till tomorrow what you can do today.
+    
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Thomas Jefferson
+
 </p>
 
 ---
