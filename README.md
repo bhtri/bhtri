@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年08月28日**
+### **2025年08月29日**
 
 <p align="center" style="font-size:20px">
   <q>
-    
+    It's supposed to be automatic, but actually you have to push this button.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-
+John Brunner
 </p>
 
 ---
