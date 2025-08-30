@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年08月29日**
+### **2025年08月30日**
 
 <p align="center" style="font-size:20px">
   <q>
-    It's supposed to be automatic, but actually you have to push this button.
+    Courage is not the absence of fear, but simply moving on with dignity despite that fear.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John Brunner
+Pat Riley
 </p>
 
 ---
