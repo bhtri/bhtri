@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年08月30日**
+### **2025年08月31日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Courage is not the absence of fear, but simply moving on with dignity despite that fear.
+    Always do your best. What you plant now, you will harvest later.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Pat Riley
+Og Mandino
 </p>
 
 ---
