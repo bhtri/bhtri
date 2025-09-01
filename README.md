@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年08月31日**
+### **2025年09月01日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Always do your best. What you plant now, you will harvest later.
+    We must become the change we want to see.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Og Mandino
+Mahatma Gandhi
 </p>
 
 ---
