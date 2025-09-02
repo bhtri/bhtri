@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年09月01日**
+### **2025年09月02日**
 
 <p align="center" style="font-size:20px">
   <q>
-    We must become the change we want to see.
+    One's life has value so long as one attributes value to the life of others, by means of love, friendship, indignation and compassion.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Mahatma Gandhi
+Simone de Beauvoir
 </p>
 
 ---
