@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年09月03日**
+### **2025年09月04日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind.
+    How far that little candle throws its beams! So shines a good deed in a naughty world.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Albert Einstein
+William Shakespeare
 </p>
 
 ---
