@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年09月04日**
+### **2025年09月05日**
 
 <p align="center" style="font-size:20px">
   <q>
-    How far that little candle throws its beams! So shines a good deed in a naughty world.
+    Pure, holy simplicity confounds all the wisdom of this world and the wisdom of the flesh.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-William Shakespeare
+Francis of Assisi
 </p>
 
 ---
