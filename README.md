@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年09月05日**
+### **2025年09月06日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Pure, holy simplicity confounds all the wisdom of this world and the wisdom of the flesh.
+    TV and the Internet are good because they keep stupid people from spending too much time out in public.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Francis of Assisi
+Douglas Coupland
 </p>
 
 ---
