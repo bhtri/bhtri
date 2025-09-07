@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年09月06日**
+### **2025年09月07日**
 
 <p align="center" style="font-size:20px">
   <q>
-    TV and the Internet are good because they keep stupid people from spending too much time out in public.
+    You can stand tall without standing on someone. You can be a victor without having victims.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Douglas Coupland
+Harriet Woods
 </p>
 
 ---
