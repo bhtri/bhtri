@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年09月07日**
+### **2025年09月08日**
 
 <p align="center" style="font-size:20px">
   <q>
-    You can stand tall without standing on someone. You can be a victor without having victims.
+    Friendship is the source of the greatest pleasures, and without friends even the most agreeable pursuits become tedious.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Harriet Woods
+Thomas Aquinas
 </p>
 
 ---
