@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年09月08日**
+### **2025年09月09日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Friendship is the source of the greatest pleasures, and without friends even the most agreeable pursuits become tedious.
+    We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Thomas Aquinas
+Henry Ward Beecher
 </p>
 
 ---
