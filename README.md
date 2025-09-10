@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年09月09日**
+### **2025年09月10日**
 
 <p align="center" style="font-size:20px">
   <q>
-    We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started.
+    What we achieve inwardly will change outer reality.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Henry Ward Beecher
+Plutarch
 </p>
 
 ---
