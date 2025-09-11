@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年09月10日**
+### **2025年09月11日**
 
 <p align="center" style="font-size:20px">
   <q>
-    What we achieve inwardly will change outer reality.
+    Happiness mainly comes from our own attitude, rather than from external factors.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Plutarch
+Dalai Lama
 </p>
 
 ---
