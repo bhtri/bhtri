@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年09月11日**
+### **2025年09月12日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Happiness mainly comes from our own attitude, rather than from external factors.
+    The superior man is satisfied and composed; the mean man is always full of distress.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Dalai Lama
+Confucius
 </p>
 
 ---
