@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年09月14日**
+### **2025年09月15日**
 
 <p align="center" style="font-size:20px">
   <q>
-    True friendship is like sound health; the value of it is seldom known until it is lost.
+    We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Charles Caleb Colton
+Swami Vivekananda
 </p>
 
 ---
