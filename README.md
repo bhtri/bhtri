@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年09月15日**
+### **2025年09月16日**
 
 <p align="center" style="font-size:20px">
   <q>
-    We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far.
+    Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Swami Vivekananda
+Bernice Reagon
 </p>
 
 ---
