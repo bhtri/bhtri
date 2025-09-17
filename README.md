@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年09月16日**
+### **2025年09月17日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.
+    The hours of folly are measured by the clock; but of wisdom, no clock can measure.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Bernice Reagon
+William Blake
 </p>
 
 ---
