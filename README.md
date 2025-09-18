@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年09月17日**
+### **2025年09月18日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The hours of folly are measured by the clock; but of wisdom, no clock can measure.
+    Error is discipline through which we advance.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-William Blake
+William Ellery Channing
 </p>
 
 ---
