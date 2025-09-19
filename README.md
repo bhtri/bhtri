@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年09月18日**
+### **2025年09月19日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Error is discipline through which we advance.
+    When you discover your mission, you will feel its demand. It will fill you with enthusiasm and a burning desire to get to work on it.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-William Ellery Channing
+W. Clement Stone
 </p>
 
 ---
