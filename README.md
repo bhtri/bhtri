@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年09月19日**
+### **2025年09月20日**
 
 <p align="center" style="font-size:20px">
   <q>
-    When you discover your mission, you will feel its demand. It will fill you with enthusiasm and a burning desire to get to work on it.
+    Belief consists in accepting the affirmations of the soul; Unbelief, in denying them.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-W. Clement Stone
+Ralph Waldo Emerson
 </p>
 
 ---
