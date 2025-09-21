@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年09月20日**
+### **2025年09月21日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Belief consists in accepting the affirmations of the soul; Unbelief, in denying them.
+    It may happen sometimes that a long debate becomes the cause of a longer friendship. Commonly, those who dispute with one another at last agree.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ralph Waldo Emerson
+Elbert Hubbard
 </p>
 
 ---
