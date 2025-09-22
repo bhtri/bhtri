@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年09月21日**
+### **2025年09月22日**
 
 <p align="center" style="font-size:20px">
   <q>
-    It may happen sometimes that a long debate becomes the cause of a longer friendship. Commonly, those who dispute with one another at last agree.
+    If you live to be a hundred, I want to live to be a hundred minus one day, so I never have to live without you.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Elbert Hubbard
+A. A. Milne
 </p>
 
 ---
