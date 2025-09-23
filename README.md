@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年09月22日**
+### **2025年09月23日**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you live to be a hundred, I want to live to be a hundred minus one day, so I never have to live without you.
+    By believing passionately in something that does not yet exist, we create it.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-A. A. Milne
+Nikos Kazantzakis
 </p>
 
 ---
