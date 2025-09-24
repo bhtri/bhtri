@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年09月23日**
+### **2025年09月24日**
 
 <p align="center" style="font-size:20px">
   <q>
-    By believing passionately in something that does not yet exist, we create it.
+    Nature is a mutable cloud which is always and never the same.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Nikos Kazantzakis
+Ralph Waldo Emerson
 </p>
 
 ---
