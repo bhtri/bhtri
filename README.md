@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年09月24日**
+### **2025年09月25日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Nature is a mutable cloud which is always and never the same.
+    Your mind will answer most questions if you learn to relax and wait for the answer.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ralph Waldo Emerson
+William Burroughs
 </p>
 
 ---
