@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年09月25日**
+### **2025年09月26日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Your mind will answer most questions if you learn to relax and wait for the answer.
+    You can't win unless you learn how to lose.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-William Burroughs
+Kareem Abdul-Jabbar
 </p>
 
 ---
