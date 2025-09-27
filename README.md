@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年09月26日**
+### **2025年09月27日**
 
 <p align="center" style="font-size:20px">
   <q>
-    You can't win unless you learn how to lose.
+    Nature takes away any faculty that is not used.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Kareem Abdul-Jabbar
+William Inge
 </p>
 
 ---
