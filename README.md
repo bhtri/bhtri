@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年09月27日**
+### **2025年09月28日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Nature takes away any faculty that is not used.
+    A tree is known by its fruit; a man by his deeds. A good deed is never lost; he who sows courtesy reaps friendship, and he who plants kindness gathers love.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-William Inge
+Basil of Caesarea
 </p>
 
 ---
