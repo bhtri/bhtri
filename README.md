@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年09月28日**
+### **2025年09月29日**
 
 <p align="center" style="font-size:20px">
   <q>
-    A tree is known by its fruit; a man by his deeds. A good deed is never lost; he who sows courtesy reaps friendship, and he who plants kindness gathers love.
+    Life is a learning experience, only if you learn.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Basil of Caesarea
+Yogi Berra
 </p>
 
 ---
