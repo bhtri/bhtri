@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年09月29日**
+### **2025年09月30日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Life is a learning experience, only if you learn.
+    Skill to do comes of doing.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Yogi Berra
+Ralph Waldo Emerson
 </p>
 
 ---
