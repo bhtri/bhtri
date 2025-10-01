@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年09月30日**
+### **2025年10月01日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Skill to do comes of doing.
+    It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ralph Waldo Emerson
+Franklin D. Roosevelt
 </p>
 
 ---
