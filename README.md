@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年10月01日**
+### **2025年10月02日**
 
 <p align="center" style="font-size:20px">
   <q>
-    It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.
+    The wisdom of the wise, and the experience of ages, may be preserved by quotation.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Franklin D. Roosevelt
+Isaac D'Israeli
 </p>
 
 ---
