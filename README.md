@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年10月02日**
+### **2025年10月03日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The wisdom of the wise, and the experience of ages, may be preserved by quotation.
+    Believe deep down in your heart that you're destined to do great things.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Isaac D'Israeli
+Joe Paterno
 </p>
 
 ---
