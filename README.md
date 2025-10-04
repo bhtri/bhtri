@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年10月03日**
+### **2025年10月04日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Believe deep down in your heart that you're destined to do great things.
+    Genuine sincerity opens people's hearts, while manipulation causes them to close.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Joe Paterno
+Daisaku Ikeda
 </p>
 
 ---
