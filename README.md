@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年10月04日**
+### **2025年10月05日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Genuine sincerity opens people's hearts, while manipulation causes them to close.
+    One fails forward toward success.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Daisaku Ikeda
+Charles F. Kettering
 </p>
 
 ---
