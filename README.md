@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年10月05日**
+### **2025年10月06日**
 
 <p align="center" style="font-size:20px">
   <q>
-    One fails forward toward success.
+    Whatever is not yours: let go of it. Your letting go of it will be for your long-term happiness & benefit.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Charles F. Kettering
+The Buddha
 </p>
 
 ---
