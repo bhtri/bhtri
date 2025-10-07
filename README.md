@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年10月06日**
+### **2025年10月07日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Whatever is not yours: let go of it. Your letting go of it will be for your long-term happiness & benefit.
+    Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-The Buddha
+Bernice Reagon
 </p>
 
 ---
