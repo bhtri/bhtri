@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年10月08日**
+### **2025年10月09日**
 
 <p align="center" style="font-size:20px">
   <q>
-    It is not enough to have a good mind; the main thing is to use it well.
+    Efficiency is doing things right; effectiveness is doing the right things.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-René Descartes
+Peter Drucker
 </p>
 
 ---
