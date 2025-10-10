@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年10月09日**
+### **2025年10月10日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Efficiency is doing things right; effectiveness is doing the right things.
+    It is not only for what we do that we are held responsible, but also for what we do not do.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Peter Drucker
+Molière
 </p>
 
 ---
