@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年10月10日**
+### **2025年10月11日**
 
 <p align="center" style="font-size:20px">
   <q>
-    It is not only for what we do that we are held responsible, but also for what we do not do.
+    He who knows, does not speak. He who speaks, does not know.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Molière
+Laozi
 </p>
 
 ---
