@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年10月11日**
+### **2025年10月12日**
 
 <p align="center" style="font-size:20px">
   <q>
-    He who knows, does not speak. He who speaks, does not know.
+    The most I can do for my friend is simply be his friend.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Laozi
+Henry David Thoreau
 </p>
 
 ---
