@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年10月12日**
+### **2025年10月13日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The most I can do for my friend is simply be his friend.
+    We need to find the courage to say NO to the things and people that are not serving us if we want to rediscover ourselves and live our lives with authenticity.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Henry David Thoreau
+Barbara De Angelis
 </p>
 
 ---
