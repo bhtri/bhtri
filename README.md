@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年10月13日**
+### **2025年10月14日**
 
 <p align="center" style="font-size:20px">
   <q>
-    We need to find the courage to say NO to the things and people that are not serving us if we want to rediscover ourselves and live our lives with authenticity.
+    We make our own fortunes and we call them fate.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Barbara De Angelis
+Benjamin Disraeli
 </p>
 
 ---
