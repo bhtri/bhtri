@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年10月16日**
+### **2025年10月17日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Everything you are against weakens you. Everything you are for empowers you.
+    Treat people as if they were what they ought to be, and you help them to become what they are capable of being.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Wayne Dyer
+Johann Wolfgang von Goethe
 </p>
 
 ---
