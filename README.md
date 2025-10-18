@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年10月17日**
+### **2025年10月18日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Treat people as if they were what they ought to be, and you help them to become what they are capable of being.
+    This is why I loved technology: if you used it right, it could give you power and privacy.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Johann Wolfgang von Goethe
+Cory Doctorow
 </p>
 
 ---
