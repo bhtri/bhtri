@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年10月18日**
+### **2025年10月19日**
 
 <p align="center" style="font-size:20px">
   <q>
-    This is why I loved technology: if you used it right, it could give you power and privacy.
+    Just because something doesn't do what you planned it to do doesn't mean it's useless.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Cory Doctorow
+Thomas Edison
 </p>
 
 ---
