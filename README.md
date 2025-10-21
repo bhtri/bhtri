@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年10月20日**
+### **2025年10月21日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Silence is the sleep that nourishes wisdom.
+    The greatest way to live with honor in this world is to be what we pretend to be.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Francis Bacon
+Socrates
 </p>
 
 ---
