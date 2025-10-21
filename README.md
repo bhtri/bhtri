@@ -33,12 +33,12 @@
 
 <p align="center" style="font-size:20px">
   <q>
-    The greatest way to live with honor in this world is to be what we pretend to be.
+    Lord, make me an instrument of thy peace. Where there is hatred, let me sow love.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Socrates
+Francis of Assisi
 </p>
 
 ---
