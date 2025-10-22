@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年10月21日**
+### **2025年10月22日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Lord, make me an instrument of thy peace. Where there is hatred, let me sow love.
+    Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Francis of Assisi
+Theodore Isaac Rubin
 </p>
 
 ---
