@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年10月22日**
+### **2025年10月23日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.
+    What is necessary to change a person is to change his awareness of himself.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Theodore Isaac Rubin
+Abraham Maslow
 </p>
 
 ---
