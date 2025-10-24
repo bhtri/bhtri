@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年10月23日**
+### **2025年10月24日**
 
 <p align="center" style="font-size:20px">
   <q>
-    What is necessary to change a person is to change his awareness of himself.
+    Great indeed is the sublimity of the Creative, to which all beings owe their beginning, and which permeates all heaven.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Abraham Maslow
+Laozi
 </p>
 
 ---
