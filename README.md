@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年10月25日**
+### **2025年10月26日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Everything that happens as it should, and if you observe carefully, you will find this to be so.
+    The two most powerful warriors are patience and time.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Marcus Aurelius
+Leo Tolstoy
 </p>
 
 ---
