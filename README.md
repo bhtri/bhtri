@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年10月26日**
+### **2025年10月27日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The two most powerful warriors are patience and time.
+    Go to your bosom: Knock there and ask your heart what it doth know.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Leo Tolstoy
+William Shakespeare
 </p>
 
 ---
