@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年10月27日**
+### **2025年10月28日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Go to your bosom: Knock there and ask your heart what it doth know.
+    Yesterday's home runs don't win today's games.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-William Shakespeare
+Babe Ruth
 </p>
 
 ---
