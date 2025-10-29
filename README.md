@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年10月28日**
+### **2025年10月29日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Yesterday's home runs don't win today's games.
+    Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Babe Ruth
+Samuel Beckett
 </p>
 
 ---
