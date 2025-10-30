@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年10月29日**
+### **2025年10月30日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.
+    No day in which you learn something is a complete loss.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Samuel Beckett
+David Eddings
 </p>
 
 ---
