@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年10月30日**
+### **2025年10月31日**
 
 <p align="center" style="font-size:20px">
   <q>
-    No day in which you learn something is a complete loss.
+    The greatest minds are capable of the greatest vices as well as of the greatest virtues.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-David Eddings
+René Descartes
 </p>
 
 ---
