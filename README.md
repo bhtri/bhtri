@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年10月31日**
+### **2025年11月01日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The greatest minds are capable of the greatest vices as well as of the greatest virtues.
+    It's so simple to be wise. Just think of something stupid to say and then don't say it.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-René Descartes
+Sam Levenson
 </p>
 
 ---
