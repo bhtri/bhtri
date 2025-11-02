@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年11月01日**
+### **2025年11月02日**
 
 <p align="center" style="font-size:20px">
   <q>
-    It's so simple to be wise. Just think of something stupid to say and then don't say it.
+    There is a wisdom of the head, and a wisdom of the heart.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Sam Levenson
+Charles Dickens
 </p>
 
 ---
