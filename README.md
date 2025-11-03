@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年11月02日**
+### **2025年11月03日**
 
 <p align="center" style="font-size:20px">
   <q>
-    There is a wisdom of the head, and a wisdom of the heart.
+    The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Charles Dickens
+Isaac Asimov
 </p>
 
 ---
