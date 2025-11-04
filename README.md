@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年11月03日**
+### **2025年11月04日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.
+    I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Isaac Asimov
+G. K. Chesterton
 </p>
 
 ---
