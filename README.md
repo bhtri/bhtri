@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年11月04日**
+### **2025年11月05日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder.
+    The least of things with a meaning is worth more in life than the greatest of things without it.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-G. K. Chesterton
+Carl Jung
 </p>
 
 ---
