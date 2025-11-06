@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年11月05日**
+### **2025年11月06日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The least of things with a meaning is worth more in life than the greatest of things without it.
+    There is no retirement for an artist, it's your way of living so there is no end to it.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Carl Jung
+Henry Moore
 </p>
 
 ---
