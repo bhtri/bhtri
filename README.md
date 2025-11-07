@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年11月06日**
+### **2025年11月07日**
 
 <p align="center" style="font-size:20px">
   <q>
-    There is no retirement for an artist, it's your way of living so there is no end to it.
+    Friendship is held to be the severest test of character. It is easy, we think, to be loyal to a family and clan, whose blood is in your own veins.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Henry Moore
+Charles Eastman
 </p>
 
 ---
