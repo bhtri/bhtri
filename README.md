@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年11月07日**
+### **2025年11月08日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Friendship is held to be the severest test of character. It is easy, we think, to be loyal to a family and clan, whose blood is in your own veins.
+    I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Charles Eastman
+Og Mandino
 </p>
 
 ---
