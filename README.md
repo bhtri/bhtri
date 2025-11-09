@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年11月08日**
+### **2025年11月09日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.
+    All that we see or seem is but a dream within a dream.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Og Mandino
+Edgar Allan Poe
 </p>
 
 ---
