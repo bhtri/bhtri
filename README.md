@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年11月09日**
+### **2025年11月10日**
 
 <p align="center" style="font-size:20px">
   <q>
-    All that we see or seem is but a dream within a dream.
+    Know how to listen, and you will profit even from those who talk badly.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Edgar Allan Poe
+Plutarch
 </p>
 
 ---
