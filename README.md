@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年11月10日**
+### **2025年11月11日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Know how to listen, and you will profit even from those who talk badly.
+    It is not fair to ask of others what you are unwilling to do yourself.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Plutarch
+Eleanor Roosevelt
 </p>
 
 ---
