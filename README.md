@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年11月11日**
+### **2025年11月12日**
 
 <p align="center" style="font-size:20px">
   <q>
-    It is not fair to ask of others what you are unwilling to do yourself.
+    Change your thoughts and you change your world.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Eleanor Roosevelt
+Norman Vincent Peale
 </p>
 
 ---
