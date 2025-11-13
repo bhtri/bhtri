@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年11月12日**
+### **2025年11月13日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Change your thoughts and you change your world.
+    Here is one quality that one must possess to win, and that is definiteness of purpose, the knowledge of what one wants, and a burning desire to possess it.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Norman Vincent Peale
+Napoleon Hill
 </p>
 
 ---
