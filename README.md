@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年11月13日**
+### **2025年11月14日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Here is one quality that one must possess to win, and that is definiteness of purpose, the knowledge of what one wants, and a burning desire to possess it.
+    You can't choose up sides on a round world.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Napoleon Hill
+Wayne Dyer
 </p>
 
 ---
