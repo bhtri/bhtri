@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年11月14日**
+### **2025年11月15日**
 
 <p align="center" style="font-size:20px">
   <q>
-    You can't choose up sides on a round world.
+    Do not be embarrassed by your mistakes. Nothing can teach us better than our understanding of them. This is one of the best ways of self-education.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Wayne Dyer
+Thomas Carlyle
 </p>
 
 ---
