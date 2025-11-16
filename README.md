@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年11月15日**
+### **2025年11月16日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Do not be embarrassed by your mistakes. Nothing can teach us better than our understanding of them. This is one of the best ways of self-education.
+    Love and compassion open our own inner life, reducing stress, distrust and loneliness.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Thomas Carlyle
+Dalai Lama
 </p>
 
 ---
