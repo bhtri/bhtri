@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年11月16日**
+### **2025年11月17日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Love and compassion open our own inner life, reducing stress, distrust and loneliness.
+    Sometimes it is better to lose and do the right thing than to win and do the wrong thing.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Dalai Lama
+Tony Blair
 </p>
 
 ---
