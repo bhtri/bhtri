@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年11月17日**
+### **2025年11月18日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Sometimes it is better to lose and do the right thing than to win and do the wrong thing.
+    Take no thought of who is right or wrong or who is better than. Be not for or against.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Tony Blair
+Bruce Lee
 </p>
 
 ---
