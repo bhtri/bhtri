@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年11月18日**
+### **2025年11月19日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Take no thought of who is right or wrong or who is better than. Be not for or against.
+    If we had no winter, the spring would not be so pleasant; if we did not sometimes taste of adversity, prosperity would not be so welcome.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Bruce Lee
+Anne Bradstreet
 </p>
 
 ---
