@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年11月19日**
+### **2025年11月20日**
 
 <p align="center" style="font-size:20px">
   <q>
-    If we had no winter, the spring would not be so pleasant; if we did not sometimes taste of adversity, prosperity would not be so welcome.
+    Always be smarter than the people who hire you.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Anne Bradstreet
+Lena Horne
 </p>
 
 ---
