@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年11月20日**
+### **2025年11月21日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Always be smarter than the people who hire you.
+    One loyal friend is worth ten thousand relatives.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Lena Horne
+Euripides
 </p>
 
 ---
