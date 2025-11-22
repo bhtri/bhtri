@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年11月21日**
+### **2025年11月22日**
 
 <p align="center" style="font-size:20px">
   <q>
-    One loyal friend is worth ten thousand relatives.
+    Lord, make me an instrument of thy peace. Where there is hatred, let me sow love.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Euripides
+Francis of Assisi
 </p>
 
 ---
