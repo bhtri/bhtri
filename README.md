@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年11月22日**
+### **2025年11月23日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Lord, make me an instrument of thy peace. Where there is hatred, let me sow love.
+    When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Francis of Assisi
+Confucius
 </p>
 
 ---
