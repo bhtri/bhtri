@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年11月23日**
+### **2025年11月24日**
 
 <p align="center" style="font-size:20px">
   <q>
-    When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps.
+    I am always ready to learn although I do not always like being taught.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Confucius
+Winston Churchill
 </p>
 
 ---
