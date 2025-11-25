@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年11月24日**
+### **2025年11月25日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I am always ready to learn although I do not always like being taught.
+    Kindness is the golden chain by which society is bound together.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Winston Churchill
+Johann Wolfgang von Goethe
 </p>
 
 ---
