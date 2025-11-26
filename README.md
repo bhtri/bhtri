@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年11月25日**
+### **2025年11月26日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Kindness is the golden chain by which society is bound together.
+    All serious daring starts from within.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Johann Wolfgang von Goethe
+Harriet Beecher Stowe
 </p>
 
 ---
