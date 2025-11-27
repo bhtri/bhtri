@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年11月26日**
+### **2025年11月27日**
 
 <p align="center" style="font-size:20px">
   <q>
-    All serious daring starts from within.
+    Just because something doesn't do what you planned it to do doesn't mean it's useless.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Harriet Beecher Stowe
+Thomas Edison
 </p>
 
 ---
