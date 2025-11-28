@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年11月27日**
+### **2025年11月28日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Just because something doesn't do what you planned it to do doesn't mean it's useless.
+    An optimist is a person who sees a green light everywhere, while the pessimist sees only the red spotlight... The truly wise person is color-blind.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Thomas Edison
+Albert Schweitzer
 </p>
 
 ---
