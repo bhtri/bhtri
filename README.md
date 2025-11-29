@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年11月28日**
+### **2025年11月29日**
 
 <p align="center" style="font-size:20px">
   <q>
-    An optimist is a person who sees a green light everywhere, while the pessimist sees only the red spotlight... The truly wise person is color-blind.
+    Rare as is true love, true friendship is rarer.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Albert Schweitzer
+Jean de La Fontaine
 </p>
 
 ---
