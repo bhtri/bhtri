@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年11月29日**
+### **2025年11月30日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Rare as is true love, true friendship is rarer.
+    It is good even for old men to learn wisdom.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Jean de La Fontaine
+Aeschylus
 </p>
 
 ---
