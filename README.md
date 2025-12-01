@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年11月30日**
+### **2025年12月01日**
 
 <p align="center" style="font-size:20px">
   <q>
-    It is good even for old men to learn wisdom.
+    All wisdom does not reside in Delhi.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Aeschylus
+P. Chidambaram
 </p>
 
 ---
