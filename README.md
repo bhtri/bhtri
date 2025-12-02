@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年12月01日**
+### **2025年12月02日**
 
 <p align="center" style="font-size:20px">
   <q>
-    All wisdom does not reside in Delhi.
+    Through perseverance many people win success out of what seemed destined to be certain failure.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-P. Chidambaram
+Benjamin Disraeli
 </p>
 
 ---
