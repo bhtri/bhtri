@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年12月02日**
+### **2025年12月03日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Through perseverance many people win success out of what seemed destined to be certain failure.
+    The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Benjamin Disraeli
+Helen Keller
 </p>
 
 ---
