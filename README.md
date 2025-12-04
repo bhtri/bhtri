@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年12月03日**
+### **2025年12月04日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.
+    The day of fortune is like a harvest day, we must be busy when the corn is ripe.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Helen Keller
+Torquato Tasso
 </p>
 
 ---
