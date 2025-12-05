@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年12月04日**
+### **2025年12月05日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The day of fortune is like a harvest day, we must be busy when the corn is ripe.
+    Quality is never an accident; it is always the result of intelligent effort.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Torquato Tasso
+John Ruskin
 </p>
 
 ---
