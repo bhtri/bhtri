@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年12月05日**
+### **2025年12月06日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Quality is never an accident; it is always the result of intelligent effort.
+    What we see depends mainly on what we look for.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John Ruskin
+John Lubbock
 </p>
 
 ---
