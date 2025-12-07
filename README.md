@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年12月06日**
+### **2025年12月07日**
 
 <p align="center" style="font-size:20px">
   <q>
-    What we see depends mainly on what we look for.
+    There is more wisdom in your body than in your deepest philosophy.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John Lubbock
+Friedrich Nietzsche
 </p>
 
 ---
