@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年12月07日**
+### **2025年12月08日**
 
 <p align="center" style="font-size:20px">
   <q>
-    There is more wisdom in your body than in your deepest philosophy.
+    You know you're in love when you can't fall asleep because reality is finally better than your dreams.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Friedrich Nietzsche
+Dr. Seuss
 </p>
 
 ---
