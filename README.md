@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年12月08日**
+### **2025年12月09日**
 
 <p align="center" style="font-size:20px">
   <q>
-    You know you're in love when you can't fall asleep because reality is finally better than your dreams.
+    Genuine love should first be directed at oneself; if we do not love ourselves, how can we love others?
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Dr. Seuss
+Dalai Lama
 </p>
 
 ---
