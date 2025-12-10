@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年12月09日**
+### **2025年12月10日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Genuine love should first be directed at oneself; if we do not love ourselves, how can we love others?
+    Eighty percent of success is showing up.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Dalai Lama
+Woody Allen
 </p>
 
 ---
