@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年12月10日**
+### **2025年12月11日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Eighty percent of success is showing up.
+    What you get by achieving your goals is not as important as what you become by achieving your goals.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Woody Allen
+Zig Ziglar
 </p>
 
 ---
