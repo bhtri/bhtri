@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年12月11日**
+### **2025年12月12日**
 
 <p align="center" style="font-size:20px">
   <q>
-    What you get by achieving your goals is not as important as what you become by achieving your goals.
+    Opportunity often comes disguised in the form of misfortune, or temporary defeat.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Zig Ziglar
+Napoleon Hill
 </p>
 
 ---
