@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年12月12日**
+### **2025年12月13日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Opportunity often comes disguised in the form of misfortune, or temporary defeat.
+    In the business world, everyone is paid in two coins: cash and experience. Take the experience first; the cash will come later.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Napoleon Hill
+Harold Geneen
 </p>
 
 ---
