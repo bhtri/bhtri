@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年12月13日**
+### **2025年12月14日**
 
 <p align="center" style="font-size:20px">
   <q>
-    In the business world, everyone is paid in two coins: cash and experience. Take the experience first; the cash will come later.
+    It is more shameful to distrust our friends than to be deceived by them.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Harold Geneen
+Confucius
 </p>
 
 ---
