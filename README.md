@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年12月16日**
+### **2025年12月17日**
 
 <p align="center" style="font-size:20px">
   <q>
-    We are wiser than we know.
+    If your actions inspire others to dream more, learn more, do more and become more, you are a leader.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ralph Waldo Emerson
+John Quincy Adams
 </p>
 
 ---
