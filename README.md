@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年12月17日**
+### **2025年12月18日**
 
 <p align="center" style="font-size:20px">
   <q>
-    If your actions inspire others to dream more, learn more, do more and become more, you are a leader.
+    We are what we repeatedly do. Excellence, then, is not an act, but a habit.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John Quincy Adams
+Aristotle
 </p>
 
 ---
