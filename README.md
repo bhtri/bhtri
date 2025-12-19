@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年12月18日**
+### **2025年12月19日**
 
 <p align="center" style="font-size:20px">
   <q>
-    We are what we repeatedly do. Excellence, then, is not an act, but a habit.
+    Never give up, for that is just the place and time that the tide will turn.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Aristotle
+Harriet Beecher Stowe
 </p>
 
 ---
