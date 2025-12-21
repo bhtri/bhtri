@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年12月20日**
+### **2025年12月21日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Remember that a gesture of friendship, no matter how small, is always appreciated.
+    There is nothing in a caterpillar that tells you it's going to be a butterfly.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-H. Jackson Brown Jr.
+Buckminster Fuller
 </p>
 
 ---
