@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年12月21日**
+### **2025年12月22日**
 
 <p align="center" style="font-size:20px">
   <q>
-    There is nothing in a caterpillar that tells you it's going to be a butterfly.
+    Knowledge is going to make you stronger. Knowledge is going to let you control your life. Knowledge is going to give you the wisdom to teach their children. Knowledge is the thing that makes you smile in the face of disaster.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Buckminster Fuller
+Avery Brooks
 </p>
 
 ---
