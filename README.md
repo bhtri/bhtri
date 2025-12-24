@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年12月23日**
+### **2025年12月24日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.
+    Let none find fault with others; let none see the omissions and commissions of others. But let one see one's own acts, done and undone.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Charles Lamb
+The Buddha
 </p>
 
 ---
