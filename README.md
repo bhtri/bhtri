@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年12月25日**
+### **2025年12月26日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The fewer rules a coach has, the fewer rules there are for players to break.
+    The road of excess leads to the palace of wisdom.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John Madden
+William Blake
 </p>
 
 ---
