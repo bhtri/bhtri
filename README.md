@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年12月26日**
+### **2025年12月27日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The road of excess leads to the palace of wisdom.
+    The man who makes everything that leads to happiness depends upon himself, and not upon other men, has adopted the very best plan for living happily. This is the man of moderation, the man of manly character and of wisdom.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-William Blake
+Plato
 </p>
 
 ---
