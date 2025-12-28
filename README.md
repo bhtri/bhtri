@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年12月27日**
+### **2025年12月28日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The man who makes everything that leads to happiness depends upon himself, and not upon other men, has adopted the very best plan for living happily. This is the man of moderation, the man of manly character and of wisdom.
+    What worries you masters you.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Plato
+Haddon Robinson
 </p>
 
 ---
