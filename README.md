@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年12月30日**
+### **2025年12月31日**
 
 <p align="center" style="font-size:20px">
   <q>
-    You are important enough to ask and you are blessed enough to receive back.
+    The more you know yourself, the more you forgive yourself.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Wayne Dyer
+Confucius
 </p>
 
 ---
