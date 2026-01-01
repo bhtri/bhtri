@@ -29,16 +29,16 @@
 
 ---
 
-### **2025年12月31日**
+### **2026年01月01日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The more you know yourself, the more you forgive yourself.
+    When you learn, teach. When you get, give.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Confucius
+Maya Angelou
 </p>
 
 ---
