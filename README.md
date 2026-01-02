@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年01月01日**
+### **2026年01月02日**
 
 <p align="center" style="font-size:20px">
   <q>
-    When you learn, teach. When you get, give.
+    Does wisdom perhaps appear on the earth as a raven which is inspired by the smell of carrion?
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Maya Angelou
+Friedrich Nietzsche
 </p>
 
 ---
