@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年01月02日**
+### **2026年01月03日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Does wisdom perhaps appear on the earth as a raven which is inspired by the smell of carrion?
+    Liberty, taking the word in its concrete sense, consists in the ability to choose.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Friedrich Nietzsche
+Simone Weil
 </p>
 
 ---
