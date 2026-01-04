@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年01月03日**
+### **2026年01月04日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Liberty, taking the word in its concrete sense, consists in the ability to choose.
+    Gold medals aren't really made of gold. They're made of sweat, determination, and a hard-to-find alloy called guts.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Simone Weil
+Dan Gable
 </p>
 
 ---
