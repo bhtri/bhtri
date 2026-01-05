@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年01月04日**
+### **2026年01月05日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Gold medals aren't really made of gold. They're made of sweat, determination, and a hard-to-find alloy called guts.
+    I think somehow, we learn who we really are and then live with that decision.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Dan Gable
+Eleanor Roosevelt
 </p>
 
 ---
