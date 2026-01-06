@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年01月05日**
+### **2026年01月06日**
 
 <p align="center" style="font-size:20px">
   <q>
-    I think somehow, we learn who we really are and then live with that decision.
+    Just as a flower, which seems beautiful has color but no perfume, so are the fruitless words of a man who speaks them but does them not.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Eleanor Roosevelt
+Dhammapada
 </p>
 
 ---
