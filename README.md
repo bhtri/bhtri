@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年01月06日**
+### **2026年01月07日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Just as a flower, which seems beautiful has color but no perfume, so are the fruitless words of a man who speaks them but does them not.
+    Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Dhammapada
+Wayne Dyer
 </p>
 
 ---
