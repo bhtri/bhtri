@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年01月07日**
+### **2026年01月08日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.
+    Both formerly and now, it is only suffering that I describe, and the cessation of suffering.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Wayne Dyer
+The Buddha
 </p>
 
 ---
