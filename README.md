@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年01月08日**
+### **2026年01月09日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Both formerly and now, it is only suffering that I describe, and the cessation of suffering.
+    Between saying and doing, many a pair of shoes is worn out.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-The Buddha
+Iris Murdoch
 </p>
 
 ---
