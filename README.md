@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年01月09日**
+### **2026年01月10日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Between saying and doing, many a pair of shoes is worn out.
+    The most technologically efficient machine that man has ever invented is the book.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Iris Murdoch
+Northrop Frye
 </p>
 
 ---
