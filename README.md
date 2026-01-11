@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年01月10日**
+### **2026年01月11日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The most technologically efficient machine that man has ever invented is the book.
+    Victory belongs to the most persevering.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Northrop Frye
+Napoleon
 </p>
 
 ---
