@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年01月12日**
+### **2026年01月13日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Do not follow where the path may lead. Go, instead, where there is no path and leave a trail.
+    If you are out to describe the truth, leave elegance to the tailor.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ralph Waldo Emerson
+Albert Einstein
 </p>
 
 ---
