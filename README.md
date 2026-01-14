@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年01月13日**
+### **2026年01月14日**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you are out to describe the truth, leave elegance to the tailor.
+    Three things cannot be long hidden: the sun, the moon, and the truth.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Albert Einstein
+The Buddha
 </p>
 
 ---
