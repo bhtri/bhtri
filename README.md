@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年01月14日**
+### **2026年01月15日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Three things cannot be long hidden: the sun, the moon, and the truth.
+    It isn't what happens to us that causes us to suffer; it's what we say to ourselves about what happens.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-The Buddha
+Pema Chödrön
 </p>
 
 ---
