@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年01月15日**
+### **2026年01月16日**
 
 <p align="center" style="font-size:20px">
   <q>
-    It isn't what happens to us that causes us to suffer; it's what we say to ourselves about what happens.
+    Everything has beauty, but not everyone sees it.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Pema Chödrön
+Confucius
 </p>
 
 ---
