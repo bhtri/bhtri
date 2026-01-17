@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年01月16日**
+### **2026年01月17日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Everything has beauty, but not everyone sees it.
+    We are all inclined to judge ourselves by our ideals; others, by their acts.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Confucius
+Harold Nicolson
 </p>
 
 ---
