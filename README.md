@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年01月17日**
+### **2026年01月18日**
 
 <p align="center" style="font-size:20px">
   <q>
-    We are all inclined to judge ourselves by our ideals; others, by their acts.
+    To conquer fear is the beginning of wisdom.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Harold Nicolson
+Bertrand Russell
 </p>
 
 ---
