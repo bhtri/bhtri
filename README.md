@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年01月18日**
+### **2026年01月19日**
 
 <p align="center" style="font-size:20px">
   <q>
-    To conquer fear is the beginning of wisdom.
+    It is more shameful to distrust our friends than to be deceived by them.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Bertrand Russell
+Confucius
 </p>
 
 ---
