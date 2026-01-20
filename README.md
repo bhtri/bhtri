@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年01月19日**
+### **2026年01月20日**
 
 <p align="center" style="font-size:20px">
   <q>
-    It is more shameful to distrust our friends than to be deceived by them.
+    There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Confucius
+Epictetus
 </p>
 
 ---
