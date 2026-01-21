@@ -29,11 +29,11 @@
 
 ---
 
-### **2026年01月20日**
+### **2026年01月21日**
 
 <p align="center" style="font-size:20px">
   <q>
-    There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.
+    If you seek truth, you will not seek victory by dishonorable means, and if you find truth you will become invincible.
   </q>
 </p>
 
