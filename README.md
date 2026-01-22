@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年01月21日**
+### **2026年01月22日**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you seek truth, you will not seek victory by dishonorable means, and if you find truth you will become invincible.
+    The eye sees only what the mind is prepared to comprehend.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Epictetus
+Henri Bergson
 </p>
 
 ---
