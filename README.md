@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年01月22日**
+### **2026年01月23日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The eye sees only what the mind is prepared to comprehend.
+    Excellence, then, is a state concerned with choice, lying in a mean, relative to us, this being determined by reason and in the way in which the man of practical wisdom would determine it.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Henri Bergson
+Aristotle
 </p>
 
 ---
