@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年01月23日**
+### **2026年01月24日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Excellence, then, is a state concerned with choice, lying in a mean, relative to us, this being determined by reason and in the way in which the man of practical wisdom would determine it.
+    A good plan violently executed now is better than a perfect plan executed next week.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Aristotle
+George S. Patton
 </p>
 
 ---
