@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年01月24日**
+### **2026年01月25日**
 
 <p align="center" style="font-size:20px">
   <q>
-    A good plan violently executed now is better than a perfect plan executed next week.
+    Life is so constructed that an event does not, cannot, will not, match the expectation.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-George S. Patton
+Charlotte Brontë
 </p>
 
 ---
