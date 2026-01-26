@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年01月25日**
+### **2026年01月26日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Life is so constructed that an event does not, cannot, will not, match the expectation.
+    Important principles may, and must, be inflexible.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Charlotte Brontë
+Abraham Lincoln
 </p>
 
 ---
