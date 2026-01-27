@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年01月26日**
+### **2026年01月27日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Important principles may, and must, be inflexible.
+    Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Abraham Lincoln
+Marcus Aurelius
 </p>
 
 ---
