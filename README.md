@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年01月27日**
+### **2026年01月28日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.
+    Gratitude is riches. Complaint is poverty.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Marcus Aurelius
+Doris Day
 </p>
 
 ---
