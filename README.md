@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年01月28日**
+### **2026年01月29日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Gratitude is riches. Complaint is poverty.
+    If the stars should appear but one night every thousand years how man would marvel and adore.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Doris Day
+Ralph Waldo Emerson
 </p>
 
 ---
