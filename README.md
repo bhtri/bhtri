@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年01月29日**
+### **2026年01月30日**
 
 <p align="center" style="font-size:20px">
   <q>
-    If the stars should appear but one night every thousand years how man would marvel and adore.
+    In the sky there are no tracks. Outside there is no recluse. There are no conditioned things that are eternal. There is no instability in the Buddhas.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ralph Waldo Emerson
+The Buddha
 </p>
 
 ---
