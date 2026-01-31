@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年01月30日**
+### **2026年01月31日**
 
 <p align="center" style="font-size:20px">
   <q>
-    In the sky there are no tracks. Outside there is no recluse. There are no conditioned things that are eternal. There is no instability in the Buddhas.
+    It requires wisdom to understand wisdom: the music is nothing if the audience is deaf.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-The Buddha
+Walter Lippmann
 </p>
 
 ---
