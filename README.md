@@ -33,12 +33,12 @@
 
 <p align="center" style="font-size:20px">
   <q>
-    All the great performers I have worked with are fueled by a personal dream.
+    One's friends are that part of the human race with which one can be human.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John Eliot
+George Santayana
 </p>
 
 ---
