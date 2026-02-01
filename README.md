@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年01月31日**
+### **2026年02月01日**
 
 <p align="center" style="font-size:20px">
   <q>
-    It requires wisdom to understand wisdom: the music is nothing if the audience is deaf.
+    All the great performers I have worked with are fueled by a personal dream.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Walter Lippmann
+John Eliot
 </p>
 
 ---
