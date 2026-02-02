@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年02月01日**
+### **2026年02月02日**
 
 <p align="center" style="font-size:20px">
   <q>
-    One's friends are that part of the human race with which one can be human.
+    Whenever something negative happens to you, there is a deep lesson concealed within it.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-George Santayana
+Eckhart Tolle
 </p>
 
 ---
