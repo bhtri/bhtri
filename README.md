@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年02月03日**
+### **2026年02月04日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Love is the attempt to form a friendship inspired by beauty.
+    Well done is better than well said.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Cicero
+Benjamin Franklin
 </p>
 
 ---
