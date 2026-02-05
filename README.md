@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年02月04日**
+### **2026年02月05日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Well done is better than well said.
+    Irony is the gaiety of reflection and the joy of wisdom.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Benjamin Franklin
+Anatole France
 </p>
 
 ---
