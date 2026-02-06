@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年02月05日**
+### **2026年02月06日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Irony is the gaiety of reflection and the joy of wisdom.
+    Wisdom is the right use of knowledge. To know is not to be wise. Many men know a great deal and are all the greater fools for it. There is no fool so great a fool as a knowing fool. But to know how to use knowledge is to have wisdom.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Anatole France
+Charles Spurgeon
 </p>
 
 ---
