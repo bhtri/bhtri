@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年02月07日**
+### **2026年02月08日**
 
 <p align="center" style="font-size:20px">
   <q>
-    People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not.
+    The best cure for the body is a quiet mind.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Johann Wolfgang von Goethe
+Napoleon
 </p>
 
 ---
