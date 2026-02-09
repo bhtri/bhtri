@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年02月08日**
+### **2026年02月09日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The best cure for the body is a quiet mind.
+    May all beings have happy minds.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Napoleon
+The Buddha
 </p>
 
 ---
