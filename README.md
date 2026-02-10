@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年02月09日**
+### **2026年02月10日**
 
 <p align="center" style="font-size:20px">
   <q>
-    May all beings have happy minds.
+    There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-The Buddha
+Epictetus
 </p>
 
 ---
