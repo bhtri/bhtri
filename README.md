@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年02月11日**
+### **2026年02月12日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Change is the law of life. And those who look only to the past or present are certain to miss the future.
+    Honesty is the first chapter in the book of wisdom.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-John F. Kennedy
+Thomas Jefferson
 </p>
 
 ---
