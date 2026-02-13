@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年02月12日**
+### **2026年02月13日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Honesty is the first chapter in the book of wisdom.
+    A ruffled mind makes a restless pillow.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Thomas Jefferson
+Charlotte Brontë
 </p>
 
 ---
