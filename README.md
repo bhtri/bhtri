@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年02月14日**
+### **2026年02月15日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Many sophisticated, intelligent people lack wisdom and common sense.
+    Friendship is the source of the greatest pleasures, and without friends even the most agreeable pursuits become tedious.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Joyce Meyer
+Thomas Aquinas
 </p>
 
 ---
