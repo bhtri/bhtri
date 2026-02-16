@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年02月15日**
+### **2026年02月16日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Friendship is the source of the greatest pleasures, and without friends even the most agreeable pursuits become tedious.
+    Be less curious about people and more curious about ideas.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Thomas Aquinas
+Marie Curie
 </p>
 
 ---
