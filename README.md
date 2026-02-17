@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年02月16日**
+### **2026年02月17日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Be less curious about people and more curious about ideas.
+    The teacher who is indeed wise does not bid you to enter the house of his wisdom but rather leads you to the threshold of your mind.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Marie Curie
+Kahlil Gibran
 </p>
 
 ---
