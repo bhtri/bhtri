@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年02月17日**
+### **2026年02月18日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The teacher who is indeed wise does not bid you to enter the house of his wisdom but rather leads you to the threshold of your mind.
+    To be happy is to be able to become aware of oneself without fright.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Kahlil Gibran
+Walter Benjamin
 </p>
 
 ---
