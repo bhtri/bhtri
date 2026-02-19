@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年02月18日**
+### **2026年02月19日**
 
 <p align="center" style="font-size:20px">
   <q>
-    To be happy is to be able to become aware of oneself without fright.
+    Your worst enemy cannot harm you as much as your own unguarded thoughts.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Walter Benjamin
+The Buddha
 </p>
 
 ---
