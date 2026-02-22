@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年02月21日**
+### **2026年02月22日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.
+    Happiness mainly comes from our own attitude, rather than from external factors.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-William Arthur Ward
+Dalai Lama
 </p>
 
 ---
