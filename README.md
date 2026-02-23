@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年02月22日**
+### **2026年02月23日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Happiness mainly comes from our own attitude, rather than from external factors.
+    Trouble is only opportunity in work clothes.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Dalai Lama
+Henry J. Kaiser
 </p>
 
 ---
