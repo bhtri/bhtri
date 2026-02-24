@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年02月23日**
+### **2026年02月24日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Trouble is only opportunity in work clothes.
+    Success is getting what you want. Happiness is wanting what you get.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Henry J. Kaiser
+Dale Carnegie
 </p>
 
 ---
