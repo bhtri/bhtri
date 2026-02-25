@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年02月24日**
+### **2026年02月25日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Success is getting what you want. Happiness is wanting what you get.
+    Ignorant men don't know what good they hold in their hands until they've flung it away.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Dale Carnegie
+Sophocles
 </p>
 
 ---
