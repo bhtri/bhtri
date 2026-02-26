@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年02月25日**
+### **2026年02月26日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Ignorant men don't know what good they hold in their hands until they've flung it away.
+    To be beautiful means to be yourself. You don't need to be accepted by others. You need to accept yourself.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Sophocles
+Thích Nhất Hạnh
 </p>
 
 ---
