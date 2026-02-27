@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年02月26日**
+### **2026年02月27日**
 
 <p align="center" style="font-size:20px">
   <q>
-    To be beautiful means to be yourself. You don't need to be accepted by others. You need to accept yourself.
+    The wisdom of the wise, and the experience of ages, may be preserved by quotation.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Thích Nhất Hạnh
+Isaac D'Israeli
 </p>
 
 ---
