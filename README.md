@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年02月27日**
+### **2026年02月28日**
 
 <p align="center" style="font-size:20px">
   <q>
-    The wisdom of the wise, and the experience of ages, may be preserved by quotation.
+    An invincible determination can accomplish almost anything and in this lies the great distinction between great men and little men.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Isaac D'Israeli
+Thomas Fuller
 </p>
 
 ---
