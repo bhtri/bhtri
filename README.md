@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年02月28日**
+### **2026年03月01日**
 
 <p align="center" style="font-size:20px">
   <q>
-    An invincible determination can accomplish almost anything and in this lies the great distinction between great men and little men.
+    Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Thomas Fuller
+Marcus Aurelius
 </p>
 
 ---
