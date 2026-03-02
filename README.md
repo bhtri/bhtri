@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年03月01日**
+### **2026年03月02日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.
+    What is past is left behind. The future is yet unreached. Whatever quality is present, clearly see it right there.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Marcus Aurelius
+The Buddha
 </p>
 
 ---
