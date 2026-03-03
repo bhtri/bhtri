@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年03月02日**
+### **2026年03月03日**
 
 <p align="center" style="font-size:20px">
   <q>
-    What is past is left behind. The future is yet unreached. Whatever quality is present, clearly see it right there.
+    If you want to go east, don't go west.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-The Buddha
+Ramakrishna
 </p>
 
 ---
