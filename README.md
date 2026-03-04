@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年03月03日**
+### **2026年03月04日**
 
 <p align="center" style="font-size:20px">
   <q>
-    If you want to go east, don't go west.
+    If you want a thing done well, do it yourself.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Ramakrishna
+Napoleon
 </p>
 
 ---
