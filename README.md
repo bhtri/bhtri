@@ -37,26 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 自分にとって何が大切か考えること。それで人の生き方が決まる。
+> 真の世論に対して関心を示さないのは、まさに一つの力であり、幸福の源泉である。
 
-<p align="right"><b>— 『再会の時』</b></p>
+<p align="right"><b>— ラッセル</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Người bị ái buộc ràng,
-Vùng vẫy và hoảng sợ,
-Như thỏ bị sa lưới.
-Họ sanh ái trói buộc,
-Chịu khổ đau dài dài.”
+> “Nhiều người khoác cà sa,
+Ác hạnh không nhiếp phục.
+Người ác, do ác hạnh,
+Phải sanh cõi Ðịa ngục.”
 >
-> *愛欲に満たされたる人は、罠に係れる兎の如く馳せ回る。
-繋縛
-と執着とに捉えられ、久しき間再々苦を受く。*
+> *袈裟を頸に纒うも、悪を行い節制なき者多し。
+かかる悪人はその悪業によりて地獄に堕す。*
 
-<p align="right"><b>— Pham Tham Ai, Ke 342</b></p>
+<p align="right"><b>— Pham Dia Nguc, Ke 307</b></p>
 
 </td></tr>
 </table>
