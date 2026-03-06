@@ -1,0 +1,2309 @@
+{
+  "metadata": {
+    "title_vi": "Kinh Phap Cu",
+    "title_ja": "法句経（ダンマパダ）",
+    "total_verses": 423,
+    "total_chapters": 26,
+    "source_vi": "loiphatday.org",
+    "source_ja": "true-buddhism.com"
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "name_vi": "Pham Song Yeu",
+      "name_ja": "双品",
+      "verses": [
+        {
+          "number": 1,
+          "vi": "Ý dẫn đầu các pháp,\nÝ làm chủ, ý tạo;\nNếu với ý ô nhiễm,\nNói lên hay hành động,\nKhổ não bước theo sau,\nNhư xe, chân vật kéo.",
+          "ja": "諸法は意に支配せられ、意を主とし、意よりなる。\n人もし穢れたる意を以て、或いは語り或いは行わば、苦の彼に随うこと、車輪が牽獣の足に〔随う〕が如し。"
+        },
+        {
+          "number": 2,
+          "vi": "Ý dẫn đầu các pháp,\nÝ làm chủ, ý tạo;\nNếu với ý thanh tịnh,\nNói lên hay hành động,\nAn lạc bước theo sau,\nNhư bóng, không rời hình.",
+          "ja": "諸法は意に支配せられ、意を主とし、意よりなる。\n人もし浄き意を以て、或いは語り或いは行わば、楽の彼に随うこと、影の〔形に随いて〕離れざるが如し。"
+        },
+        {
+          "number": 3,
+          "vi": "Nó mắng tôi, đánh tôi,\nNó thắng tôi, cướp tôi\nAi ôm hiềm hận ấy,\nHận thù không thể nguôi.",
+          "ja": "「彼、我を罵れり、我を投げ打てり、我を敗れり、我より奪えり」と、かかる執念を懐く人には、その忿怨やむことなし。"
+        },
+        {
+          "number": 4,
+          "vi": "Nó mắng tôi, đánh tôi,\nNó thắng tôi, cướp tôi\nKhông ôm hiềm hận ấy,\nHận thù được tự nguôi.",
+          "ja": "「彼、我を罵れり、我を投げ打てり、我を敗れり、我より奪えり」と、かかる執念を懐かざる人には、その忿怨終息す。"
+        },
+        {
+          "number": 5,
+          "vi": "Với hận diệt hận thù,\nÐời này không có được.\nKhông hận diệt hận thù,\nLà định luật ngàn thu.",
+          "ja": "実に、この世に於て、怨は怨によりて終にやむことなし。\n怨を棄ててこそ初めてやむ。\nこは万古不易の法なり。"
+        },
+        {
+          "number": 6,
+          "vi": "Và người khác không biết,\nChúng ta đây bị hại.\nChỗ ấy, ai hiểu được\nTranh luận được lắng êm.",
+          "ja": "他の者（愚者）は、「我らはこの世に於て、自ら制すべきものなり」と悟らず。\nかく悟る者にのみ、それによりて争いはやむ。"
+        },
+        {
+          "number": 7,
+          "vi": "Ai sống nhìn tịnh tướng,\nKhông hộ trì các căn,\năn uống thiếu tiết độ,\nbiếng nhác, chẳng tinh cần.\nMa uy hiếp kẻ ấy,\nnhư cây yếu trước gió.",
+          "ja": "享楽を事として住し、諸根を摂せず、飲食度なく、怠惰にして精勤せざるもの、実に魔王がかかる人を克服すること、風の弱き樹に於けるが如し。"
+        },
+        {
+          "number": 8,
+          "vi": "Ai sống quán bất tịnh,\nKhéo hộ trì các căn,\năn uống có tiết độ,\nCó lòng tin, tinh cần,\nMa không uy hiếp được,\nNhư núi đá, trước gió.",
+          "ja": "享楽を事とせずして住し、よく諸根を摂し、飲食度あり、信念ありて精勤するもの、実に魔王がかかる人を克服し得ざること、風の岩山に於けるが如し。"
+        },
+        {
+          "number": 9,
+          "vi": "Ai mặc áo cà sa.\ntâm chưa rời uế trược,\nkhông tự chế, không thực,\nkhông xứng áo cà sa",
+          "ja": "汚濁を脱せざるもの、袈裟を纏わんとするも、節度なく真実なければ、彼は袈裟に相応せず。"
+        },
+        {
+          "number": 10,
+          "vi": "Ai rời bỏ uế trược,\ngiới luật khéo nghiêm trì,\ntự chế, sống chơn thực,\nthật xứng áo cà sa.",
+          "ja": "汚濁を捨棄し、よく戒行に住し、節度を守り真実あれば、彼は実に袈裟に相応す。"
+        },
+        {
+          "number": 11,
+          "vi": "Không chân, tưởng chân thật,\nchân thật, thấy không chân:\nchúng không đạt chân thật,\ndo tà tư, tà hạnh.",
+          "ja": "非精髄を精髄と思い、精髄を非精髄と見る人は、邪思惟に住し、精髄に到達することなし。"
+        },
+        {
+          "number": 12,
+          "vi": "Chân thật, biết chân thật,\nKhông chân, biết không chân:\nchúng đạt được chân thật,\ndo chánh tư, chánh hạnh.",
+          "ja": "精髄に於て精髄を知り、非精髄に於て非精髄を知る人は、正思惟に住し、精髄に到達す。"
+        },
+        {
+          "number": 13,
+          "vi": "Như mái nhà vụng lợp,\nMưa liền xâm nhập vào.\nCũng vậy tâm không tu,\nTham dục liền xâm nhập.",
+          "ja": "粗く葺きたる家屋に雨の漏る如く、\n貪欲\nは\n修養\nなき心を侵す。"
+        },
+        {
+          "number": 14,
+          "vi": "Như ngôi nhà khéo lợp,\nMưa không xâm nhập vào.\nCũng vậy tâm khéo tu,\nTham dục không xâm nhập.",
+          "ja": "善く葺きたる家屋に雨の漏らざる如く、貪欲は修養せる心を侵さず。"
+        },
+        {
+          "number": 15,
+          "vi": "Nay sầu, đời sau sầu,\nKẻ ác, hai đời sầu;\nNó sầu, nó ưu não,\nThấy nghiệp uế mình làm.",
+          "ja": "この世に於て悲しみ、死後に於ても悲しみ、悪業をなせる者は両処に於て悲しむ。\n自己の\n業\nの汚濁を見て、彼は悲しみ、彼は悩む。"
+        },
+        {
+          "number": 16,
+          "vi": "Nay vui, đời sau vui,\nLàm phước, hai đời vui,\nNó vui, nó an vui,\nThấy nghiệp tịnh mình làm.",
+          "ja": "この世に於て歓び、死後に於ても歓び、善業をなせる者は両処に於て歓ぶ。\n自己の業の清浄を見て、彼は歓び、彼は楽しむ。"
+        },
+        {
+          "number": 17,
+          "vi": "Nay than, đời sau than,\nKẻ ác, hai đời than,\nNó than: ‘Ta làm ác’\nÐọa cõi dữ, than hơn.",
+          "ja": "この世に於て苦しみ、死後に於ても苦しみ、悪業をなせる者は両処に於て苦しむ。\n「我悪業をなせり」とて苦しみ、悪趣に堕ちて更に苦しむ。"
+        },
+        {
+          "number": 18,
+          "vi": "Nay sướng, đời sau sướng,\nLàm phước, hai đời sướng.\nNó sướng: ‘Ta làm thiện’,\nSanh cõi lành, sướng hơn.",
+          "ja": "この世に於て喜び、死後に於ても喜び、善業をなせる者は両処に於て喜ぶ。\n「我善業をなせり」とて喜び、善趣に往きて更に喜ぶ。"
+        },
+        {
+          "number": 19,
+          "vi": "Nếu người nói nhiều kinh,\nKhông hành trì, phóng dật;\nNhư kẻ chăn bò người,\nKhông phần Sa môn hạnh.",
+          "ja": "たとい経典を誦すること多くとも、放逸にしてこれを実行せざる人は、他人の牛を数うる牧者に等しく、〔真の〕沙門の列に入らず。"
+        },
+        {
+          "number": 20,
+          "vi": "Dầu nói ít kinh điển,\nNhưng hành pháp, tùy pháp,\nTừ bỏ tham, sân, si,\nTĩnh giác, tâm giải thoát,\nKhông chấp thủ hai đời,\nDự phần Sa môn hạnh.",
+          "ja": "たとい経典を誦すること少なくとも、法に\n遵\nいて挙止し、貪欲と\n瞋恚\nと\n愚痴\nとを捨て、正智を得て心よく\n解脱\nし、この世に於てもかの世に於ても\n執着\nなきものは、〔真の〕沙門の列に入る。"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "name_vi": "Pham Khong Phong Dat",
+      "name_ja": "不放逸品",
+      "verses": [
+        {
+          "number": 21,
+          "vi": "Không phóng dật, đường sống,\nPhóng dật là đường chết.\nKhông phóng dật, không chết,\nPhóng dật như chết rồi.",
+          "ja": "不放逸は不死の道にして、放逸は死の道なり。\n不放逸の人は死せず、放逸の人は死せるに異ならず。"
+        },
+        {
+          "number": 22,
+          "vi": "Biết rõ sai biệt ấy,\nNgười trí không phóng dật,\nHoan hỷ, không phóng dật,\nAn vui hạnh bậc Thánh.",
+          "ja": "よくこの理を悟り、不放逸に通達せる人は不放逸を歓び、聖者の境を楽しむ。"
+        },
+        {
+          "number": 23,
+          "vi": "Người hằng tu thiền định,\nThường kiên trì tinh tấn.\nBậc trí hưởng Niết Bàn,\nÐạt an tịnh vô thượng.",
+          "ja": "これらの賢者は\n禅定\nに住し、堅忍に満ち、常に勇猛にして、無上安穏の\n涅槃\nを獲得す。"
+        },
+        {
+          "number": 24,
+          "vi": "Nỗ lực, giữ chánh niệm,\nTịnh hạnh, hành thận trọng\nTự điều, sống theo pháp,\nAi sống không phóng dật,\nTiếng lành ngày tăng trưởng.",
+          "ja": "奮励し、念慮に富み、浄行をなし、熟慮して行い、自己を抑制し、正法に従って生きる不放逸者の声誉は増大す。"
+        },
+        {
+          "number": 25,
+          "vi": "Nỗ lực, không phóng dật,\nTự điều, khéo chế ngự.\nBậc trí xây hòn đảo,\nNước lụt khó ngập tràn.",
+          "ja": "奮励により、不放逸により、自制により、また\n調御\nにより、賢慮ある者は瀑流（\n煩悩\n）の侵すことなき洲（避難所）を造るべし。"
+        },
+        {
+          "number": 26,
+          "vi": "Chúng ngu si, thiếu trí,\nChuyên sống đời phóng dật.\nNgười trí, không phóng dật,\nNhư giữ tài sản quý.",
+          "ja": "痴鈍愚昧の輩は放逸に耽り、賢慮ある者は不放逸を護ること、最上の宝を〔護る〕が如し。"
+        },
+        {
+          "number": 27,
+          "vi": "Chớ sống đời phóng dật,\nChớ mê say dục lạc.\nKhông phóng dật, thiền định,\nÐạt được an lạc lớn.",
+          "ja": "放逸に耽るべからず、欲楽に親しむべからず。\n不放逸にして禅定に住する者のみ、大安楽に達し得ればなり。"
+        },
+        {
+          "number": 28,
+          "vi": "Người trí dẹp phóng dật,\nVới hạnh không phóng dật,\nLeo lầu cao trí tuệ,\nKhông sầu, nhìn khổ sầu,\nBậc trí đứng núi cao,\nNhìn kẻ ngu, đất bằng.",
+          "ja": "識者が不放逸により放逸を退くる時、かかる賢者は\n智慧\nの高閣に登り、憂を去って憂ある衆愚を瞰下す、あたかも山上に立てる人が地上の人を〔瞰下する〕如く。"
+        },
+        {
+          "number": 29,
+          "vi": "Tinh cần giữa phóng dật,\nTỉnh thức giữa quần mê.\nNgười trí như ngựa phi,\nBỏ sau con ngựa hèn.",
+          "ja": "放逸なる者の中に在りて不放逸に、睡眠者の中に在りてよく覚醒せる賢者は、駿馬の駑馬を後にして〔進む〕が如くに往く。"
+        },
+        {
+          "number": 30,
+          "vi": "Ðế Thích [1] không phóng dật,\nÐạt ngôi vị Thiên chủ.\nKhông phóng dật, được khen ;\nPhóng dật, thường bị trách.",
+          "ja": "摩伽婆\n（\n帝釈天\n）は不放逸によりて諸天の最高位に達せり。\n人は不放逸を称讃し、放逸は常に非難せらる。"
+        },
+        {
+          "number": 31,
+          "vi": "Vui thích không phóng dật,\nTỷ kheo sợ phóng dật,\nBước tới như lửa hừng,\nThiêu kiết sử lớn nhỏ.",
+          "ja": "不放逸を楽しみ、また放逸に畏怖を感ずる比丘は、大小の\n繋縛\nを火の如くに焼きつつ往く。"
+        },
+        {
+          "number": 32,
+          "vi": "Vui thích không phóng dật,\nTỷ kheo sợ phóng dật,\nKhông thể bị thối đọa,\nNhất định gần Niết Bàn.",
+          "ja": "不放逸を楽しみ、また放逸に畏怖を感ずる比丘は、既に涅槃に近づき、決して退転することなし。"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "name_vi": "Pham Tam",
+      "name_ja": "心品",
+      "verses": [
+        {
+          "number": 33,
+          "vi": "Tâm hoảng hốt giao động,\nKhó hộ trì, khó nhiếp,\nNgười trí làm tâm thẳng,\nNhư thợ tên, làm tên.",
+          "ja": "賢慮ある者は、戦慄し動揺し護り難く制し難き心を直くすること、あたかも箭匠の\n箭\nに於けるが如し。"
+        },
+        {
+          "number": 34,
+          "vi": "Như cá quăng lên bờ,\nVất ra ngoài thủy giới;\nTâm này vùng vẫy mạnh,\nHãy đoạn thế lực Ma.",
+          "ja": "水中の住処より取り出されて陸上に投げ捨てられし魚の如く、この心は魔王の世界より逃れんとして戦慄す。"
+        },
+        {
+          "number": 35,
+          "vi": "Khó nắm giữ, khinh động,\nTheo các dục quay cuồng.\nLành thay, điều phục tâm;\nTâm điều, an lạc đến.",
+          "ja": "捉え難く軽躁にして欲に随いて赴く心を、制御するはまことに善し。\n制御せられたる心は安楽をもたらす。"
+        },
+        {
+          "number": 36,
+          "vi": "Tâm khó thấy, tế nhị,\nTheo các dục quay cuồng.\nNgười trí phòng hộ tâm,\nTâm hộ, an lạc đến.",
+          "ja": "極めて見難く極めて微妙にして欲に随いて赴く心を、賢慮ある者は護るべし。\n護られたる心は安楽をもたらす。"
+        },
+        {
+          "number": 37,
+          "vi": "Chạy xa, sống một mình,\nKhông thân, ẩn hang sâu [1]\nAi điều phục được tâm,\nThoát khỏi Ma trói buộc. [2]",
+          "ja": "遠く行き独り動き形骸なく胸窟に隠るる心、そを制御する者は魔王の\n繋縛\nより脱す。"
+        },
+        {
+          "number": 38,
+          "vi": "Ai tâm không an trú,\nKhông biết chân diệu pháp,\nTịnh tín bị rúng động,\nTrí tuệ không viên thành.",
+          "ja": "心安定せず、正法を弁えず、信念動揺する人の智慧は成満することなし。"
+        },
+        {
+          "number": 39,
+          "vi": "Tâm không đầy tràn dục,\nTâm không (hận) công phá,\nÐoạn tuyệt mọi thiện ác,\nKẻ tỉnh không sợ hãi.",
+          "ja": "心に煩悩なく、思慮惑乱せず、善悪を超脱し、覚醒せる人には恐怖なし。"
+        },
+        {
+          "number": 40,
+          "vi": "Biết thân như đồ gốm,\nTrú tâm như thành trì,\nChống Ma với gươm trí ;\nGiữ chiến thắng [3] không tham [4]",
+          "ja": "この身は水瓶の如く〔脆し〕と知り、この心を城郭の如く安立せしめ、智慧の武器を以て魔王と戦うべし。\n調伏してはこれを監視し\n懈怠\nすべからず。"
+        },
+        {
+          "number": 41,
+          "vi": "Không bao lâu thân này,\nSẽ nằm dài trên đất,\nBị vất bỏ, vô thức,\nNhư khúc cây vô dụng.",
+          "ja": "実に久しからずしてこの身は地上に横たわるべし、意識なく、無用の木片の如く捨てられて。"
+        },
+        {
+          "number": 42,
+          "vi": "Kẻ thù hại kẻ thù,\nOan gia hại oan gia,\nKhông bằng tâm hướng tà, [5]\nGây ác cho tự thân.",
+          "ja": "仇敵が仇敵に対し、怨敵が怨敵に対し、いかなる〔悪を〕なすにもせよ、邪悪に止住する心は、更に大なる\n悪\nを人になすべし。"
+        },
+        {
+          "number": 43,
+          "vi": "Ðiều mẹ cha bà con,\nKhông có thể làm được,\nTâm hướng chánh làm được\nLàm được tốt đẹp hơn.",
+          "ja": "父・母、はたまた他の親族のなす〔善〕にも勝り、正道に止住する心は、更に大なる\n善\nを人になすべし。"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "name_vi": "Pham Hoa",
+      "name_ja": "花品",
+      "verses": [
+        {
+          "number": 44,
+          "vi": "“Ai chinh phục đất này\nDạ ma, Thiên giới này?\nAi khéo giảng Pháp cú,\nNhư người khéo hái hoa?”",
+          "ja": "誰かこの地界と閻魔界と天界とを征服する。\n誰か妙説の法句を摘み集むること、熟練せる人の花を〔摘む〕如くする。"
+        },
+        {
+          "number": 45,
+          "vi": "“Hữu học chinh phục đất,\nDạ ma, Thiên giới này.\nHữu học giảng Pháp cú,\nNhư người khéo hái hoa.”",
+          "ja": "仏教を修する者は、この地界と閻魔界と天界とを征服せん。\n仏教を修する者は、妙説の法句を摘み集むること、熟練せる人の花を〔摘む〕如くせん。"
+        },
+        {
+          "number": 46,
+          "vi": "“Biết thân như bọt nước,\nNgộ thân là như huyễn,\nBẻ tên hoa của ma,\nVượt tầm mắt thần chết.”",
+          "ja": "この身は泡沫に譬うべきを知り、幻影に等しきを悟る人は、魔王の花矢（誘惑）を破り、〔\n地獄\nの〕死王（\n閻魔\n）に見ゆることなけん。"
+        },
+        {
+          "number": 47,
+          "vi": "“Người nhặt các loại hoa,\nÝ đắm say, tham nhiễm,\nBị thần chết mang đi,\nNhư lụt trôi làng ngủ.”",
+          "ja": "花（快楽）をのみ摘みて心貪着せる人を、死は捉え去る、あたかも眠れる村落を瀑流の〔\n漂蕩\nし去る〕如く。"
+        },
+        {
+          "number": 48,
+          "vi": "Người nhặt các loại hoa,\nÝ đắm say tham nhiễm,\nCác dục chưa thỏa mãn,\nÐã bị chết chinh phục.”",
+          "ja": "花をのみ摘みて心貪着し、愛欲に飽くことなき人を死は克服す。"
+        },
+        {
+          "number": 49,
+          "vi": "“Như ong đến với hoa,\nKhông hại sắc và hương,\nChe chở hoa, lấy nhụy.\nBậc Thánh đi vào làng “.",
+          "ja": "蜜蜂の、花と色と香りとを損なうことなく、甘味のみを取り去る如く、かく智者は村落に乞食すべし。"
+        },
+        {
+          "number": 50,
+          "vi": "“Không nên nhìn lỗi người,\nNgười làm hay không làm.\nNên nhìn tự chính mình.\nCó làm hay không làm.”",
+          "ja": "他の非違を〔観る〕べからず、他の為せること、為さざりしことを〔観る〕べからず。\nただ自己の為せること（罪過）為さざりしこと（\n懈怠\n）を観るべし。"
+        },
+        {
+          "number": 51,
+          "vi": "“Như bông hoa tươi đẹp,\nCó sắc nhưng không hương.\nCũng vậy, lời khéo nói,\nKhông làm, không kết quả.”",
+          "ja": "愛すべく色麗しくとも芳香なき花の如く、実行なき人の語は、善く説かるるとも効果なし。"
+        },
+        {
+          "number": 52,
+          "vi": "“Như bông hoa tươi đẹp,\nCó sắc lại thêm hương;\nCũng vậy, lời khéo nói,\nCó làm, có kết quả.”",
+          "ja": "愛すべく色麗しく芳香ある花の如く、実行する人の語は、善く説かれてしかも効果あり。"
+        },
+        {
+          "number": 53,
+          "vi": "“Như từ một đống hoa,\nNhiều tràng hoa được làm.\nCũng vậy, thân sanh tử,\nPhải làm nhiều việc lành.”",
+          "ja": "堆積せる花より、多くの華鬘を造り得る如く、人と生まれては多くの善事をなすべし。"
+        },
+        {
+          "number": 54,
+          "vi": "“Hương các loại hoa thơm\nKhông ngược bay chiều gió\nNhưng hương người đức hạnh\nNgược gió khắp tung bay\nChỉ có bậc chân nhân\nTỏa khắp mọi phương trời.”",
+          "ja": "花の香りは風に逆らいて進まず、\n栴檀\n・\n多伽羅\nまたは\n茉莉花\n（香木の名）の〔香り〕も〔また然り〕。\nされど善人の香りは風に逆らいても進み、正しき人は一切方に薫ず。"
+        },
+        {
+          "number": 55,
+          "vi": "“Hoa chiên đàn, già la,\nHoa sen, hoa vũ quý,\nGiữa những hương hoa ấy,\nGiới hương là vô thượng.”",
+          "ja": "栴檀または多伽羅・青蓮華はたまたヴァッシキー（香木の名）、これらの諸香の中、戒の香り最も勝れたり。"
+        },
+        {
+          "number": 56,
+          "vi": "“Ít giá trị hương này,\nHương già la, chiên đàn;\nChỉ hương người đức hạnh,\nTối thượng tỏa Thiên giới.”",
+          "ja": "多伽羅・栴檀に属するその香りは軽微なり。\nされど持戒者の香りは最上にして諸天の間に薫ず。"
+        },
+        {
+          "number": 57,
+          "vi": "“Nhưng ai có giới hạnh,\nAn trú không phóng dật,\nChánh trí, chơn giải thoát,\nÁc ma không thấy đường.”",
+          "ja": "戒行を成就し、不放逸に住し、正智により解脱せる者には、魔王も近づくあたわず。"
+        },
+        {
+          "number": 58,
+          "vi": "“Như giữa đống rác nhớp,\nQuăng bỏ trên đường lớn,\nChỗ ấy hoa sen nở,\nThơm sạch, đẹp ý người.”",
+          "ja": "大道に捨てられたる塵埃の堆積中に、芳香\n馥郁\nとして美しき蓮華の生ずる如く、"
+        },
+        {
+          "number": 59,
+          "vi": "“Cũng vậy giữa quần sanh,\nUế nhiễm, mù, phàm tục,\nÐệ tử bậc Chánh Giác,\nSáng ngời với Tuệ Trí.”",
+          "ja": "この如く、塵埃にも等しき盲昧の凡夫中に、正等覚者の弟子は智慧を以て輝く。"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "name_vi": "Pham Ngu",
+      "name_ja": "愚品",
+      "verses": [
+        {
+          "number": 60,
+          "vi": "“Ðêm dài cho kẻ thức,\nÐường dài cho kẻ mệt,\nLuân hồi dài, kẻ ngu,\nKhông biết chơn diệu pháp.”",
+          "ja": "不眠者には夜長く、疲れたる人には一\n由旬\n（距離の単位）も長く、正法を知らざる愚者には流転長し。"
+        },
+        {
+          "number": 61,
+          "vi": "“Tìm không được bạn đường,\nHơn mình hay bằng mình,\nThà quyết sống một mình,\nKhông bè bạn kẻ ngu.”",
+          "ja": "道を歩みて自己に勝る人、自己に等しき人に逢わざれば、敢えて独り行くべし。\n愚者は断じて伴侶となすべからず。"
+        },
+        {
+          "number": 62,
+          "vi": "“Con tôi, tài sản tôi,\nNgười ngu sanh ưu não,\nTự ta, ta không có,\nCon đâu, tài sản đâu.”",
+          "ja": "「我に子あり、我に財あり」とて愚者は悩む。\n自己すでに自分のものにあらず。\n況んやいかで子をや、いかで財をや。"
+        },
+        {
+          "number": 63,
+          "vi": "“Người ngu nghĩ mình ngu,\nNhờ vậy thành có trí.\nNgười ngu tưởng có trí,\nThật xứng gọi chí ngu.”",
+          "ja": "愚者にして〔自ら〕その愚を知るものは、これによりて既に賢なり。\nされど愚者にして〔自ら〕賢なりと思うものは、実に〔真の〕愚者と称せらる。"
+        },
+        {
+          "number": 64,
+          "vi": "“Người ngu, dầu trọn đời,\nThân cận người có trí,\nKhông biết được Chánh pháp,\nNhư muỗng với vị canh.”",
+          "ja": "たとい終生賢者に侍すとも、愚者は正法を悟らざること、あたかも食匙の香味に於けるが如し。"
+        },
+        {
+          "number": 65,
+          "vi": "“Người trí, dầu một khắc,\nThân cận người có trí,\nBiết ngay chân diệu pháp,\nNhư lưỡi với vị canh.”",
+          "ja": "たとい一瞬賢者に侍すとも、智者は直ちに正法を悟ること、あたかも舌の香味に於けるが如し。"
+        },
+        {
+          "number": 66,
+          "vi": "“Người ngu si thiếu trí,\nTự ngã thành kẻ thù.\nLàm các nghiệp không thiện,\nPhải chịu quả đắng cay.”",
+          "ja": "無知なる愚者は自己に対し仇敵の如く振る舞う、苦果をもたらす悪業を行いつつ。"
+        },
+        {
+          "number": 67,
+          "vi": "“Nghiệp làm không chánh thiện,\nLàm rồi sanh ăn năn,\nMặt nhuốm lệ, khóc than,\nLãnh chịu quả dị thục.”",
+          "ja": "行いて後悔い、顔に涙し、哭泣してその果報をうく、かかる業は善くなされたるものにあらず。"
+        },
+        {
+          "number": 68,
+          "vi": "“Và nghiệp làm chánh thiện,\nLàm rồi không ăn năn,\nHoan hỷ, ý đẹp lòng,\nHưởng thọ quả dị thục.”",
+          "ja": "されど行いて後悔いず、歓喜愉悦してその果報をうく、かかる業は善くなされたるものなり。"
+        },
+        {
+          "number": 69,
+          "vi": "“Người ngu nghĩ là ngọt,\nKhi ác chưa chín muồi;\nÁc nghiệp chín muồi rồi,\nNgười ngu chịu khổ đau.”",
+          "ja": "悪業の未だ熟せざる間、愚者はそを蜜の如く思惟す。\nされど悪業の熟するや、愚者はその時に至りて苦悩す。"
+        },
+        {
+          "number": 70,
+          "vi": "“Tháng tháng với ngọn cỏ,\nNgười ngu có ăn uống\nKhông bằng phần mười sáu\nNgười hiểu pháp hữu vi.”",
+          "ja": "愚者は〔節食して〕月に月に（数ヶ月間毎日）、クサ草の先端を以て食を取るとも、彼は正法を思量する者の十六分の一にも値せず。"
+        },
+        {
+          "number": 71,
+          "vi": "“Nghiệp ác đã được làm,\nNhư sữa, không đông ngay,\nCháy ngầm theo kẻ ngu,\nNhư lửa tro che đậy.”",
+          "ja": "犯したる悪業は、牛乳の如く直ちに凝固せず。\n灰に覆われたる火の如く、燃えつつ愚者に従う。"
+        },
+        {
+          "number": 72,
+          "vi": "“Tự nó chịu bất hạnh,\nKhi danh đến kẻ ngu.\nVận may bị tổn hại,\nÐầu nó bị nát tan.”",
+          "ja": "思慮生じて〔かえって〕愚者の災厄となる、そは彼の頭を砕きつつ、愚者の幸福を滅ぼす。"
+        },
+        {
+          "number": 73,
+          "vi": "“Ưa danh không tương xứng,\nMuốn ngồi trước tỷ kheo,\nƯa quyền tại tịnh xá,\nMuốn mọi người lễ kính.”",
+          "ja": "〔愚者をして〕虚名を欲せしめよ、比丘衆の間にありては上位を、僧院に於ては主権を、他人（在家衆）の間に於ては供養を〔欲せしめよ〕。"
+        },
+        {
+          "number": 74,
+          "vi": "“Mong cả hai tăng, tục,\nNghĩ rằng (chính ta làm).\nTrong mọi việc lớn nhỏ,\nPhải theo mệnh lệnh ta ”\nNgười ngu nghĩ như vậy\nDục và mạn tăng trưởng.",
+          "ja": "「こは我により為されたりと、在家も\n出家\nも共に考うべし、彼らは為すべきこと、為すべからざること、何事に於てもわが意に従うべし」とは、愚者の思惟なり。\n〔この故に〕欲心と慢心とは増長す。"
+        },
+        {
+          "number": 75,
+          "vi": "“Khác thay duyên thế lợi,\nKhác thay đường Niết Bàn.\nTỷ kheo, đệ tử Phật,\nHãy như vậy thắng tri.\nChớ ưa thích cung kính,\nHãy tu hạnh viễn ly.”",
+          "ja": "一は利得に導く〔道〕にして、一は涅槃に至る〔道〕なりと、かく仏弟子たる比丘は悟りて、尊敬を喜ぶべからず、遠離に専心すべし。"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "name_vi": "Pham Hien Tri",
+      "name_ja": "賢品",
+      "verses": [
+        {
+          "number": 76,
+          "vi": "Nếu thấy bậc hiền trí,\nChỉ lỗi và khiển trách,\nNhư chỉ chỗ chôn vàng\nHãy thân cận người trí!\nThân cận người như vậy,\nChỉ tốt hơn, không xấu.",
+          "ja": "罪過を指示し呵責する智者を見ば、かかる賢者と交わること、伏蔵を告ぐる人に於けるが如くせよ。\nかかる人と交わる者には善きことありて、悪しきことなし。"
+        },
+        {
+          "number": 77,
+          "vi": "“Những người hay khuyên dạy,\nNgăn người khác làm ác,\nÐược người hiền kính yêu,\nBị người ác không thích.”",
+          "ja": "訓戒すべし、教示すべし。\n不当の事より〔他人を〕遠ざくべし。\nかかる人は実に善人の愛するところ、悪人の憎むところとなる。"
+        },
+        {
+          "number": 78,
+          "vi": "“Chớ thân với bạn ác,\nChớ thân kẻ tiểu nhân.\nHãy thân người bạn lành,\nHãy thân bậc thượng nhân.”",
+          "ja": "悪友と交わるべからず、下劣の人を友とすべからず。\n善友と交わるべし、最上の人を友とすべし。"
+        },
+        {
+          "number": 79,
+          "vi": "“Pháp hỷ đem an lạc,\nVới tâm tư thuần tịnh;\nNgười trí thường hoan hỷ,\nVới pháp bậc Thánh thuyết.”",
+          "ja": "法〔水〕を飲む者は、清澄なる心を以て快適に臥す。\n賢者は常に聖者の説ける法を楽しむ。"
+        },
+        {
+          "number": 80,
+          "vi": "“Người trị thủy dẫn nước,\nKẻ làm tên nắn tên,\nNgười thợ mộc uốn gỗ,\nBậc trí nhiếp tự thân.”",
+          "ja": "治水者は水を導き、箭匠は\n箭\nを矯め、木匠は木を矯め、賢者は自己を\n調御\nす。"
+        },
+        {
+          "number": 81,
+          "vi": "“Như đá tảng kiên cố,\nKhông gió nào giao động,\nCũng vậy, giữa khen chê,\nNgười trí không giao động.”",
+          "ja": "固き巌の風に揺るがざるが如く、賢者は毀誉の中に於て動かず。"
+        },
+        {
+          "number": 82,
+          "vi": "“Như hồ nước sâu thẳm,\nTrong sáng, không khuấy đục,\nCũng vậy, nghe chánh pháp,\nNgười trí hưởng tịnh lạc.”",
+          "ja": "深き池の静かにして澄める如く、賢者は法を聞きて心清澄なり。"
+        },
+        {
+          "number": 83,
+          "vi": "“Người hiền bỏ tất cả,\nNgười lành không bàn dục,\nDầu cảm thọ lạc khổ,\nBậc trí không vui buồn.”",
+          "ja": "善人はあらゆるものに於て離欲し、善人は欲を求めて語らず。\n楽に触るるも、また苦に触るるも、賢者は動ずる色なし。"
+        },
+        {
+          "number": 84,
+          "vi": "“Không vì mình, vì người.\nKhông cầu được con cái,\nKhông tài sản quốc độ,\nKhông cầu mình thành tựu,\nVới việc làm phi pháp.\nVị ấy thật trì giới,\nCó trí tuệ, đúng pháp.”",
+          "ja": "自己の為にも他の為にも、子と財と国土とを望むべからず。\n不法によりて自己の繁栄を願うべからず。\nこれ戒行・智慧・正法を備うる人なり。"
+        },
+        {
+          "number": 85,
+          "vi": "“Ít người giữa nhân loại,\nÐến được bờ bên kia\nCòn số người còn lại,\nXuôi ngược chạy bờ này.”",
+          "ja": "人間の中、\n彼岸\n（涅槃）に到達する人は少なし。\n此方（生死界）にある他の衆生は、ただ岸に沿いて走るのみ。"
+        },
+        {
+          "number": 86,
+          "vi": "“Những ai hành trì pháp,\nTheo chánh pháp khéo dạy,\nSẽ đến bờ bên kia,\nVượt ma lực khó thoát.”",
+          "ja": "法の正しく説かれたる時、〔その〕法に従う人は彼岸に至らん。\n死の境域（生死界）は実に越え難し。"
+        },
+        {
+          "number": 87,
+          "vi": "Kẻ trí bỏ pháp đen,\nTu tập theo pháp trắng.\nBỏ nhà, sống không nhà,\nSống viễn ly khổ lạc.”",
+          "ja": "賢者は黒法（悪）を捨てて、白法（善）を修すべし。\n家より〔出でて〕、家なき境界に至り、\n孤独\nにして〔欲〕楽なき処に、"
+        },
+        {
+          "number": 88,
+          "vi": "“Hãy cầu vui Niết Bàn,\nBỏ dục, không sở hữu,\nKẻ trí tự rửa sạch,\nCấu uế từ nội tâm.”",
+          "ja": "〔法〕楽を求むべし。\n賢者は諸欲を捨て、無一物となり、自己を心垢より浄むべし。"
+        },
+        {
+          "number": 89,
+          "vi": "“Những ai với chánh tâm,\nKhéo tu tập giác chi,\nTừ bỏ mọi ái nhiễm,\nHoan hỷ không chấp thủ.\nKhông lậu hoặc, sáng chói,\nSống tịch tịnh ở đời.”",
+          "ja": "菩提\nの支分（七菩提分）に於て心を正しく修養し、執着なく、貪着を捨つるを喜び、煩悩を滅尽して輝く人は、現世に於て涅槃に入れるなり。"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "name_vi": "Pham A-La-Han",
+      "name_ja": "阿羅漢品",
+      "verses": [
+        {
+          "number": 90,
+          "vi": "“Ðích đã đến, không sầu,\nGiải thoát ngoài tất cả,\nÐoạn trừ mọi buộc ràng,\nVị ấy không nhiệt não.”",
+          "ja": "〔有為の〕路を終えて憂患を離れ、一切に於て解脱し、一切の\n繋縛\nを断ちたる人には苦悩なし。"
+        },
+        {
+          "number": 91,
+          "vi": "“Tự sách tấn, chánh niệm,\nKhông thích cư xá nào,\nNhư ngỗng trời rời ao,\nBỏ sau mọi trú ẩn.”",
+          "ja": "正念ある人は出家し、彼らは在家を喜ばず。\n池を捨て去る鵞鳥の如く、彼らはいずれの家をも捨つ。"
+        },
+        {
+          "number": 92,
+          "vi": "“Tài sản không chất chứa,\nĂn uống biết liễu tri,\nTự tại trong hành xứ,\n“Không vô tướng, giải thoát, ”\nNhư chim giữa hư không,\nHướng chúng đi khó tìm.”",
+          "ja": "蓄積することなく、正念食をなし、空にして無相の解脱を境とする人の道は、虚空に於ける鳥の〔道〕の如く、追随し難し。"
+        },
+        {
+          "number": 93,
+          "vi": "“Ai lậu hoặc đoạn sạch,\nĂn uống không tham đắm,\nTự tại trong hành xứ,\n“Không, vô tướng giải thoát. ”\nNhư chim giữa hư không,\nDấu chân thật khó tìm. ”",
+          "ja": "煩悩を滅尽し、飲食に捉われず、空にして無相の解脱を境とする人の跡は、虚空に於ける鳥の〔跡〕の如く、追随し難し。"
+        },
+        {
+          "number": 94,
+          "vi": "“Ai nhiếp phục các căn,\nNhư đánh xe điều ngự,\nMạn trừ, lậu hoặc dứt,\nNgười vậy, Chư Thiên mến.”",
+          "ja": "諸根寂静に帰して、御者によく\n調御\nせられし馬の如く、慢を断ち、煩悩を滅尽せる人、天神といえどもこの如き人を羨む。"
+        },
+        {
+          "number": 95,
+          "vi": "“Như đất, không hiềm hận,\nNhư cột trụ, kiên trì,\nNhư hồ, không bùn nhơ,\nKhông luân hồi, vị ấy.”",
+          "ja": "敬虔なる聖者は、\n忍辱\nなること大地の如く、また門閾に似たり。\n〔浄きこと〕泥土なき池〔水〕の如し。\nこの如き人には\n輪廻\nあることなし。"
+        },
+        {
+          "number": 96,
+          "vi": "“Người tâm ý an tịnh,\nLời an, nghiệp cũng an,\nChánh trí, chơn giải thoát,\nTịnh lạc là vị ấy.”",
+          "ja": "正智によりて解脱し、安穏を得たる聖者の意は寂静なり。\n語もまた業も寂静なり。"
+        },
+        {
+          "number": 97,
+          "vi": "“Không tin, hiểu vô vi.\nNgười cắt mọi hệ lụy\nCơ hội tận, xả ly\nVị ấy thật tối thượng.”",
+          "ja": "妄信なく、無為（涅槃）を悟り、〔輪廻の〕\n繋縛\nを断ち、〔善悪の〕契機を退け、\n欲望\nを捨てたる人こそ実に最上の人士なれ。"
+        },
+        {
+          "number": 98,
+          "vi": "“Làng mạc hay rừng núi\nThung lũng hay đồi cao,\nLa Hán trú chỗ nào,\nÐất ấy thật khả ái “.",
+          "ja": "村落に於ても、また森林に於ても、低地に於ても、また丘陵に於ても、\n阿羅漢\nの住する処、その地は楽し。"
+        },
+        {
+          "number": 99,
+          "vi": "“Khả ái thay núi rừng,\nChỗ người phàm không ưa,\nVị ly tham ưa thích,\nVì không tìm dục lạc.”",
+          "ja": "森林は楽しむべし。\n衆人の楽しまざる処に於て、離欲の人は楽しまん。\n彼らは欲楽を求めざればなり。"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "name_vi": "Pham Ngan",
+      "name_ja": "千品",
+      "verses": [
+        {
+          "number": 100,
+          "vi": "“Dầu nói ngàn ngàn lời,\nNhưng không gì lợi ích,\nTốt hơn một câu nghĩa,\nNghe xong, được tịnh lạc.”",
+          "ja": "たとい無益の語を集めて一千言を成すとも、聞きて寂静を得べき、有益の一語これに勝る。"
+        },
+        {
+          "number": 101,
+          "vi": "“Dầu nói ngàn câu kệ\nNhưng không gì lợi ích,\nTốt hơn nói một câu,\nNghe xong, được tịnh lạc.”",
+          "ja": "たとい無益の句を集めて一千偈を成すとも、聞きて寂静を得べき、一偈の一語これに勝る。"
+        },
+        {
+          "number": 102,
+          "vi": "“Dầu nói trăm câu kệ\nNhưng không gì lợi ích,\nTốt hơn một câu pháp,\nNghe xong, được tịnh lạc.”",
+          "ja": "無益の句よりなる百偈を誦すとも、聞きて寂静を得べき、一偈の一語これに勝る。"
+        },
+        {
+          "number": 103,
+          "vi": "“Dầu tại bãi chiến trường\nThắng ngàn ngàn quân địch,\nTự thắng mình tốt hơn,\nThật chiến thắng tối thượng.”",
+          "ja": "戦場に於て百万人に勝つとも、一の自己に克つ者こそ実に最上の戦勝者なれ。"
+        },
+        {
+          "number": 104,
+          "vi": "“Tự thắng, tốt đẹp hơn,\nHơn chiến thắng người khác.\nNgười khéo điều phục mình,\nThường sống tự chế ngự.”",
+          "ja": "克服せられたる自己は、実に他の衆人に勝る。\n自己を制御し、常に節制して行う人の〔勝利を〕、"
+        },
+        {
+          "number": 105,
+          "vi": "Dầu Thiên Thần, Thát Bà,\nDầu Ma vương, Phạm Thiên\nKhông ai chiến thắng nổi,\nNgười tự thắng như vậy.",
+          "ja": "天神も、\n乾闥婆\nも、魔王もまた\n梵天\nも、かかる人の勝利を〔転じて〕敗北となすことあたわず。"
+        },
+        {
+          "number": 106,
+          "vi": "“Tháng tháng bỏ ngàn vàng,\nTế tự cả trăm năm,\nChẳng bằng trong giây lát,\nCúng dường bậc tự tu.\nCúng dường vậy tốt hơn,\nHơn trăm năm tế tự.”",
+          "ja": "月に月に千金を投じて供犠すること百年、しかも一人のよく修養せる人に供養すること瞬時なれば、この供養はかの百年の祭祀に勝る。"
+        },
+        {
+          "number": 107,
+          "vi": "“Dầu trải một trăm năm,\nThờ lửa tại rừng sâu,\nChẳng bằng trong giây lát,\nCúng dường bậc tự tu.\nCúng dường vậy tốt hơn,\nHơn trăm năm tế tự.”",
+          "ja": "林中に於て祭火に奉仕すること百年、しかも一人のよく修養せる人に供養すること瞬時なれば、この供養はかの百年の祭祀に勝る。"
+        },
+        {
+          "number": 108,
+          "vi": "“Suốt năm cúng tế vật,\nÐể cầu phước ở đời.\nKhông bằng một phần tư\nKính lễ bậc chánh trực.”",
+          "ja": "この世に於て、福を求めて一年の間、或いは供犠し或いは祭祀に従事するも、そのすべては、直行の人（阿羅漢）を敬礼する四分の一に値せず。"
+        },
+        {
+          "number": 109,
+          "vi": "“Thường tôn trọng, kính lễ\nBậc kỳ lão trưởng thượng,\nBốn pháp được tăng trưởng:\nThọ, sắc, lạc, sức mạnh.”",
+          "ja": "敬礼を守り、常に長上を尊ぶ人には、四種の法増長す、すなわち寿と美と楽と力と。"
+        },
+        {
+          "number": 110,
+          "vi": "Dầu sống một trăm năm\nÁc giới, không thiền định,\nTốt hơn sống một ngày,\nTrì giới, tu thiền định.",
+          "ja": "百歳の寿を全うするも、戒を破り三昧に住せざれば、戒を持し禅定に住する者の一日の生、これに勝る。"
+        },
+        {
+          "number": 111,
+          "vi": "“Ai sống một trăm năm,\nÁc tuệ, không thiền định.\nTốt hơn sống một ngày,\nCó tuệ, tu thiền định.”",
+          "ja": "百歳の寿を全うするも、無知にして三昧に住せざれば、智慧を具し禅定に住する者の一日の生、これに勝る。"
+        },
+        {
+          "number": 112,
+          "vi": "“Ai sống một trăm năm,\nLười nhác không tinh tấn,\nTốt hơn sống một ngày\nTinh tấn tận sức mình.”",
+          "ja": "百歳の寿を全うするも、怠惰にして\n精進\nせざれば、堅固なる精進を行ずる者の一日の生、これに勝る。"
+        },
+        {
+          "number": 113,
+          "vi": "“Ai sống một trăm năm,\nKhông thấy pháp sinh diệt,\nTốt hơn sống một ngày,\nThấy được pháp sinh diệt.”",
+          "ja": "百歳の寿を全うするも、生滅の〔理〕を見ざれば、生滅の〔理〕を見る者の一日の生、これに勝る。"
+        },
+        {
+          "number": 114,
+          "vi": "“Ai sống một trăm năm,\nKhông thấy câu bất tử,\nTốt hơn sống một ngày,\nThấy được câu bất tử.”",
+          "ja": "百歳の寿を全うするも、不死の道（涅槃）を見ざれば、不死の道を見る者の一日の生、これに勝る。"
+        },
+        {
+          "number": 115,
+          "vi": "Ai sống một trăm năm,\nKhông thấy pháp tối thượng,\nTốt hơn sống một ngày,\nThấy được pháp tối thượng.",
+          "ja": "百歳の寿を全うするも、最上の法を見ざれば、最上の法を見る者の一日の生、これに勝る。"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "name_vi": "Pham Ac",
+      "name_ja": "悪品",
+      "verses": [
+        {
+          "number": 116,
+          "vi": "“Hãy gấp làm điều lành,\nNgăn tâm làm điều ác.\nAi chậm làm việc lành,\nÝ ưa thích việc ác.”",
+          "ja": "善に急ぐべし、心を悪より遠ざくべし。\n善をなすに\n懈怠\nする者は、その心悪を喜ぶ。"
+        },
+        {
+          "number": 117,
+          "vi": "“Nếu người làm điều ác,\nChớ tiếp tục làm thêm.\nChớ ước muốn điều ác,\nChứa ác, tất chịu khổ.”",
+          "ja": "たとい人悪をなすも、重ねてこれをなすべからず、これを喜ぶべからず。\n悪の\n積集\nは苦なり。"
+        },
+        {
+          "number": 118,
+          "vi": "“Nếu người làm điều thiện,\nNên tiếp tục làm thêm.\nHãy ước muốn điều thiện,\nChứa thiện, được an lạc.”",
+          "ja": "もし人善をなさば、重ねてこれをなすべし、これを喜ぶべし。\n善の\n積集\nは楽なり。"
+        },
+        {
+          "number": 119,
+          "vi": "“Người ác thấy là hiền.\nKhi ác chưa chín muồi,\nKhi ác nghiệp chín muồi,\nNgười ác mới thấy ác.”",
+          "ja": "悪人といえども、悪の未だ熟せざる間は、福善を見る。\n然れども悪の熟するや、その時悪人は苦悪を見る。"
+        },
+        {
+          "number": 120,
+          "vi": "“Người hiền thấy là ác,\nKhi thiện chưa chín muồi.\nKhi thiện được chín muồi,\nNgười hiền thấy là thiện.”",
+          "ja": "善人といえども、善の未だ熟せざる間は、苦悪を見る。\n然れども善の熟するや、その時善人は福善を見る。"
+        },
+        {
+          "number": 121,
+          "vi": "“Chớ chê khinh điều ác,\nCho rằng “chưa đến mình “,\nNhư nước nhỏ từng giọt,\nRồi bình cũng đầy tràn.\nNgười ngu chứa đầy ác\nDo chất chứa dần dần.”",
+          "ja": "「そは我に報い来らざるべし」とて、悪を軽視すべからず。\n点滴の落下によりて水瓶も満たさる。\n微々として積みつつも愚者は悪に満たさる。"
+        },
+        {
+          "number": 122,
+          "vi": "“Chớ chê khinh điều thiện\nCho rằng “Chưa đến mình, ”\nNhư nước nhỏ từng giọt,\nRồi bình cũng đầy tràn.\nNgười trí chứa đầy thiện,\nDo chất chứa dần dần.”",
+          "ja": "「そは我に報い来らざるべし」とて、善を軽視すべからず。\n点滴の落下によりて水瓶も満たさる。\n微々として積みつつも賢者は善に満たさる。"
+        },
+        {
+          "number": 123,
+          "vi": "“Ít bạn đường, nhiều tiền,\nNgười buôn tránh đường hiểm.\nMuốn sống, tránh thuốc độc,\nHãy tránh ác như vậy.”",
+          "ja": "伴侶少なく財貨多き商人の、危なき道を〔避くる〕如く、寿を願う者の毒を〔避くる〕如く、悪業を避くべし。"
+        },
+        {
+          "number": 124,
+          "vi": "“Bàn tay không thương tích,\nCó thể cầm thuốc độc.\nKhông thương tích, tránh độc,\nKhông làm, không có ác.”",
+          "ja": "手に傷なければ、手にて毒を捕らうも可なり。\n毒は傷なき者には入らず。\n悪をなさざる者に悪はなし。"
+        },
+        {
+          "number": 125,
+          "vi": "“Hại người không ác tâm,\nNgười thanh tịnh, không uế,\nTội ác đến kẻ ngu,\nNhư ngược gió tung bụi.”",
+          "ja": "邪念なき人を害し、清浄にして罪穢なき人を〔害せば〕、悪はかえってその愚者に及ぶ。\nあたかも風に逆らって散らされし微塵の如く。"
+        },
+        {
+          "number": 126,
+          "vi": "“Một số sinh bào thai,\nKẻ ác sinh địa ngục,\nNgười thiện lên cõi trời,\nVô lậu chứng Niết Bàn.”",
+          "ja": "ある者は〔人〕胎に宿り、悪業を造れる者は地獄に〔墜ち〕、正しき者は天界に昇り、煩悩を滅尽せる者は涅槃に入る。"
+        },
+        {
+          "number": 127,
+          "vi": "“Không trên trời, giữa biển,\nKhông lánh vào động núi,\nKhông chỗ nào trên đời,\nTrốn được quả ác nghiệp.”",
+          "ja": "虚空に於ても、海中に於ても、山間の洞窟に入りても、そこに留まりて悪業より免れ得べき処は、世界になし。"
+        },
+        {
+          "number": 128,
+          "vi": "“Không trên trời, giữa biển,\nKhông lánh vào động núi,\nKhông chỗ nào trên đời,\nTrốn khỏi tay thần chết.”",
+          "ja": "虚空に於ても、海中に於ても、山間の洞窟に入りても、そこに留まりて死の力の及ばざる処は世界になし。"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "name_vi": "Pham Hinh Phat",
+      "name_ja": "刀杖品",
+      "verses": [
+        {
+          "number": 129,
+          "vi": "“Mọi người sợ hình phạt,\nMọi người sợ tử vong.\nLấy mình làm ví dụ\nKhông giết, không bảo giết.”",
+          "ja": "一切の人は刀杖を怖れ、一切の人は死を恐る。\n自己に思い比べて、〔他を〕殺すべからず、殺さしむべからず。"
+        },
+        {
+          "number": 130,
+          "vi": "“Mọi người sợ hình phạt,\nMọi người thích sống còn;\nLấy mình làm ví dụ,\nKhông giết, không bảo giết.”",
+          "ja": "一切の人は刀杖を怖れ、一切の人は生を愛す。\n自己に思い比べて、〔他を〕殺すべからず、殺さしむべからず。"
+        },
+        {
+          "number": 131,
+          "vi": "“Chúng sanh cầu an lạc,\nAi dùng trượng hại người,\nÐể tìm lạc cho mình,\nÐời sau không được lạc.”",
+          "ja": "自己の安楽を欲して、安楽を好む有情を、刀杖を以て害する者は、死後安楽を得ず。"
+        },
+        {
+          "number": 132,
+          "vi": "“Chúng sanh cầu an lạc,\nKhông dùng trượng hại người,\nÐể tìm lạc cho mình,\nÐời sau được hưởng lạc.”",
+          "ja": "自己の安楽を欲して、安楽を好む有情を、刀杖を以て害せざる者は、死後安楽を得。"
+        },
+        {
+          "number": 133,
+          "vi": "“Chớ nói lời ác độc,\nNói ác, bị nói lại,\nKhổ thay lời phẩn nộ,\nÐao trượng phản chạm mình.”",
+          "ja": "粗暴の言を用うべからず。\n言われし者また汝に言を返さん。\n忿怒の言は実に苦なり。\n刀杖かえって汝に触れん。"
+        },
+        {
+          "number": 134,
+          "vi": "“Nếu tự mình yên lặng,\nNhư chiếc chuông bị bể.\nNgươi đã chứng Niết Bàn\nNgươi không còn phẩn nộ.”",
+          "ja": "汝もし壊れたる銅鑼の如く、黙して言わざれば、汝は既に涅槃を得たるなり。\n汝に忿怒あることなし。"
+        },
+        {
+          "number": 135,
+          "vi": "“Với gậy người chăn bò,\nLùa bò ra bãi cỏ;\nCũng vậy, già và chết,\nLùa người đến mạng chung.”",
+          "ja": "牧者の杖を以て牛を牧場に駆る如く、老と死とは有情の寿命を駆る。"
+        },
+        {
+          "number": 136,
+          "vi": "“Người ngu làm điều ác,\nKhông ý thức việc làm.\nDo tự nghiệp, người ngu\nBị nung nấu, như lửa.”",
+          "ja": "愚者は悪業をなして悟らず、暗鈍にして自己の業により苦しむこと、あたかも火に焼かるるが如し。"
+        },
+        {
+          "number": 137,
+          "vi": "“Dùng trượng phạt không trượng,\nLàm ác người không ác.\nTrong mười loại khổ đau,\nChịu gấp một loại khổ.”",
+          "ja": "罪過なく、邪念なき人を刀杖を以て害する者は、忽ち〔下の如き〕十中の一事に遇うべし。"
+        },
+        {
+          "number": 138,
+          "vi": "“Hoặc khổ thọ khốc liệt,\nThân thể bị thương vong,\nHoặc thọ bệnh kịch liệt,\nHay loạn ý tán tâm.”",
+          "ja": "激しき苦痛、老衰、身体の毀損、或いは重き病苦、もしくは心の錯乱に遇うべし。"
+        },
+        {
+          "number": 139,
+          "vi": "“Hoặc tai họa từ vua,\nHay bị vu trọng tội;\nBà con phải ly tán,\nTài sản bị nát tan.”",
+          "ja": "或いは国王より蒙る災禍、或いは恐るべき\n讒誣\n、或いは親族の離散、或いは財産の破滅に〔遇い〕、"
+        },
+        {
+          "number": 140,
+          "vi": "“Hoặc phòng ốc nhà cửa\nBị hỏa tai thiêu đốt.\nKhi thân hoại mạng chung,\nÁc tuệ sanh địa ngục.”",
+          "ja": "或いはまた浄火彼の家を焼く。\n愚痴なる者はその身滅びて後地獄に堕つ。"
+        },
+        {
+          "number": 141,
+          "vi": "“Không phải sống lõa thể\nBện tóc, tro trét mình,\nTuyệt thực, lăn trên đất,\nSống nhớp, siêng ngồi xổm,\nLàm con người được sạch,\nNếu không trừ nghi hoặc.”",
+          "ja": "裸行も、\n螺髻\nも、汚泥も、断食も、或いは地上の横臥も、塵垢身も、蹲踞も、疑惑を断ぜざる人を浄むることなし。"
+        },
+        {
+          "number": 142,
+          "vi": "“Ai sống tự trang sức,\nNhưng an tịnh, nhiếp phục,\nSống kiên trì, phạm hạnh,\nKhông hại mọi sinh linh,\nVị ấy là phạm chí,\nHay sa môn, khất sĩ.”",
+          "ja": "たとい〔その身を〕荘厳するとも、一切の有情に刀杖を加うることなく、寂静に住し、〔心を〕\n調御\nし、自ら制し、\n梵行\nを持し、行う所平等なる者、彼は婆羅門なり、彼は沙門なり、彼は比丘なり。"
+        },
+        {
+          "number": 143,
+          "vi": "“Thật khó tìm ở đời,\nNgười biết thẹn, tự chế,\nBiết tránh né chỉ trích\nNhư ngựa hiền tránh roi.”",
+          "ja": "この世に於て\n慚愧\nを以て自己を制する者ありや。\n良馬の鞭を〔蒙らざる〕如く、彼は誹謗を蒙らず。"
+        },
+        {
+          "number": 144,
+          "vi": "“Như ngựa hiền chạm roi,\nHãy nhiệt tâm, hăng hái,\nVới tín, giới, tinh tấn,\nThiền định cùng trạch pháp.\nMinh hạnh đủ, chánh niệm,\nÐoạn khổ này vô lượng.”",
+          "ja": "鞭を加えられし良馬の如く、汝らも努力奮励せよ、信仰と戒行と精進とにより、禅定と法の識別とにより、知と行とを具足して忘るることなく、この大なる苦を滅却せよ。"
+        },
+        {
+          "number": 145,
+          "vi": "“Người trị thủy dẫn nước,\nKẻ làm tên nắn tên,\nNgười thợ mộc uốn ván,\nBậc tự điều, điều thân.”",
+          "ja": "治水者は水を導き、箭匠は\n箭\nを矯め、木匠は木を矯め、有徳者は自己を\n調御\nす。"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "name_vi": "Pham Gia",
+      "name_ja": "老品",
+      "verses": [
+        {
+          "number": 146,
+          "vi": "“Cười gì, hân hoan gì,\nKhi đời mãi bị thiêu?\nBị tối tăm bao trùm,\nSao không tìm ngọn đèn?”",
+          "ja": "何の喜びぞ、何の歓びぞ、〔世は〕常に燃えつつあるを。\n汝らは暗黒に覆わる。\n何ぞ灯明を求めざる。"
+        },
+        {
+          "number": 147,
+          "vi": "“Hãy xem bong bóng đẹp,\nChỗ chất chứa vết thương,\nBệnh hoạn nhiều suy tư,\nThật không gì trường cửu.”",
+          "ja": "見よ粉飾せる形骸を。\n〔そは〕傷痍の\n積集\nにして病患絶えず、多欲にして、堅固・常住ならず。"
+        },
+        {
+          "number": 148,
+          "vi": "“Sắc này bị suy già,\nỔ tật bệnh, mỏng manh,\nNhóm bất tịnh, đỗ vỡ,\nChết chấm dứt mạng sống.”",
+          "ja": "この形骸は衰退す、病苦の巣窟にして壊れ易し。\n汚穢\nの\n積集\nは遂に壊る。\n生は必ず死に終わればなり。"
+        },
+        {
+          "number": 149,
+          "vi": "“Như trái bầu mùa thu,\nBị vất bỏ quăng đi,\nNhóm xương trắng bồ câu,\nThấy chúng còn vui gì?”",
+          "ja": "秋到りて〔捨てられし〕\n瓢箪\nの如く、委棄せられしこれらの白骨を見て、何の喜びありや。"
+        },
+        {
+          "number": 150,
+          "vi": "“Thành này làm bằng xương,\nQuét tô bằng thịt máu,\nỞ đây già và chết,\nMạn, lừa đảo chất chứa.”",
+          "ja": "城郭（形骸）は骨を以て造られ、塗るに肉と血とを以てす。\nその中には老と死と慢と偽と\n蔵\nせらる。"
+        },
+        {
+          "number": 151,
+          "vi": "“Xe vua đẹp cũng già.\nThân này rồi sẽ già,\nPháp bậc thiện, không già.\nNhư vậy bậc chí thiện\nNói lên cho bậc thiện.”",
+          "ja": "美しく飾られたる王車も必ず朽ち、肉体もまた遂に老ゆ。\n然れども善人の法は老ゆることなし。\n実に善人はこれを善人と相伝う。"
+        },
+        {
+          "number": 152,
+          "vi": "“Người ít nghe kém học,\nLớn già như trâu đực.\nThịt nó tuy lớn lên,\nNhưng tuệ không tăng trưởng.”",
+          "ja": "寡聞の人（愚者）は雄牛の如くに老ゆ。\n彼の肉は増せども、彼の智は増すことなし。"
+        },
+        {
+          "number": 153,
+          "vi": "“Lang thang bao kiếp sống\nTa tìm nhưng chẳng gặp,\nNgười xây dựng nhà này,\nKhổ thay, phải tái sanh.”",
+          "ja": "われ屋舎を作るもの（輪廻の原因）を求めて〔これを〕見出さず、多生の流転を経たり。\n生を受くること数次〔みな〕苦なり。"
+        },
+        {
+          "number": 154,
+          "vi": "“Ôi! Người làm nhà kia\nNay ta đã thấy ngươi!\nNgươi không làm nhà nữa.\nÐòn tay ngươi bị gẫy,\nKèo cột ngươi bị tan\nTâm ta đạt tịch diệt,\nTham ái thảy tiêu vong.”",
+          "ja": "屋舎を作るものよ。\n汝は見出されたり。\n再び屋舎を作ることなけん。\n汝のすべての椽桷は毀たれ、棟梁は砕かれたり。\n心は万象を離れて愛欲を滅尽し得たり。"
+        },
+        {
+          "number": 155,
+          "vi": "“Lúc trẻ, không phạm hạnh,\nKhông tìm kiếm bạc tiền.\nNhư cò già bên ao,\nỦ rũ, không tôm cá.”",
+          "ja": "壮時\n梵行\nを修せず、財宝を獲得せざりし者は、魚なき池の老鷺の如くに死滅す。"
+        },
+        {
+          "number": 156,
+          "vi": "“Lúc trẻ không phạm hạnh,\nKhông tìm kiếm bạc tiền;\nNhư cây cung bị gẫy,\nThở than những ngày qua.”",
+          "ja": "壮時\n梵行\nを修せず、財宝を獲得せざりし者は、折れたる弓の如く、過去を偲び歎きて横たわる。"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "name_vi": "Pham Tu Nga",
+      "name_ja": "自己品",
+      "verses": [
+        {
+          "number": 157,
+          "vi": "“Nếu biết yêu tự ngã,\nPhải khéo bảo vệ mình,\nNgười trí trong ba canh,\nPhải luôn luôn tỉnh thức.”",
+          "ja": "もし自己の愛すべきを知らば、よくこれを獲るべし。\n賢者は夜の三分（人生の三期）の中、一分は覚醒してあるべし。"
+        },
+        {
+          "number": 158,
+          "vi": "“Trước hết tự đặt mình,\nVào những gì thích đáng.\nSau mới giáo hóa người,\nNgười trí khỏi bị nhiễm.”",
+          "ja": "先ず自己を適所に置き、然る後他を教えよ。\n〔かかる〕賢者は悩むことなからん。"
+        },
+        {
+          "number": 159,
+          "vi": "“Hãy tự làm cho mình,\nNhư điều mình dạy người.\nKhéo tự điều, điều người,\nKhó thay, tự điều phục!”",
+          "ja": "もし他を教うる如く自ら行わば、〔自ら〕よく\n調御\nせられて、〔他を〕\n調御\nし得べし。\n実に自己は\n調御\nし難ければなり。"
+        },
+        {
+          "number": 160,
+          "vi": "“Tự mình y chỉ mình,\nNào có y chỉ khác.\nNhờ khéo điều phục mình,\nÐược y chỉ khó được.”",
+          "ja": "自己の依所は自己のみなり。\n他にいかなる依所あらんや。\n自己のよく\n調御\nせられたる時、人は得難き依所を獲得す。"
+        },
+        {
+          "number": 161,
+          "vi": "“Ðiều ác tự mình làm,\nTự mình sanh, mình tạo.\nNghiền nát kẻ ngu si,\nNhư kim cương, ngọc báu.”",
+          "ja": "自己のなせる悪業は、自己より生じ、自己より起れるものにして、愚者を粉砕すること、金剛石の宝石に於けるが如し。"
+        },
+        {
+          "number": 162,
+          "vi": "Phá giới quá trầm trọng,\nNhư dây leo bám cây\nGieo hại cho tự thân,\nNhư kẻ thù mong ước.",
+          "ja": "破戒甚だしき人は、あたかもつる草がその覆える沙羅樹に〔枯死を望む〕が如く自己に破滅を望む仇敵の意に従って、自ら挙動す（すなわち破滅す）。"
+        },
+        {
+          "number": 163,
+          "vi": "“Dễ làm các điều ác,\nDễ làm tự hại mình.\nCòn việc lành, việc tốt,\nThật tối thượng khó làm.”",
+          "ja": "不善にして自己に害あることは行い易く、〔自己に〕益ありてかつ善なることは極めて行い難し。"
+        },
+        {
+          "number": 164,
+          "vi": "“Kẻ ngu si miệt thị,\nGiáo pháp bậc La Hán,\nBậc Thánh, bậc chánh mạng.\nChính do ác kiến này,\nNhư quả loại cây lau\nMang quả tự hoại diệt.”",
+          "ja": "正法に従って生くる尊き阿羅漢の教えを、邪見に拠りて謗る愚者は、自己の破滅の為に〔業〕果を結ぶこと、あたかもカッタカ草（葦の一種）の果が〔実りてかえって自ら滅ぶが〕如し。"
+        },
+        {
+          "number": 165,
+          "vi": "“Tự mình, làm điều ác,\nTự mình làm nhiễm ô,\nTự mình không làm ác,\nTự mình làm thanh tịnh.\nTịnh, không tịnh tự mình,\nKhông ai thanh tịnh ai!”",
+          "ja": "自ら悪をなして自ら汚れ、自ら悪をなさずして自ら浄し。\n各々自ら浄となり不浄となる。\n人は他を浄むることあたわず。"
+        },
+        {
+          "number": 166,
+          "vi": "“Chớ theo pháp hạ liệt.\nChớ sống mặc, buông lung;\nChớ tin theo tà kiến,\nChớ tăng trưởng tục trần.”",
+          "ja": "たといいかに大〔事〕なりとも、他の為に尽くして自己の義務を\n忽諸\nにすべからず。\n自己の義務を知りて常に自己の義務に専心なるべし。"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "name_vi": "Pham The Gian",
+      "name_ja": "世品",
+      "verses": [
+        {
+          "number": 167,
+          "vi": "“Dầu lợi người bao nhiêu,\nChớ quên phần tư lợi,\nNhờ thắng trí tư lợi.\nHãy chuyên tâm lợi mình.”",
+          "ja": "下劣の法に従うべからず、放逸に住すべからず、邪見に従うべからず、世俗の徒となるべからず。"
+        },
+        {
+          "number": 168,
+          "vi": "“Nỗ lực, chớ phóng dật!\nHãy sống theo chánh hạnh;\nNgười chánh hạnh hưởng lạc,\nCả đời này, đời sau.”",
+          "ja": "奮起すべし、放逸なるべからず。\n善行の法を行うべし。\n法に従って行なう人は、この世に於てもかの世に於ても安楽に臥す。"
+        },
+        {
+          "number": 169,
+          "vi": "“Hãy khéo sống chánh hạnh,\nChớ sống theo tà hạnh!\nNgười chánh hạnh hưởng lạc,\nCả đời này, đời sau.”",
+          "ja": "善行の法を行うべし。\n悪行の〔法〕を行うべからず。\n法に従って行なう人は、この世に於てもかの世に於ても安楽に臥す。"
+        },
+        {
+          "number": 170,
+          "vi": "“Hãy nhìn như bọt nước,\nHãy nhìn như cảnh huyễn!\nQuán nhìn đời như vậy,\nThần chết không bắt gặp.”",
+          "ja": "泡沫を見る如く、陽炎（蜃気楼）を見る如く、かく世間を観ずる者を、死王は見ず。"
+        },
+        {
+          "number": 171,
+          "vi": "“Hãy đến nhìn đời này,\nNhư xe vua lộng lẫy,\nNgười ngu mới tham đắm,\nKẻ trí nào đắm say.”",
+          "ja": "来たれ粉飾せられて王車に譬うべきこの世を見よ。愚者はこの中に沈湎す、智者は〔これに〕執着することなし。"
+        },
+        {
+          "number": 172,
+          "vi": "“Ai sống trước buông lung,\nSau sống không phóng dật,\nChói sáng rực đời này.\nNhư trăng thoát mây che.”",
+          "ja": "前に放逸なるも、後に放逸ならざる人は、あたかも雲間を出でし月の如くに、この世を照らす。"
+        },
+        {
+          "number": 173,
+          "vi": "“Ai dùng các hạnh lành,\nLàm xóa mờ nghiệp ác,\nChói sáng rực đời này,\nNhư trăng thoát mây che.”",
+          "ja": "そのなしたる悪業を、善を以て覆う人は、あたかも雲間を出でし月の如くに、この世を照らす。"
+        },
+        {
+          "number": 174,
+          "vi": "“Ðời này thật mù quáng,\nÍt kẻ thấy rõ ràng.\nNhư chim thoát khỏi lưới,\nRất ít đi thiên giới.”",
+          "ja": "この世は暗黒なり。\nこの中に於てよく洞察する者は稀なり。\n網を脱れし鳥の如く、天に昇る者は少なし。"
+        },
+        {
+          "number": 175,
+          "vi": "“Như chim thiên nga bay,\nThần thông liệng giữa trời;\nChiến thắng ma, ma quân,\nKẻ trí thoát đời này.”",
+          "ja": "鵞鳥は太陽の道を行き、通力を以て虚空を行く。\n賢者は魔王とその眷属とを破りて、世間より離脱す。"
+        },
+        {
+          "number": 176,
+          "vi": "“Ai vi phạm một pháp,\nAi nói lời vọng ngữ,\nAi bác bỏ đời sau,\nKhông ác nào không làm.”",
+          "ja": "唯一法を犯し、妄語を吐き、来世を信ぜざる人は悪としてなさざるなし。"
+        },
+        {
+          "number": 177,
+          "vi": "“Keo kiết không sanh thiên,\nKẻ ngu ghét bố thí,\nNgười trí thích bố thí,\nÐời sau, được hưởng lạc.”",
+          "ja": "貪欲の人は天界に赴かず。\n愚者は決して施与を称揚せず。\n賢者は施与を随喜し、これにより来世に於て安楽なり。"
+        },
+        {
+          "number": 178,
+          "vi": "“Hơn thống lãnh cõi đất,\nHơn được sanh cõi trời,\nHơn chủ trì vũ trụ,\nQuả Dự Lưu tối thắng.”",
+          "ja": "地上に於ける王権よりも、或いは天界に赴くよりも、一切世界の主権よりも、\n預流果\n（涅槃に至る第一階梯）は勝れたり。"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "name_vi": "Pham Phat Da",
+      "name_ja": "仏陀品",
+      "verses": [
+        {
+          "number": 179,
+          "vi": "“Vị chiến thắng không bại,\nVị bước đi trên đời,\nKhông dấu tích chiến thắng,\nPhật giới rộng mênh mông,\nAi dùng chân theo dõi\nBậc không để dấu tích?”",
+          "ja": "その勝利は決して凌駕せられず、その勝利にはこの世に於て何人も及ぶあたわざる、かの〔智見〕無辺にして〔流転の〕道跡なき仏陀を、いかなる道によりて導き来らんとするや。"
+        },
+        {
+          "number": 180,
+          "vi": "“Ai giải tỏa lưới tham,\nÁi phược hết dắt dẫn,\nPhật giới rộng mênh mông,\nAi dùng chân theo dõi,\nBậc không để dấu tích?”",
+          "ja": "羅網を具して\n纏綿\nたる愛欲すら、そを何処にも導き得ざる、かの〔智見〕無辺にして〔流転の〕道跡なき仏陀を、いかなる道によりて導き来らんとするや。"
+        },
+        {
+          "number": 181,
+          "vi": "“Người trí chuyên thiền định,\nThích an tịnh viễn ly,\nChư thiên đều ái kính,\nBậc chánh giác, chánh niệm.”",
+          "ja": "禅定に専念し、賢明にして出家の寂静を喜び、正覚を得て憶念に富む賢者は、諸天すらこれを羨む。"
+        },
+        {
+          "number": 182,
+          "vi": "“Khó thay, được làm người,\nKhó thay, được sống còn,\nKhó thay, nghe diệu pháp,\nKhó thay, Phật ra đời!”",
+          "ja": "人と生まるるは難く、人間の生存は難し。\n妙法を聞くことは難く、諸仏の出世は難し。"
+        },
+        {
+          "number": 183,
+          "vi": "“Không làm mọi điều ác.\nThành tựu các hạnh lành,\nTâm ý giữ trong sạch,\nChính lời chư Phật dạy.”",
+          "ja": "一切の悪をなさず、善を行い、自己の心を浄む。\nこれ諸仏の教えなり。"
+        },
+        {
+          "number": 184,
+          "vi": "“Chư Phật thường giảng dạy;\nNhẫn, khổ hạnh tối thượng,\nNiết bàn, quả tối thượng;\nXuất gia không phá người;\nSa môn không hại người.”",
+          "ja": "忍辱\n・忍受は最上の苦行にして、涅槃は最勝なりと諸仏は説く。\n実に他を害する出家なく、他を悩ます沙門なし。"
+        },
+        {
+          "number": 185,
+          "vi": "“Không phỉ báng, phá hoại,\nHộ trì giới căn bản,\nĂn uống có tiết độ,\nSàng tọa chỗ nhàn tịnh\nChuyên chú tăng thượng tâm,\nChính lời chư Phật dạy.”",
+          "ja": "謗らず\n害\nわず、\n戒律\nを厳守し、食するに量を知り、孤独に坐臥し、高尚なる思慮に専念す。\nこれ諸仏の教えなり。"
+        },
+        {
+          "number": 186,
+          "vi": "“Dầu mưa bằng tiền vàng,\nCác dục khó thỏa mãn.\nDục đắng nhiều ngọt ít,\nBiết vậy là bậc trí.”",
+          "ja": "金貨の雨によりても欲心の満足あることなし。\n欲は甘味少なく苦なりと知りて賢者は、"
+        },
+        {
+          "number": 187,
+          "vi": "“Ðệ tử bậc chánh giác,\nKhông tìm cầu dục lạc,\nDầu là dục chư thiên,\nChỉ ưa thích ái diệt.”",
+          "ja": "天上の欲楽に於ても喜悦せず。\n正等覚者の弟子は愛欲を滅尽するを喜ぶ。"
+        },
+        {
+          "number": 188,
+          "vi": "“Loài người sợ hoảng hốt,\nTìm nhiều chỗ quy y,\nHoặc rừng rậm, núi non,\nHoặc vườn cây, đền tháp.”",
+          "ja": "恐怖に駆られて人は、山岳に、森林に、園苑に、聖樹に、種々なる依所を求む。"
+        },
+        {
+          "number": 189,
+          "vi": "“Quy y ấy không ổn,\nKhông quy y tối thượng.\nQuy y các chỗ ấy,\nKhông thoát mọi khổ đau.”",
+          "ja": "然れどもこは安全なる依所にあらず。\n最上の依所にあらず。\nかかる依所に赴くとも、一切の苦より脱することなし。"
+        },
+        {
+          "number": 190,
+          "vi": "“Ai quy y Ðức Phật,\nChánh pháp và chư tăng,\nAi dùng chánh tri kiến,\nThấy được bốn Thánh đế.”",
+          "ja": "仏と法と\n僧\nとに帰依する者は、正智によりて四種の聖諦を見る。"
+        },
+        {
+          "number": 191,
+          "vi": "“Thấy khổ và khổ tập,\nThấy sự khổ vượt qua,\nThấy đường Thánh tám ngành,\nÐưa đến khổ não tận.”",
+          "ja": "苦と、苦の因と、苦の滅と、苦の滅尽に至る八支の聖道、〔すなわちこれなり〕。"
+        },
+        {
+          "number": 192,
+          "vi": "“Thật quy y an ổn,\nThật quy y tối thượng,\nCó quy y như vậy,\nMới thoát mọi khổ đau.”",
+          "ja": "こは安全なる依所なり。\n最上の依所なり。\nかかる依所に赴きて、一切の苦より脱す。"
+        },
+        {
+          "number": 193,
+          "vi": "“Khó gặp bậc thánh nhơn,\nKhông phải đâu cũng có.\nChỗ nào bậc trí sanh,\nGia đình tất an lạc.”",
+          "ja": "聖者は得難し。\n彼は随所に生まるるものにあらず。\nかかる賢者の生まるる所、その氏族は繁栄す。"
+        },
+        {
+          "number": 194,
+          "vi": "“Vui thay, Phật ra đời!\nVui thay, Pháp được giảng!\nVui thay, Tăng hòa hợp!\nHòa hợp tu, vui thay!”",
+          "ja": "諸仏の現わるるは快く、正法を説くは快し。\n僧衆の和合するは快く、和合せる人々の\n修行\nは快し。"
+        },
+        {
+          "number": 195,
+          "vi": "“Cúng dường bậc đáng cúng,\nChư Phật hoặc đệ tử,\nCác bậc vượt hý luận,\nÐoạn diệt mọi sầu bi.”",
+          "ja": "まさに供養を受くべき、虚妄を逸脱し憂患を超越せる仏陀、或いは仏弟子を供養する者、"
+        },
+        {
+          "number": 196,
+          "vi": "“Cúng dường bậc như vậy,\nTịch tịnh, không sợ hãi,\nCác công đức như vậy,\nKhông ai ước lường được.”",
+          "ja": "この如き寂静にして畏怖なき人を供養する者の、その大功徳は、何人によりても計量せられ難し。"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "name_vi": "Pham An Lac",
+      "name_ja": "安楽品",
+      "verses": [
+        {
+          "number": 197,
+          "vi": "“Vui thay, chúng ta sống,\nKhông hận, giữa hận thù!\nGiữa những người thù hận,\nTa sống, không hận thù!”",
+          "ja": "我らは、怨憎者の中にありて怨憎なく、実に安楽に生きん。\n我らは怨憎を抱く人々の中にありて怨憎なく住せん。"
+        },
+        {
+          "number": 198,
+          "vi": "“Vui thay, chúng ta sống,\nKhông bệnh, giữa ốm đau!\nGiữa những người bệnh hoạn,\nTa sống, không ốm đau.”",
+          "ja": "我らは、苦悩者の中にありて苦悩なく、実に安楽に生きん。\n我らは苦悩ある人々の中にありて苦悩なく住せん。"
+        },
+        {
+          "number": 199,
+          "vi": "“Vui thay, chúng ta sống,\nKhông rộn giữa rộn ràng;\nGiữa những người rộn ràng,\nTa sống, không rộn ràng.”",
+          "ja": "我らは、貪欲者の中にありて貪欲なく、実に安楽に生きん。\n我らは貪欲ある人々の中にありて貪欲なく住せん。"
+        },
+        {
+          "number": 200,
+          "vi": "“Vui thay chúng ta sống,\nKhông gì, gọi của ta.\nTa sẽ hưởng hỷ lạc,\nNhư chư thiên Quang Âm.”",
+          "ja": "我らは、何物をも有せずして、安楽に生きん。\n我らは光音天神の如く、歓喜を以て食となさん。"
+        },
+        {
+          "number": 201,
+          "vi": "“Chiến thắng sinh thù oán,\nThất bại chịu khổ đau,\nSống tịch tịnh an lạc.\nBỏ sau mọi thắng bại.”",
+          "ja": "勝利は怨憎を生じ、敗者は苦しみて臥す。\n寂静に帰せる人は、勝敗を捨てて安楽に臥す。"
+        },
+        {
+          "number": 202,
+          "vi": "“Lửa nào sánh lửa tham?\nÁc nào bằng sân hận?\nKhổ nào sánh khổ uẩn,\nLạc nào bằng tịnh lạc.”",
+          "ja": "貪欲に等しき火なく、憎悪に等しき罪なく、〔五〕蘊（肉体的存在）に比すべき苦なく、寂静に勝る安楽なし。"
+        },
+        {
+          "number": 203,
+          "vi": "“Ðói ăn, bệnh tối thượng,\nCác hành, khổ tối thượng,\nHiểu như thực là vậy,\nNiết Bàn, lạc tối thượng.”",
+          "ja": "飢餓は最大の病にして、万象は最大の苦なり。\n如実にこれを知れば、最上安楽の涅槃〔あり〕。"
+        },
+        {
+          "number": 204,
+          "vi": "“Không bệnh, lợi tối thượng,\nBiết đủ, tiền tối thượng,\nThành tín đối với nhau,\nLà bà con tối thượng.\nNiết Bàn, lạc tối thượng.”",
+          "ja": "無病は最上の利にして、満足は最上の財なり。\n信頼は最上の親族にして、涅槃は最上の安楽なり。"
+        },
+        {
+          "number": 205,
+          "vi": "“Ðã nếm vị độc cư,\nÐược hưởng vị nhàn tịnh,\nKhông sợ hải, không ác,\nNếm được vị pháp hỷ.”",
+          "ja": "孤独の甘味と寂静の甘味とを飲みたる者は、法悦の甘味を飲みつつ畏怖を去り、悪を離る。"
+        },
+        {
+          "number": 206,
+          "vi": "“Lành thay, thấy thánh nhân,\nSống chung thường hưởng lạc.\nKhông thấy những người ngu,\nThường thường được an lạc.”",
+          "ja": "聖者を見るは善く、〔これと〕共に住するは常に安楽なり。\n愚者を見ざれば常に安楽なるべし。"
+        },
+        {
+          "number": 207,
+          "vi": "“Sống chung với người ngu,\nLâu dài bị lo buồn.\nKhổ thay gần người ngu,\nNhư thường sống kẻ thù.\nVui thay, gần người trí,\nNhư chung sống bà con.”",
+          "ja": "愚者と共に道を行く者は、実に長途の間憂愁す。\n愚者と共に住するは、敵と共に〔住する〕が如く常に苦なり。\n賢者は共に住して楽しく、あたかも親族との会合の如し。\n実にこの故に、"
+        },
+        {
+          "number": 208,
+          "vi": "“Bậc hiền sĩ, trí tuệ\nBậc nghe nhiều, trì giới,\nBậc tự chế, Thánh nhân;\nHãy gần gũi, thân cận\nThiện nhân, trí giả ấy,\nNhư trăng theo đường sao.”",
+          "ja": "賢者、智者、博学の人、堅忍なる人、持戒者、聖者、この如き善良・賢明なる人に随うべし、あたかも月の星道に〔従う〕如く。"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "name_vi": "Pham Hy Ai",
+      "name_ja": "愛好品",
+      "verses": [
+        {
+          "number": 209,
+          "vi": "“Tự chuyên, không đáng chuyên\nKhông chuyên, việc đáng chuyên.\nBỏ đích, theo hỷ ái,\nGanh tị bậc tự chuyên.”",
+          "ja": "瞑想\nなき〔行作〕に専注して、瞑想に専注せず、道義を捨てて愛好する所を取る者は、〔かえって〕瞑想に専注する者を羨む。"
+        },
+        {
+          "number": 210,
+          "vi": "“Chớ gần gũi người yêu,\nTrọn đời xa kẻ ghét.\nYêu không gặp là khổ,\nOán phải gặp cũng đau.”",
+          "ja": "愛好するものと会するなかれ、愛好せざるものと決して〔会するなかれ〕。\n愛好するものを見ざるは苦なり。\n愛好せざるものを見るもまた〔苦なり〕。"
+        },
+        {
+          "number": 211,
+          "vi": "“Do vậy chớ yêu ai,\nÁi biệt ly là ác;\nNhững ai không yêu ghét,\nKhông thể có buộc ràng.”",
+          "ja": "故に愛好するものを造るなかれ。\n愛好するものを失うは災いなればなり。\n愛憎なき人には\n桎梏\n（煩悩）なし。"
+        },
+        {
+          "number": 212,
+          "vi": "“Do ái sinh sầu ưu,\nDo ái sinh sợ hãi,\nAi thoát khỏi tham ái,\nKhông sầu, đâu sợ hãi?”",
+          "ja": "愛好より憂患生じ、愛好より畏怖生ず。\n愛好を離脱せる人には憂患なし。\n何処にか畏怖あらん。"
+        },
+        {
+          "number": 213,
+          "vi": "“Ái luyến sinh sầu ưu,\nÁi luyến sinh sợ hãi.\nAi giải thoát ái luyến\nKhông sầu, đâu sợ hãi?”",
+          "ja": "親愛より憂患生じ、親愛より畏怖生ず。\n親愛を離脱せる人には憂患なし。\n何処にか畏怖あらん。"
+        },
+        {
+          "number": 214,
+          "vi": "“Hỷ ái sinh sầu ưu,\nHỷ ái sinh sợ hãi.\nAi giải thoát hỷ ái,\nKhông sầu, đâu sợ hãi?",
+          "ja": "淫欲より憂患生じ、淫欲より畏怖生ず。\n淫欲を離脱せる人には憂患なし。\n何処にか畏怖あらん。"
+        },
+        {
+          "number": 215,
+          "vi": "“Dục ái sinh sầu ưu,\nDục ái sinh sợ hãi,\nAi thoát khỏi dục ái,\nKhông sầu, đâu sợ hãi?”",
+          "ja": "欲楽より憂患生じ、欲楽より畏怖生ず。\n欲楽を離脱せる人には憂患なし。\n何処にか畏怖あらん。"
+        },
+        {
+          "number": 216,
+          "vi": "“Tham ái sinh sầu ưu,\nTham ái sinh sợ hãi.\nAi thoát khỏi tham ái,\nKhông sầu, đâu sợ hãi.”",
+          "ja": "愛欲より憂患生じ、愛欲より畏怖生ず。\n愛欲を離脱せる人には憂患なし。\n何処にか畏怖あらん。"
+        },
+        {
+          "number": 217,
+          "vi": "“Ðủ giới đức, chánh kiến;\nTrú pháp, chứng chân lý,\nTự làm công việc mình,\nÐược quần chúng ái kính.”",
+          "ja": "戒行と正見とを備え、正法に住し、真実を知り、自ら自己の業務を行う者、世人はかかる人を愛好す。"
+        },
+        {
+          "number": 218,
+          "vi": "“Ước vọng pháp ly ngôn\nÝ cảm xúc thượng quả\nTâm thoát ly ác dục,\nXứng gọi bậc Thượng Lưu.”",
+          "ja": "不可説法（涅槃）に望みを起こして思慮に富み、しかも諸欲に心を束縛せられざる者は上流者（涅槃に近づける者）と称せらる。"
+        },
+        {
+          "number": 219,
+          "vi": "“Khách lâu ngày ly hương,\nAn toàn từ xa về,\nBà con cùng thân hữu,\nHân hoan đón chào mừng.”",
+          "ja": "久しく異郷にあり、遠隔の地より無事に戻れる帰来者を、親族・朋友・知己は歓び迎う。"
+        },
+        {
+          "number": 220,
+          "vi": "“Cũng vậy các phước nghiệp,\nÐón chào người làm lành,\nÐời này đến đời kia.\nNhư thân nhân, đón chào.”",
+          "ja": "これと等しく、福業をなしてこの世よりかの世に赴ける人を、福業は迎う、あたかも愛好する帰来者を親族の〔迎うる〕如く。"
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "name_vi": "Pham Phan No",
+      "name_ja": "忿怒品",
+      "verses": [
+        {
+          "number": 221,
+          "vi": "“Bỏ phẫn nộ, ly mạn,\nVượt qua mọi kiết sử,\nKhông chấp trước danh sắc.\nKhổ không theo vô sản.”",
+          "ja": "忿怒を去るべし、慢心を捨つべし、一切の\n繋縛\nを脱すべし。\nかく名色（精神・物質）に執着せざる無一物の人には苦の随うことなし。"
+        },
+        {
+          "number": 222,
+          "vi": "“Ai chặn được phẫn nộ,\nNhư dừng xe đang lăn,\nTa gọi người đánh xe,\nKẻ khác, cầm cương hờ.”",
+          "ja": "勃発したる忿怒を、動揺する馬車の如くに抑止する人、我はこれを〔真の〕御者と呼ぶ。\n他はただ手綱を執れるのみ。"
+        },
+        {
+          "number": 223,
+          "vi": "“Lấy không giận thắng giận,\nLấy thiện thắng không thiện,\nLấy thí thắng xan tham,\nLấy chơn thắng hư ngụy.”",
+          "ja": "忍辱\nによりて忿怒を克服すべし。\n善によりて不善を克服すべし。\n施与によりて\n吝嗇者\nを克服すべし。\n真実によりて妄語者を〔克服すべし〕。"
+        },
+        {
+          "number": 224,
+          "vi": "“Nói thật, không phẫn nộ,\nCủa ít, thí người xin,\nNhờ ba việc lành này,\nNgười đến gần thiên giới.”",
+          "ja": "真実を語るべし。\n怒るべからず。\n〔自己の所有〕少しといえども乞わるれば与うべし。\nこの三事により諸天の元に至り得るべし。"
+        },
+        {
+          "number": 225,
+          "vi": "“Bậc hiền không hại ai,\nThân thường được chế ngự,\nÐạt được cảnh bất tử,\nÐến đây, không ưu sầu.”",
+          "ja": "殺生\nすることなく、常に身を制御する賢者は、そこに至りて憂患なき不死の境（涅槃）に達す。"
+        },
+        {
+          "number": 226,
+          "vi": "“Những người thường giác tỉnh,\nNgày đêm siêng tu học,\nChuyên tâm hướng Niết Bàn,\nMọi lậu hoặc được tiêu.”",
+          "ja": "常に覚醒し、昼夜に勉学し、涅槃に志す者の煩悩は終息す。"
+        },
+        {
+          "number": 227,
+          "vi": "“A-tu-la, nên biết,\nXưa vậy, nay cũng vậy,\nNgồi im, bị người chê,\nNói nhiều bị người chê.\nNói vừa phải, bị chê.\nLàm người không bị chê,\nThật khó tìm ở đời.”",
+          "ja": "アトゥラ（優婆塞の名）よ、こは古来より然り、今始まれるにあらず。\n〔すなわち〕人は黙して坐するを謗り、多言を謗り、寡言をもまた謗る。\n世に謗られざる者なし。"
+        },
+        {
+          "number": 228,
+          "vi": "“Xưa, vị lai, và nay,\nÐâu có sự kiện này,\nNgười hoàn toàn bị chê,\nNgười trọn vẹn được khen.”",
+          "ja": "ただ謗らるるのみの人、またはただ褒めらるるのみの人は、〔過去にも〕なかりき、〔将来にも〕なかるべし、現在にもまたなし。"
+        },
+        {
+          "number": 229,
+          "vi": "“Sáng sáng, thẩm xét kỹ.\nBậc có trí tán thán.\nBậc trí không tỳ vết,\nÐầy đủ giới định tuệ.”",
+          "ja": "智者よく判別して日々に称讃し、所行失なく、賢明にして、慧戒兼ね備わるとなす者あらば、"
+        },
+        {
+          "number": 230,
+          "vi": "“Hạnh sáng như vàng ròng,\nAi dám chê vị ấy?\nChư thiên phải khen thưởng,\nPhạm Thiên cũng tán dương “.",
+          "ja": "あたかも\n閻浮檀金\nにて造りし貨幣の如く、誰か彼を謗り得んや。\n諸天も彼を称讃し、彼は梵天によりてもまた称讃せらる。"
+        },
+        {
+          "number": 231,
+          "vi": "“Giữ thân đừng phẫn nộ,\nPhòng thân khéo bảo vệ,\nTừ bỏ thân làm ác,\nVới thân làm hạnh lành.”",
+          "ja": "身の忿怒を摂護し、身を制御すべし。\n身の悪行を捨て、身によりて善行を修すべし。"
+        },
+        {
+          "number": 232,
+          "vi": "“Giữ lời đừng phẫn nộ,\nPhòng lời, khéo bảo vệ,\nTừ bỏ lời thô ác,\nVới lời, nói điều lành.”",
+          "ja": "語の忿怒を摂護し、語を制御すべし。\n語の悪行を捨て、語によりて善行を修すべし。"
+        },
+        {
+          "number": 233,
+          "vi": "“Giữ ý đừng phẫn nộ,\nPhòng ý, khéo bảo vệ,\nTừ bỏ ý nghĩ ác,\nVới ý, nghĩ hạnh lành.’",
+          "ja": "意の忿怒を摂護し、意を制御すべし。\n意の悪行を捨て、意によりて善行を修すべし。"
+        },
+        {
+          "number": 234,
+          "vi": "“Bậc trí bảo vệ thân,\nBảo vệ luôn lời nói\nBảo vệ cả tâm tư,\nBa nghiệp khéo bảo vệ.”",
+          "ja": "身を制御し、また語を制御し、意を制御する賢者は実によく制御せるものなり。"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "name_vi": "Pham Cau Ue",
+      "name_ja": "垢穢品",
+      "verses": [
+        {
+          "number": 235,
+          "vi": "“Ngươi nay giống lá héo,\nDiêm sứ đang chờ ngươi,\nNgươi đứng trước cửa chết,\nÐường trường thiếu tư lương.”",
+          "ja": "汝は今や枯葉の如く、閻魔の使者また汝に近づけり。\n汝は死出の門に立つ。\nされど汝に旅路の糧なし。"
+        },
+        {
+          "number": 236,
+          "vi": "“Hãy tự làm hòn đảo,\nTinh cần gấp, sáng suốt.\nTrừ cấu uế, thanh tịnh,\nÐến Thánh địa chư Thiên.”",
+          "ja": "汝自ら自己の依所を造れ、速やかに精勤せよ、賢者たれ。\n〔心の〕\n垢穢\nを払い、罪過なくば、汝は天の聖地に至らん。"
+        },
+        {
+          "number": 237,
+          "vi": "“Ðời ngươi nay sắp tàn,\nTiến gần đến Diêm Vương.\nGiữa đường không nơi nghỉ,\nÐường trường thiếu tư lương.”",
+          "ja": "汝は今や齢既に傾き、閻魔の元に近づけり。\n途上に汝の住所なく、また旅路の糧もなし。"
+        },
+        {
+          "number": 238,
+          "vi": "“Hãy tự làm hòn đảo,\nTinh cần gấp sáng suốt.\nTrừ cấu uế, thanh tịnh,\nChẳng trở lại sanh già.”",
+          "ja": "汝自ら自己の依所を造れ、速やかに精勤せよ、賢者たれ。\n〔心の〕垢穢を払い、罪過なくば、汝は再び生と老とに近づかざるべし。"
+        },
+        {
+          "number": 239,
+          "vi": "“Bậc trí theo tuần tự.\nTừng sát na trừ dần.\nNhư thợ vàng lọc bụi\nTrừ cấu uế nơi mình.”",
+          "ja": "賢慮ある者は、漸次に、少量ずつ、刹那刹那に、自己の垢穢を払うべし、あたかも鍛工が銀の〔鉱垢を除くが〕如く。"
+        },
+        {
+          "number": 240,
+          "vi": "“Như sét từ sắt sanh,\nSắt sanh lại ăn sắt,\nCũng vậy, quá lợi dưỡng\nTự nghiệp dẫn cõi ác.”",
+          "ja": "鉄より生じたる垢穢（錆）が、鉄より生じて鉄を蝕むが如く、自己の業は悪業者を悪趣に導く。"
+        },
+        {
+          "number": 241,
+          "vi": "“Không tụng làm nhớp kinh,\nKhông đứng dậy, bẩn nhà,\nBiếng nhác làm nhơ sắc,\nPhóng dật uế người canh”",
+          "ja": "読誦\nせざるは聖典の垢穢、修復せざるは家屋の垢穢、\n懈怠\nは美の垢穢、放逸は番士の垢穢なり。"
+        },
+        {
+          "number": 242,
+          "vi": "“Tà hạnh nhơ đàn bà,\nXan tham nhớp kẻ thí,\nÁc pháp là vết nhơ,\nÐời này và đời sau.”",
+          "ja": "不義は婦人の垢穢、吝嗇は施与者の垢穢、実に悪法（悪行）はこの世に於てもかの世に於ても垢穢なり。"
+        },
+        {
+          "number": 243,
+          "vi": "“Trong hàng cấu uế ấy,\nVô minh, nhơ tối thượng,\nÐoạn nhơ ấy, tỷ kheo,\nThành bậc không uế nhiễm.”",
+          "ja": "これらの諸垢穢より更に甚だしき垢穢は無明にして、〔こは〕最大の垢穢なり。\n比丘らよ、この垢穢を捨てて無垢となれ。"
+        },
+        {
+          "number": 244,
+          "vi": "“Dễ thay, sống không hổ\nSống lỗ mãng như quạ,\nSống công kích huênh hoang,\nSống liều lĩnh, nhiễm ô.”",
+          "ja": "慚愧心\nなく、厚顔・暴戻・大胆・傲慢にして、罪に汚れたる人の生活は安易なり。"
+        },
+        {
+          "number": 245,
+          "vi": "“Khó thay, sống xấu hổ,\nThường thường cầu thanh tịnh.\nSống vô tư, khiêm tốn,\nTrong sạch và sáng suốt.”",
+          "ja": "慚愧心あり、常に清浄を求め、執着なく、謙遜にして、清浄の生活を営み、識見ある人の生活は困難なり。"
+        },
+        {
+          "number": 246,
+          "vi": "“Ai ở đời sát sinh,\nNói láo không chân thật,\nỞ đời lấy không cho,\nQua lại với vợ người.”",
+          "ja": "生あるものを殺し、妄語を語り、この世に於て与えられざるを取り、他人の妻を犯し、"
+        },
+        {
+          "number": 247,
+          "vi": "“Uống rượu men, rượu nấu,\nNgười sống đam mê vậy,\nChính ngay tại đời này,\nTự đào bới gốc mình.”",
+          "ja": "スラー酒・メーラヤ酒に沈湎する人は、この世に於て自己の根底を掘るものなり。"
+        },
+        {
+          "number": 248,
+          "vi": "“Vậy người, hãy nên biết,\nKhông chế ngự là ác.\nChớ để tham phi pháp,\nLàm người đau khổ dài.”",
+          "ja": "人よ、是の如く知れ、節制なき者は邪悪なりと。\n貪欲と非法とをして永く汝を苦に陥らしむることなかれ。"
+        },
+        {
+          "number": 249,
+          "vi": "“Do tín tâm, hỷ tâm\nLoài người mới bố thí.\nỞ đây ai bất mãn\nNgười khác được ăn uống,\nNgười ấy ngày hoặc đêm,\nKhông đạt được tâm định?”",
+          "ja": "人は実に信ずる所に従い、好む所に従いて施与す。\n他人の得たる飲食に対し、不満を抱く者は、昼も夜も三昧に入るを得ず。"
+        },
+        {
+          "number": 250,
+          "vi": "“Ai cắt được, phá được,\nTận gốc nhổ tâm ấy.\nNgười ấy ngày hoặc đêm,\nÐạt được tâm thiền định.”",
+          "ja": "かかる〔心を〕断ち、根元より絶滅する者は、昼も夜も実に三昧に入ることを得。"
+        },
+        {
+          "number": 251,
+          "vi": "“Lửa nào bằng lửa tham!\nChấp nào bằng sân hận!\nLưới nào bằng lưới si!\nSông nào bằng sông ái! ”",
+          "ja": "貪欲に等しき火なく、\n瞋恚\nに等しき捕捉者なく、愚痴に等しき羅網なく、愛欲に等しき河流なし。"
+        },
+        {
+          "number": 252,
+          "vi": "“Dễ thay thấy lỗi người,\nLỗi mình thấy mới khó.\nLỗi người ta phanh tìm,\nNhư sàng trấu trong gạo,\nCòn lỗi mình, che đậy,\nNhư kẻ gian dấu bài.”",
+          "ja": "他人の過失は見易く、自己の〔過失〕は見難し。\n他人の過失は籾殻の如く散布し、自己の〔過失〕は、これを隠匿すること、狡猾なる賭博者のカリ（最悪の\n骰子\n数）に於けるが如し。"
+        },
+        {
+          "number": 253,
+          "vi": "“Ai thấy lỗi của người,\nThường sanh lòng chỉ trích,\nNgười ấy lậu hoặc tăng,\nRất xa lậu hoặc diệt.”",
+          "ja": "他人の過失を詮索し、常に怒り易き人の煩悩は増長す。\n彼は煩悩の滅尽を去ること遠し。"
+        },
+        {
+          "number": 254,
+          "vi": "“Hư không, không dấu chân,\nNgoài đây, không sa môn,\nChúng sanh thích hý luận,\nNhư lai, hý luận trừ.”",
+          "ja": "虚空に道なく、外道に沙門なし。\n衆生は虚妄を喜び、如来には虚妄なし。"
+        },
+        {
+          "number": 255,
+          "vi": "“Hư không, không dấu chân,\nNgoài đây, không sa môn.\nCác hành không thường trú,\nChư Phật không giao động.”",
+          "ja": "虚空に道なく、外道に沙門なし。\n万象は常住ならず、諸仏に\n擾乱\nなし。"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "name_vi": "Pham Phap Tru",
+      "name_ja": "法住品",
+      "verses": [
+        {
+          "number": 256,
+          "vi": "“Ngươi đâu phải pháp trụ,\nXử sự quá chuyên chế,\nBậc trí cần phân biệt\nCả hai chánh và tà!”",
+          "ja": "躁急に事を処するの故を以て、法住者たるにあらず。\n正と邪とを二つながらよく弁別し、学識あり、"
+        },
+        {
+          "number": 257,
+          "vi": "“Không chuyên chế, đúng pháp,\nCông bằng, dắt dẫn người,\nBậc trí sống đúng pháp,\nThật xứng danh pháp trụ.”",
+          "ja": "躁急ならず如法・平等に他を導き、正法を護り、賢慮ある者は、法住者と称せらる。"
+        },
+        {
+          "number": 258,
+          "vi": "“Không phải vì nói nhiều,\nMới xứng danh bậc trí.\nAn ổn, không oán sợ.\nThật đáng gọi bậc trí.”",
+          "ja": "多言の故を以て賢者たるにあらず。\n平静にして怨憎なく、畏怖なき者は、賢者と称せらる。"
+        },
+        {
+          "number": 259,
+          "vi": "Không phải vì nói nhiều,\nMới xứng danh trì pháp,\nNhững ai tuy nghe ít,\nNhưng thân hành đúng pháp,\nKhông phóng túng chánh pháp,\nMới xứng danh trì pháp.”",
+          "ja": "多言の故を以て持法者たるにあらず。\n聞くこと少なきも身を以て法を見、法を軽んぜざる者は、実に持法者なり。"
+        },
+        {
+          "number": 260,
+          "vi": "Không phải là trưởng lão,\nDầu cho có bạc đầu.\nNgười chỉ tuổi tác cao,\nÐược gọi là: “Lão ngu.”",
+          "ja": "頭髪白きの故を以て長老たるにあらず。\n彼の齢は〔徒に〕熟せるのみ。\n彼は空しく老いたる者と称せらる。"
+        },
+        {
+          "number": 261,
+          "vi": "“Ai chân thật, đúng pháp,\nKhông hại, biết chế phục,\nBậc trí không cấu uế,\nMới xứng danh Trưởng Lão.”",
+          "ja": "真実と法と不殺生と節制と\n調御\nとを持し、〔心の〕垢穢を捨棄したる賢者は、長老と称せらる。"
+        },
+        {
+          "number": 262,
+          "vi": "“Không phải nói lưu loát,\nKhông phải sắc mặt đẹp,\nThành được người lương thiện,\nNếu ganh, tham, dối trá.”",
+          "ja": "嫉妬・\n慳貪\n・虚偽ある者は、弁舌の故のみを以て、或いは容色の美の故を以て、端正の人たるにあらず。"
+        },
+        {
+          "number": 263,
+          "vi": "“Ai cắt được, phá được\nTận gốc nhổ tâm ấy\nNgười trí ấy diệt sân,\nÐược gọi người hiền thiện.”",
+          "ja": "かかる〔悪徳を〕断ち、根元より絶滅し、罪過を捨棄し、賢慮ある者は、端正の人と称せらる。"
+        },
+        {
+          "number": 264,
+          "vi": "“Ðầu trọc, không sa môn\nNếu phóng túng, nói láo.\nAi còn đầy dục tham,\nSao được gọi sa môn?”",
+          "ja": "剃髪すといえども、戒を破り、妄語を語る者は沙門にあらず。\n欲望と貪欲とを有する者、いかで沙門たるべき。"
+        },
+        {
+          "number": 265,
+          "vi": "“Ai lắng dịu hoàn toàn,\nCác điều ác lớn nhỏ,\nVì lắng dịu ác pháp,\nÐược gọi là Sa môn.”",
+          "ja": "大小すべての悪を鎮めたる者は諸悪を鎮めたるの故を以て、沙門と称せらる。"
+        },
+        {
+          "number": 266,
+          "vi": "” Chỉ khất thực nhờ người,\nÐâu phải là tỷ kheo!\nPhải theo pháp toàn diện,\nKhất sĩ không, không đủ.”",
+          "ja": "他人に\n行乞\nするの故を以て、比丘たるにあらず。\n一切の法を\n服膺\nせる者のみ比丘なり。\n〔行乞の故に〕然るにあらず。"
+        },
+        {
+          "number": 267,
+          "vi": "” Ai vượt qua thiện ác,\nChuyên sống đời Phạm Hạnh,\nSống thẩm sát ở đời,\nMới xứng danh tỷ kheo.”",
+          "ja": "この世に於て善と悪とを捨て、\n梵行\nを修し、慎重に世を行く者は、実に比丘と称せらる。"
+        },
+        {
+          "number": 268,
+          "vi": "“Im lặng nhưng ngu si,\nÐâu được gọi ẩn sĩ?\nNhư người cầm cán cân,\nBậc trí chọn điều lành.”",
+          "ja": "愚昧にして無知ならば、〔唯〕\n寂黙\nの故を以て、\n牟尼\n（寂黙者・賢人）たるを得ず。\n賢者もし権衡を執るが如くに善を取り、"
+        },
+        {
+          "number": 269,
+          "vi": "” Từ bỏ các ác pháp,\nMới thật là ẩn sĩ.\nAi thật hiểu hai đời\nMới được gọi ẩn sĩ.”",
+          "ja": "悪を退くれば、彼は牟尼なり。\n彼はこれによりて牟尼なり。\nこの世に於て、〔善悪〕二つながら知る者は、これによりて牟尼と称せらる。"
+        },
+        {
+          "number": 270,
+          "vi": "” Còn sát hại sinh linh,\nÐâu được gọi Hiền thánh.\nKhông hại mọi hữu tình,\nMới được gọi Hiền Thánh.”",
+          "ja": "生類を害するの故を以て、聖者たるにあらず。\n一切の生類を害せざるの故を以て、聖者と称せらる。"
+        },
+        {
+          "number": 271,
+          "vi": "“Chẳng phải chỉ giới cấm\nCũng không phải học nhiều,\nChẳng phải chứng thiền định,\nSống thanh vắng một mình.”",
+          "ja": "戒律・戒行のみによりても、或いはまた多聞によりても、或いは禅定の達成によりても、或いは独臥によりても、"
+        },
+        {
+          "number": 272,
+          "vi": "“Ta hưởng an ổn lạc,\nPhàm phu chưa hưởng được.\nTỷ kheo, chớ tự tin\nKhi lậu hoặc chưa diệt.”",
+          "ja": "我は凡夫の受け得ざる出家の楽に触るることなし。\n比丘よ、煩悩の滅尽に達せざれば、決して意を安んずることなかれ。"
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "name_vi": "Pham Dao",
+      "name_ja": "道品",
+      "verses": [
+        {
+          "number": 273,
+          "vi": "“Tám chánh, đường thù thắng,\nBốn câu, lý thù thắng.\nLy tham, pháp thù thắng,\nGiữa các loài hai chân,\nPháp nhãn, người thù thắng.”",
+          "ja": "諸道の中、八支（八支聖道）最も勝れ、諸諦の中、四句（\n四聖諦\n）最も勝れ、諸法の中、離欲最も勝れ、二足（人間）の中、具眼者〔最も勝る〕。"
+        },
+        {
+          "number": 274,
+          "vi": "“Ðường này, không đường khác\nÐưa đến kiến thanh tịnh.\nNếu ngươi theo đường này,\nMa quân sẽ mê loạn.”",
+          "ja": "唯この道あるのみ、知見を浄むるに他の〔道〕あることなし。\n汝らこの〔道〕を行くべし。\nこれ魔王を幻惑するものなり。"
+        },
+        {
+          "number": 275,
+          "vi": "“Nếu người theo đường này,\nÐau khổ được đoạn tận.\nTa dạy người con đường.\nVới trí, gai chướng diệt.”",
+          "ja": "汝らこの〔道〕を行かば、苦を終息せしむべし。\n〔欲〕矢を除去することを悟りて、我実にこの道を説けり。"
+        },
+        {
+          "number": 276,
+          "vi": "“Người hãy nhiệt tình làm,\nNhư Lai chỉ thuyết dạy.\nNgười hành trì thiền định\nThoát trói buộc Ác ma.”",
+          "ja": "汝らまさに努力すべし。\n如来は説者なり。\n禅定に住して〔この道を〕行く者は、魔王の\n繋縛\nを脱すべし。"
+        },
+        {
+          "number": 277,
+          "vi": "“Tất cả hành vô thường ”\nVới Tuệ, quán thấy vậy\nÐau khổ được nhàm chán;\nChính con đường thanh tịnh.”",
+          "ja": "一切の事象は無常なりと、智によりて観る時、苦を厭離す。\nこれ浄に至る道なり。"
+        },
+        {
+          "number": 278,
+          "vi": "“Tất cả hành khổ đau\nVới Tuệ quán thấy vậy,\nÐau khổ được nhàm chán;\nChính con đường thanh tịnh.”",
+          "ja": "一切の事象は苦なりと、智によりて観る時、苦を厭離す。\nこれ浄に至る道なり。"
+        },
+        {
+          "number": 279,
+          "vi": "“Tất cả pháp vô ngã,\nVới Tuệ quán thấy vậy,\nÐau khổ được nhàm chán\nChính con đường thanh tịnh.”",
+          "ja": "一切の法は\n無我\nなりと、智によりて観る時、苦を厭離す。\nこれ浄に至る道なり。"
+        },
+        {
+          "number": 280,
+          "vi": "“Khi cần, không nỗ lực,\nTuy trẻ mạnh, nhưng lười\nChí nhu nhược, biếng nhác.\nVới trí tuệ thụ động,\nSao tìm được chánh đạo?”",
+          "ja": "起つべき時に起たず、若く強くして怠惰に陥り、意気消沈して惰弱・\n懶惰\nなる者は、智によりて道を得ることなし。"
+        },
+        {
+          "number": 281,
+          "vi": "“Lời nói được thận trọng,\nTâm tư khéo hộ phòng,\nThân chớ làm điều ác,\nHãy giữ ba nghiệp tịnh,\nChứng đạo Thánh nhân dạy.”",
+          "ja": "語を慎しみ、意をよく制御し、身を以て不善をなすべからず。\nこの三業道を浄むべし。\n〔然らば〕聖仙所説の道を得ん。"
+        },
+        {
+          "number": 282,
+          "vi": "“Tu Thiền, trí tuệ sanh,\nBỏ Thiền, trí tuệ diệt.\nBiết con đường hai ngả\nÐưa đến hữu, phi hữu,\nHãy tự mình nỗ lực,\nKhiến trí tuệ tăng trưởng.”",
+          "ja": "実に智は\n瑜伽\n（瞑想）より生じ、瑜伽を行ぜざれば智は滅ぶ。\nこの得と失との両道を知り、自ら努めて、以て智を増大せしむべし。"
+        },
+        {
+          "number": 283,
+          "vi": "“Ðốn rừng không đốn cây\nTừ rừng, sinh sợ hãi;\nÐốn rừng (1) và ái dục,\nTỷ kheo, hãy tịch tịnh.”",
+          "ja": "欲林を伐れ、樹木を〔伐るに止まる〕なかれ。\n欲林より畏怖生ず。\n欲林と欲叢とを伐りて、比丘らよ、欲林より脱せよ。"
+        },
+        {
+          "number": 284,
+          "vi": "“Khi nào chưa cắt tiệt,\nÁi dục giữa gái trai,\nTâm ý vẫn buộc ràng,\nNhư bò con vú mẹ.”",
+          "ja": "男子の女子に対する欲情、いささかなりとも断たれざる間は、彼の心は\n繋縛\nせらる、あたかも乳を飲む子牛の母牛に於けるが如く。"
+        },
+        {
+          "number": 285,
+          "vi": "“Tự cắt dây ái dục,\nNhư tay bẻ sen thu,\nHãy tu đạo tịch tịnh,\nNiết-Bàn, Thiện Thệ dạy.”",
+          "ja": "自己に対する愛を断つこと、秋の蓮を手にて〔折るが〕如くせよ。\n寂静の道のみを固守せよ。\n涅槃は\n善逝\n（仏陀）により説かれたり。"
+        },
+        {
+          "number": 286,
+          "vi": "“Mùa mưa ta ở đây\nÐông, hạ cũng ở đây,\nNgười ngu tâm tưởng vậy,\nKhông tự giác hiểm nguy.”",
+          "ja": "「我雨期にはここに住せん、冬と夏とはここに〔住せん〕」と、愚者は思惟して、死の〔至る〕を覚らず。"
+        },
+        {
+          "number": 287,
+          "vi": "“Người tâm ý đắm say\nCon cái và súc vật,\nTử thần bắt người ấy,\nNhư lụt trôi làng ngủ. ”",
+          "ja": "子と家畜とに惑溺し、その心これに執着せる人を、死は捉え去る、あたかも眠れる村落を、瀑流の〔\n漂蕩\nし去る〕が如く。"
+        },
+        {
+          "number": 288,
+          "vi": "“Một khi tử thần đến,\nKhông có con che chở,\nKhông cha, không bà con,\nKhông thân thích che chở.”",
+          "ja": "子も救うあたわず、父も親戚もまた〔救うあたわず〕。\n死に捉えられし者を救うは、親族もなすあたわざる所なり。"
+        },
+        {
+          "number": 289,
+          "vi": "“Biết rõ ý nghĩa này,\nBậc trí lo trì giới,\nMau lẹ làm thanh tịnh,\nCon đường đến Niết-Bàn.”",
+          "ja": "この義を知りて、賢者は戒により制御し、涅槃に至る道を速やかに浄むべし。"
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "name_vi": "Pham Tap Luc",
+      "name_ja": "雑品",
+      "verses": [
+        {
+          "number": 290,
+          "vi": "“Nhờ từ bỏ lạc nhỏ,\nThấy được lạc lớn hơn,\nBậc trí bỏ lạc nhỏ,\nThấy được lạc lớn hơn.”",
+          "ja": "もし小楽を捨つるによりて、大楽を見得るとせば、賢者は大楽を見つつ、小楽を捨つべし。"
+        },
+        {
+          "number": 291,
+          "vi": "“Gieo khổ đau cho người,\nMong cầu lạc cho mình,\nBị hận thù buộc ràng\nKhông sao thoát hận thù.”",
+          "ja": "他人に苦を与えて自己の楽を望む。\nかかる者は怨憎の\n繋縛\nに捉われて、怨憎より脱することなし。"
+        },
+        {
+          "number": 292,
+          "vi": "“Việc đáng làm, không làm,\nKhông đáng làm, lại làm,\nNgười ngạo mạn, phóng dật,\nLậu hoặc ắt tăng trưởng.”",
+          "ja": "為すべきことを等閑にし、為すべからざることを為し、傲慢にして放逸なる者には煩悩増長す。"
+        },
+        {
+          "number": 293,
+          "vi": "“Người siêng năng cần mẫn,\nThường thường quán thân niệm,\nKhông làm việc không đáng,\nGắng làm việc đáng làm,\nNgười tư niệm giác tỉnh,\nLậu hoặc được tiêu trừ.”",
+          "ja": "常に身を念じ、為すべからざることを為さず、為すべきことを為してたゆまず、憶念あり思慮ある人には、煩悩終息す。"
+        },
+        {
+          "number": 294,
+          "vi": "“Sau khi giết mẹ cha,\nGiết hai Vua Sát lỵ,\nGiết vương quốc, quần thần\nVô ưu, phạm chí sống.”",
+          "ja": "母（愛欲）と父（我慢）とを殺し、\n刹帝利族\nの二王（断見・常見）を〔殺し〕、王国（十二処）とその従臣（喜貪）とを殺して、婆羅門は苦患なく行く。"
+        },
+        {
+          "number": 295,
+          "vi": "“Sau khi giết mẹ cha,\nHai vua Bà-la-môn,\nGiết hổ tướng thứ năm\nVô ưu, phạm chí sống.”",
+          "ja": "母と父とを殺し、婆羅門族の二王（断見・常見）を〔殺し〕、虎〔将〕を第五とするもの（五蓋、虎＝疑蓋）を殺して、婆羅門は苦患なく行く。"
+        },
+        {
+          "number": 296,
+          "vi": "“Ðệ tử Gotama,\nLuôn luôn tự tỉnh giác\nVô luận ngày hay đêm,\nTưởng Phật Ðà thường niệm.”",
+          "ja": "瞿曇\n（釈尊）の弟子は常によく覚醒し、昼も夜も常に仏を念ず。"
+        },
+        {
+          "number": 297,
+          "vi": "“Ðệ tử Gotama,\nLuôn luôn tự tỉnh giác,\nVô luận ngày hay đêm,\nTưởng Chánh Pháp thường niệm”",
+          "ja": "瞿曇の弟子は常によく覚醒し、昼も夜も常に法を念ず。"
+        },
+        {
+          "number": 298,
+          "vi": "“Ðệ tử Gotama,\nLuôn luôn tự tỉnh giác,\nVô luận ngày hay đêm,\nTưởng Tăng Già thường niệm.”",
+          "ja": "瞿曇の弟子は常によく覚醒し、昼も夜も常に僧を念ず。"
+        },
+        {
+          "number": 299,
+          "vi": "“Ðệ tử Gotama,\nLuôn luôn tự tỉnh giác,\nVô luận ngày hay đêm,\nTưởng sắc thân thường niệm.”",
+          "ja": "瞿曇の弟子は常によく覚醒し、昼も夜も常に身を念ず。"
+        },
+        {
+          "number": 300,
+          "vi": "“Ðệ tử Gotama,\nLuôn luôn tự tỉnh giác,\nVô luận ngày hay đêm,\nÝ vui niềm bất hại.”",
+          "ja": "瞿曇の弟子は常によく覚醒し、昼も夜も不殺生を念ず。"
+        },
+        {
+          "number": 301,
+          "vi": "“Ðệ tử Gotama,\nLuôn luôn tự tỉnh giác,\nVô luận ngày hay đêm,\nÝ vui tu thiền quán.”",
+          "ja": "瞿曇の弟子は常によく覚醒し、昼も夜も\n静慮\nによりて心楽しむ。"
+        },
+        {
+          "number": 302,
+          "vi": "“Vui hạnh xuất gia khó,\nTại gia sinh hoạt khó,\nSống bạn không đồng, khổ,\nTrôi lăn luân hồi, khổ,\nVậy chớ sống luân hồi,\nChớ chạy theo đau khổ.”",
+          "ja": "出家の生活は難くして楽しみ難し。\n在家の生活も難くして苦なり。\n同輩と共に住むは苦なり。\n〔輪廻の〕遍歴者は苦に陥る。\n故に遍歴者たるべからず。\n然らば苦に陥ることなからん。"
+        },
+        {
+          "number": 303,
+          "vi": "“Tín tâm, sống giới hạnh\nÐủ danh xưng tài sản,\nChỗ nào người ấy đến,\nChỗ ấy được cung kính.”",
+          "ja": "信あり、戒を具し、誉と財とを得たる者は、いかなる所に赴くも、至る所に於て尊敬せらる。"
+        },
+        {
+          "number": 304,
+          "vi": "“Người lành dầu ở xa\nSáng tỏ như núi tuyết,\nNgười ác dầu ở gần\nNhư tên bắn đêm đen.”",
+          "ja": "遠方にあるとも善人は、輝くことヒマラヤ山の如く、近隣にあるとも不善者は、見えざること夜陰に放たれし矢の如し。"
+        },
+        {
+          "number": 305,
+          "vi": "“Ai ngồi nằm một mình.\nÐộc hành không buồn chán,\nTự điều phục một mình\nSống thoải mái rừng sâu.”",
+          "ja": "独り臥し、独り行きて倦まず、独り自己を\n調御\nして林中に楽しむものたるべし。"
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "name_vi": "Pham Dia Nguc",
+      "name_ja": "地獄品",
+      "verses": [
+        {
+          "number": 306,
+          "vi": "“Nói láo đọa địa ngục\nCó làm nói không làm,\nCả hai chết đồng đẳng,\nLàm người, nghiệp hạ liệt.”",
+          "ja": "不実を語る者は地獄に堕す。\n或いはまた〔自ら〕為して、我為さずと言う者も〔地獄に堕す〕。\nこれら両種の悪業者は、死後他世（地獄）に於て同等なり。"
+        },
+        {
+          "number": 307,
+          "vi": "“Nhiều người khoác cà sa,\nÁc hạnh không nhiếp phục.\nNgười ác, do ác hạnh,\nPhải sanh cõi Ðịa ngục.”",
+          "ja": "袈裟を頸に纒うも、悪を行い節制なき者多し。\nかかる悪人はその悪業によりて地獄に堕す。"
+        },
+        {
+          "number": 308,
+          "vi": "“Tốt hơn nuốt hòn sắt\nCháy đỏ như than hồng,\nHơn ác giới, buông lung\nĂn đồ ăn quốc độ.”",
+          "ja": "破戒・無節制にして、国民の施食を受くるよりは、むしろ火炎の如く灼熱せる鉄丸を食うこそ勝れ。"
+        },
+        {
+          "number": 309,
+          "vi": "“Bốn nạn chờ đợi người,\nPhóng dật theo vợ người;\nMắc họa, ngủ không yên,\nBị chê là thứ ba,\nÐọa địa ngục, thứ bốn.”",
+          "ja": "放逸にして他人の妻を犯す人は、〔次の〕四事に達す。\n罪業を得ること、安臥せざること、第三に誹謗、第四に地獄。"
+        },
+        {
+          "number": 310,
+          "vi": "“Mắc họa, đọa ác thú,\nBị hoảng sợ, ít vui.\nQuốc vương phạt trọng hình.\nVậy chớ theo vợ người.”",
+          "ja": "〔彼は〕罪業を得、また悪趣〔に堕す〕。\nかつ怯えたる〔男〕と怯えたる〔女〕との淫楽は少なし。\n王もまた〔これに〕酷しき刀杖を加う。\nされば人は他人の妻を犯すべからず。"
+        },
+        {
+          "number": 311,
+          "vi": "“Như cỏ sa (1) vụng nắm,\nTất bị họa đứt tay\nHạnh Sa môn tà vạy,\nTất bị đọa địa ngục.”",
+          "ja": "掴みそこねし茅草の手を切る如く、修行を誤れる沙門道は人を地獄に導く。"
+        },
+        {
+          "number": 312,
+          "vi": "“Sống phóng đãng buông lung,\nTheo giới cấm ô nhiễm,\nSống Phạm hạnh đáng nghi\nSao chứng được quả lớn?",
+          "ja": "懈怠\nの行為、汚れたる戒行、逡巡せる\n梵行\n、かかるものに大果なし。"
+        },
+        {
+          "number": 313,
+          "vi": "“Cần phải làm, nên làm\nLàm cùng tận khả năng\nXuất gia sống phóng đãng,\nChỉ tăng loạn bụi đời.”",
+          "ja": "もし為すべくんばこれを為し、断固としてこれを遂行すべし。\n懈怠\nの遊行者は更に多くの欲塵を散ずるのみ。"
+        },
+        {
+          "number": 314,
+          "vi": "“Ác hạnh không nên làm,\nLàm xong, chịu khổ lụy,\nThiện hạnh, ắt nên làm,\nLàm xong, không ăn năn.”",
+          "ja": "悪業は為さざるこそ勝れ、後に至りて悪業は人〔人を〕苦しむ。\n善業は為すこそ勝れ、そを為して苦しむことなし。"
+        },
+        {
+          "number": 315,
+          "vi": "“Như thành ở biên thùy,\nTrong ngoài đều phòng hộ\nCũng vậy, phòng hộ mình,\nSát na chớ buông lung.\nGiây phút qua, sầu muộn.\nKhi rơi vào địa ngục.”",
+          "ja": "辺境の城を内外共に護るが如く、自己を護るべし。\n一刹那も〔ゆるがせに〕過ぎ去らしむることなかれ。\n刹那をゆるがせにせる者は、地獄に至りて憂患を受く。"
+        },
+        {
+          "number": 316,
+          "vi": "“Không đáng hổ, lại hổ.\nViệc đáng hổ, lại không.\nDo chấp nhận tà kiến,\nChúng sanh đi ác thú.”",
+          "ja": "恥ずべからざるを恥じ、恥ずべきを恥じず、邪見を抱ける衆生は悪趣に至る。"
+        },
+        {
+          "number": 317,
+          "vi": "“Không đáng sợ, lại sợ,\nÐáng sợ, lại thấy không,\nDo chấp nhận tà kiến.\nChúng sanh đi ác thú.”",
+          "ja": "怖るべからざることに恐怖を見、怖るべきことに恐怖を見ず、邪見を抱ける衆生は悪趣に至る。"
+        },
+        {
+          "number": 318,
+          "vi": "“Không lỗi, lại thấy lỗi,\nCó lỗi, lại thấy không,\nDo chấp nhận tà kiến,\nChúng sanh đi ác thú.”",
+          "ja": "罪なきことを罪ありと思い、罪あることを罪なしと見る、邪見を抱ける衆生は悪趣に至る。"
+        },
+        {
+          "number": 319,
+          "vi": "“Có lỗi, biết có lỗi,\nKhông lỗi, biết là không,\nDo chấp nhận chánh kiến,\nChúng sanh đi cõi lành.”",
+          "ja": "罪ある所に罪ありと知り、また罪なき所に罪なしと〔知る〕、正見を抱ける衆生は善趣に至る。"
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "name_vi": "Pham Voi",
+      "name_ja": "象品",
+      "verses": [
+        {
+          "number": 320,
+          "vi": "“Ta như voi giữa trận,\nHứng chịu cung tên rơi,\nChịu đựng mọi phỉ báng.\nÁc giới rất nhiều người.”",
+          "ja": "象が戦場に於て、弓より放たれし矢を〔堪え忍ぶが〕如く、我は誹謗を堪え忍ばん。\n多くの人は破戒者なればなり。"
+        },
+        {
+          "number": 321,
+          "vi": "“Voi luyện, đưa dự hội,\nNgựa luyện, được vua cưỡi,\nNgười luyện, bậc tối thượng\nChịu đựng mọi phỉ báng.”",
+          "ja": "〔人は〕\n調御\nせられたる〔象〕を戦場に導き、王は\n調御\nせられたる〔象〕に乗る。\n誹謗を堪え忍び\n調御\nせられたる人は、人中の最勝者なり。"
+        },
+        {
+          "number": 322,
+          "vi": "“Tốt thay, con la thuần,\nThuần chủng loài ngựa Xinh.\nÐại tượng, voi có ngà.\nTự điều mới tối thượng.”",
+          "ja": "騾の\n調御\nせられたるは良し、気高き信度馬（インダス河地方産の駿馬）も良し、大象もまた良し。\n自己を\n調御\nせる人は更に良し。"
+        },
+        {
+          "number": 323,
+          "vi": "“Chẳng phải loài cưỡi ấy,\nÐưa người đến Niết-Bàn,\nChỉ có người tự điều,\nÐến đích, nhờ điều phục.”",
+          "ja": "これらの牽獣によりては未到の境（涅槃）に至ることなからん、\n調御\nせられたる人が、よく\n調御\nせられたる自己を\n調御\nせられたる〔牽獣〕として至るが如くに。"
+        },
+        {
+          "number": 324,
+          "vi": "“Con voi tên Tài Hộ,\nPhát dục, khó điều phục,\nTrói buộc, không ăn uống.\nVoi nhớ đến rừng voi.”",
+          "ja": "ダナパーラカと名づくる象は、〔発情してこめかみより〕苦汁を分泌し、抑制し難く、縛せられて一片の〔餌〕をも食わず。\n〔この〕象は象の林を念う。"
+        },
+        {
+          "number": 325,
+          "vi": "“Người ưa ngủ, ăn lớn\nNằm lăn lóc qua lại,\nChẳng khác heo no bụng,\nKẻ ngu nhập thai mãi.”",
+          "ja": "懶惰\nにして大食し、惰眠を貪りて\n輾転\nとして臥し、穀類に飽満せる大豚の如くならば、〔かかる〕愚者は再々胞胎に入る（すなわち輪廻す）。"
+        },
+        {
+          "number": 326,
+          "vi": "“Trước tâm này buông lung,\nChạy theo ái, dục, lạc.\nNay Ta chánh chế ngự,\nNhư cầm móc điều voi.”",
+          "ja": "この心かつては望む所に従い、欲に随い楽に随いて徘徊せり。\n今は我全くこれを制御せん、あたかも\n鉤\nを持てる〔象師の、発情して苦汁を〕流せる象を〔制御する〕如くに。"
+        },
+        {
+          "number": 327,
+          "vi": "“Hãy vui không phóng dật,\nKhéo phòng hộ tâm ý.\nKéo mình khỏi ác đạo,\nNhư voi bị sa lầy.”",
+          "ja": "汝ら不放逸を楽しめ、自己の心を護れ。\n自己を難処（煩悩）より救出せよ、あたかも泥中に陥れる象の如くに。"
+        },
+        {
+          "number": 328,
+          "vi": "“Nếu được bạn hiền trí\nÐáng sống chung, hạnh lành,\nNhiếp phục mọi hiểm nguy\nHoan hỷ sống chánh niệm.”",
+          "ja": "もし思慮に富み、正しく行い、賢明なる同行の伴侶を得ば、一切の危難を征服し、熟慮して\n欣然\n彼と共に行くべし。"
+        },
+        {
+          "number": 329,
+          "vi": "“Không gặp bạn hiền trí.\nÐáng sống chung, hạnh lành\nNhư vua bỏ nước bại,\nHãy sống riêng cô độc,\nNhư voi sống rừng voi.”",
+          "ja": "もし思慮に富み、正しく行い、賢明なる同行の伴侶を得ざれば、独り行くべし、あたかも征服せられたる国土を捨てし王の如く、林中に於ける象の如くに。"
+        },
+        {
+          "number": 330,
+          "vi": "“Tốt hơn sống một mình,\nKhông kết bạn người ngu.\nÐộc thân, không ác hạnh\nSống vô tư vô lự,\nNhư voi sống rừng voi.”",
+          "ja": "独り行くこそ勝れ、愚者は断じて伴侶となすべからず。\n独り行くべし、悪事を為すべからず、少欲なることあたかも林中に於ける象の如くに。"
+        },
+        {
+          "number": 331,
+          "vi": "“Vui thay, bạn lúc cần!\nVui thay, sống biết đủ,\nVui thay, chết có đức!\nVui thay, mọi khổ đoạn.”",
+          "ja": "事の起こりし時に友は楽しく、満足はいかなる場合にも楽し。\n生命の尽くる時に善業は楽しく、一切の苦を捨つるは楽し。"
+        },
+        {
+          "number": 332,
+          "vi": "“Vui thay, hiếu kính mẹ,\nVui thay, hiếu kính cha,\nVui thay, kính Sa môn,\nVui thay, kính Hiền Thánh.”",
+          "ja": "世に母を敬うは楽しく、父を敬うもまた楽し。\n世に〔真の〕沙門たることは楽しく、〔真の〕婆羅門たることもまた楽し。"
+        },
+        {
+          "number": 333,
+          "vi": "“Vui thay, già có giới!\nVui thay, tín an trú!\nVui thay, được trí tuệ,\nVui thay, ác không làm.”",
+          "ja": "老に至るまで戒を持するは楽しく、安立せる信仰は楽し。\n智慧を得るは楽しく、悪をなさざるは楽し。"
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "name_vi": "Pham Tham Ai",
+      "name_ja": "愛欲品",
+      "verses": [
+        {
+          "number": 334,
+          "vi": "“Người sống đời phóng dật,\nÁi tăng như giây leo.\nNhảy đời này đời khác,\nNhư vượn tham quả rừng.”",
+          "ja": "放逸に行う人の愛欲はつる草の如く増長す。\n彼は生より生に漂う、あたかも林中に果実を求むる猿の如くに。"
+        },
+        {
+          "number": 335,
+          "vi": "“Ai sống trong đời này,\nBị ái dục buộc ràng\nSầu khổ sẽ tăng trưởng,\nNhư cỏ Bi gặp mưa.”",
+          "ja": "この世に於て、この猛悪にして\n纏綿\nたる愛欲に征服せられたる人には、雨を受けたるビーラナ草の如く、その憂患増長す。"
+        },
+        {
+          "number": 336,
+          "vi": "“Ai sống trong đời này\nÁi dục được hàng phục\nSầu rơi khỏi người ấy\nNhư giọt nước lá sen.”",
+          "ja": "この世に於て、この猛悪にして克服し難き愛欲を征服したる人には、蓮葉より水滴の〔落つる〕如く、憂患彼より去る。"
+        },
+        {
+          "number": 337,
+          "vi": "“Ðây điều lành Ta dạy,\nCác người tụ họp đây.\nHãy nhổ tận gốc ái\nNhư nhổ gốc cỏ Bi.\nChớ để ma phá hoại,\nNhư giòng nước cỏ lau.”",
+          "ja": "我この善事を汝らに告ぐ。\nここに集まれる汝らは、ウシーラ香（ビーラナ草の根）を求むる者のビーラナ草を〔掘る〕如く、愛欲の根を掘るべし。\n流水の葦を〔損なう〕如く、魔王をして再々汝らを壌らしむることなかれ。"
+        },
+        {
+          "number": 338,
+          "vi": "“Như cây bị chặt đốn,\nGốc chưa hại vẫn bền\nÁi tùy miên chưa nhổ,\nKhổ này vẫn sanh hoài.”",
+          "ja": "樹根損なわれずして固ければ、樹は伐らるるとも再び生ずるが如く、愛欲の執着断たれざれば、この苦（生死の苦）は再々生起す。"
+        },
+        {
+          "number": 339,
+          "vi": "“Ba mươi sáu dòng Ái (1),\nTrôi người đốn khả ái.\nCác tư tưởng tham ái.\nCuốn trôi người tà kiến.”",
+          "ja": "その三十六流（内外各十八の愛欲）水勢盛んに快楽に向かいて流るる邪見者を、この奔流〔すなわち〕貪欲に執着せる意思は\n漂蕩\nし去る。"
+        },
+        {
+          "number": 340,
+          "vi": "“Dòng ái dục chảy khắp,\nNhư giây leo mọc tràn,\nThấy giây leo vừa sanh,\nVới tuệ, hãy đoạn gốc.”",
+          "ja": "〔愛欲の〕流れは至る所に流れ、〔その〕つるは芽を発して茂る。\nこのつるの生ずるを見ば、智慧を以てその根を断て。"
+        },
+        {
+          "number": 341,
+          "vi": "“Người đời nhớ ái dục,\nƯa thích các hỷ lạc.\nTuy mong cầu an lạc,\nHọ vẫn phải sanh già.”",
+          "ja": "人の喜悦は奔放にして、かつ愛着す。\n歓楽に耽り快楽を求むる人、かかる人は実に生と老とを受く。"
+        },
+        {
+          "number": 342,
+          "vi": "“Người bị ái buộc ràng,\nVùng vẫy và hoảng sợ,\nNhư thỏ bị sa lưới.\nHọ sanh ái trói buộc,\nChịu khổ đau dài dài.”",
+          "ja": "愛欲に満たされたる人は、罠に係れる兎の如く馳せ回る。\n繋縛\nと執着とに捉えられ、久しき間再々苦を受く。"
+        },
+        {
+          "number": 343,
+          "vi": "“Người bị ái buộc ràng,\nVùng vẫy và hoảng sợ,\nNhư thỏ bị sa lưới.\nDo vậy vị tỷ kheo,\nMong cầu mình ly tham\nNên nhiếp phục ái dục.”",
+          "ja": "愛欲に満たされたる人は、罠に係れる兎の如く馳せ回る。\n故に比丘は自己の離欲を望みて愛欲を除くべし。"
+        },
+        {
+          "number": 344,
+          "vi": "“Lìa rừng lại hướng rừng (2)\nThoát rừng chạy theo rừng.\nNên xem người như vậy,\nÐược thoát khỏi buộc ràng.\nLại chạy theo ràng buộc.”",
+          "ja": "欲林を出でて欲林に心を傾け、欲林を脱してまた欲林に走る者、実にこの人を見よ。\n彼は〔\n繋縛\nを〕脱してまた\n繋縛\nに走るなり。"
+        },
+        {
+          "number": 345,
+          "vi": "“Sắt, cây, gai trói buộc\nNgười trí xem chưa bền.\nTham châu báu, trang sức\nTham vọng vợ và con.”",
+          "ja": "賢者は、鉄・木または草よりなる縄縛を堅牢なりと言わず。\n珠・環・妻・子に対する恋着こそ極めて強し。"
+        },
+        {
+          "number": 346,
+          "vi": "“Người có trí nói rằng:\n“Trói buộc này thật bền.\nRì kéo xuống, lún xuống,\nNhưng thật sự khó thoát.\nNgười trí cắt trừ nó,\nBỏ dục lạc, không màng.”",
+          "ja": "賢者は、この牽引力に富み、弛くしてしかも脱し難き縄縛を堅牢なりと言う。\nこの〔縄〕を断ちて恋着なき人は、欲楽を捨てて出家す。"
+        },
+        {
+          "number": 347,
+          "vi": "“Người đắm say ái dục\nTự lao mình xuống dòng\nNhư nhện sa lưới dệt.\nNgười trí cắt trừ nó,\nBỏ mọi khổ, không màng.”",
+          "ja": "貪欲に執着する者は、〔欲の〕流れに随いて行くこと、蜘蛛の自ら作れる網に〔随うが〕如し。\nこれを断ちて恋着なき賢者は一切の苦を捨てて遊行す。"
+        },
+        {
+          "number": 348,
+          "vi": "“Bỏ quá, hiện, vị lai,\nÐến bờ kia cuộc đời,\nÝ giải thoát tất cả,\nChớ vướng lại sanh già.”",
+          "ja": "有\nの彼岸に達し、\n前\n（未来の煩悩）を離れよ、後（過去の煩悩）を離れよ、中（現在の煩悩）を離れよ。\n意一切処に於て解脱せば、汝は再び生と老とを受くることなし。"
+        },
+        {
+          "number": 349,
+          "vi": "“Người tà ý nhiếp phục,\nTham sắc bén nhìn tịnh,\nNgười ấy ái tăng trưởng,\nLàm giây trói mình chặt.”",
+          "ja": "疑惑に擾乱せられ、貪欲熾烈にして享楽を事とする人の愛欲は、ますます増長す。\nかかる人は実に〔その〕\n繋縛\nを堅くす。"
+        },
+        {
+          "number": 350,
+          "vi": "“Ai vui, an tịnh ý,\nQuán bất tịnh, thường niệm,\nNgười ấy sẽ diệt ái,\nCắt đứt Ma trói buộc.”",
+          "ja": "疑惑の静止を喜び、身の不浄を観じ、常に熟慮する人は、実に魔王の\n繋縛\nを除かん、彼はこれを断たん。"
+        },
+        {
+          "number": 351,
+          "vi": "“Ai tới đích, không sợ,\nLy ái, không nhiễm ô\nNhổ mũi tên sanh tử,\nThân này thân cuối cùng.”",
+          "ja": "円成\nの境に達して畏怖なく、愛欲を離れて罪穢なく、\n有\nの矢を断てり。\nこれ〔その〕最後身なり（すなわち更に輪廻せず）。"
+        },
+        {
+          "number": 352,
+          "vi": "“Ái lìa, không chấp thủ.\nCú pháp khéo biện tài\nThấu suốt từ vô ngại,\nHiểu thứ lớp trước sau.\nThân này thân cuối cùng\nVị như vậy được gọi,\nBậc Ðại trí, đại nhân.”",
+          "ja": "愛欲を離れて執着なく、聖典の語義に\n通暁\nし、前後の順序に従いて配列せられたる文字（聖典の文句）を知る人は、実に最後身を具する者にして、大智者・大丈夫と称せらる。"
+        },
+        {
+          "number": 353,
+          "vi": "“Ta hàng phục tất cả,\nTa rõ biết tất cả,\nKhông bị nhiễm pháp nào.\nTa từ bỏ tất cả\nÁi diệt, tự giải thoát.\nÐã tự mình thắng trí,\nTa gọi ai thầy ta?”",
+          "ja": "我は一切を征服し、一切を知悉し、一切の法に於て汚さるることなし。\n一切を捨て愛欲を滅して解脱せり。\n自ら悟りて誰をか〔師と〕いわん。"
+        },
+        {
+          "number": 354,
+          "vi": "“Pháp thí, thắng mọi thí!\nPháp vị, thắng mọi vị!\nPháp hỷ, thắng mọi hỷ!\nÁi diệt, dứt mọi khổ!”",
+          "ja": "法施は一切の施に勝ち、法味は一切の味に勝ち、法楽は一切の楽に勝ち、愛欲の滅尽は一切の苦に勝つ。"
+        },
+        {
+          "number": 355,
+          "vi": "“Tài sản hại người ngu.\nKhông người tìm bờ kia\nKẻ ngu vì tham giàu,\nHại mình và hại người.”",
+          "ja": "財は愚者を滅ぼし、決して彼岸を求むる者を〔滅ぼさ〕ず。\n愚者は財欲によりて自己を滅ぼすこと、他人を〔滅ぼすが〕如し。"
+        },
+        {
+          "number": 356,
+          "vi": "“Cỏ làm hại ruộng vườn,\nTham làm hại người đời.\nBố thí người ly tham,\nDo vậy được quả lớn.”",
+          "ja": "田は雑草により損なわれ、この世の衆生は貪欲により損なわる。\nされば貪欲を離れし人への施与は大果報あり。"
+        },
+        {
+          "number": 357,
+          "vi": "“Cỏ làm hại ruộng vườn,\nSân làm hại người đời.\nBố thí người ly sân,\nDo vậy được quả lớn.”",
+          "ja": "田は雑草により損なわれ、この世の衆生は\n瞋恚\nにより損なわる。\nされば瞋恚を離れし人への施与は大果報あり。"
+        },
+        {
+          "number": 358,
+          "vi": "“Cỏ làm hại ruộng vườn,\nSi làm hại người đời,\nBố thí người ly si,\nDo vậy được quả lớn.”",
+          "ja": "田は雑草により損なわれ、この世の衆生は愚痴により損なわる。\nされば愚痴を離れし人への施与は大果報あり。"
+        },
+        {
+          "number": 359,
+          "vi": "“Cỏ làm hại ruộng vườn,\nDục làm hại người đời.\nBố thí người ly dục,\nDo vậy được quả lớn.”",
+          "ja": "田は雑草により損なわれ、この世の衆生は欲望により損なわる。\nされば欲望を離れし人への施与は大果報あり。"
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "name_vi": "Pham Ty Kheo",
+      "name_ja": "比丘品",
+      "verses": [
+        {
+          "number": 360,
+          "vi": "“Lành thay, phòng hộ mắt!\nLành thay, phòng hộ tai.\nLành thay, phòng hộ mũi,\nLành thay, phòng hộ lưỡi.”",
+          "ja": "眼を制するは善し。\n耳を制するは善し。\n鼻を制するは善し。\n舌を制するは善し。"
+        },
+        {
+          "number": 361,
+          "vi": "“Lành thay,phòng hộ thân!\nLành thay, phòng hộ lời,\nLành thay, phòng hộ ý.\nLành thay, phòng tất cả.\nTỷ kheo phòng tất cả.\nThoát được mọi khổ đau.”",
+          "ja": "身を制するは善し。\n語を制するは善し。\n意を制するは善し。\n一切に於て制するは善し。\n一切に於て制したる比丘は一切の苦より脱す。"
+        },
+        {
+          "number": 362,
+          "vi": "“Người chế ngự tay chân,\nChế ngự lời và đầu,\nVui thích nội thiền định.\nÐộc thân, biết vừa đủ,\nThật xứng gọi tỷ kheo.”",
+          "ja": "手を慎み、足を慎み、語を慎み、最もよく慎み、内心に喜び、三昧に住し、独居して満足する者、これを比丘と称す。"
+        },
+        {
+          "number": 363,
+          "vi": "“Tỷ kheo chế ngự miệng,\nVừa lời, không cống cao,\nKhi trình bày pháp nghĩa,\nLời lẽ dịu ngọt ngào.”",
+          "ja": "口を慎み、語る所賢明に、寂静にして正理と正法とを明らかにする比丘は、その説く所甘美なり。"
+        },
+        {
+          "number": 364,
+          "vi": "“Vị tỷ kheo thích Pháp,\nMến pháp, suy tư Pháp.\nTâm tư niệm chánh Pháp,\nKhông rời bỏ chánh Pháp.”",
+          "ja": "法を楽園とし、法を楽しみ、法に随って思惟し、法を憶念する比丘は、正法より退堕することなし。"
+        },
+        {
+          "number": 365,
+          "vi": "“Không khinh điều mình được,\nKhông ganh người khác được\nTỷ kheo ganh tị người,\nKhông sao chứng Thiền Ðịnh.”",
+          "ja": "自己の所得を軽んずべからず。\n他を羨むべからず。\n他を羨む比丘は三昧に入ることなし。"
+        },
+        {
+          "number": 366,
+          "vi": "“Tỷ kheo dầu được ít,\nKhông khinh điều mình được,\nSống thanh tịnh không nhác,\nChư thiên khen vị này.”",
+          "ja": "たとい得る所少しといえども、比丘もし自己の所得を軽んぜざれば、諸天も実に、〔この〕生活清浄にして\n懈怠\nなき者を称讃す。"
+        },
+        {
+          "number": 367,
+          "vi": "“Hoàn toàn, đối danh sắc,\nKhông chấp Ta, của Ta.\nKhông chấp, không sầu não.\nThật xứng danh Tỷ kheo.”",
+          "ja": "名色\n（精神・物質）に於て全く我執なく、かつ〔その〕非有の故に憂えざる者は、実に比丘と称せらる。"
+        },
+        {
+          "number": 368,
+          "vi": "“Tỷ kheo trú từ bi,\nTín thành giáo Pháp Phật,\nChứng cảnh giới tịch tỉnh.\nCác hạnh an tịnh lạc.”",
+          "ja": "慈悲\nに住し、仏陀の教えを信ずる比丘は、寂静にして諸行静止せる安楽境に至るべし。"
+        },
+        {
+          "number": 369,
+          "vi": "“Tỷ kheo, tát thuyền này,\nThuyền không, nhẹ đi mau.\nTrừ tham, diệt sân hận,\nTất chứng đạt Niết-Bàn.”",
+          "ja": "比丘よ、この舟〔の水〕（身中の邪念）を汲み出せ、〔水〕汲み出されなば、〔舟は〕汝の為に疾く進まん。\n貪欲と\n瞋恚\nとを断たば汝は涅槃に至らん。"
+        },
+        {
+          "number": 370,
+          "vi": "“Ðoạn năm (1), từ bỏ năm (2),\nTu tập năm (3) tối thượng,\nTỷ kheo cắt năm trói (4),\nXứng danh vượt “bộc lưu” (5).”",
+          "ja": "五を断つべし、五を捨つべし、而してよく五を勤修すべし。\n五著を超越せる比丘は、瀑流（煩悩）を渡れる者と称せらる。"
+        },
+        {
+          "number": 371,
+          "vi": "“Tỷ kheo, hãy tu thiền,\nChớ buông lung phóng dật,\nTâm chớ đắm say dục,\nPhóng dật, nuốt sắt nóng\nBị đốt, chớ than khổ!”",
+          "ja": "比丘よ、禅定を修せよ。\n放逸なるなかれ。\n汝の心を愛欲に迷い行かしむることなかれ。\n放逸にして〔熱〕鉄丸を呑むなかれ。\n焼かれつつ「こは苦なり」と叫ぶことなかれ。"
+        },
+        {
+          "number": 372,
+          "vi": "“Không trí tuệ, không thiền,\nKhông thiền, không trí tuệ.\nNgười có thiền có tuệ,\nNhất định gần Niết-Bàn.”",
+          "ja": "智慧なき者に禅定なく、禅定なき者に智慧なし。\n禅定と智慧とを備えたる者は、実に涅槃に近づけるなり。"
+        },
+        {
+          "number": 373,
+          "vi": "“Bước vào ngôi nhà trống,\nTỷ kheo tâm an tịnh,\nThọ hưởng vui siêu nhân\nTịnh quán theo chánh pháp.”",
+          "ja": "空屋（閑寂処）に入りて心寂静に、正しく法を観ずる比丘は、人界になき楽を受く。"
+        },
+        {
+          "number": 374,
+          "vi": "“Người luôn luôn chánh niệm,\nSự sanh diệt các uẩn,\nÐược hoan hỷ, hân hoan,\nChỉ bậc bất tử biết.”",
+          "ja": "人もし諸蘊の生滅を思念すれば、忽ち、不死（涅槃）を知得せし人の歓喜と悦楽とを獲得す。"
+        },
+        {
+          "number": 375,
+          "vi": "“Ðây Tỷ kheo có trí,\nTụ tập pháp căn bản\nHộ căn, biết vừa đủ,\nGiữ gìn căn bản giới,\nThường gần gũi bạn lành,\nSống thanh tịnh tinh cần.”",
+          "ja": "こは現世に於て、智慧ある比丘の最初に〔為すべきこと〕なり。\n〔すなわち〕諸根を摂護し、満足し、戒律に従いて制御し、生活清浄にして倦むことなき良友と交われ。"
+        },
+        {
+          "number": 376,
+          "vi": "“Giao thiệp khéo thân thiện,\nCử chỉ mực đoan trang.\nDo vậy hưởng vui nhiều,\nSẽ dứt mọi khổ đau.”",
+          "ja": "好誼を尽くすべし、善行を全うすべし。\nこれによりて悦楽多く、苦を滅尽するに至らん。"
+        },
+        {
+          "number": 377,
+          "vi": "“Như hoa Vassikà (6),\nQuăng bỏ cánh úa tàn,\nCũng vậy vị Tỷ kheo,\nHãy giải thoát tham sân.”",
+          "ja": "ヴァッシカー草が萎みし花を振るい落とすが如く、比丘らよ、貪欲と\n瞋恚\nとを捨てよ。"
+        },
+        {
+          "number": 378,
+          "vi": "“Thân tịnh, lời an tịnh,\nAn tịnh, khéo thiền tịnh.\nTỷ kheo bỏ thế vật,\nXứng danh “bậc tịch tịnh “.",
+          "ja": "身を静め、語を静め、寂静にしてよく三昧に住し、世俗の快楽を捨棄せる比丘は、寂静者と称せらる。"
+        },
+        {
+          "number": 379,
+          "vi": "“Tự mình chỉ trích mình,\nTự mình dò xét mình,\nTỷ kheo tự phòng hộ\nChánh niệm, trú an lạc.”",
+          "ja": "自ら自己を励まし、自ら自己を省察すべし。\n自ら摂護し、正念を持せば、比丘よ、汝は安楽に住せん。"
+        },
+        {
+          "number": 380,
+          "vi": "“Tự mình y chỉ mình,\nTự mình đi đến mình,\nVậy hãy tự điều phục,\nNhư khách buôn ngựa hiền.”",
+          "ja": "実に自己は自己の主にして、自己は自己の依所なり。\n故に自己を制御せよ、あたかも\n商賈\nの良馬を〔\n調御\nする〕如く。"
+        },
+        {
+          "number": 381,
+          "vi": "“Tỷ kheo nhiều hân hoan,\nTịnh tín giáo pháp Phật,\nChứng cảnh giới tịch tịnh,\nCác hạnh an tịnh lạc.”",
+          "ja": "悦楽多く、仏陀の教えを信ずる比丘は、寂静にして諸行静止せる安楽境に至るべし。"
+        },
+        {
+          "number": 382,
+          "vi": "“Tỷ kheo tuy tuổi nhỏ\nSiêng tu giáo pháp Phật,\nSoi sáng thế gian này,\nNhư trăng thoát khỏi mây.”",
+          "ja": "たとい年少なりといえども、仏陀の教えに精勤する比丘は、雲を離れし月の如くこの世を照らす。"
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "name_vi": "Pham Ba La Mon",
+      "name_ja": "婆羅門品",
+      "verses": [
+        {
+          "number": 383,
+          "vi": "“Hỡi này Bà là môn,\nHãy tinh tấn đoạn dòng,\nTừ bỏ các dục lạc,\nBiết được hành đoạn diệt,\nNgười là bậc vô vi.”",
+          "ja": "婆羅門よ、勇敢に〔欲の〕流れを断て、諸欲を去れ。\n万象の滅尽を知りて汝は無作（涅槃）を知る。"
+        },
+        {
+          "number": 384,
+          "vi": "“Nhờ thường trú hai pháp (1)\nÐến được bờ bên kia.\nBà-la-môn có trí,\nMọi kiết sử dứt sạch.”",
+          "ja": "婆羅門もし二法（止観）に於て彼岸に達すれば、この智者に一切の\n繋縛\nは終息す。"
+        },
+        {
+          "number": 385,
+          "vi": "“Không bờ này, bờ kia (2)\nCả hai bờ không có,\nLìa khổ, không trói buộc\nTa gọi Bà-la-môn.”",
+          "ja": "彼岸（来世）も此岸（現世）もなく、彼此両岸もなく、畏怖を去り、\n繋縛\nを捨てたる人、我はこれを婆羅門と呼ぶ。"
+        },
+        {
+          "number": 386,
+          "vi": "“Tu thiền, trú ly trần\nPhận sự xong, vô lậu,\nÐạt được đích tối thượng,\nTa gọi Bà-la-môn.”",
+          "ja": "禅定に入り、垢穢なく安住し、為すべきをなし、煩悩を去り、最上義（阿羅漢果）に達せる人、我はこれを婆羅門と呼ぶ。"
+        },
+        {
+          "number": 387,
+          "vi": "“Mặt trời sáng ban ngày,\nMặt trăng sáng ban đêm.\nKhí giới sáng Sát lỵ,\nThiền định sáng Phạm chí.\nCòn hào quang đức Phật,\nChói sáng cả ngày đêm.”",
+          "ja": "日は昼に輝き、月は夜に照らし、\n刹帝利\nは武装して輝き、婆羅門は禅定に入りて輝く。\nされど仏陀はその光明により、全昼夜に輝く。"
+        },
+        {
+          "number": 388,
+          "vi": "“Dứt ác gọi Phạm chí,\nTịnh hạnh gọi Sa môn,\nTự mình xuất cấu uế,\nNên gọi bậc xuất gia.”",
+          "ja": "婆羅門とは悪業を除ける者の意にして、行う所寂静なるが故に沙門と称せらる。\n自己の垢穢を去る者は、これによりて出家と称せらる。"
+        },
+        {
+          "number": 389,
+          "vi": "“Chớ có đập Phạm chí!\nPhạm chí chớ đập lại!\nXấu thay đập Phạm chí\nÐập trả lại xấu hơn!”",
+          "ja": "婆羅門を打つべからず。\n〔打たるるも〕婆羅門はこれに敵対すべからず。\n婆羅門を打つ者に災いあれ。\n〔打たれて〕これに敵対する者に、更に災いあれ。"
+        },
+        {
+          "number": 390,
+          "vi": "“Ðối với Bà-la-môn,\nÐây (3) không lợi ích nhỏ.\nKhi ý không ái luyến,\nTâm hại được chận đứng,\nChỉ khi ấy khổ diệt,”",
+          "ja": "婆羅門もし愛好するものより心を抑制せば、彼に少なからざる利益あり。\n害心の消滅するに随い、苦悩もこれに随いて静止す。"
+        },
+        {
+          "number": 391,
+          "vi": "“Với người thân miệng ý,\nKhông làm các ác hạnh\nBa nghiệp được phòng hộ,\nTa gọi Bà-la-môn.”",
+          "ja": "身と語と意とによる悪業なく、この三処に於て抑制せる人、我はこれを婆羅門と呼ぶ。"
+        },
+        {
+          "number": 392,
+          "vi": "“Từ ai, biết chánh pháp\nBậc Chánh Giác thuyết giảng,\nHãy kính lễ vị ấy,\nNhư Phạm chí chờ lửa.”",
+          "ja": "正等覚者の説示せる法を、いかなる人より学び得たりとも、その人を恭しく敬礼すべし、あたかも婆羅門が祭火を〔敬う〕が如く。"
+        },
+        {
+          "number": 393,
+          "vi": "“Ðược gọi Bà-la-môn,\nKhông vì đầu bện tóc,\nKhông chủng tộc, thọ sanh,\nAi thật chân, chánh, tịnh,\nMới gọi Bà-la-môn.”",
+          "ja": "螺髻\n・族・姓によりて婆羅門たるに非ず。\n真実と法とを具する者、彼は幸福なり、彼はまた〔真の〕婆羅門なり。"
+        },
+        {
+          "number": 394,
+          "vi": "“Kẻ ngu, có ích gì\nBện tóc với da dê,\nNội tâm toàn phiền não,\nNgoài mặt đánh bóng suông.”",
+          "ja": "愚者よ、\n螺髻\n汝に何の用かあらん、皮衣汝に何の用かあらん。\n汝の内は〔不浄の〕密林なり。\n汝は外を清掃するのみ。"
+        },
+        {
+          "number": 395,
+          "vi": "“Người mặc áo đống rác,\nGầy ốm, lộ mạch gân,\nÐộc thân thiền trong rừng.\nTa gọi Bà-la-môn.”",
+          "ja": "糞掃衣\n（弊衣）を着け、痩せて脈管露われ、独り林中に於て禅定を修する人、我はこれを婆羅門と呼ぶ。"
+        },
+        {
+          "number": 396,
+          "vi": "“Ta không gọi Phạm Chí,\nVì chỗ sanh, mẹ sanh.\nChỉ được gọi tên suông\nNếu tâm còn phiền não.\nKhông phiền não, chấp trước\nTa gọi Bà-la-môn.”",
+          "ja": "我はまた、胎により母系によりて婆羅門と呼ばず。\n彼は〔不遜にも世尊を〕「ボー」（「友よ」の義）と呼び、彼は実に富裕なれども執着あり。\n無一物にして執着なき人、我はこれを婆羅門と呼ぶ。"
+        },
+        {
+          "number": 397,
+          "vi": "“Ðoạn hết các kiết sử,\nKhông còn gì lo sợ\nKhông đắm trước buộc ràng\nTa gọi Bà-la-môn",
+          "ja": "一切の結縛を断ち、畏怖なく執着を超越し、\n繋縛\nを離れたる人、我はこれを婆羅門と呼ぶ。"
+        },
+        {
+          "number": 398,
+          "vi": "“Bỏ đai da (4), bỏ cương (5)\nBỏ dây (6), đồ sở thuộc (7),\nBỏ then chốt (8), sáng suốt,\nTa gọi Bà-la-môn.”",
+          "ja": "紐と緒と綱とこれに属するものとを断ち、障礙を除きて覚りたる人、我はこれを婆羅門と呼ぶ。"
+        },
+        {
+          "number": 399,
+          "vi": "“Không ác ý, nhẫn chịu,\nPhỉ báng, đánh, phạt hình,\nLấy nhẫn làm quân lực,\nTa gọi Bà-la-môn.”",
+          "ja": "罪なくして罵詈と体刑と縄縛とを忍び、\n忍辱\nを力とし、勇力を軍兵として有する人、我はこれを婆羅門と呼ぶ。"
+        },
+        {
+          "number": 400,
+          "vi": "“Không hận, hết bổn phận,\nTrì giới, không tham ái,\nNhiếp phục, thân cuối cùng,\nTa gọi Bà-la-môn.”",
+          "ja": "忿怒なく、戒を持して徳行あり、欲を離れ、\n調御\nして最後身に達せる人、我はこれを婆羅門と呼ぶ。"
+        },
+        {
+          "number": 401,
+          "vi": "“Như nước trên lá sen,\nNhư hột cải đầu kim,\nNgười không nhiễm ái dục,\nTa gọi Bà-la-môn.”",
+          "ja": "蓮葉に於ける水の如く、錐の尖端に於ける芥子粒の如く、諸欲に染着せざる人、我はこれを婆羅門と呼ぶ。"
+        },
+        {
+          "number": 402,
+          "vi": "“Ai tự trên đời này,\nGiác khổ, diệt trừ khổ,\nBỏ gánh nặng, giải thoát,\nTa gọi Bà-la-môn.”",
+          "ja": "既にこの世に於て、自己の苦の滅尽を悟り、重担を下ろし、\n繋縛\nを離れたる人、我はこれを婆羅門と呼ぶ。"
+        },
+        {
+          "number": 403,
+          "vi": "“Người trí tuệ sâu xa,\nKhéo biết đạo, phi đạo\nChứng đạt đích vô thượng,\nTa gọi Bà-la-môn.”",
+          "ja": "智慧深く、賢慮ありて道・非道を弁え、最上義に達せる人、我はこれを婆羅門と呼ぶ。"
+        },
+        {
+          "number": 404,
+          "vi": "“Không liên hệ cả hai,\nXuất gia và thế tục,\nSống độc thân, ít dục,\nTa gọi Bà-la-môn.”",
+          "ja": "在家とも出家とも、二つながら交わらず、家なく遊行し、少欲なる人、我はこれを婆羅門と呼ぶ。"
+        },
+        {
+          "number": 405,
+          "vi": "“Bỏ trượng, đối chúng sanh,\nYếu kém hay kiên cường,\nKhông giết, không bảo giết,\nTa gọi Bà-la-môn.”",
+          "ja": "弱きも強きも一切の有情の中にありて刀杖を捨て、殺すことなく、殺さしむることなき人、我はこれを婆羅門と呼ぶ。"
+        },
+        {
+          "number": 406,
+          "vi": "“Thân thiện giữa thù địch\nÔn hòa giữa hung hăng.\nKhông nhiễm, giữa nhiễm trước,\nTa gọi Bà-la-môn.”",
+          "ja": "害意ある者の中にありて害意なく、刀杖を手にせる者の中にありて温順に、執着ある者の中にありて執着なき人、我はこれを婆羅門と呼ぶ。"
+        },
+        {
+          "number": 407,
+          "vi": "“Người bỏ rơi tham sân,\nKhông mạn không ganh tị,\nNhư hột cải đầu kim,\nTa gọi Bà-la-môn.”",
+          "ja": "その貪欲と\n瞋恚\nと慢心と虚偽との脱落せること、あたかも錐の尖端より芥子粒の〔落つる〕如くなる人、我はこれを婆羅門と呼ぶ。"
+        },
+        {
+          "number": 408,
+          "vi": "“Nói lên lời ôn hòa,\nLợi ích và chân thật,\nKhông mất lòng một ai,\nTa gọi Bà-la-môn.”",
+          "ja": "粗暴ならず、教訓的なる真実の語を発し、これによりて何者をも怒らしめざる人、我はこれを婆羅門と呼ぶ。"
+        },
+        {
+          "number": 409,
+          "vi": "“Ở đời, vật dài, ngắn,\nNhỏ, lớn, đẹp hay xấu\nPhàm không cho không lấy,\nTa gọi Bà-la-môn.”",
+          "ja": "この世に於て、長きも短きも、小なるも大なるも、浄きも浄からざるも、与えられざるものを取らざる人、我はこれを婆羅門と呼ぶ。"
+        },
+        {
+          "number": 410,
+          "vi": "“Người không có hy cầu,\nÐời này và đời sau,\nKhông hy cầu, giải thoát,\nTa gọi Bà-la-môn.”",
+          "ja": "この世に対しても、かの世に対しても、欲望なく愛着なく、\n繋縛\nを離れたる人、我はこれを婆羅門と呼ぶ。"
+        },
+        {
+          "number": 411,
+          "vi": "“Người không còn tham ái,\nCó trí, không nghi hoặc,\nThể nhập vào bất tử,\nTa gọi Bà-la-môn.”",
+          "ja": "執着の存するなく、悟り終わりて疑惑なく、甘露（涅槃）の奥底に到達せる人、我はこれを婆羅門と呼ぶ。"
+        },
+        {
+          "number": 412,
+          "vi": "“Người sống ở đời này\nKhông nhiễm cả thiện ác,\nKhông sầu, sạch không bụi\nTa gọi Bà-la-môn.”",
+          "ja": "この世に於て善悪両種の執着を超脱し、憂患なく垢穢なく清浄なる人、我はこれを婆羅門と呼ぶ。"
+        },
+        {
+          "number": 413,
+          "vi": "“Như trăng, sạch không uế\nSáng trong và tịnh lặng,\nHữu ái, được đoạn tận,\nTa gọi Bà là môn.”",
+          "ja": "月の如く無垢・清浄・澄明にして暗影なく、快楽の生起を滅尽したる人、我はこれを婆羅門と呼ぶ。"
+        },
+        {
+          "number": 414,
+          "vi": "“Vượt đường nguy hiểm này,\nNhiếp phục luân hồi, si,\nÐến bờ kia thiền định\nKhông dục ái, không nghi,\nKhông chấp trước, tịch tịnh,\nTa gọi Bà-la-môn.”",
+          "ja": "この泥濘（貪欲等）と越え難き輪廻と愚痴とを越え、渡りて彼岸に達し、禅定に住し、無欲にして疑惑なく、執着を捨てて寂静なる人、我はこれを婆羅門と呼ぶ。"
+        },
+        {
+          "number": 415,
+          "vi": "“Ai ở đời, đoạn dục,\nBỏ nhà, sống xuất gia,\nDục hữu được đoạn tận,\nTa gọi Bà-la-môn.”",
+          "ja": "この世に於て欲楽を捨て、家なくして遊行し、欲楽の生起を滅尽したる人、我はこれを婆羅門と呼ぶ。"
+        },
+        {
+          "number": 416,
+          "vi": "“Ai ở đời đoạn ái\nBỏ nhà, sống xuất gia,\nÁi hữu được đoạn tận,\nTa gọi Bà-la-môn.”",
+          "ja": "この世に於て愛欲を捨て、家なくして遊行し、愛欲の生起を滅尽したる人、我はこれを婆羅門と呼ぶ。"
+        },
+        {
+          "number": 417,
+          "vi": "“Bỏ trói buộc loài người,\nVượt trói buộc cõi trời.\nGiải thoát mọi buộc ràng,\nTa gọi Bà-la-môn.”",
+          "ja": "人間の束縛を捨て、天上の束縛を脱し、一切の束縛より離れたる人、我はこれを婆羅門と呼ぶ。"
+        },
+        {
+          "number": 418,
+          "vi": "“Bỏ điều ưa, điều ghét,\nMát lạnh, diệt sanh y\nBậc anh hùng chiến thắng,\nNhiếp phục mọi thế giới,\nTa gọi Bà-la-môn.”",
+          "ja": "楽と不楽とを捨て、清涼にして煩悩なく、一切世界を克服せる勇者、我はこれを婆羅門と呼ぶ。"
+        },
+        {
+          "number": 419,
+          "vi": "“Ai hiểu rõ hoàn toàn\nSanh tử các chúng sanh,\nKhông nhiễm, khéo vượt qua,\nSáng suốt chân giác ngộ,\nTa gọi Bà-la-môn.”",
+          "ja": "有情の消滅と生起とを完全に知り、執着なく安泰にして覚りたる人、我はこれを婆羅門と呼ぶ。"
+        },
+        {
+          "number": 420,
+          "vi": "“Với ai, loài trời, người\nCùng với Càn thát bà,\nKhông biết chỗ thọ sanh\nLậu tận bậc La hán.\nTa gọi Bà-la-môn.”",
+          "ja": "諸天も\n乾闥婆\nも人間も、彼の赴く道を知らず、煩悩を滅尽して阿羅漢となりし人、我はこれを婆羅門と呼ぶ。"
+        },
+        {
+          "number": 421,
+          "vi": "“Ai quá, hiện, vị lai\nKhông một sở hữu gì,\nKhông sở hữu không nắm,\nTa gọi Bà-la-môn.”",
+          "ja": "前（過去）にも、後（未来）にも、中（現在）にも何物をも有せず、無一物にして執着なき人、我はこれを婆羅門と呼ぶ。"
+        },
+        {
+          "number": 422,
+          "vi": "“Bậc trâu chúa, thù thắng\nBậc anh hùng, đại sĩ,\nBậc chiến thắng, không nhiễm,\nBậc tẩy sạch, giác ngộ,\nTa gọi Bà-la-môn.”",
+          "ja": "雄牛〔の如く強く〕、最も勝れ、勇者にして大仙、勝利に富み、無欲にして〔心垢を〕洗滌し、覚りたる人、我はこれを婆羅門と呼ぶ。"
+        },
+        {
+          "number": 423,
+          "vi": "“Ai biết được đời trước,\nThấy thiên giới, đọa xứ,\nÐạt được sanh diệt tận\nThắng trí, tự viên thành\nBậc mâu ni đạo sĩ.\nViên mãn mọi thành tựu\nTa gọi Bà-la-môn.”",
+          "ja": "前生を知り、天界と悪趣とを見、更に生の滅尽に達し、智に於て完成したる\n牟尼\n（賢人）、一切円満成就の人、我はこれを婆羅門と呼ぶ。"
+        }
+      ]
+    }
+  ]
+}

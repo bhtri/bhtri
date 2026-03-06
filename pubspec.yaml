@@ -2,10 +2,10 @@ name: bhtri
 publish_to: none
 
 environment:
-  sdk: ^3.0.5
+  sdk: ^3.4.0
 
 dev_dependencies:
   test: any
 dependencies:
-  http: ^1.1.0
-  intl: ^0.19.0
+  http: ^1.6.0
+  intl: ^0.20.0

@@ -1,89 +1,117 @@
 import 'dart:convert';
 import 'dart:io';
+import 'dart:math';
 
-import 'package:http/http.dart';
-import 'package:http/io_client.dart';
+import 'package:http/http.dart' as http;
 import 'package:intl/intl.dart';
 
-Future<Map<String, dynamic>> getRandomQuotes() async {
+/// Fetch a random Japanese quote from Meigen API
+Future<Map<String, String>> fetchMeigen() async {
   try {
-    // Handshake error in client
-    // https://yuji-ueda.hatenadiary.jp/entry/2019/07/07/201846
-    HttpClient client = HttpClient();
-    client.badCertificateCallback =
-        ((X509Certificate cert, String host, int port) => true);
-    final http = IOClient(client);
-
-    // https://github.com/lukePeavey/quotable
-    Map<String, dynamic> map = {};
-    const String domain = 'api.quotable.io';
-    const String path = '/quotes/random';
-    final Map<String, dynamic> queryParameters = {
-      'limit': '1',
-    };
-
-    final Uri uri = Uri.https(domain, path, queryParameters);
-    Response response = await http.get(uri);
-
+    final uri = Uri.https('meigen.doodlenote.net', '/api/json.php', {'c': '1'});
+    final response = await http.get(uri);
     if (response.statusCode == 200) {
-      final List<dynamic> jsonData = jsonDecode(response.body);
-      if (jsonData.isNotEmpty) {
-        map.addAll(jsonData[0]);
+      final List<dynamic> data = jsonDecode(response.body);
+      if (data.isNotEmpty) {
+        return {
+          'quote': data[0]['meigen'] ?? '',
+          'author': data[0]['auther'] ?? '', // API typo: "auther"
+        };
       }
-    } else {
-      return Future.error(Exception('Can not get random quotes'));
     }
-
-    return map;
-  } catch (e, s) {
-    print('Exception details:\n $e');
-    print('Stack trace:\n $s');
+    return {};
+  } catch (e) {
+    print('Meigen API error: $e');
     return {};
   }
 }
 
-void main() async {
-  try {
-    // https://api.dart.dev/stable/3.0.5/dart-io/Platform-class.html
-    Map<String, String> envVars = Platform.environment;
-    envVars.forEach((k, v) => print("Key=$k Value=$v"));
-
-    Map<String, dynamic> map = await getRandomQuotes();
-    final DateFormat outputFormat = DateFormat('yyyy年MM月dd日');
-    final String quote = map['content'] ?? '';
-    final String author = map['author'] ?? '';
-    final String title = outputFormat.format(DateTime.now());
-    String strReadme = '';
-
-    // https://api.dart.dev/stable/3.0.5/dart-io/File-class.html
-    final File file_template = File('Template.md');
-    Stream<String> lines = file_template
-        .openRead()
-        .transform(utf8.decoder)
-        .transform(LineSplitter());
-    try {
-      await for (String line in lines) {
-        strReadme += '$line\n';
-      }
-    } catch (e, s) {
-      print('Exception details:\n $e');
-      print('Stack trace:\n $s');
-      return;
-    }
-
-    strReadme = strReadme.replaceAll(RegExp(r'{%QUOTE%}'), quote);
-    strReadme = strReadme.replaceAll(RegExp(r'{%AUTHOR%}'), author);
-    strReadme = strReadme.replaceAll(RegExp(r'{%TITLE%}'), title);
-
-    final File file_readme = File('README.md');
-    file_readme.writeAsString(strReadme, mode: FileMode.write, encoding: utf8);
-
-    print('Done!!!');
-  } catch (e, s) {
-    print('Exception details:\n $e');
-    print('Stack trace:\n $s');
+/// Get meigen with 3-tier fallback: API → yesterday's README → default message
+Future<Map<String, String>> getMeigenWithFallback() async {
+  var meigen = await fetchMeigen();
+  if (meigen.isNotEmpty) {
+    return meigen;
   }
+
+  try {
+    final readme = File('README.md');
+    if (readme.existsSync()) {
+      final content = readme.readAsStringSync();
+      final quoteMatch = RegExp(r'> (.+)\n').firstMatch(content);
+      final authorMatch = RegExp(r'— \*\*(.+)\*\*').firstMatch(content);
+
+      if (quoteMatch != null && authorMatch != null) {
+        final quote = quoteMatch.group(1)?.trim() ?? '';
+        final author = authorMatch.group(1)?.trim() ?? '';
+        if (quote.isNotEmpty && author.isNotEmpty) {
+          return {
+            'quote': quote,
+            'author': author,
+          };
+        }
+      }
+    }
+  } catch (_) {
+    // ignore
+  }
+
+  return {
+    'quote': '本日サーバーが混雑しています。明日また会いましょう。',
+    'author': 'System',
+  };
 }
 
-// https://qiita.com/s-yoshiki/items/436bbe1f7160b610b05c
-// https://simpleicons.org/
+/// Pick a random Dhammapada verse from local JSON
+Map<String, String> getRandomDhammapada() {
+  final file = File('local_quotes/dhammapada.json');
+  final data = jsonDecode(file.readAsStringSync());
+  final chapters = data['chapters'] as List;
+
+  // Flatten all verses with chapter info, skip verses with empty vi text
+  final allVerses = <Map<String, dynamic>>[];
+  for (final ch in chapters) {
+    for (final v in ch['verses']) {
+      if ((v['vi'] as String).isNotEmpty) {
+        allVerses.add({
+          'vi': v['vi'],
+          'ja': v['ja'],
+          'number': v['number'],
+          'chapter_vi': ch['name_vi'],
+        });
+      }
+    }
+  }
+
+  final random = Random();
+  final verse = allVerses[random.nextInt(allVerses.length)];
+  return {
+    'vi': verse['vi'],
+    'ja': verse['ja'],
+    'verse': verse['number'].toString(),
+    'chapter': verse['chapter_vi'],
+  };
+}
+
+void main() async {
+  try {
+    final meigen = await getMeigenWithFallback();
+    final dhammapada = getRandomDhammapada();
+    final title = DateFormat('yyyy年MM月dd日').format(DateTime.now());
+
+    final template = File('Template.md').readAsStringSync();
+
+    var readme = template
+        .replaceAll('{%TITLE%}', title)
+        .replaceAll('{%MEIGEN_QUOTE%}', meigen['quote']!)
+        .replaceAll('{%MEIGEN_AUTHOR%}', meigen['author']!)
+        .replaceAll('{%DHAMMAPADA_VI%}', dhammapada['vi']!)
+        .replaceAll('{%DHAMMAPADA_JA%}', dhammapada['ja']!)
+        .replaceAll('{%DHAMMAPADA_CHAPTER%}', dhammapada['chapter']!)
+        .replaceAll('{%DHAMMAPADA_VERSE%}', dhammapada['verse']!);
+
+    File('README.md').writeAsStringSync(readme);
+    print('Done!');
+  } catch (e, s) {
+    print('Error: $e\n$s');
+  }
+}

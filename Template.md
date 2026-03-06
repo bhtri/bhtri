@@ -31,15 +31,30 @@
 
 ### **{%TITLE%}**
 
-<p align="center" style="font-size:20px">
-  <q>
-    {%QUOTE%}
-  </q>
-</p>
+<div align="center">
+<table>
+<tr><td>
 
-<p align="right" style="font-size:18px; font-weight: bold">
-{%AUTHOR%}
-</p>
+**🌸 名言 (Meigen)**
+
+> {%MEIGEN_QUOTE%}
+
+<p align="right"><b>— {%MEIGEN_AUTHOR%}</b></p>
+
+</td></tr>
+<tr><td>
+
+**📿 Kinh Phap Cu (Dhammapada)**
+
+> {%DHAMMAPADA_VI%}
+>
+> *{%DHAMMAPADA_JA%}*
+
+<p align="right"><b>— {%DHAMMAPADA_CHAPTER%}, Ke {%DHAMMAPADA_VERSE%}</b></p>
+
+</td></tr>
+</table>
+</div>
 
 ---
 

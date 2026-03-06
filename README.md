@@ -31,15 +31,36 @@
 
 ### **2026年03月06日**
 
-<p align="center" style="font-size:20px">
-  <q>
-    Dost thou love life? Then do not squander time, for that is the stuff life is made of.
-  </q>
-</p>
+<div align="center">
+<table>
+<tr><td>
 
-<p align="right" style="font-size:18px; font-weight: bold">
-Benjamin Franklin
-</p>
+**🌸 名言 (Meigen)**
+
+> 自分にとって何が大切か考えること。それで人の生き方が決まる。
+
+<p align="right"><b>— 『再会の時』</b></p>
+
+</td></tr>
+<tr><td>
+
+**📿 Kinh Phap Cu (Dhammapada)**
+
+> “Người bị ái buộc ràng,
+Vùng vẫy và hoảng sợ,
+Như thỏ bị sa lưới.
+Họ sanh ái trói buộc,
+Chịu khổ đau dài dài.”
+>
+> *愛欲に満たされたる人は、罠に係れる兎の如く馳せ回る。
+繋縛
+と執着とに捉えられ、久しき間再々苦を受く。*
+
+<p align="right"><b>— Pham Tham Ai, Ke 342</b></p>
+
+</td></tr>
+</table>
+</div>
 
 ---
 
