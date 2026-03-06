@@ -9,7 +9,7 @@ import 'package:intl/intl.dart';
 Future<Map<String, String>> fetchMeigen() async {
   try {
     final uri = Uri.https('meigen.doodlenote.net', '/api/json.php', {'c': '1'});
-    final response = await http.get(uri);
+    final response = await http.get(uri).timeout(Duration(seconds: 10));
     if (response.statusCode == 200) {
       final List<dynamic> data = jsonDecode(response.body);
       if (data.isNotEmpty) {

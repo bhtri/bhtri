@@ -33,7 +33,8 @@ def get_meigen_with_fallback():
     # Try yesterday's quote from existing README
     try:
         if os.path.exists('README.md'):
-            content = open('README.md', encoding='utf-8').read()
+            with open('README.md', encoding='utf-8') as f:
+                content = f.read()
             quote_match = re.search(r'> (.+)\n', content)
             author_match = re.search(r'— \*\*(.+)\*\*', content)
             if quote_match and author_match:
@@ -70,25 +71,29 @@ def get_random_dhammapada():
 
 
 def main():
-    meigen = get_meigen_with_fallback()
-    dhammapada = get_random_dhammapada()
-    title = datetime.now().strftime('%Y年%m月%d日')
+    try:
+        meigen = get_meigen_with_fallback()
+        dhammapada = get_random_dhammapada()
+        title = datetime.now().strftime('%Y年%m月%d日')
 
-    with open('Template.md', encoding='utf-8') as f:
-        template = f.read()
+        with open('Template.md', encoding='utf-8') as f:
+            template = f.read()
 
-    readme = (template
-        .replace('{%TITLE%}', title)
-        .replace('{%MEIGEN_QUOTE%}', meigen['quote'])
-        .replace('{%MEIGEN_AUTHOR%}', meigen['author'])
-        .replace('{%DHAMMAPADA_VI%}', dhammapada['vi'])
-        .replace('{%DHAMMAPADA_JA%}', dhammapada['ja'])
-        .replace('{%DHAMMAPADA_CHAPTER%}', dhammapada['chapter'])
-        .replace('{%DHAMMAPADA_VERSE%}', dhammapada['verse']))
+        readme = (template
+            .replace('{%TITLE%}', title)
+            .replace('{%MEIGEN_QUOTE%}', meigen['quote'])
+            .replace('{%MEIGEN_AUTHOR%}', meigen['author'])
+            .replace('{%DHAMMAPADA_VI%}', dhammapada['vi'])
+            .replace('{%DHAMMAPADA_JA%}', dhammapada['ja'])
+            .replace('{%DHAMMAPADA_CHAPTER%}', dhammapada['chapter'])
+            .replace('{%DHAMMAPADA_VERSE%}', dhammapada['verse']))
 
-    with open('README.md', 'w', encoding='utf-8') as f:
-        f.write(readme)
-    print('Done!')
+        with open('README.md', 'w', encoding='utf-8') as f:
+            f.write(readme)
+        print('Done!')
+    except Exception as e:
+        print(f'Error: {e}')
+        raise
 
 
 if __name__ == '__main__':
