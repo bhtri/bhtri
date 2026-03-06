@@ -82,7 +82,7 @@ Minimal — only `requests` for HTTP in Python version. JSON/random/datetime are
 
 ## Validation
 
-- [ ] `dart pub get` succeeds with new pubspec.yaml
-- [ ] Template.md has all 7 placeholders
-- [ ] No old placeholders remain ({%QUOTE%}, {%AUTHOR%})
-- [ ] requirements.txt created
+- [x] `dart pub get` succeeds with new pubspec.yaml
+- [x] Template.md has all 7 placeholders
+- [x] No old placeholders remain ({%QUOTE%}, {%AUTHOR%})
+- [x] requirements.txt created

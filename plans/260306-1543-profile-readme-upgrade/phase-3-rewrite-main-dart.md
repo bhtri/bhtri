@@ -148,9 +148,9 @@ void main() async {
 
 ## Validation
 
-- [ ] `dart analyze` passes with no issues
-- [ ] `dart format --set-exit-if-changed .` passes
-- [ ] No `badCertificateCallback` in code
-- [ ] No `Platform.environment` dump
-- [ ] All 7 placeholders replaced correctly
-- [ ] Fallback chain works: API fail → README parse → default message
+- [x] `dart analyze` passes with no issues
+- [x] `dart format --set-exit-if-changed .` passes
+- [x] No `badCertificateCallback` in code
+- [x] No `Platform.environment` dump
+- [x] All 7 placeholders replaced correctly
+- [x] Fallback chain works: API fail → README parse → default message

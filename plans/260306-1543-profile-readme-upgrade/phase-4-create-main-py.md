@@ -111,7 +111,7 @@ requests>=2.31.0
 
 ## Validation
 
-- [ ] `python bin/main.py` runs successfully
-- [ ] Output README.md identical format to Dart version
-- [ ] Fallback chain works same as Dart
-- [ ] UTF-8 encoding correct (Vi diacritics + Ja kanji)
+- [x] `python bin/main.py` runs successfully
+- [x] Output README.md identical format to Dart version
+- [x] Fallback chain works same as Dart
+- [x] UTF-8 encoding correct (Vi diacritics + Ja kanji)

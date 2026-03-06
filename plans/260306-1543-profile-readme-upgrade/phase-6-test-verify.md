@@ -12,11 +12,11 @@ dart analyze
 dart bin/main.dart
 ```
 
-- [ ] All commands pass
-- [ ] README.md generated with correct content
-- [ ] Meigen section populated (or fallback if API down)
-- [ ] Dhammapada section populated with random verse (Vi + Ja)
-- [ ] Date formatted correctly (yyyy年MM月dd日)
+- [x] All commands pass
+- [x] README.md generated with correct content
+- [x] Meigen section populated (or fallback if API down)
+- [x] Dhammapada section populated with random verse (Vi + Ja)
+- [x] Date formatted correctly (yyyy年MM月dd日)
 
 ## 6.2 Python Checks
 
@@ -25,9 +25,9 @@ pip install -r requirements.txt
 python bin/main.py
 ```
 
-- [ ] Script runs without error
-- [ ] README.md output matches Dart version format
-- [ ] Both quote sections populated
+- [x] Script runs without error
+- [x] README.md output matches Dart version format
+- [x] Both quote sections populated
 
 ## 6.3 Data Integrity
 
@@ -37,13 +37,13 @@ python -c "import json; d=json.load(open('local_quotes/dhammapada.json','r',enco
 # Expected: Chapters: 26, Verses: 423
 ```
 
-- [ ] JSON: 26 chapters, 423 verses
-- [ ] XML: same structure, well-formed
-- [ ] UTF-8: Vietnamese diacritics + Japanese kanji display correctly
+- [x] JSON: 26 chapters, 423 verses
+- [x] XML: same structure, well-formed
+- [x] UTF-8: Vietnamese diacritics + Japanese kanji display correctly
 
 ## 6.4 Workflow Validation
 
-- [ ] YAML syntax valid
+- [x] YAML syntax valid
 - [ ] Test via `workflow_dispatch` after push
 - [ ] Monitor first automated run (next daily cron)
 

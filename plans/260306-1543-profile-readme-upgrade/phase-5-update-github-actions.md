@@ -164,10 +164,10 @@ v4 primarily updates Node.js runtime. `target_branch` and `build_dir` params bac
 
 ## Validation
 
-- [ ] Both YAML files valid syntax
-- [ ] Action versions updated in both files
-- [ ] Dart workflow has `schedule` enabled
-- [ ] Python workflow has `schedule` commented out
-- [ ] Both have `workflow_dispatch` enabled
-- [ ] Old `quote_generator.yml` deleted
-- [ ] Manual trigger test via workflow_dispatch for Dart version
+- [x] Both YAML files valid syntax
+- [x] Action versions updated in both files
+- [x] Dart workflow has `schedule` enabled
+- [x] Python workflow has `schedule` commented out
+- [x] Both have `workflow_dispatch` enabled
+- [x] Old `quote_generator.yml` deleted
+- [ ] Manual trigger test via workflow_dispatch for Dart version (pending post-push)

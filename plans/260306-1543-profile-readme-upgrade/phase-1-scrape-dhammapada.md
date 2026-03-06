@@ -82,13 +82,13 @@ Extract 423 verses (26 chapters) from Vietnamese + Japanese sources, save as `lo
 
 ## Validation Checklist
 
-- [ ] 26 chapters scraped from Vi source
-- [ ] 26 chapters scraped from Ja source
-- [ ] 423 total verses in each source
-- [ ] Verse count per chapter matches between Vi and Ja
-- [ ] JSON and XML files contain identical data
-- [ ] UTF-8 encoding correct (Vietnamese diacritics + Japanese kanji)
-- [ ] Scrape script deleted after successful extraction
+- [x] 26 chapters scraped from Vi source
+- [x] 26 chapters scraped from Ja source
+- [x] 423 total verses in each source (note: 5 Vi verses were empty from source, manually fixed)
+- [x] Verse count per chapter matches between Vi and Ja
+- [x] JSON and XML files contain identical data
+- [x] UTF-8 encoding correct (Vietnamese diacritics + Japanese kanji)
+- [x] Scrape script deleted after successful extraction
 
 ## Chapter Reference
 
