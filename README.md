@@ -37,24 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 真の世論に対して関心を示さないのは、まさに一つの力であり、幸福の源泉である。
+> 軽薄な人間は運勢を信じ、強者は因果関係を信じる
 
-<p align="right"><b>— ラッセル</b></p>
+<p align="right"><b>— エマーソン(作家)</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Nhiều người khoác cà sa,
-Ác hạnh không nhiếp phục.
-Người ác, do ác hạnh,
-Phải sanh cõi Ðịa ngục.”
+> “Mọi người sợ hình phạt,
+Mọi người thích sống còn;
+Lấy mình làm ví dụ,
+Không giết, không bảo giết.”
 >
-> *袈裟を頸に纒うも、悪を行い節制なき者多し。
-かかる悪人はその悪業によりて地獄に堕す。*
+> *一切の人は刀杖を怖れ、一切の人は生を愛す。
+自己に思い比べて、〔他を〕殺すべからず、殺さしむべからず。*
 
-<p align="right"><b>— Pham Dia Nguc, Ke 307</b></p>
+<p align="right"><b>— Pham Hinh Phat, Ke 130</b></p>
 
 </td></tr>
 </table>
