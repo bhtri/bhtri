@@ -29,16 +29,16 @@
 
 ---
 
-### **2026年03月05日**
+### **2026年03月06日**
 
 <p align="center" style="font-size:20px">
   <q>
-    Continuous effort - not strength or intelligence - is the key to unlocking our potential.
+    Dost thou love life? Then do not squander time, for that is the stuff life is made of.
   </q>
 </p>
 
 <p align="right" style="font-size:18px; font-weight: bold">
-Winston Churchill
+Benjamin Franklin
 </p>
 
 ---
