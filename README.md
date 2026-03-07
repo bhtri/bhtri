@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年03月06日**
+### **2026年03月07日**
 
 <div align="center">
 <table>
@@ -37,24 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 軽薄な人間は運勢を信じ、強者は因果関係を信じる
+> 教育の過程はそれ自体を超えるいかなる目的ももっていない。すなわちそれはそれ自体の目的なのだ。
 
-<p align="right"><b>— エマーソン(作家)</b></p>
+<p align="right"><b>— デューイ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Mọi người sợ hình phạt,
-Mọi người thích sống còn;
-Lấy mình làm ví dụ,
-Không giết, không bảo giết.”
+> “Người ngu, dầu trọn đời,
+Thân cận người có trí,
+Không biết được Chánh pháp,
+Như muỗng với vị canh.”
 >
-> *一切の人は刀杖を怖れ、一切の人は生を愛す。
-自己に思い比べて、〔他を〕殺すべからず、殺さしむべからず。*
+> *たとい終生賢者に侍すとも、愚者は正法を悟らざること、あたかも食匙の香味に於けるが如し。*
 
-<p align="right"><b>— Pham Hinh Phat, Ke 130</b></p>
+<p align="right"><b>— Pham Ngu, Ke 64</b></p>
 
 </td></tr>
 </table>
