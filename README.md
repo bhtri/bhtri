@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年03月07日**
+### **2026年03月08日**
 
 <div align="center">
 <table>
@@ -37,23 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 教育の過程はそれ自体を超えるいかなる目的ももっていない。すなわちそれはそれ自体の目的なのだ。
+> 情報をたくさん持っていれば、アイデアなんてそれこそ山のように浮かぶわけで、なにも思いつかないというのは、手持ちの情報量が少ないからなんです。
 
-<p align="right"><b>— デューイ</b></p>
+<p align="right"><b>— 堀江貴文</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Người ngu, dầu trọn đời,
-Thân cận người có trí,
-Không biết được Chánh pháp,
-Như muỗng với vị canh.”
+> “Với gậy người chăn bò,
+Lùa bò ra bãi cỏ;
+Cũng vậy, già và chết,
+Lùa người đến mạng chung.”
 >
-> *たとい終生賢者に侍すとも、愚者は正法を悟らざること、あたかも食匙の香味に於けるが如し。*
+> *牧者の杖を以て牛を牧場に駆る如く、老と死とは有情の寿命を駆る。*
 
-<p align="right"><b>— Pham Ngu, Ke 64</b></p>
+<p align="right"><b>— Pham Hinh Phat, Ke 135</b></p>
 
 </td></tr>
 </table>
