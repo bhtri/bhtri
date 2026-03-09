@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年03月08日**
+### **2026年03月09日**
 
 <div align="center">
 <table>
@@ -37,23 +37,26 @@
 
 **🌸 名言 (Meigen)**
 
-> 情報をたくさん持っていれば、アイデアなんてそれこそ山のように浮かぶわけで、なにも思いつかないというのは、手持ちの情報量が少ないからなんです。
+> 神はこの世の終わりを決めている。だが我々は、その声を聴いてそれを避けることができる
 
-<p align="right"><b>— 堀江貴文</b></p>
+<p align="right"><b>— キャサリン・ノリス</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Với gậy người chăn bò,
-Lùa bò ra bãi cỏ;
-Cũng vậy, già và chết,
-Lùa người đến mạng chung.”
+> “Cỏ làm hại ruộng vườn,
+Sân làm hại người đời.
+Bố thí người ly sân,
+Do vậy được quả lớn.”
 >
-> *牧者の杖を以て牛を牧場に駆る如く、老と死とは有情の寿命を駆る。*
+> *田は雑草により損なわれ、この世の衆生は
+瞋恚
+により損なわる。
+されば瞋恚を離れし人への施与は大果報あり。*
 
-<p align="right"><b>— Pham Hinh Phat, Ke 135</b></p>
+<p align="right"><b>— Pham Tham Ai, Ke 357</b></p>
 
 </td></tr>
 </table>
