@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年03月09日**
+### **2026年03月10日**
 
 <div align="center">
 <table>
@@ -37,26 +37,25 @@
 
 **🌸 名言 (Meigen)**
 
-> 神はこの世の終わりを決めている。だが我々は、その声を聴いてそれを避けることができる
+> 最大の犯罪は、欲望によらず飽満によりて引き起こされる。
 
-<p align="right"><b>— キャサリン・ノリス</b></p>
+<p align="right"><b>— アリストテレス</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Cỏ làm hại ruộng vườn,
-Sân làm hại người đời.
-Bố thí người ly sân,
-Do vậy được quả lớn.”
+> “Khi nào chưa cắt tiệt,
+Ái dục giữa gái trai,
+Tâm ý vẫn buộc ràng,
+Như bò con vú mẹ.”
 >
-> *田は雑草により損なわれ、この世の衆生は
-瞋恚
-により損なわる。
-されば瞋恚を離れし人への施与は大果報あり。*
+> *男子の女子に対する欲情、いささかなりとも断たれざる間は、彼の心は
+繋縛
+せらる、あたかも乳を飲む子牛の母牛に於けるが如く。*
 
-<p align="right"><b>— Pham Tham Ai, Ke 357</b></p>
+<p align="right"><b>— Pham Dao, Ke 284</b></p>
 
 </td></tr>
 </table>
