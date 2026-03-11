@@ -1,7 +1,7 @@
 <p align='center'>
   <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I'm+%3Cwdvqmj7377+%2F%3E%2C+a+mobile+developer.;The+Best+Thing+Never+Come+Easy&color=FFFFFF" alt="Typing SVG" />
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I'm+%3Cwdvqmj7377+%2F%3E%2C+a+mobile+developer.;The+Best+Thing+Never+Come+Easy&color=000000" alt="Typing SVG" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I'm+%3Cbhtri+%2F%3E%2C+a+mobile+developer.;The+Best+Thing+Never+Come+Easy&color=FFFFFF" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I'm+%3Cbhtri+%2F%3E%2C+a+mobile+developer.;The+Best+Thing+Never+Come+Easy&color=000000" alt="Typing SVG" />
   </picture>
 </p>
 
