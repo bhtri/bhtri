@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年03月10日**
+### **2026年03月11日**
 
 <div align="center">
 <table>
@@ -37,25 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 最大の犯罪は、欲望によらず飽満によりて引き起こされる。
+> 格差の何が悪い？。頑張って成果だしたら報われる社会を否定すんな。
 
-<p align="right"><b>— アリストテレス</b></p>
+<p align="right"><b>— 堀江貴文</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Khi nào chưa cắt tiệt,
-Ái dục giữa gái trai,
-Tâm ý vẫn buộc ràng,
-Như bò con vú mẹ.”
+> “Như hồ nước sâu thẳm,
+Trong sáng, không khuấy đục,
+Cũng vậy, nghe chánh pháp,
+Người trí hưởng tịnh lạc.”
 >
-> *男子の女子に対する欲情、いささかなりとも断たれざる間は、彼の心は
-繋縛
-せらる、あたかも乳を飲む子牛の母牛に於けるが如く。*
+> *深き池の静かにして澄める如く、賢者は法を聞きて心清澄なり。*
 
-<p align="right"><b>— Pham Dao, Ke 284</b></p>
+<p align="right"><b>— Pham Hien Tri, Ke 82</b></p>
 
 </td></tr>
 </table>
