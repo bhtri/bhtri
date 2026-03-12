@@ -1,7 +1,7 @@
 <p align='center'>
   <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I'm+%3Cwdvqmj7377+%2F%3E%2C+a+mobile+developer.;The+Best+Thing+Never+Come+Easy&color=FFFFFF" alt="Typing SVG" />
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I'm+%3Cwdvqmj7377+%2F%3E%2C+a+mobile+developer.;The+Best+Thing+Never+Come+Easy&color=000000" alt="Typing SVG" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I'm+%3Cbhtri+%2F%3E%2C+a+mobile+developer.;The+Best+Thing+Never+Come+Easy&color=FFFFFF" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I'm+%3Cbhtri+%2F%3E%2C+a+mobile+developer.;The+Best+Thing+Never+Come+Easy&color=000000" alt="Typing SVG" />
   </picture>
 </p>
 
@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年03月11日**
+### **2026年03月12日**
 
 <div align="center">
 <table>
@@ -37,23 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 格差の何が悪い？。頑張って成果だしたら報われる社会を否定すんな。
+> 恐怖と勇気がどんなに近くに共存しているかは、敵に向かって突進する者が一番よく知っている。
 
-<p align="right"><b>— 堀江貴文</b></p>
+<p align="right"><b>— モルゲンシュテルン</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Như hồ nước sâu thẳm,
-Trong sáng, không khuấy đục,
-Cũng vậy, nghe chánh pháp,
-Người trí hưởng tịnh lạc.”
+> “Như sét từ sắt sanh,
+Sắt sanh lại ăn sắt,
+Cũng vậy, quá lợi dưỡng
+Tự nghiệp dẫn cõi ác.”
 >
-> *深き池の静かにして澄める如く、賢者は法を聞きて心清澄なり。*
+> *鉄より生じたる垢穢（錆）が、鉄より生じて鉄を蝕むが如く、自己の業は悪業者を悪趣に導く。*
 
-<p align="right"><b>— Pham Hien Tri, Ke 82</b></p>
+<p align="right"><b>— Pham Cau Ue, Ke 240</b></p>
 
 </td></tr>
 </table>
