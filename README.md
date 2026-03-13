@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年03月12日**
+### **2026年03月13日**
 
 <div align="center">
 <table>
@@ -37,23 +37,26 @@
 
 **🌸 名言 (Meigen)**
 
-> 恐怖と勇気がどんなに近くに共存しているかは、敵に向かって突進する者が一番よく知っている。
+> 希望は、それをもとめる気の毒な人を決して見捨てはしない。
 
-<p align="right"><b>— モルゲンシュテルン</b></p>
+<p align="right"><b>— ジョン・フレッチャ―</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Như sét từ sắt sanh,
-Sắt sanh lại ăn sắt,
-Cũng vậy, quá lợi dưỡng
-Tự nghiệp dẫn cõi ác.”
+> “Hạnh sáng như vàng ròng,
+Ai dám chê vị ấy?
+Chư thiên phải khen thưởng,
+Phạm Thiên cũng tán dương “.
 >
-> *鉄より生じたる垢穢（錆）が、鉄より生じて鉄を蝕むが如く、自己の業は悪業者を悪趣に導く。*
+> *あたかも
+閻浮檀金
+にて造りし貨幣の如く、誰か彼を謗り得んや。
+諸天も彼を称讃し、彼は梵天によりてもまた称讃せらる。*
 
-<p align="right"><b>— Pham Cau Ue, Ke 240</b></p>
+<p align="right"><b>— Pham Phan No, Ke 230</b></p>
 
 </td></tr>
 </table>
