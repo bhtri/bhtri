@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年03月13日**
+### **2026年03月14日**
 
 <div align="center">
 <table>
@@ -37,26 +37,25 @@
 
 **🌸 名言 (Meigen)**
 
-> 希望は、それをもとめる気の毒な人を決して見捨てはしない。
+> 「これが好き」とか「これは面白い」とか、事実ベースではなくて個人の主観による評価や判断については、討論してもしょうがないとおいら思っています。
 
-<p align="right"><b>— ジョン・フレッチャ―</b></p>
+<p align="right"><b>— 西村博之（ひろゆき）</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Hạnh sáng như vàng ròng,
-Ai dám chê vị ấy?
-Chư thiên phải khen thưởng,
-Phạm Thiên cũng tán dương “.
+> “Khi nào chưa cắt tiệt,
+Ái dục giữa gái trai,
+Tâm ý vẫn buộc ràng,
+Như bò con vú mẹ.”
 >
-> *あたかも
-閻浮檀金
-にて造りし貨幣の如く、誰か彼を謗り得んや。
-諸天も彼を称讃し、彼は梵天によりてもまた称讃せらる。*
+> *男子の女子に対する欲情、いささかなりとも断たれざる間は、彼の心は
+繋縛
+せらる、あたかも乳を飲む子牛の母牛に於けるが如く。*
 
-<p align="right"><b>— Pham Phan No, Ke 230</b></p>
+<p align="right"><b>— Pham Dao, Ke 284</b></p>
 
 </td></tr>
 </table>
