@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年03月14日**
+### **2026年03月15日**
 
 <div align="center">
 <table>
@@ -37,25 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 「これが好き」とか「これは面白い」とか、事実ベースではなくて個人の主観による評価や判断については、討論してもしょうがないとおいら思っています。
+> 人生とは孤独であることだ。
 
-<p align="right"><b>— 西村博之（ひろゆき）</b></p>
+<p align="right"><b>— ヘッセ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Khi nào chưa cắt tiệt,
-Ái dục giữa gái trai,
-Tâm ý vẫn buộc ràng,
-Như bò con vú mẹ.”
+> “Hãy nhìn như bọt nước,
+Hãy nhìn như cảnh huyễn!
+Quán nhìn đời như vậy,
+Thần chết không bắt gặp.”
 >
-> *男子の女子に対する欲情、いささかなりとも断たれざる間は、彼の心は
-繋縛
-せらる、あたかも乳を飲む子牛の母牛に於けるが如く。*
+> *泡沫を見る如く、陽炎（蜃気楼）を見る如く、かく世間を観ずる者を、死王は見ず。*
 
-<p align="right"><b>— Pham Dao, Ke 284</b></p>
+<p align="right"><b>— Pham The Gian, Ke 170</b></p>
 
 </td></tr>
 </table>
