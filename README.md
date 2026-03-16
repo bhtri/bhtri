@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年03月15日**
+### **2026年03月16日**
 
 <div align="center">
 <table>
@@ -37,23 +37,26 @@
 
 **🌸 名言 (Meigen)**
 
-> 人生とは孤独であることだ。
+> 人生の小さな不幸せは、我々が大きな不幸を乗り越えていくのを助けてくれる。
 
-<p align="right"><b>— ヘッセ</b></p>
+<p align="right"><b>— エッシェンバッハ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Hãy nhìn như bọt nước,
-Hãy nhìn như cảnh huyễn!
-Quán nhìn đời như vậy,
-Thần chết không bắt gặp.”
+> Kẻ trí bỏ pháp đen,
+Tu tập theo pháp trắng.
+Bỏ nhà, sống không nhà,
+Sống viễn ly khổ lạc.”
 >
-> *泡沫を見る如く、陽炎（蜃気楼）を見る如く、かく世間を観ずる者を、死王は見ず。*
+> *賢者は黒法（悪）を捨てて、白法（善）を修すべし。
+家より〔出でて〕、家なき境界に至り、
+孤独
+にして〔欲〕楽なき処に、*
 
-<p align="right"><b>— Pham The Gian, Ke 170</b></p>
+<p align="right"><b>— Pham Hien Tri, Ke 87</b></p>
 
 </td></tr>
 </table>
