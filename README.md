@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年03月16日**
+### **2026年03月17日**
 
 <div align="center">
 <table>
@@ -37,26 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 人生の小さな不幸せは、我々が大きな不幸を乗り越えていくのを助けてくれる。
+> 世に銭ほど面白き物はなし。
 
-<p align="right"><b>— エッシェンバッハ</b></p>
+<p align="right"><b>— 井原西鶴</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> Kẻ trí bỏ pháp đen,
-Tu tập theo pháp trắng.
-Bỏ nhà, sống không nhà,
-Sống viễn ly khổ lạc.”
+> “Ai ở đời đoạn ái
+Bỏ nhà, sống xuất gia,
+Ái hữu được đoạn tận,
+Ta gọi Bà-la-môn.”
 >
-> *賢者は黒法（悪）を捨てて、白法（善）を修すべし。
-家より〔出でて〕、家なき境界に至り、
-孤独
-にして〔欲〕楽なき処に、*
+> *この世に於て愛欲を捨て、家なくして遊行し、愛欲の生起を滅尽したる人、我はこれを婆羅門と呼ぶ。*
 
-<p align="right"><b>— Pham Hien Tri, Ke 87</b></p>
+<p align="right"><b>— Pham Ba La Mon, Ke 416</b></p>
 
 </td></tr>
 </table>
