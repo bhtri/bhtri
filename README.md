@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年03月17日**
+### **2026年03月18日**
 
 <div align="center">
 <table>
@@ -37,23 +37,26 @@
 
 **🌸 名言 (Meigen)**
 
-> 世に銭ほど面白き物はなし。
+> あらゆる歴史は、天国と地獄の両極端の間にある世界の振動の記録に過ぎない。一期間というのは、その振り子の一振りに過ぎないのに、各時代の人々は、世界が常に動いているので、進歩しているのだと思っている。
 
-<p align="right"><b>— 井原西鶴</b></p>
+<p align="right"><b>— バーナード・ショー</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Ai ở đời đoạn ái
-Bỏ nhà, sống xuất gia,
-Ái hữu được đoạn tận,
-Ta gọi Bà-la-môn.”
+> “Lành thay, phòng hộ mắt!
+Lành thay, phòng hộ tai.
+Lành thay, phòng hộ mũi,
+Lành thay, phòng hộ lưỡi.”
 >
-> *この世に於て愛欲を捨て、家なくして遊行し、愛欲の生起を滅尽したる人、我はこれを婆羅門と呼ぶ。*
+> *眼を制するは善し。
+耳を制するは善し。
+鼻を制するは善し。
+舌を制するは善し。*
 
-<p align="right"><b>— Pham Ba La Mon, Ke 416</b></p>
+<p align="right"><b>— Pham Ty Kheo, Ke 360</b></p>
 
 </td></tr>
 </table>
