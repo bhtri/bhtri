@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年03月18日**
+### **2026年03月19日**
 
 <div align="center">
 <table>
@@ -37,26 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> あらゆる歴史は、天国と地獄の両極端の間にある世界の振動の記録に過ぎない。一期間というのは、その振り子の一振りに過ぎないのに、各時代の人々は、世界が常に動いているので、進歩しているのだと思っている。
+> 何かいい物語があって、それを語る相手がいる。それだけで人生は捨てたもんじゃない。
 
-<p align="right"><b>— バーナード・ショー</b></p>
+<p align="right"><b>— 『海の上のピアニスト』</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Lành thay, phòng hộ mắt!
-Lành thay, phòng hộ tai.
-Lành thay, phòng hộ mũi,
-Lành thay, phòng hộ lưỡi.”
+> “Giao thiệp khéo thân thiện,
+Cử chỉ mực đoan trang.
+Do vậy hưởng vui nhiều,
+Sẽ dứt mọi khổ đau.”
 >
-> *眼を制するは善し。
-耳を制するは善し。
-鼻を制するは善し。
-舌を制するは善し。*
+> *好誼を尽くすべし、善行を全うすべし。
+これによりて悦楽多く、苦を滅尽するに至らん。*
 
-<p align="right"><b>— Pham Ty Kheo, Ke 360</b></p>
+<p align="right"><b>— Pham Ty Kheo, Ke 376</b></p>
 
 </td></tr>
 </table>
