@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年03月19日**
+### **2026年03月20日**
 
 <div align="center">
 <table>
@@ -37,24 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 何かいい物語があって、それを語る相手がいる。それだけで人生は捨てたもんじゃない。
+> ある人たちにとっては幸福なことが、他の人たちにとっては不幸なのだ。
 
-<p align="right"><b>— 『海の上のピアニスト』</b></p>
+<p align="right"><b>— ラディゲ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Giao thiệp khéo thân thiện,
-Cử chỉ mực đoan trang.
-Do vậy hưởng vui nhiều,
-Sẽ dứt mọi khổ đau.”
+> “Dầu tại bãi chiến trường
+Thắng ngàn ngàn quân địch,
+Tự thắng mình tốt hơn,
+Thật chiến thắng tối thượng.”
 >
-> *好誼を尽くすべし、善行を全うすべし。
-これによりて悦楽多く、苦を滅尽するに至らん。*
+> *戦場に於て百万人に勝つとも、一の自己に克つ者こそ実に最上の戦勝者なれ。*
 
-<p align="right"><b>— Pham Ty Kheo, Ke 376</b></p>
+<p align="right"><b>— Pham Ngan, Ke 103</b></p>
 
 </td></tr>
 </table>
