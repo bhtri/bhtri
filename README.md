@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年03月20日**
+### **2026年03月21日**
 
 <div align="center">
 <table>
@@ -37,23 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> ある人たちにとっては幸福なことが、他の人たちにとっては不幸なのだ。
+> 初恋とは少しばかりの愚かさとありあまる好奇心のことだ。
 
-<p align="right"><b>— ラディゲ</b></p>
+<p align="right"><b>— バーナード・ショー</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Dầu tại bãi chiến trường
-Thắng ngàn ngàn quân địch,
-Tự thắng mình tốt hơn,
-Thật chiến thắng tối thượng.”
+> “Ai cắt được, phá được,
+Tận gốc nhổ tâm ấy.
+Người ấy ngày hoặc đêm,
+Ðạt được tâm thiền định.”
 >
-> *戦場に於て百万人に勝つとも、一の自己に克つ者こそ実に最上の戦勝者なれ。*
+> *かかる〔心を〕断ち、根元より絶滅する者は、昼も夜も実に三昧に入ることを得。*
 
-<p align="right"><b>— Pham Ngan, Ke 103</b></p>
+<p align="right"><b>— Pham Cau Ue, Ke 250</b></p>
 
 </td></tr>
 </table>
