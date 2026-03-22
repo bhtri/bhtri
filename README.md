@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年03月21日**
+### **2026年03月22日**
 
 <div align="center">
 <table>
@@ -37,23 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 初恋とは少しばかりの愚かさとありあまる好奇心のことだ。
+> ある者の愚行は他の者の財産である。
 
-<p align="right"><b>— バーナード・ショー</b></p>
+<p align="right"><b>— ベーコン</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Ai cắt được, phá được,
-Tận gốc nhổ tâm ấy.
-Người ấy ngày hoặc đêm,
-Ðạt được tâm thiền định.”
+> “Giữ lời đừng phẫn nộ,
+Phòng lời, khéo bảo vệ,
+Từ bỏ lời thô ác,
+Với lời, nói điều lành.”
 >
-> *かかる〔心を〕断ち、根元より絶滅する者は、昼も夜も実に三昧に入ることを得。*
+> *語の忿怒を摂護し、語を制御すべし。
+語の悪行を捨て、語によりて善行を修すべし。*
 
-<p align="right"><b>— Pham Cau Ue, Ke 250</b></p>
+<p align="right"><b>— Pham Phan No, Ke 232</b></p>
 
 </td></tr>
 </table>
