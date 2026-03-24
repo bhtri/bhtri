@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年03月23日**
+### **2026年03月24日**
 
 <div align="center">
 <table>
@@ -37,25 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 私からの忠告はこうだ。もし強盗に出会ったら、他の憶病者達と一緒に並んでいなさい。あなたの勇気は、もっと自分の得になる時のために取っておいたらいい。
+> 世に画一主義の教育ほどみじめなものはない。依頼心、卑屈心、形式偏重、常識欠乏、皆その所産である。
 
-<p align="right"><b>— O.ヘンリー</b></p>
+<p align="right"><b>— 武蔵山冶（日：政治家）</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Không khinh điều mình được,
-Không ganh người khác được
-Tỷ kheo ganh tị người,
-Không sao chứng Thiền Ðịnh.”
+> “Tự sách tấn, chánh niệm,
+Không thích cư xá nào,
+Như ngỗng trời rời ao,
+Bỏ sau mọi trú ẩn.”
 >
-> *自己の所得を軽んずべからず。
-他を羨むべからず。
-他を羨む比丘は三昧に入ることなし。*
+> *正念ある人は出家し、彼らは在家を喜ばず。
+池を捨て去る鵞鳥の如く、彼らはいずれの家をも捨つ。*
 
-<p align="right"><b>— Pham Ty Kheo, Ke 365</b></p>
+<p align="right"><b>— Pham A-La-Han, Ke 91</b></p>
 
 </td></tr>
 </table>
