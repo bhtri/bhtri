@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年03月24日**
+### **2026年03月25日**
 
 <div align="center">
 <table>
@@ -37,24 +37,25 @@
 
 **🌸 名言 (Meigen)**
 
-> 世に画一主義の教育ほどみじめなものはない。依頼心、卑屈心、形式偏重、常識欠乏、皆その所産である。
+> 科学は前進するが、人間は変わらない。
 
-<p align="right"><b>— 武蔵山冶（日：政治家）</b></p>
+<p align="right"><b>— ベルナール</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Tự sách tấn, chánh niệm,
-Không thích cư xá nào,
-Như ngỗng trời rời ao,
-Bỏ sau mọi trú ẩn.”
+> “Vượt đường nguy hiểm này,
+Nhiếp phục luân hồi, si,
+Ðến bờ kia thiền định
+Không dục ái, không nghi,
+Không chấp trước, tịch tịnh,
+Ta gọi Bà-la-môn.”
 >
-> *正念ある人は出家し、彼らは在家を喜ばず。
-池を捨て去る鵞鳥の如く、彼らはいずれの家をも捨つ。*
+> *この泥濘（貪欲等）と越え難き輪廻と愚痴とを越え、渡りて彼岸に達し、禅定に住し、無欲にして疑惑なく、執着を捨てて寂静なる人、我はこれを婆羅門と呼ぶ。*
 
-<p align="right"><b>— Pham A-La-Han, Ke 91</b></p>
+<p align="right"><b>— Pham Ba La Mon, Ke 414</b></p>
 
 </td></tr>
 </table>
