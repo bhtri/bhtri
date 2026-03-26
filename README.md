@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年03月25日**
+### **2026年03月26日**
 
 <div align="center">
 <table>
@@ -37,25 +37,26 @@
 
 **🌸 名言 (Meigen)**
 
-> 科学は前進するが、人間は変わらない。
+> 成功する人は錐（きり）のように、ある一点に向かって働く。
 
-<p align="right"><b>— ベルナール</b></p>
+<p align="right"><b>— ポビー</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Vượt đường nguy hiểm này,
-Nhiếp phục luân hồi, si,
-Ðến bờ kia thiền định
-Không dục ái, không nghi,
-Không chấp trước, tịch tịnh,
-Ta gọi Bà-la-môn.”
+> “Chớ nói lời ác độc,
+Nói ác, bị nói lại,
+Khổ thay lời phẩn nộ,
+Ðao trượng phản chạm mình.”
 >
-> *この泥濘（貪欲等）と越え難き輪廻と愚痴とを越え、渡りて彼岸に達し、禅定に住し、無欲にして疑惑なく、執着を捨てて寂静なる人、我はこれを婆羅門と呼ぶ。*
+> *粗暴の言を用うべからず。
+言われし者また汝に言を返さん。
+忿怒の言は実に苦なり。
+刀杖かえって汝に触れん。*
 
-<p align="right"><b>— Pham Ba La Mon, Ke 414</b></p>
+<p align="right"><b>— Pham Hinh Phat, Ke 133</b></p>
 
 </td></tr>
 </table>
