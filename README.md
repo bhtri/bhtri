@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年03月26日**
+### **2026年03月27日**
 
 <div align="center">
 <table>
@@ -37,26 +37,25 @@
 
 **🌸 名言 (Meigen)**
 
-> 成功する人は錐（きり）のように、ある一点に向かって働く。
+> 人を応援するって、すごく幸福なことなんですよ。
 
-<p align="right"><b>— ポビー</b></p>
+<p align="right"><b>— 西村博之（ひろゆき）</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Chớ nói lời ác độc,
-Nói ác, bị nói lại,
-Khổ thay lời phẩn nộ,
-Ðao trượng phản chạm mình.”
+> Tâm hoảng hốt giao động,
+Khó hộ trì, khó nhiếp,
+Người trí làm tâm thẳng,
+Như thợ tên, làm tên.
 >
-> *粗暴の言を用うべからず。
-言われし者また汝に言を返さん。
-忿怒の言は実に苦なり。
-刀杖かえって汝に触れん。*
+> *賢慮ある者は、戦慄し動揺し護り難く制し難き心を直くすること、あたかも箭匠の
+箭
+に於けるが如し。*
 
-<p align="right"><b>— Pham Hinh Phat, Ke 133</b></p>
+<p align="right"><b>— Pham Tam, Ke 33</b></p>
 
 </td></tr>
 </table>
