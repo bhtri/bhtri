@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年03月27日**
+### **2026年03月28日**
 
 <div align="center">
 <table>
@@ -37,25 +37,30 @@
 
 **🌸 名言 (Meigen)**
 
-> 人を応援するって、すごく幸福なことなんですよ。
+> 人間は他人の経験を利用するという特殊な能力をもった動物である。
 
-<p align="right"><b>— 西村博之（ひろゆき）</b></p>
+<p align="right"><b>— コリンウッド</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> Tâm hoảng hốt giao động,
-Khó hộ trì, khó nhiếp,
-Người trí làm tâm thẳng,
-Như thợ tên, làm tên.
+> “Vui hạnh xuất gia khó,
+Tại gia sinh hoạt khó,
+Sống bạn không đồng, khổ,
+Trôi lăn luân hồi, khổ,
+Vậy chớ sống luân hồi,
+Chớ chạy theo đau khổ.”
 >
-> *賢慮ある者は、戦慄し動揺し護り難く制し難き心を直くすること、あたかも箭匠の
-箭
-に於けるが如し。*
+> *出家の生活は難くして楽しみ難し。
+在家の生活も難くして苦なり。
+同輩と共に住むは苦なり。
+〔輪廻の〕遍歴者は苦に陥る。
+故に遍歴者たるべからず。
+然らば苦に陥ることなからん。*
 
-<p align="right"><b>— Pham Tam, Ke 33</b></p>
+<p align="right"><b>— Pham Tap Luc, Ke 302</b></p>
 
 </td></tr>
 </table>
