@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年03月28日**
+### **2026年03月29日**
 
 <div align="center">
 <table>
@@ -37,30 +37,25 @@
 
 **🌸 名言 (Meigen)**
 
-> 人間は他人の経験を利用するという特殊な能力をもった動物である。
+> 人生は短い。たとえ、それを長いと思って過ごしている人たちにとっても。
 
-<p align="right"><b>— コリンウッド</b></p>
+<p align="right"><b>—  A.モーロア</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Vui hạnh xuất gia khó,
-Tại gia sinh hoạt khó,
-Sống bạn không đồng, khổ,
-Trôi lăn luân hồi, khổ,
-Vậy chớ sống luân hồi,
-Chớ chạy theo đau khổ.”
+> “Vị chiến thắng không bại,
+Vị bước đi trên đời,
+Không dấu tích chiến thắng,
+Phật giới rộng mênh mông,
+Ai dùng chân theo dõi
+Bậc không để dấu tích?”
 >
-> *出家の生活は難くして楽しみ難し。
-在家の生活も難くして苦なり。
-同輩と共に住むは苦なり。
-〔輪廻の〕遍歴者は苦に陥る。
-故に遍歴者たるべからず。
-然らば苦に陥ることなからん。*
+> *その勝利は決して凌駕せられず、その勝利にはこの世に於て何人も及ぶあたわざる、かの〔智見〕無辺にして〔流転の〕道跡なき仏陀を、いかなる道によりて導き来らんとするや。*
 
-<p align="right"><b>— Pham Tap Luc, Ke 302</b></p>
+<p align="right"><b>— Pham Phat Da, Ke 179</b></p>
 
 </td></tr>
 </table>
