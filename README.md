@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年03月29日**
+### **2026年03月30日**
 
 <div align="center">
 <table>
@@ -37,25 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 人生は短い。たとえ、それを長いと思って過ごしている人たちにとっても。
+> 人は、運命を避けようとしてとった道で、しばしば運命にであう。
 
-<p align="right"><b>—  A.モーロア</b></p>
+<p align="right"><b>— ラ・フォンテーヌ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Vị chiến thắng không bại,
-Vị bước đi trên đời,
-Không dấu tích chiến thắng,
-Phật giới rộng mênh mông,
-Ai dùng chân theo dõi
-Bậc không để dấu tích?”
+> “Dùng trượng phạt không trượng,
+Làm ác người không ác.
+Trong mười loại khổ đau,
+Chịu gấp một loại khổ.”
 >
-> *その勝利は決して凌駕せられず、その勝利にはこの世に於て何人も及ぶあたわざる、かの〔智見〕無辺にして〔流転の〕道跡なき仏陀を、いかなる道によりて導き来らんとするや。*
+> *罪過なく、邪念なき人を刀杖を以て害する者は、忽ち〔下の如き〕十中の一事に遇うべし。*
 
-<p align="right"><b>— Pham Phat Da, Ke 179</b></p>
+<p align="right"><b>— Pham Hinh Phat, Ke 137</b></p>
 
 </td></tr>
 </table>
