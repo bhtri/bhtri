@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年03月30日**
+### **2026年03月31日**
 
 <div align="center">
 <table>
@@ -37,23 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 人は、運命を避けようとしてとった道で、しばしば運命にであう。
+> 結果だけが強調されていて、練習でどのくらい成長したかなんて気にもとめられない。どれだけ進歩しているのか、その過程は自分で楽しめ。勝敗についてあれこれ思うのはやめるんだ。
 
-<p align="right"><b>— ラ・フォンテーヌ</b></p>
+<p align="right"><b>— マット・ビオンディ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Dùng trượng phạt không trượng,
-Làm ác người không ác.
-Trong mười loại khổ đau,
-Chịu gấp một loại khổ.”
+> “Hoặc phòng ốc nhà cửa
+Bị hỏa tai thiêu đốt.
+Khi thân hoại mạng chung,
+Ác tuệ sanh địa ngục.”
 >
-> *罪過なく、邪念なき人を刀杖を以て害する者は、忽ち〔下の如き〕十中の一事に遇うべし。*
+> *或いはまた浄火彼の家を焼く。
+愚痴なる者はその身滅びて後地獄に堕つ。*
 
-<p align="right"><b>— Pham Hinh Phat, Ke 137</b></p>
+<p align="right"><b>— Pham Hinh Phat, Ke 140</b></p>
 
 </td></tr>
 </table>
