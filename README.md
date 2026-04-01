@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年03月31日**
+### **2026年04月01日**
 
 <div align="center">
 <table>
@@ -37,24 +37,29 @@
 
 **🌸 名言 (Meigen)**
 
-> 結果だけが強調されていて、練習でどのくらい成長したかなんて気にもとめられない。どれだけ進歩しているのか、その過程は自分で楽しめ。勝敗についてあれこれ思うのはやめるんだ。
+> 幸せな人はいい気にならないために、幸せでないひとは支えとして、不幸な人は屈しないために、それぞれ信仰を必要とする。
 
-<p align="right"><b>— マット・ビオンディ</b></p>
+<p align="right"><b>— フンボルト</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Hoặc phòng ốc nhà cửa
-Bị hỏa tai thiêu đốt.
-Khi thân hoại mạng chung,
-Ác tuệ sanh địa ngục.”
+> “Lành thay,phòng hộ thân!
+Lành thay, phòng hộ lời,
+Lành thay, phòng hộ ý.
+Lành thay, phòng tất cả.
+Tỷ kheo phòng tất cả.
+Thoát được mọi khổ đau.”
 >
-> *或いはまた浄火彼の家を焼く。
-愚痴なる者はその身滅びて後地獄に堕つ。*
+> *身を制するは善し。
+語を制するは善し。
+意を制するは善し。
+一切に於て制するは善し。
+一切に於て制したる比丘は一切の苦より脱す。*
 
-<p align="right"><b>— Pham Hinh Phat, Ke 140</b></p>
+<p align="right"><b>— Pham Ty Kheo, Ke 361</b></p>
 
 </td></tr>
 </table>
