@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年04月01日**
+### **2026年04月02日**
 
 <div align="center">
 <table>
@@ -37,29 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 幸せな人はいい気にならないために、幸せでないひとは支えとして、不幸な人は屈しないために、それぞれ信仰を必要とする。
+> 初心わするるべからず
 
-<p align="right"><b>— フンボルト</b></p>
+<p align="right"><b>— 宮本武蔵</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Lành thay,phòng hộ thân!
-Lành thay, phòng hộ lời,
-Lành thay, phòng hộ ý.
-Lành thay, phòng tất cả.
-Tỷ kheo phòng tất cả.
-Thoát được mọi khổ đau.”
+> “Người lành dầu ở xa
+Sáng tỏ như núi tuyết,
+Người ác dầu ở gần
+Như tên bắn đêm đen.”
 >
-> *身を制するは善し。
-語を制するは善し。
-意を制するは善し。
-一切に於て制するは善し。
-一切に於て制したる比丘は一切の苦より脱す。*
+> *遠方にあるとも善人は、輝くことヒマラヤ山の如く、近隣にあるとも不善者は、見えざること夜陰に放たれし矢の如し。*
 
-<p align="right"><b>— Pham Ty Kheo, Ke 361</b></p>
+<p align="right"><b>— Pham Tap Luc, Ke 304</b></p>
 
 </td></tr>
 </table>
