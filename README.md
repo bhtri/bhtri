@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年04月02日**
+### **2026年04月03日**
 
 <div align="center">
 <table>
@@ -37,23 +37,35 @@
 
 **🌸 名言 (Meigen)**
 
-> 初心わするるべからず
+> 勝てば官軍　負ければ賊軍
 
-<p align="right"><b>— 宮本武蔵</b></p>
+<p align="right"><b>— 日本の諺</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Người lành dầu ở xa
-Sáng tỏ như núi tuyết,
-Người ác dầu ở gần
-Như tên bắn đêm đen.”
+> Dầu nói ít kinh điển,
+Nhưng hành pháp, tùy pháp,
+Từ bỏ tham, sân, si,
+Tĩnh giác, tâm giải thoát,
+Không chấp thủ hai đời,
+Dự phần Sa môn hạnh.
 >
-> *遠方にあるとも善人は、輝くことヒマラヤ山の如く、近隣にあるとも不善者は、見えざること夜陰に放たれし矢の如し。*
+> *たとい経典を誦すること少なくとも、法に
+遵
+いて挙止し、貪欲と
+瞋恚
+と
+愚痴
+とを捨て、正智を得て心よく
+解脱
+し、この世に於てもかの世に於ても
+執着
+なきものは、〔真の〕沙門の列に入る。*
 
-<p align="right"><b>— Pham Tap Luc, Ke 304</b></p>
+<p align="right"><b>— Pham Song Yeu, Ke 20</b></p>
 
 </td></tr>
 </table>
