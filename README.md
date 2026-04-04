@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年04月03日**
+### **2026年04月04日**
 
 <div align="center">
 <table>
@@ -37,35 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 勝てば官軍　負ければ賊軍
+> Whatever you do will be insignificant. but it is very important that you do it.自分が行動したことすべては取るに足らないことかもしれない。しかし、行動したというそのことが重要なのである。
 
-<p align="right"><b>— 日本の諺</b></p>
+<p align="right"><b>— ガンディー　[ガンジー](インド独立指導者)</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> Dầu nói ít kinh điển,
-Nhưng hành pháp, tùy pháp,
-Từ bỏ tham, sân, si,
-Tĩnh giác, tâm giải thoát,
-Không chấp thủ hai đời,
-Dự phần Sa môn hạnh.
+> “Vui thay chúng ta sống,
+Không gì, gọi của ta.
+Ta sẽ hưởng hỷ lạc,
+Như chư thiên Quang Âm.”
 >
-> *たとい経典を誦すること少なくとも、法に
-遵
-いて挙止し、貪欲と
-瞋恚
-と
-愚痴
-とを捨て、正智を得て心よく
-解脱
-し、この世に於てもかの世に於ても
-執着
-なきものは、〔真の〕沙門の列に入る。*
+> *我らは、何物をも有せずして、安楽に生きん。
+我らは光音天神の如く、歓喜を以て食となさん。*
 
-<p align="right"><b>— Pham Song Yeu, Ke 20</b></p>
+<p align="right"><b>— Pham An Lac, Ke 200</b></p>
 
 </td></tr>
 </table>
