@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年04月04日**
+### **2026年04月05日**
 
 <div align="center">
 <table>
@@ -37,24 +37,30 @@
 
 **🌸 名言 (Meigen)**
 
-> Whatever you do will be insignificant. but it is very important that you do it.自分が行動したことすべては取るに足らないことかもしれない。しかし、行動したというそのことが重要なのである。
+> 人生とは、人前でバイオリンを弾きながら、しだいに腕を上げてゆくようなものである。
 
-<p align="right"><b>— ガンディー　[ガンジー](インド独立指導者)</b></p>
+<p align="right"><b>— サミュエル・バトラー</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Vui thay chúng ta sống,
-Không gì, gọi của ta.
-Ta sẽ hưởng hỷ lạc,
-Như chư thiên Quang Âm.”
+> “Không phỉ báng, phá hoại,
+Hộ trì giới căn bản,
+Ăn uống có tiết độ,
+Sàng tọa chỗ nhàn tịnh
+Chuyên chú tăng thượng tâm,
+Chính lời chư Phật dạy.”
 >
-> *我らは、何物をも有せずして、安楽に生きん。
-我らは光音天神の如く、歓喜を以て食となさん。*
+> *謗らず
+害
+わず、
+戒律
+を厳守し、食するに量を知り、孤独に坐臥し、高尚なる思慮に専念す。
+これ諸仏の教えなり。*
 
-<p align="right"><b>— Pham An Lac, Ke 200</b></p>
+<p align="right"><b>— Pham Phat Da, Ke 185</b></p>
 
 </td></tr>
 </table>
