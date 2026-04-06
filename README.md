@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年04月05日**
+### **2026年04月06日**
 
 <div align="center">
 <table>
@@ -37,30 +37,26 @@
 
 **🌸 名言 (Meigen)**
 
-> 人生とは、人前でバイオリンを弾きながら、しだいに腕を上げてゆくようなものである。
+> 人生は将棋のようなものだ。自分の手中にあるものはチャンスではなく、駒の進め方だ。
 
-<p align="right"><b>— サミュエル・バトラー</b></p>
+<p align="right"><b>—  P.テレンティウス</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Không phỉ báng, phá hoại,
-Hộ trì giới căn bản,
-Ăn uống có tiết độ,
-Sàng tọa chỗ nhàn tịnh
-Chuyên chú tăng thượng tâm,
-Chính lời chư Phật dạy.”
+> “Sống phóng đãng buông lung,
+Theo giới cấm ô nhiễm,
+Sống Phạm hạnh đáng nghi
+Sao chứng được quả lớn?
 >
-> *謗らず
-害
-わず、
-戒律
-を厳守し、食するに量を知り、孤独に坐臥し、高尚なる思慮に専念す。
-これ諸仏の教えなり。*
+> *懈怠
+の行為、汚れたる戒行、逡巡せる
+梵行
+、かかるものに大果なし。*
 
-<p align="right"><b>— Pham Phat Da, Ke 185</b></p>
+<p align="right"><b>— Pham Dia Nguc, Ke 312</b></p>
 
 </td></tr>
 </table>
