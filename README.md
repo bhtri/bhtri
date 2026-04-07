@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年04月06日**
+### **2026年04月07日**
 
 <div align="center">
 <table>
@@ -37,26 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 人生は将棋のようなものだ。自分の手中にあるものはチャンスではなく、駒の進め方だ。
+> 人生は一頭の馬である。軽快なたくましい馬である。人間はそれを騎手のように大胆に、しかも細心に取り扱わなければならない。
 
-<p align="right"><b>—  P.テレンティウス</b></p>
+<p align="right"><b>— ヘルマン・ヘッセ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Sống phóng đãng buông lung,
-Theo giới cấm ô nhiễm,
-Sống Phạm hạnh đáng nghi
-Sao chứng được quả lớn?
+> “Tự sách tấn, chánh niệm,
+Không thích cư xá nào,
+Như ngỗng trời rời ao,
+Bỏ sau mọi trú ẩn.”
 >
-> *懈怠
-の行為、汚れたる戒行、逡巡せる
-梵行
-、かかるものに大果なし。*
+> *正念ある人は出家し、彼らは在家を喜ばず。
+池を捨て去る鵞鳥の如く、彼らはいずれの家をも捨つ。*
 
-<p align="right"><b>— Pham Dia Nguc, Ke 312</b></p>
+<p align="right"><b>— Pham A-La-Han, Ke 91</b></p>
 
 </td></tr>
 </table>
