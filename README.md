@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年04月07日**
+### **2026年04月08日**
 
 <div align="center">
 <table>
@@ -37,24 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 人生は一頭の馬である。軽快なたくましい馬である。人間はそれを騎手のように大胆に、しかも細心に取り扱わなければならない。
+> 大切なのは、思考を柔らかくし、あらゆる可能性を想像してみること。
 
-<p align="right"><b>— ヘルマン・ヘッセ</b></p>
+<p align="right"><b>— 堀江貴文</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Tự sách tấn, chánh niệm,
-Không thích cư xá nào,
-Như ngỗng trời rời ao,
-Bỏ sau mọi trú ẩn.”
+> Nó mắng tôi, đánh tôi,
+Nó thắng tôi, cướp tôi
+Ai ôm hiềm hận ấy,
+Hận thù không thể nguôi.
 >
-> *正念ある人は出家し、彼らは在家を喜ばず。
-池を捨て去る鵞鳥の如く、彼らはいずれの家をも捨つ。*
+> *「彼、我を罵れり、我を投げ打てり、我を敗れり、我より奪えり」と、かかる執念を懐く人には、その忿怨やむことなし。*
 
-<p align="right"><b>— Pham A-La-Han, Ke 91</b></p>
+<p align="right"><b>— Pham Song Yeu, Ke 3</b></p>
 
 </td></tr>
 </table>
