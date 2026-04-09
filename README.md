@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年04月08日**
+### **2026年04月09日**
 
 <div align="center">
 <table>
@@ -37,23 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 大切なのは、思考を柔らかくし、あらゆる可能性を想像してみること。
+> 愛されることは幸福ではない。愛することこそ幸福だ。
 
-<p align="right"><b>— 堀江貴文</b></p>
+<p align="right"><b>— ヘルマン・ヘッセ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> Nó mắng tôi, đánh tôi,
-Nó thắng tôi, cướp tôi
-Ai ôm hiềm hận ấy,
-Hận thù không thể nguôi.
+> “Không trí tuệ, không thiền,
+Không thiền, không trí tuệ.
+Người có thiền có tuệ,
+Nhất định gần Niết-Bàn.”
 >
-> *「彼、我を罵れり、我を投げ打てり、我を敗れり、我より奪えり」と、かかる執念を懐く人には、その忿怨やむことなし。*
+> *智慧なき者に禅定なく、禅定なき者に智慧なし。
+禅定と智慧とを備えたる者は、実に涅槃に近づけるなり。*
 
-<p align="right"><b>— Pham Song Yeu, Ke 3</b></p>
+<p align="right"><b>— Pham Ty Kheo, Ke 372</b></p>
 
 </td></tr>
 </table>
