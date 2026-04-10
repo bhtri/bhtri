@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年04月09日**
+### **2026年04月10日**
 
 <div align="center">
 <table>
@@ -37,24 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 愛されることは幸福ではない。愛することこそ幸福だ。
+> 母親の涙には、化学で分析できない深く尊い愛情がこもっている。
 
-<p align="right"><b>— ヘルマン・ヘッセ</b></p>
+<p align="right"><b>— ファラデー</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Không trí tuệ, không thiền,
-Không thiền, không trí tuệ.
-Người có thiền có tuệ,
-Nhất định gần Niết-Bàn.”
+> “Pháp hỷ đem an lạc,
+Với tâm tư thuần tịnh;
+Người trí thường hoan hỷ,
+Với pháp bậc Thánh thuyết.”
 >
-> *智慧なき者に禅定なく、禅定なき者に智慧なし。
-禅定と智慧とを備えたる者は、実に涅槃に近づけるなり。*
+> *法〔水〕を飲む者は、清澄なる心を以て快適に臥す。
+賢者は常に聖者の説ける法を楽しむ。*
 
-<p align="right"><b>— Pham Ty Kheo, Ke 372</b></p>
+<p align="right"><b>— Pham Hien Tri, Ke 79</b></p>
 
 </td></tr>
 </table>
