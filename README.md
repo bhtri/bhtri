@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年04月10日**
+### **2026年04月11日**
 
 <div align="center">
 <table>
@@ -37,24 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 母親の涙には、化学で分析できない深く尊い愛情がこもっている。
+> すべての人間の一生は、神の手によって書かれた童話にすぎない。
 
-<p align="right"><b>— ファラデー</b></p>
+<p align="right"><b>— アンデルセン</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Pháp hỷ đem an lạc,
-Với tâm tư thuần tịnh;
-Người trí thường hoan hỷ,
-Với pháp bậc Thánh thuyết.”
+> “Hãy cầu vui Niết Bàn,
+Bỏ dục, không sở hữu,
+Kẻ trí tự rửa sạch,
+Cấu uế từ nội tâm.”
 >
-> *法〔水〕を飲む者は、清澄なる心を以て快適に臥す。
-賢者は常に聖者の説ける法を楽しむ。*
+> *〔法〕楽を求むべし。
+賢者は諸欲を捨て、無一物となり、自己を心垢より浄むべし。*
 
-<p align="right"><b>— Pham Hien Tri, Ke 79</b></p>
+<p align="right"><b>— Pham Hien Tri, Ke 88</b></p>
 
 </td></tr>
 </table>
