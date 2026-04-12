@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年04月11日**
+### **2026年04月12日**
 
 <div align="center">
 <table>
@@ -37,24 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> すべての人間の一生は、神の手によって書かれた童話にすぎない。
+> 恋は空腹で生き、満腹になって死ぬ。
 
-<p align="right"><b>— アンデルセン</b></p>
+<p align="right"><b>— ミュッセ「マルドッシュ」</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Hãy cầu vui Niết Bàn,
-Bỏ dục, không sở hữu,
-Kẻ trí tự rửa sạch,
-Cấu uế từ nội tâm.”
+> “Bỏ điều ưa, điều ghét,
+Mát lạnh, diệt sanh y
+Bậc anh hùng chiến thắng,
+Nhiếp phục mọi thế giới,
+Ta gọi Bà-la-môn.”
 >
-> *〔法〕楽を求むべし。
-賢者は諸欲を捨て、無一物となり、自己を心垢より浄むべし。*
+> *楽と不楽とを捨て、清涼にして煩悩なく、一切世界を克服せる勇者、我はこれを婆羅門と呼ぶ。*
 
-<p align="right"><b>— Pham Hien Tri, Ke 88</b></p>
+<p align="right"><b>— Pham Ba La Mon, Ke 418</b></p>
 
 </td></tr>
 </table>
