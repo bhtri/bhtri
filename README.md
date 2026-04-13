@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年04月12日**
+### **2026年04月13日**
 
 <div align="center">
 <table>
@@ -37,24 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 恋は空腹で生き、満腹になって死ぬ。
+> 考え方を教えるべきで、考えたことを教えるべきではない。
 
-<p align="right"><b>— ミュッセ「マルドッシュ」</b></p>
+<p align="right"><b>— グルリット（独：建築史家）</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Bỏ điều ưa, điều ghét,
-Mát lạnh, diệt sanh y
-Bậc anh hùng chiến thắng,
-Nhiếp phục mọi thế giới,
-Ta gọi Bà-la-môn.”
+> “Chiến thắng sinh thù oán,
+Thất bại chịu khổ đau,
+Sống tịch tịnh an lạc.
+Bỏ sau mọi thắng bại.”
 >
-> *楽と不楽とを捨て、清涼にして煩悩なく、一切世界を克服せる勇者、我はこれを婆羅門と呼ぶ。*
+> *勝利は怨憎を生じ、敗者は苦しみて臥す。
+寂静に帰せる人は、勝敗を捨てて安楽に臥す。*
 
-<p align="right"><b>— Pham Ba La Mon, Ke 418</b></p>
+<p align="right"><b>— Pham An Lac, Ke 201</b></p>
 
 </td></tr>
 </table>
