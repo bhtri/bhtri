@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年04月13日**
+### **2026年04月14日**
 
 <div align="center">
 <table>
@@ -37,24 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 考え方を教えるべきで、考えたことを教えるべきではない。
+> 逆向きに生きようとする人が多い。ものや金をいくらでも欲しがり、それで自分のしたいことをして幸福になろうとする。それは順序があべこべなのだ。まず真の自分になり、それから、するべきことをして、自分の望みのものを手に入れるのである。
 
-<p align="right"><b>— グルリット（独：建築史家）</b></p>
+<p align="right"><b>— マーガレット・ヤング</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Chiến thắng sinh thù oán,
-Thất bại chịu khổ đau,
-Sống tịch tịnh an lạc.
-Bỏ sau mọi thắng bại.”
+> Tâm không đầy tràn dục,
+Tâm không (hận) công phá,
+Ðoạn tuyệt mọi thiện ác,
+Kẻ tỉnh không sợ hãi.
 >
-> *勝利は怨憎を生じ、敗者は苦しみて臥す。
-寂静に帰せる人は、勝敗を捨てて安楽に臥す。*
+> *心に煩悩なく、思慮惑乱せず、善悪を超脱し、覚醒せる人には恐怖なし。*
 
-<p align="right"><b>— Pham An Lac, Ke 201</b></p>
+<p align="right"><b>— Pham Tam, Ke 39</b></p>
 
 </td></tr>
 </table>
