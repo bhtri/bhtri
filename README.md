@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年04月14日**
+### **2026年04月15日**
 
 <div align="center">
 <table>
@@ -37,23 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 逆向きに生きようとする人が多い。ものや金をいくらでも欲しがり、それで自分のしたいことをして幸福になろうとする。それは順序があべこべなのだ。まず真の自分になり、それから、するべきことをして、自分の望みのものを手に入れるのである。
+> 一生を棒に降りし男ここに眠る。彼は無価値に生きたり。
 
-<p align="right"><b>— マーガレット・ヤング</b></p>
+<p align="right"><b>— 高村光太郎〔墓碑銘〕</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> Tâm không đầy tràn dục,
-Tâm không (hận) công phá,
-Ðoạn tuyệt mọi thiện ác,
-Kẻ tỉnh không sợ hãi.
+> “Dầu nói ngàn câu kệ
+Nhưng không gì lợi ích,
+Tốt hơn nói một câu,
+Nghe xong, được tịnh lạc.”
 >
-> *心に煩悩なく、思慮惑乱せず、善悪を超脱し、覚醒せる人には恐怖なし。*
+> *たとい無益の句を集めて一千偈を成すとも、聞きて寂静を得べき、一偈の一語これに勝る。*
 
-<p align="right"><b>— Pham Tam, Ke 39</b></p>
+<p align="right"><b>— Pham Ngan, Ke 101</b></p>
 
 </td></tr>
 </table>
