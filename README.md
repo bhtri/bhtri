@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年04月15日**
+### **2026年04月16日**
 
 <div align="center">
 <table>
@@ -37,23 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 一生を棒に降りし男ここに眠る。彼は無価値に生きたり。
+> 科学そのものの探求は決して唯物論ではない。それは宇宙の法則および秩序の原理の探求であり、すなわちまた本質的に宗教的な努力である。
 
-<p align="right"><b>— 高村光太郎〔墓碑銘〕</b></p>
+<p align="right"><b>— ケストラー（英・小説家）</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Dầu nói ngàn câu kệ
-Nhưng không gì lợi ích,
-Tốt hơn nói một câu,
-Nghe xong, được tịnh lạc.”
+> “Như hồ nước sâu thẳm,
+Trong sáng, không khuấy đục,
+Cũng vậy, nghe chánh pháp,
+Người trí hưởng tịnh lạc.”
 >
-> *たとい無益の句を集めて一千偈を成すとも、聞きて寂静を得べき、一偈の一語これに勝る。*
+> *深き池の静かにして澄める如く、賢者は法を聞きて心清澄なり。*
 
-<p align="right"><b>— Pham Ngan, Ke 101</b></p>
+<p align="right"><b>— Pham Hien Tri, Ke 82</b></p>
 
 </td></tr>
 </table>
