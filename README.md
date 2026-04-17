@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年04月16日**
+### **2026年04月17日**
 
 <div align="center">
 <table>
@@ -37,23 +37,28 @@
 
 **🌸 名言 (Meigen)**
 
-> 科学そのものの探求は決して唯物論ではない。それは宇宙の法則および秩序の原理の探求であり、すなわちまた本質的に宗教的な努力である。
+> 一年の希望は春が決める。一日の希望は晩が、家族の希望は和合が、人生の希望は勤勉が決める。
 
-<p align="right"><b>— ケストラー（英・小説家）</b></p>
+<p align="right"><b>— 中国の諺</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Như hồ nước sâu thẳm,
-Trong sáng, không khuấy đục,
-Cũng vậy, nghe chánh pháp,
-Người trí hưởng tịnh lạc.”
+> “Mặt trời sáng ban ngày,
+Mặt trăng sáng ban đêm.
+Khí giới sáng Sát lỵ,
+Thiền định sáng Phạm chí.
+Còn hào quang đức Phật,
+Chói sáng cả ngày đêm.”
 >
-> *深き池の静かにして澄める如く、賢者は法を聞きて心清澄なり。*
+> *日は昼に輝き、月は夜に照らし、
+刹帝利
+は武装して輝き、婆羅門は禅定に入りて輝く。
+されど仏陀はその光明により、全昼夜に輝く。*
 
-<p align="right"><b>— Pham Hien Tri, Ke 82</b></p>
+<p align="right"><b>— Pham Ba La Mon, Ke 387</b></p>
 
 </td></tr>
 </table>
