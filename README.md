@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年04月17日**
+### **2026年04月18日**
 
 <div align="center">
 <table>
@@ -37,28 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 一年の希望は春が決める。一日の希望は晩が、家族の希望は和合が、人生の希望は勤勉が決める。
+> アイデアよりも圧倒的に大事なのは実行力。
 
-<p align="right"><b>— 中国の諺</b></p>
+<p align="right"><b>— 堀江貴文</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Mặt trời sáng ban ngày,
-Mặt trăng sáng ban đêm.
-Khí giới sáng Sát lỵ,
-Thiền định sáng Phạm chí.
-Còn hào quang đức Phật,
-Chói sáng cả ngày đêm.”
+> Tâm khó thấy, tế nhị,
+Theo các dục quay cuồng.
+Người trí phòng hộ tâm,
+Tâm hộ, an lạc đến.
 >
-> *日は昼に輝き、月は夜に照らし、
-刹帝利
-は武装して輝き、婆羅門は禅定に入りて輝く。
-されど仏陀はその光明により、全昼夜に輝く。*
+> *極めて見難く極めて微妙にして欲に随いて赴く心を、賢慮ある者は護るべし。
+護られたる心は安楽をもたらす。*
 
-<p align="right"><b>— Pham Ba La Mon, Ke 387</b></p>
+<p align="right"><b>— Pham Tam, Ke 36</b></p>
 
 </td></tr>
 </table>
