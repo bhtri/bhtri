@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年04月18日**
+### **2026年04月19日**
 
 <div align="center">
 <table>
@@ -37,24 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> アイデアよりも圧倒的に大事なのは実行力。
+> 嘘を少しも含まない歴史書は、すこぶる退屈である。
 
-<p align="right"><b>— 堀江貴文</b></p>
+<p align="right"><b>— アナトール・フランス</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> Tâm khó thấy, tế nhị,
-Theo các dục quay cuồng.
-Người trí phòng hộ tâm,
-Tâm hộ, an lạc đến.
+> “Ðầu trọc, không sa môn
+Nếu phóng túng, nói láo.
+Ai còn đầy dục tham,
+Sao được gọi sa môn?”
 >
-> *極めて見難く極めて微妙にして欲に随いて赴く心を、賢慮ある者は護るべし。
-護られたる心は安楽をもたらす。*
+> *剃髪すといえども、戒を破り、妄語を語る者は沙門にあらず。
+欲望と貪欲とを有する者、いかで沙門たるべき。*
 
-<p align="right"><b>— Pham Tam, Ke 36</b></p>
+<p align="right"><b>— Pham Phap Tru, Ke 264</b></p>
 
 </td></tr>
 </table>
