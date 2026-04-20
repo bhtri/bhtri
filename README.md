@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年04月19日**
+### **2026年04月20日**
 
 <div align="center">
 <table>
@@ -37,24 +37,25 @@
 
 **🌸 名言 (Meigen)**
 
-> 嘘を少しも含まない歴史書は、すこぶる退屈である。
+> 美味とは食物そのものにあるのではなく味わう舌にあるものである。
 
-<p align="right"><b>— アナトール・フランス</b></p>
+<p align="right"><b>— ロック</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Ðầu trọc, không sa môn
-Nếu phóng túng, nói láo.
-Ai còn đầy dục tham,
-Sao được gọi sa môn?”
+> Ai sống quán bất tịnh,
+Khéo hộ trì các căn,
+ăn uống có tiết độ,
+Có lòng tin, tinh cần,
+Ma không uy hiếp được,
+Như núi đá, trước gió.
 >
-> *剃髪すといえども、戒を破り、妄語を語る者は沙門にあらず。
-欲望と貪欲とを有する者、いかで沙門たるべき。*
+> *享楽を事とせずして住し、よく諸根を摂し、飲食度あり、信念ありて精勤するもの、実に魔王がかかる人を克服し得ざること、風の岩山に於けるが如し。*
 
-<p align="right"><b>— Pham Phap Tru, Ke 264</b></p>
+<p align="right"><b>— Pham Song Yeu, Ke 8</b></p>
 
 </td></tr>
 </table>
