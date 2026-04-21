@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年04月20日**
+### **2026年04月21日**
 
 <div align="center">
 <table>
@@ -37,25 +37,26 @@
 
 **🌸 名言 (Meigen)**
 
-> 美味とは食物そのものにあるのではなく味わう舌にあるものである。
+> 金は底のない海である。このなかに名誉も良心も心理もみんな投げ込まれる。
 
-<p align="right"><b>— ロック</b></p>
+<p align="right"><b>— カズレー</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> Ai sống quán bất tịnh,
-Khéo hộ trì các căn,
-ăn uống có tiết độ,
-Có lòng tin, tinh cần,
-Ma không uy hiếp được,
-Như núi đá, trước gió.
+> “Ðược gọi Bà-la-môn,
+Không vì đầu bện tóc,
+Không chủng tộc, thọ sanh,
+Ai thật chân, chánh, tịnh,
+Mới gọi Bà-la-môn.”
 >
-> *享楽を事とせずして住し、よく諸根を摂し、飲食度あり、信念ありて精勤するもの、実に魔王がかかる人を克服し得ざること、風の岩山に於けるが如し。*
+> *螺髻
+・族・姓によりて婆羅門たるに非ず。
+真実と法とを具する者、彼は幸福なり、彼はまた〔真の〕婆羅門なり。*
 
-<p align="right"><b>— Pham Song Yeu, Ke 8</b></p>
+<p align="right"><b>— Pham Ba La Mon, Ke 393</b></p>
 
 </td></tr>
 </table>
