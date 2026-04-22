@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年04月21日**
+### **2026年04月22日**
 
 <div align="center">
 <table>
@@ -37,26 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 金は底のない海である。このなかに名誉も良心も心理もみんな投げ込まれる。
+> オレは毎日、英字新聞を読んでんだよね。意味はわからないけど
 
-<p align="right"><b>— カズレー</b></p>
+<p align="right"><b>— 高田純次</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Ðược gọi Bà-la-môn,
-Không vì đầu bện tóc,
-Không chủng tộc, thọ sanh,
-Ai thật chân, chánh, tịnh,
-Mới gọi Bà-la-môn.”
+> “Tỷ kheo chế ngự miệng,
+Vừa lời, không cống cao,
+Khi trình bày pháp nghĩa,
+Lời lẽ dịu ngọt ngào.”
 >
-> *螺髻
-・族・姓によりて婆羅門たるに非ず。
-真実と法とを具する者、彼は幸福なり、彼はまた〔真の〕婆羅門なり。*
+> *口を慎み、語る所賢明に、寂静にして正理と正法とを明らかにする比丘は、その説く所甘美なり。*
 
-<p align="right"><b>— Pham Ba La Mon, Ke 393</b></p>
+<p align="right"><b>— Pham Ty Kheo, Ke 363</b></p>
 
 </td></tr>
 </table>
