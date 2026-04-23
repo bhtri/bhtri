@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年04月22日**
+### **2026年04月23日**
 
 <div align="center">
 <table>
@@ -37,23 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> オレは毎日、英字新聞を読んでんだよね。意味はわからないけど
+> 俺たちの一生を台無しにするのは、運なんて言うものじゃない。人間なんだ。
 
-<p align="right"><b>— 高田純次</b></p>
+<p align="right"><b>— ガルシン</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Tỷ kheo chế ngự miệng,
-Vừa lời, không cống cao,
-Khi trình bày pháp nghĩa,
-Lời lẽ dịu ngọt ngào.”
+> “Không trí tuệ, không thiền,
+Không thiền, không trí tuệ.
+Người có thiền có tuệ,
+Nhất định gần Niết-Bàn.”
 >
-> *口を慎み、語る所賢明に、寂静にして正理と正法とを明らかにする比丘は、その説く所甘美なり。*
+> *智慧なき者に禅定なく、禅定なき者に智慧なし。
+禅定と智慧とを備えたる者は、実に涅槃に近づけるなり。*
 
-<p align="right"><b>— Pham Ty Kheo, Ke 363</b></p>
+<p align="right"><b>— Pham Ty Kheo, Ke 372</b></p>
 
 </td></tr>
 </table>
