@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年04月23日**
+### **2026年04月24日**
 
 <div align="center">
 <table>
@@ -37,24 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 俺たちの一生を台無しにするのは、運なんて言うものじゃない。人間なんだ。
+> 芸術は誤ることがあっても、自然は決して誤らない。
 
-<p align="right"><b>— ガルシン</b></p>
+<p align="right"><b>— ドライデン</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Không trí tuệ, không thiền,
-Không thiền, không trí tuệ.
-Người có thiền có tuệ,
-Nhất định gần Niết-Bàn.”
+> “Uống rượu men, rượu nấu,
+Người sống đam mê vậy,
+Chính ngay tại đời này,
+Tự đào bới gốc mình.”
 >
-> *智慧なき者に禅定なく、禅定なき者に智慧なし。
-禅定と智慧とを備えたる者は、実に涅槃に近づけるなり。*
+> *スラー酒・メーラヤ酒に沈湎する人は、この世に於て自己の根底を掘るものなり。*
 
-<p align="right"><b>— Pham Ty Kheo, Ke 372</b></p>
+<p align="right"><b>— Pham Cau Ue, Ke 247</b></p>
 
 </td></tr>
 </table>
