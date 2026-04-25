@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年04月24日**
+### **2026年04月25日**
 
 <div align="center">
 <table>
@@ -37,23 +37,26 @@
 
 **🌸 名言 (Meigen)**
 
-> 芸術は誤ることがあっても、自然は決して誤らない。
+> 文学は堕落したというが、人間が堕落した程度で堕落したに過ぎない。
 
-<p align="right"><b>— ドライデン</b></p>
+<p align="right"><b>— ゲーテ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Uống rượu men, rượu nấu,
-Người sống đam mê vậy,
-Chính ngay tại đời này,
-Tự đào bới gốc mình.”
+> “Không tụng làm nhớp kinh,
+Không đứng dậy, bẩn nhà,
+Biếng nhác làm nhơ sắc,
+Phóng dật uế người canh”
 >
-> *スラー酒・メーラヤ酒に沈湎する人は、この世に於て自己の根底を掘るものなり。*
+> *読誦
+せざるは聖典の垢穢、修復せざるは家屋の垢穢、
+懈怠
+は美の垢穢、放逸は番士の垢穢なり。*
 
-<p align="right"><b>— Pham Cau Ue, Ke 247</b></p>
+<p align="right"><b>— Pham Cau Ue, Ke 241</b></p>
 
 </td></tr>
 </table>
