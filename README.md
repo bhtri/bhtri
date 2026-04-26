@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年04月25日**
+### **2026年04月26日**
 
 <div align="center">
 <table>
@@ -37,26 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 文学は堕落したというが、人間が堕落した程度で堕落したに過ぎない。
+> 十人十色というからには、心の数だけ恋の種類があってもいいんじゃないかしら。
 
-<p align="right"><b>— ゲーテ</b></p>
+<p align="right"><b>— トルストイ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Không tụng làm nhớp kinh,
-Không đứng dậy, bẩn nhà,
-Biếng nhác làm nhơ sắc,
-Phóng dật uế người canh”
+> “Hãy tự làm hòn đảo,
+Tinh cần gấp sáng suốt.
+Trừ cấu uế, thanh tịnh,
+Chẳng trở lại sanh già.”
 >
-> *読誦
-せざるは聖典の垢穢、修復せざるは家屋の垢穢、
-懈怠
-は美の垢穢、放逸は番士の垢穢なり。*
+> *汝自ら自己の依所を造れ、速やかに精勤せよ、賢者たれ。
+〔心の〕垢穢を払い、罪過なくば、汝は再び生と老とに近づかざるべし。*
 
-<p align="right"><b>— Pham Cau Ue, Ke 241</b></p>
+<p align="right"><b>— Pham Cau Ue, Ke 238</b></p>
 
 </td></tr>
 </table>
