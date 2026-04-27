@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年04月26日**
+### **2026年04月27日**
 
 <div align="center">
 <table>
@@ -37,24 +37,25 @@
 
 **🌸 名言 (Meigen)**
 
-> 十人十色というからには、心の数だけ恋の種類があってもいいんじゃないかしら。
+> 汝自身を知れ。神をあれこれ詮索するようなことはよせ。人類にふさわしい研究対象は人間である。
 
-<p align="right"><b>— トルストイ</b></p>
+<p align="right"><b>— A.ポープ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Hãy tự làm hòn đảo,
-Tinh cần gấp sáng suốt.
-Trừ cấu uế, thanh tịnh,
-Chẳng trở lại sanh già.”
+> Chạy xa, sống một mình,
+Không thân, ẩn hang sâu [1]
+Ai điều phục được tâm,
+Thoát khỏi Ma trói buộc. [2]
 >
-> *汝自ら自己の依所を造れ、速やかに精勤せよ、賢者たれ。
-〔心の〕垢穢を払い、罪過なくば、汝は再び生と老とに近づかざるべし。*
+> *遠く行き独り動き形骸なく胸窟に隠るる心、そを制御する者は魔王の
+繋縛
+より脱す。*
 
-<p align="right"><b>— Pham Cau Ue, Ke 238</b></p>
+<p align="right"><b>— Pham Tam, Ke 37</b></p>
 
 </td></tr>
 </table>
