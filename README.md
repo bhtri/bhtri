@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年04月27日**
+### **2026年04月28日**
 
 <div align="center">
 <table>
@@ -37,25 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 汝自身を知れ。神をあれこれ詮索するようなことはよせ。人類にふさわしい研究対象は人間である。
+> そなたのために、たとえ世界を失うことがあっても、世界のためにそなたを失いたくない。
 
-<p align="right"><b>— A.ポープ</b></p>
+<p align="right"><b>— バイロン</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> Chạy xa, sống một mình,
-Không thân, ẩn hang sâu [1]
-Ai điều phục được tâm,
-Thoát khỏi Ma trói buộc. [2]
+> “Người trí tuệ sâu xa,
+Khéo biết đạo, phi đạo
+Chứng đạt đích vô thượng,
+Ta gọi Bà-la-môn.”
 >
-> *遠く行き独り動き形骸なく胸窟に隠るる心、そを制御する者は魔王の
-繋縛
-より脱す。*
+> *智慧深く、賢慮ありて道・非道を弁え、最上義に達せる人、我はこれを婆羅門と呼ぶ。*
 
-<p align="right"><b>— Pham Tam, Ke 37</b></p>
+<p align="right"><b>— Pham Ba La Mon, Ke 403</b></p>
 
 </td></tr>
 </table>
