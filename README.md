@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年04月28日**
+### **2026年04月29日**
 
 <div align="center">
 <table>
@@ -37,23 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> そなたのために、たとえ世界を失うことがあっても、世界のためにそなたを失いたくない。
+> 人生の小さな不幸せは、我々が大きな不幸を乗り越えていくのを助けてくれる。
 
-<p align="right"><b>— バイロン</b></p>
+<p align="right"><b>— エッシェンバッハ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Người trí tuệ sâu xa,
-Khéo biết đạo, phi đạo
-Chứng đạt đích vô thượng,
-Ta gọi Bà-la-môn.”
+> “Ít bạn đường, nhiều tiền,
+Người buôn tránh đường hiểm.
+Muốn sống, tránh thuốc độc,
+Hãy tránh ác như vậy.”
 >
-> *智慧深く、賢慮ありて道・非道を弁え、最上義に達せる人、我はこれを婆羅門と呼ぶ。*
+> *伴侶少なく財貨多き商人の、危なき道を〔避くる〕如く、寿を願う者の毒を〔避くる〕如く、悪業を避くべし。*
 
-<p align="right"><b>— Pham Ba La Mon, Ke 403</b></p>
+<p align="right"><b>— Pham Ac, Ke 123</b></p>
 
 </td></tr>
 </table>
