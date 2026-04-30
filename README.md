@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年04月29日**
+### **2026年04月30日**
 
 <div align="center">
 <table>
@@ -37,23 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 人生の小さな不幸せは、我々が大きな不幸を乗り越えていくのを助けてくれる。
+> どんな精神的な人間でも四十五時間以上食べ物のことを忘れる事はできぬ。数時間ごとに間違いなく脳裏に起こる不変不動のくりかえしは「いつ食べようか」ということである。
 
-<p align="right"><b>— エッシェンバッハ</b></p>
+<p align="right"><b>— 林語堂</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Ít bạn đường, nhiều tiền,
-Người buôn tránh đường hiểm.
-Muốn sống, tránh thuốc độc,
-Hãy tránh ác như vậy.”
+> “Cũng vậy các phước nghiệp,
+Ðón chào người làm lành,
+Ðời này đến đời kia.
+Như thân nhân, đón chào.”
 >
-> *伴侶少なく財貨多き商人の、危なき道を〔避くる〕如く、寿を願う者の毒を〔避くる〕如く、悪業を避くべし。*
+> *これと等しく、福業をなしてこの世よりかの世に赴ける人を、福業は迎う、あたかも愛好する帰来者を親族の〔迎うる〕如く。*
 
-<p align="right"><b>— Pham Ac, Ke 123</b></p>
+<p align="right"><b>— Pham Hy Ai, Ke 220</b></p>
 
 </td></tr>
 </table>
