@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年04月30日**
+### **2026年05月01日**
 
 <div align="center">
 <table>
@@ -37,23 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> どんな精神的な人間でも四十五時間以上食べ物のことを忘れる事はできぬ。数時間ごとに間違いなく脳裏に起こる不変不動のくりかえしは「いつ食べようか」ということである。
+> 仕事を楽しくするためには、男にしても女にしても、好きな人が近くにいた方がいい
 
-<p align="right"><b>— 林語堂</b></p>
+<p align="right"><b>— 志村けん</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Cũng vậy các phước nghiệp,
-Ðón chào người làm lành,
-Ðời này đến đời kia.
-Như thân nhân, đón chào.”
+> “Người ngu làm điều ác,
+Không ý thức việc làm.
+Do tự nghiệp, người ngu
+Bị nung nấu, như lửa.”
 >
-> *これと等しく、福業をなしてこの世よりかの世に赴ける人を、福業は迎う、あたかも愛好する帰来者を親族の〔迎うる〕如く。*
+> *愚者は悪業をなして悟らず、暗鈍にして自己の業により苦しむこと、あたかも火に焼かるるが如し。*
 
-<p align="right"><b>— Pham Hy Ai, Ke 220</b></p>
+<p align="right"><b>— Pham Hinh Phat, Ke 136</b></p>
 
 </td></tr>
 </table>
