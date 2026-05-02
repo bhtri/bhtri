@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年05月01日**
+### **2026年05月02日**
 
 <div align="center">
 <table>
@@ -37,23 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 仕事を楽しくするためには、男にしても女にしても、好きな人が近くにいた方がいい
+> オレだって生きている間ぐらい人並に上手に生きてみたいと思うけれど、不器用だからな…
 
-<p align="right"><b>— 志村けん</b></p>
+<p align="right"><b>— ブライト・ノア(機動戦士ガンダムIII めぐりあい宇宙)</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Người ngu làm điều ác,
-Không ý thức việc làm.
-Do tự nghiệp, người ngu
-Bị nung nấu, như lửa.”
+> “Không làm mọi điều ác.
+Thành tựu các hạnh lành,
+Tâm ý giữ trong sạch,
+Chính lời chư Phật dạy.”
 >
-> *愚者は悪業をなして悟らず、暗鈍にして自己の業により苦しむこと、あたかも火に焼かるるが如し。*
+> *一切の悪をなさず、善を行い、自己の心を浄む。
+これ諸仏の教えなり。*
 
-<p align="right"><b>— Pham Hinh Phat, Ke 136</b></p>
+<p align="right"><b>— Pham Phat Da, Ke 183</b></p>
 
 </td></tr>
 </table>
