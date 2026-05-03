@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年05月02日**
+### **2026年05月03日**
 
 <div align="center">
 <table>
@@ -37,24 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> オレだって生きている間ぐらい人並に上手に生きてみたいと思うけれど、不器用だからな…
+> 平和を欲するなら、戦争を理解せよ
 
-<p align="right"><b>— ブライト・ノア(機動戦士ガンダムIII めぐりあい宇宙)</b></p>
+<p align="right"><b>— リデル・ハート(戦史研究家)</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Không làm mọi điều ác.
-Thành tựu các hạnh lành,
-Tâm ý giữ trong sạch,
-Chính lời chư Phật dạy.”
+> “Thường tôn trọng, kính lễ
+Bậc kỳ lão trưởng thượng,
+Bốn pháp được tăng trưởng:
+Thọ, sắc, lạc, sức mạnh.”
 >
-> *一切の悪をなさず、善を行い、自己の心を浄む。
-これ諸仏の教えなり。*
+> *敬礼を守り、常に長上を尊ぶ人には、四種の法増長す、すなわち寿と美と楽と力と。*
 
-<p align="right"><b>— Pham Phat Da, Ke 183</b></p>
+<p align="right"><b>— Pham Ngan, Ke 109</b></p>
 
 </td></tr>
 </table>
