@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年05月03日**
+### **2026年05月04日**
 
 <div align="center">
 <table>
@@ -37,23 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 平和を欲するなら、戦争を理解せよ
+> 奇跡も魔法も、あるんだよ！
 
-<p align="right"><b>— リデル・ハート(戦史研究家)</b></p>
+<p align="right"><b>— 美樹さやか(魔法少女まどか☆マギカ)</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Thường tôn trọng, kính lễ
-Bậc kỳ lão trưởng thượng,
-Bốn pháp được tăng trưởng:
-Thọ, sắc, lạc, sức mạnh.”
+> Nó mắng tôi, đánh tôi,
+Nó thắng tôi, cướp tôi
+Không ôm hiềm hận ấy,
+Hận thù được tự nguôi.
 >
-> *敬礼を守り、常に長上を尊ぶ人には、四種の法増長す、すなわち寿と美と楽と力と。*
+> *「彼、我を罵れり、我を投げ打てり、我を敗れり、我より奪えり」と、かかる執念を懐かざる人には、その忿怨終息す。*
 
-<p align="right"><b>— Pham Ngan, Ke 109</b></p>
+<p align="right"><b>— Pham Song Yeu, Ke 4</b></p>
 
 </td></tr>
 </table>
