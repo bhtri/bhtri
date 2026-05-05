@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年05月04日**
+### **2026年05月05日**
 
 <div align="center">
 <table>
@@ -37,23 +37,25 @@
 
 **🌸 名言 (Meigen)**
 
-> 奇跡も魔法も、あるんだよ！
+> 人生とは、人前でバイオリンを弾きながら、しだいに腕を上げてゆくようなものである。
 
-<p align="right"><b>— 美樹さやか(魔法少女まどか☆マギカ)</b></p>
+<p align="right"><b>— サミュエル・バトラー</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> Nó mắng tôi, đánh tôi,
-Nó thắng tôi, cướp tôi
-Không ôm hiềm hận ấy,
-Hận thù được tự nguôi.
+> “Keo kiết không sanh thiên,
+Kẻ ngu ghét bố thí,
+Người trí thích bố thí,
+Ðời sau, được hưởng lạc.”
 >
-> *「彼、我を罵れり、我を投げ打てり、我を敗れり、我より奪えり」と、かかる執念を懐かざる人には、その忿怨終息す。*
+> *貪欲の人は天界に赴かず。
+愚者は決して施与を称揚せず。
+賢者は施与を随喜し、これにより来世に於て安楽なり。*
 
-<p align="right"><b>— Pham Song Yeu, Ke 4</b></p>
+<p align="right"><b>— Pham The Gian, Ke 177</b></p>
 
 </td></tr>
 </table>
