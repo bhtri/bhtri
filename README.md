@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年05月05日**
+### **2026年05月06日**
 
 <div align="center">
 <table>
@@ -37,25 +37,26 @@
 
 **🌸 名言 (Meigen)**
 
-> 人生とは、人前でバイオリンを弾きながら、しだいに腕を上げてゆくようなものである。
+> 友人同士は完全な平等のうちに生きる。この平等は、まず第一に、彼らが会ったときに社会上のあらゆる相違を忘れるという事実から生まれる。
 
-<p align="right"><b>— サミュエル・バトラー</b></p>
+<p align="right"><b>— ボナール</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Keo kiết không sanh thiên,
-Kẻ ngu ghét bố thí,
-Người trí thích bố thí,
-Ðời sau, được hưởng lạc.”
+> “Người tà ý nhiếp phục,
+Tham sắc bén nhìn tịnh,
+Người ấy ái tăng trưởng,
+Làm giây trói mình chặt.”
 >
-> *貪欲の人は天界に赴かず。
-愚者は決して施与を称揚せず。
-賢者は施与を随喜し、これにより来世に於て安楽なり。*
+> *疑惑に擾乱せられ、貪欲熾烈にして享楽を事とする人の愛欲は、ますます増長す。
+かかる人は実に〔その〕
+繋縛
+を堅くす。*
 
-<p align="right"><b>— Pham The Gian, Ke 177</b></p>
+<p align="right"><b>— Pham Tham Ai, Ke 349</b></p>
 
 </td></tr>
 </table>
