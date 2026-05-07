@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年05月06日**
+### **2026年05月07日**
 
 <div align="center">
 <table>
@@ -37,26 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 友人同士は完全な平等のうちに生きる。この平等は、まず第一に、彼らが会ったときに社会上のあらゆる相違を忘れるという事実から生まれる。
+> 恋に狂うとは言葉が重複している。恋とはすでに狂気なのだ。
 
-<p align="right"><b>— ボナール</b></p>
+<p align="right"><b>— ハイネ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Người tà ý nhiếp phục,
-Tham sắc bén nhìn tịnh,
-Người ấy ái tăng trưởng,
-Làm giây trói mình chặt.”
+> “Không lỗi, lại thấy lỗi,
+Có lỗi, lại thấy không,
+Do chấp nhận tà kiến,
+Chúng sanh đi ác thú.”
 >
-> *疑惑に擾乱せられ、貪欲熾烈にして享楽を事とする人の愛欲は、ますます増長す。
-かかる人は実に〔その〕
-繋縛
-を堅くす。*
+> *罪なきことを罪ありと思い、罪あることを罪なしと見る、邪見を抱ける衆生は悪趣に至る。*
 
-<p align="right"><b>— Pham Tham Ai, Ke 349</b></p>
+<p align="right"><b>— Pham Dia Nguc, Ke 318</b></p>
 
 </td></tr>
 </table>
