@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年05月07日**
+### **2026年05月08日**
 
 <div align="center">
 <table>
@@ -37,23 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 恋に狂うとは言葉が重複している。恋とはすでに狂気なのだ。
+> 新聞にお金を払う人よりも、新聞を買わない若者のほうが、よっぽど正しい判断が出来ているように思えてしまいます。
 
-<p align="right"><b>— ハイネ</b></p>
+<p align="right"><b>— 西村博之（ひろゆき）</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Không lỗi, lại thấy lỗi,
-Có lỗi, lại thấy không,
-Do chấp nhận tà kiến,
-Chúng sanh đi ác thú.”
+> “Pháp thí, thắng mọi thí!
+Pháp vị, thắng mọi vị!
+Pháp hỷ, thắng mọi hỷ!
+Ái diệt, dứt mọi khổ!”
 >
-> *罪なきことを罪ありと思い、罪あることを罪なしと見る、邪見を抱ける衆生は悪趣に至る。*
+> *法施は一切の施に勝ち、法味は一切の味に勝ち、法楽は一切の楽に勝ち、愛欲の滅尽は一切の苦に勝つ。*
 
-<p align="right"><b>— Pham Dia Nguc, Ke 318</b></p>
+<p align="right"><b>— Pham Tham Ai, Ke 354</b></p>
 
 </td></tr>
 </table>
