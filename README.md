@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年05月09日**
+### **2026年05月10日**
 
 <div align="center">
 <table>
@@ -37,24 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 思った通りの人生ではなかった。しかし、よかったとなら言える人生だったかもしれない。
+> 我々は望むことが全てできるわけではない。しかし、可能なことは全て望まねばならない。
 
-<p align="right"><b>— アルセーヌ・メルセデス・ヒロコ</b></p>
+<p align="right"><b>— ミシェル・ルイ・リケ（仏・神学者）</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Không trí tuệ, không thiền,
-Không thiền, không trí tuệ.
-Người có thiền có tuệ,
-Nhất định gần Niết-Bàn.”
+> “Không lỗi, lại thấy lỗi,
+Có lỗi, lại thấy không,
+Do chấp nhận tà kiến,
+Chúng sanh đi ác thú.”
 >
-> *智慧なき者に禅定なく、禅定なき者に智慧なし。
-禅定と智慧とを備えたる者は、実に涅槃に近づけるなり。*
+> *罪なきことを罪ありと思い、罪あることを罪なしと見る、邪見を抱ける衆生は悪趣に至る。*
 
-<p align="right"><b>— Pham Ty Kheo, Ke 372</b></p>
+<p align="right"><b>— Pham Dia Nguc, Ke 318</b></p>
 
 </td></tr>
 </table>
