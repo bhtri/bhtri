@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年05月10日**
+### **2026年05月11日**
 
 <div align="center">
 <table>
@@ -37,23 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 我々は望むことが全てできるわけではない。しかし、可能なことは全て望まねばならない。
+> 多くの愚者を友とするより、一人の知者を友とするべきである。
 
-<p align="right"><b>— ミシェル・ルイ・リケ（仏・神学者）</b></p>
+<p align="right"><b>— デモクリトス</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Không lỗi, lại thấy lỗi,
-Có lỗi, lại thấy không,
-Do chấp nhận tà kiến,
-Chúng sanh đi ác thú.”
+> “Người tâm ý an tịnh,
+Lời an, nghiệp cũng an,
+Chánh trí, chơn giải thoát,
+Tịnh lạc là vị ấy.”
 >
-> *罪なきことを罪ありと思い、罪あることを罪なしと見る、邪見を抱ける衆生は悪趣に至る。*
+> *正智によりて解脱し、安穏を得たる聖者の意は寂静なり。
+語もまた業も寂静なり。*
 
-<p align="right"><b>— Pham Dia Nguc, Ke 318</b></p>
+<p align="right"><b>— Pham A-La-Han, Ke 96</b></p>
 
 </td></tr>
 </table>
