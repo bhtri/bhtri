@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年05月11日**
+### **2026年05月12日**
 
 <div align="center">
 <table>
@@ -37,24 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 多くの愚者を友とするより、一人の知者を友とするべきである。
+> 人はなぜ競うのか。金メダルのため？お金？名誉？そうじゃない。達成感のためさ。
 
-<p align="right"><b>— デモクリトス</b></p>
+<p align="right"><b>— ブルース・ジェナー</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Người tâm ý an tịnh,
-Lời an, nghiệp cũng an,
-Chánh trí, chơn giải thoát,
-Tịnh lạc là vị ấy.”
+> “Nói lên lời ôn hòa,
+Lợi ích và chân thật,
+Không mất lòng một ai,
+Ta gọi Bà-la-môn.”
 >
-> *正智によりて解脱し、安穏を得たる聖者の意は寂静なり。
-語もまた業も寂静なり。*
+> *粗暴ならず、教訓的なる真実の語を発し、これによりて何者をも怒らしめざる人、我はこれを婆羅門と呼ぶ。*
 
-<p align="right"><b>— Pham A-La-Han, Ke 96</b></p>
+<p align="right"><b>— Pham Ba La Mon, Ke 408</b></p>
 
 </td></tr>
 </table>
