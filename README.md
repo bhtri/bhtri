@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年05月12日**
+### **2026年05月13日**
 
 <div align="center">
 <table>
@@ -37,23 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 人はなぜ競うのか。金メダルのため？お金？名誉？そうじゃない。達成感のためさ。
+> 口先だけで「愛してる」と言われても簡単に無視できるけど、態度で示されると、ついほだされてしまう。
 
-<p align="right"><b>— ブルース・ジェナー</b></p>
+<p align="right"><b>— スタンレー・ムーニーハム</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Nói lên lời ôn hòa,
-Lợi ích và chân thật,
-Không mất lòng một ai,
-Ta gọi Bà-la-môn.”
+> “Nếu tự mình yên lặng,
+Như chiếc chuông bị bể.
+Ngươi đã chứng Niết Bàn
+Ngươi không còn phẩn nộ.”
 >
-> *粗暴ならず、教訓的なる真実の語を発し、これによりて何者をも怒らしめざる人、我はこれを婆羅門と呼ぶ。*
+> *汝もし壊れたる銅鑼の如く、黙して言わざれば、汝は既に涅槃を得たるなり。
+汝に忿怒あることなし。*
 
-<p align="right"><b>— Pham Ba La Mon, Ke 408</b></p>
+<p align="right"><b>— Pham Hinh Phat, Ke 134</b></p>
 
 </td></tr>
 </table>
