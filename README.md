@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年05月13日**
+### **2026年05月14日**
 
 <div align="center">
 <table>
@@ -37,24 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 口先だけで「愛してる」と言われても簡単に無視できるけど、態度で示されると、ついほだされてしまう。
+> 君に見守られて死ぬのは、僕にはとても幸せなことだ。
 
-<p align="right"><b>— スタンレー・ムーニーハム</b></p>
+<p align="right"><b>— ジャン・バチスト・ラシーヌ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Nếu tự mình yên lặng,
-Như chiếc chuông bị bể.
-Ngươi đã chứng Niết Bàn
-Ngươi không còn phẩn nộ.”
+> “Hãy tự làm hòn đảo,
+Tinh cần gấp sáng suốt.
+Trừ cấu uế, thanh tịnh,
+Chẳng trở lại sanh già.”
 >
-> *汝もし壊れたる銅鑼の如く、黙して言わざれば、汝は既に涅槃を得たるなり。
-汝に忿怒あることなし。*
+> *汝自ら自己の依所を造れ、速やかに精勤せよ、賢者たれ。
+〔心の〕垢穢を払い、罪過なくば、汝は再び生と老とに近づかざるべし。*
 
-<p align="right"><b>— Pham Hinh Phat, Ke 134</b></p>
+<p align="right"><b>— Pham Cau Ue, Ke 238</b></p>
 
 </td></tr>
 </table>
