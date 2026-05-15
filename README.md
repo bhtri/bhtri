@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年05月14日**
+### **2026年05月15日**
 
 <div align="center">
 <table>
@@ -37,24 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 君に見守られて死ぬのは、僕にはとても幸せなことだ。
+> 離婚は進んだ文明にとって必要である。
 
-<p align="right"><b>— ジャン・バチスト・ラシーヌ</b></p>
+<p align="right"><b>— モンテスキュー</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Hãy tự làm hòn đảo,
-Tinh cần gấp sáng suốt.
-Trừ cấu uế, thanh tịnh,
-Chẳng trở lại sanh già.”
+> “Ngươi đâu phải pháp trụ,
+Xử sự quá chuyên chế,
+Bậc trí cần phân biệt
+Cả hai chánh và tà!”
 >
-> *汝自ら自己の依所を造れ、速やかに精勤せよ、賢者たれ。
-〔心の〕垢穢を払い、罪過なくば、汝は再び生と老とに近づかざるべし。*
+> *躁急に事を処するの故を以て、法住者たるにあらず。
+正と邪とを二つながらよく弁別し、学識あり、*
 
-<p align="right"><b>— Pham Cau Ue, Ke 238</b></p>
+<p align="right"><b>— Pham Phap Tru, Ke 256</b></p>
 
 </td></tr>
 </table>
