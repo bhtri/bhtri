@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年05月15日**
+### **2026年05月16日**
 
 <div align="center">
 <table>
@@ -37,24 +37,25 @@
 
 **🌸 名言 (Meigen)**
 
-> 離婚は進んだ文明にとって必要である。
+> 時間がやわらげてくれるような悲しみは一つもない。
 
-<p align="right"><b>— モンテスキュー</b></p>
+<p align="right"><b>— キケロ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Ngươi đâu phải pháp trụ,
-Xử sự quá chuyên chế,
-Bậc trí cần phân biệt
-Cả hai chánh và tà!”
+> “Ðích đã đến, không sầu,
+Giải thoát ngoài tất cả,
+Ðoạn trừ mọi buộc ràng,
+Vị ấy không nhiệt não.”
 >
-> *躁急に事を処するの故を以て、法住者たるにあらず。
-正と邪とを二つながらよく弁別し、学識あり、*
+> *〔有為の〕路を終えて憂患を離れ、一切に於て解脱し、一切の
+繋縛
+を断ちたる人には苦悩なし。*
 
-<p align="right"><b>— Pham Phap Tru, Ke 256</b></p>
+<p align="right"><b>— Pham A-La-Han, Ke 90</b></p>
 
 </td></tr>
 </table>
