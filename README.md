@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年05月16日**
+### **2026年05月17日**
 
 <div align="center">
 <table>
@@ -37,25 +37,25 @@
 
 **🌸 名言 (Meigen)**
 
-> 時間がやわらげてくれるような悲しみは一つもない。
+> 夫婦は愛し合うと共に憎しみ合うのが当然である。かかる憎しみを恐れてはならぬ。正しく憎み合うがよく、鋭く対立するがよい。
 
-<p align="right"><b>— キケロ</b></p>
+<p align="right"><b>— 坂口安吾『悪妻論』</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Ðích đã đến, không sầu,
-Giải thoát ngoài tất cả,
-Ðoạn trừ mọi buộc ràng,
-Vị ấy không nhiệt não.”
+> “Hoặc tai họa từ vua,
+Hay bị vu trọng tội;
+Bà con phải ly tán,
+Tài sản bị nát tan.”
 >
-> *〔有為の〕路を終えて憂患を離れ、一切に於て解脱し、一切の
-繋縛
-を断ちたる人には苦悩なし。*
+> *或いは国王より蒙る災禍、或いは恐るべき
+讒誣
+、或いは親族の離散、或いは財産の破滅に〔遇い〕、*
 
-<p align="right"><b>— Pham A-La-Han, Ke 90</b></p>
+<p align="right"><b>— Pham Hinh Phat, Ke 139</b></p>
 
 </td></tr>
 </table>
