@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年05月17日**
+### **2026年05月18日**
 
 <div align="center">
 <table>
@@ -37,25 +37,25 @@
 
 **🌸 名言 (Meigen)**
 
-> 夫婦は愛し合うと共に憎しみ合うのが当然である。かかる憎しみを恐れてはならぬ。正しく憎み合うがよく、鋭く対立するがよい。
+> 老人になって死でやっと解放され、これで楽になっていくという感じがする。まったく人間の生涯というものは苦しみの連続だ。
 
-<p align="right"><b>— 坂口安吾『悪妻論』</b></p>
+<p align="right"><b>— 高村光太郎（日・詩人、彫刻家）</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Hoặc tai họa từ vua,
-Hay bị vu trọng tội;
-Bà con phải ly tán,
-Tài sản bị nát tan.”
+> “Ái luyến sinh sầu ưu,
+Ái luyến sinh sợ hãi.
+Ai giải thoát ái luyến
+Không sầu, đâu sợ hãi?”
 >
-> *或いは国王より蒙る災禍、或いは恐るべき
-讒誣
-、或いは親族の離散、或いは財産の破滅に〔遇い〕、*
+> *親愛より憂患生じ、親愛より畏怖生ず。
+親愛を離脱せる人には憂患なし。
+何処にか畏怖あらん。*
 
-<p align="right"><b>— Pham Hinh Phat, Ke 139</b></p>
+<p align="right"><b>— Pham Hy Ai, Ke 213</b></p>
 
 </td></tr>
 </table>
