@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年05月18日**
+### **2026年05月19日**
 
 <div align="center">
 <table>
@@ -37,25 +37,28 @@
 
 **🌸 名言 (Meigen)**
 
-> 老人になって死でやっと解放され、これで楽になっていくという感じがする。まったく人間の生涯というものは苦しみの連続だ。
+> 報酬への期待を行動のバネとする人にはなるな。
 
-<p align="right"><b>— 高村光太郎（日・詩人、彫刻家）</b></p>
+<p align="right"><b>— ベートーベン</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Ái luyến sinh sầu ưu,
-Ái luyến sinh sợ hãi.
-Ai giải thoát ái luyến
-Không sầu, đâu sợ hãi?”
+> “A-tu-la, nên biết,
+Xưa vậy, nay cũng vậy,
+Ngồi im, bị người chê,
+Nói nhiều bị người chê.
+Nói vừa phải, bị chê.
+Làm người không bị chê,
+Thật khó tìm ở đời.”
 >
-> *親愛より憂患生じ、親愛より畏怖生ず。
-親愛を離脱せる人には憂患なし。
-何処にか畏怖あらん。*
+> *アトゥラ（優婆塞の名）よ、こは古来より然り、今始まれるにあらず。
+〔すなわち〕人は黙して坐するを謗り、多言を謗り、寡言をもまた謗る。
+世に謗られざる者なし。*
 
-<p align="right"><b>— Pham Hy Ai, Ke 213</b></p>
+<p align="right"><b>— Pham Phan No, Ke 227</b></p>
 
 </td></tr>
 </table>
