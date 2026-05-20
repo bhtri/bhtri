@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年05月19日**
+### **2026年05月20日**
 
 <div align="center">
 <table>
@@ -37,28 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 報酬への期待を行動のバネとする人にはなるな。
+> 恋は気がつかないうちにおとずれてくる。われわれはただ、それが去っていくのをみるだけである。
 
-<p align="right"><b>— ベートーベン</b></p>
+<p align="right"><b>— ドブソン</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “A-tu-la, nên biết,
-Xưa vậy, nay cũng vậy,
-Ngồi im, bị người chê,
-Nói nhiều bị người chê.
-Nói vừa phải, bị chê.
-Làm người không bị chê,
-Thật khó tìm ở đời.”
+> “Ai lắng dịu hoàn toàn,
+Các điều ác lớn nhỏ,
+Vì lắng dịu ác pháp,
+Ðược gọi là Sa môn.”
 >
-> *アトゥラ（優婆塞の名）よ、こは古来より然り、今始まれるにあらず。
-〔すなわち〕人は黙して坐するを謗り、多言を謗り、寡言をもまた謗る。
-世に謗られざる者なし。*
+> *大小すべての悪を鎮めたる者は諸悪を鎮めたるの故を以て、沙門と称せらる。*
 
-<p align="right"><b>— Pham Phan No, Ke 227</b></p>
+<p align="right"><b>— Pham Phap Tru, Ke 265</b></p>
 
 </td></tr>
 </table>
