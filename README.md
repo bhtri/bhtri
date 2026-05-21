@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年05月20日**
+### **2026年05月21日**
 
 <div align="center">
 <table>
@@ -37,23 +37,25 @@
 
 **🌸 名言 (Meigen)**
 
-> 恋は気がつかないうちにおとずれてくる。われわれはただ、それが去っていくのをみるだけである。
+> 「男女同権」とは、男の地位が女の地位まで上がったことなのです。
 
-<p align="right"><b>— ドブソン</b></p>
+<p align="right"><b>— 太宰治</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Ai lắng dịu hoàn toàn,
-Các điều ác lớn nhỏ,
-Vì lắng dịu ác pháp,
-Ðược gọi là Sa môn.”
+> Ai sống quán bất tịnh,
+Khéo hộ trì các căn,
+ăn uống có tiết độ,
+Có lòng tin, tinh cần,
+Ma không uy hiếp được,
+Như núi đá, trước gió.
 >
-> *大小すべての悪を鎮めたる者は諸悪を鎮めたるの故を以て、沙門と称せらる。*
+> *享楽を事とせずして住し、よく諸根を摂し、飲食度あり、信念ありて精勤するもの、実に魔王がかかる人を克服し得ざること、風の岩山に於けるが如し。*
 
-<p align="right"><b>— Pham Phap Tru, Ke 265</b></p>
+<p align="right"><b>— Pham Song Yeu, Ke 8</b></p>
 
 </td></tr>
 </table>
