@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年05月21日**
+### **2026年05月22日**
 
 <div align="center">
 <table>
@@ -37,25 +37,25 @@
 
 **🌸 名言 (Meigen)**
 
-> 「男女同権」とは、男の地位が女の地位まで上がったことなのです。
+> 落し物の広告。昨日、日の出から日の入りの間のどこかで、それぞれ六十分のダイヤモンドをちりばめた貴重な時間を紛失。なお、拾い主には賞金なし。永遠に失われしゆえ。
 
-<p align="right"><b>— 太宰治</b></p>
+<p align="right"><b>— ホーリス・マン</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> Ai sống quán bất tịnh,
-Khéo hộ trì các căn,
-ăn uống có tiết độ,
-Có lòng tin, tinh cần,
-Ma không uy hiếp được,
-Như núi đá, trước gió.
+> “Bốn nạn chờ đợi người,
+Phóng dật theo vợ người;
+Mắc họa, ngủ không yên,
+Bị chê là thứ ba,
+Ðọa địa ngục, thứ bốn.”
 >
-> *享楽を事とせずして住し、よく諸根を摂し、飲食度あり、信念ありて精勤するもの、実に魔王がかかる人を克服し得ざること、風の岩山に於けるが如し。*
+> *放逸にして他人の妻を犯す人は、〔次の〕四事に達す。
+罪業を得ること、安臥せざること、第三に誹謗、第四に地獄。*
 
-<p align="right"><b>— Pham Song Yeu, Ke 8</b></p>
+<p align="right"><b>— Pham Dia Nguc, Ke 309</b></p>
 
 </td></tr>
 </table>
