@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年05月22日**
+### **2026年05月23日**
 
 <div align="center">
 <table>
@@ -37,25 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 落し物の広告。昨日、日の出から日の入りの間のどこかで、それぞれ六十分のダイヤモンドをちりばめた貴重な時間を紛失。なお、拾い主には賞金なし。永遠に失われしゆえ。
+> 愛する事を教えてくれたあなた。今度は忘れる事を教えて下さい。
 
-<p align="right"><b>— ホーリス・マン</b></p>
+<p align="right"><b>— アイリス・マードリック</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Bốn nạn chờ đợi người,
-Phóng dật theo vợ người;
-Mắc họa, ngủ không yên,
-Bị chê là thứ ba,
-Ðọa địa ngục, thứ bốn.”
+> “Ðói ăn, bệnh tối thượng,
+Các hành, khổ tối thượng,
+Hiểu như thực là vậy,
+Niết Bàn, lạc tối thượng.”
 >
-> *放逸にして他人の妻を犯す人は、〔次の〕四事に達す。
-罪業を得ること、安臥せざること、第三に誹謗、第四に地獄。*
+> *飢餓は最大の病にして、万象は最大の苦なり。
+如実にこれを知れば、最上安楽の涅槃〔あり〕。*
 
-<p align="right"><b>— Pham Dia Nguc, Ke 309</b></p>
+<p align="right"><b>— Pham An Lac, Ke 203</b></p>
 
 </td></tr>
 </table>
