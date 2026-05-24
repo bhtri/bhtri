@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年05月23日**
+### **2026年05月24日**
 
 <div align="center">
 <table>
@@ -37,24 +37,28 @@
 
 **🌸 名言 (Meigen)**
 
-> 愛する事を教えてくれたあなた。今度は忘れる事を教えて下さい。
+> 男どもは結婚を神聖だなどという。それこそ神をも人をもあざむく台詞というものだ。そしていつでも、その台詞の迷惑をこうむるのは、純潔無垢な、理想の女性とでも言うべき乙女なのだ。
 
-<p align="right"><b>— アイリス・マードリック</b></p>
+<p align="right"><b>— アルツィバイシェフ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Ðói ăn, bệnh tối thượng,
-Các hành, khổ tối thượng,
-Hiểu như thực là vậy,
-Niết Bàn, lạc tối thượng.”
+> “Tự mình y chỉ mình,
+Tự mình đi đến mình,
+Vậy hãy tự điều phục,
+Như khách buôn ngựa hiền.”
 >
-> *飢餓は最大の病にして、万象は最大の苦なり。
-如実にこれを知れば、最上安楽の涅槃〔あり〕。*
+> *実に自己は自己の主にして、自己は自己の依所なり。
+故に自己を制御せよ、あたかも
+商賈
+の良馬を〔
+調御
+する〕如く。*
 
-<p align="right"><b>— Pham An Lac, Ke 203</b></p>
+<p align="right"><b>— Pham Ty Kheo, Ke 380</b></p>
 
 </td></tr>
 </table>
