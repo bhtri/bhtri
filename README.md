@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年05月24日**
+### **2026年05月25日**
 
 <div align="center">
 <table>
@@ -37,28 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 男どもは結婚を神聖だなどという。それこそ神をも人をもあざむく台詞というものだ。そしていつでも、その台詞の迷惑をこうむるのは、純潔無垢な、理想の女性とでも言うべき乙女なのだ。
+> 自然淘汰とは、有用でさえあればいかに繊細なものでも保存される原理である。
 
-<p align="right"><b>— アルツィバイシェフ</b></p>
+<p align="right"><b>— ダーウィン</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Tự mình y chỉ mình,
-Tự mình đi đến mình,
-Vậy hãy tự điều phục,
-Như khách buôn ngựa hiền.”
+> “Tỷ kheo tuy tuổi nhỏ
+Siêng tu giáo pháp Phật,
+Soi sáng thế gian này,
+Như trăng thoát khỏi mây.”
 >
-> *実に自己は自己の主にして、自己は自己の依所なり。
-故に自己を制御せよ、あたかも
-商賈
-の良馬を〔
-調御
-する〕如く。*
+> *たとい年少なりといえども、仏陀の教えに精勤する比丘は、雲を離れし月の如くこの世を照らす。*
 
-<p align="right"><b>— Pham Ty Kheo, Ke 380</b></p>
+<p align="right"><b>— Pham Ty Kheo, Ke 382</b></p>
 
 </td></tr>
 </table>
