@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年05月25日**
+### **2026年05月26日**
 
 <div align="center">
 <table>
@@ -37,23 +37,25 @@
 
 **🌸 名言 (Meigen)**
 
-> 自然淘汰とは、有用でさえあればいかに繊細なものでも保存される原理である。
+> 子供は食う権利がある。子供は遊ぶ権利がある。子供は寝る権利がある。子供は叱られる権利がある。……ところが本当に子供を叱る人が少なくて、怒る人が多いのである。
 
-<p align="right"><b>— ダーウィン</b></p>
+<p align="right"><b>— 賀川豊彦</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Tỷ kheo tuy tuổi nhỏ
-Siêng tu giáo pháp Phật,
-Soi sáng thế gian này,
-Như trăng thoát khỏi mây.”
+> ” Từ bỏ các ác pháp,
+Mới thật là ẩn sĩ.
+Ai thật hiểu hai đời
+Mới được gọi ẩn sĩ.”
 >
-> *たとい年少なりといえども、仏陀の教えに精勤する比丘は、雲を離れし月の如くこの世を照らす。*
+> *悪を退くれば、彼は牟尼なり。
+彼はこれによりて牟尼なり。
+この世に於て、〔善悪〕二つながら知る者は、これによりて牟尼と称せらる。*
 
-<p align="right"><b>— Pham Ty Kheo, Ke 382</b></p>
+<p align="right"><b>— Pham Phap Tru, Ke 269</b></p>
 
 </td></tr>
 </table>
