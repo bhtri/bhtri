@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年05月26日**
+### **2026年05月27日**
 
 <div align="center">
 <table>
@@ -37,25 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 子供は食う権利がある。子供は遊ぶ権利がある。子供は寝る権利がある。子供は叱られる権利がある。……ところが本当に子供を叱る人が少なくて、怒る人が多いのである。
+> この世で幸福以上の何かを求める人は、幸福の分け前にあずからなくとも不平を言ってはならない。
 
-<p align="right"><b>— 賀川豊彦</b></p>
+<p align="right"><b>— エマーソン</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> ” Từ bỏ các ác pháp,
-Mới thật là ẩn sĩ.
-Ai thật hiểu hai đời
-Mới được gọi ẩn sĩ.”
+> “Không làm mọi điều ác.
+Thành tựu các hạnh lành,
+Tâm ý giữ trong sạch,
+Chính lời chư Phật dạy.”
 >
-> *悪を退くれば、彼は牟尼なり。
-彼はこれによりて牟尼なり。
-この世に於て、〔善悪〕二つながら知る者は、これによりて牟尼と称せらる。*
+> *一切の悪をなさず、善を行い、自己の心を浄む。
+これ諸仏の教えなり。*
 
-<p align="right"><b>— Pham Phap Tru, Ke 269</b></p>
+<p align="right"><b>— Pham Phat Da, Ke 183</b></p>
 
 </td></tr>
 </table>
