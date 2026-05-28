@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年05月27日**
+### **2026年05月28日**
 
 <div align="center">
 <table>
@@ -37,24 +37,26 @@
 
 **🌸 名言 (Meigen)**
 
-> この世で幸福以上の何かを求める人は、幸福の分け前にあずからなくとも不平を言ってはならない。
+> 人生にはいやなことがいっぱいある。中でも一番いやなものは、男同士の晩餐だ。
 
-<p align="right"><b>— エマーソン</b></p>
+<p align="right"><b>— ディスレーリ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Không làm mọi điều ác.
-Thành tựu các hạnh lành,
-Tâm ý giữ trong sạch,
-Chính lời chư Phật dạy.”
+> “Những ai với chánh tâm,
+Khéo tu tập giác chi,
+Từ bỏ mọi ái nhiễm,
+Hoan hỷ không chấp thủ.
+Không lậu hoặc, sáng chói,
+Sống tịch tịnh ở đời.”
 >
-> *一切の悪をなさず、善を行い、自己の心を浄む。
-これ諸仏の教えなり。*
+> *菩提
+の支分（七菩提分）に於て心を正しく修養し、執着なく、貪着を捨つるを喜び、煩悩を滅尽して輝く人は、現世に於て涅槃に入れるなり。*
 
-<p align="right"><b>— Pham Phat Da, Ke 183</b></p>
+<p align="right"><b>— Pham Hien Tri, Ke 89</b></p>
 
 </td></tr>
 </table>
