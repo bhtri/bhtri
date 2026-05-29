@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年05月28日**
+### **2026年05月29日**
 
 <div align="center">
 <table>
@@ -37,26 +37,28 @@
 
 **🌸 名言 (Meigen)**
 
-> 人生にはいやなことがいっぱいある。中でも一番いやなものは、男同士の晩餐だ。
+> 春宵一刻値千金、花に清香あり月に影あり。
 
-<p align="right"><b>— ディスレーリ</b></p>
+<p align="right"><b>— 蘇東坡</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Những ai với chánh tâm,
-Khéo tu tập giác chi,
-Từ bỏ mọi ái nhiễm,
-Hoan hỷ không chấp thủ.
-Không lậu hoặc, sáng chói,
-Sống tịch tịnh ở đời.”
+> “Ta hàng phục tất cả,
+Ta rõ biết tất cả,
+Không bị nhiễm pháp nào.
+Ta từ bỏ tất cả
+Ái diệt, tự giải thoát.
+Ðã tự mình thắng trí,
+Ta gọi ai thầy ta?”
 >
-> *菩提
-の支分（七菩提分）に於て心を正しく修養し、執着なく、貪着を捨つるを喜び、煩悩を滅尽して輝く人は、現世に於て涅槃に入れるなり。*
+> *我は一切を征服し、一切を知悉し、一切の法に於て汚さるることなし。
+一切を捨て愛欲を滅して解脱せり。
+自ら悟りて誰をか〔師と〕いわん。*
 
-<p align="right"><b>— Pham Hien Tri, Ke 89</b></p>
+<p align="right"><b>— Pham Tham Ai, Ke 353</b></p>
 
 </td></tr>
 </table>
