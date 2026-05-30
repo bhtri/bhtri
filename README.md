@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年05月29日**
+### **2026年05月30日**
 
 <div align="center">
 <table>
@@ -37,28 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 春宵一刻値千金、花に清香あり月に影あり。
+> 幸福は我が家の炉辺で成長する。そして他人の庭先で摘み取るべきものではない。
 
-<p align="right"><b>— 蘇東坡</b></p>
+<p align="right"><b>— ジェロルド</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Ta hàng phục tất cả,
-Ta rõ biết tất cả,
-Không bị nhiễm pháp nào.
-Ta từ bỏ tất cả
-Ái diệt, tự giải thoát.
-Ðã tự mình thắng trí,
-Ta gọi ai thầy ta?”
+> “Giữ ý đừng phẫn nộ,
+Phòng ý, khéo bảo vệ,
+Từ bỏ ý nghĩ ác,
+Với ý, nghĩ hạnh lành.’
 >
-> *我は一切を征服し、一切を知悉し、一切の法に於て汚さるることなし。
-一切を捨て愛欲を滅して解脱せり。
-自ら悟りて誰をか〔師と〕いわん。*
+> *意の忿怒を摂護し、意を制御すべし。
+意の悪行を捨て、意によりて善行を修すべし。*
 
-<p align="right"><b>— Pham Tham Ai, Ke 353</b></p>
+<p align="right"><b>— Pham Phan No, Ke 233</b></p>
 
 </td></tr>
 </table>
