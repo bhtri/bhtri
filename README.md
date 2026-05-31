@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年05月30日**
+### **2026年05月31日**
 
 <div align="center">
 <table>
@@ -37,24 +37,27 @@
 
 **🌸 名言 (Meigen)**
 
-> 幸福は我が家の炉辺で成長する。そして他人の庭先で摘み取るべきものではない。
+> 社会的憎悪は、宗教的憎悪と同じく、政治的憎悪よりはるかに強烈かつ深刻である。
 
-<p align="right"><b>— ジェロルド</b></p>
+<p align="right"><b>— バクーニン</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Giữ ý đừng phẫn nộ,
-Phòng ý, khéo bảo vệ,
-Từ bỏ ý nghĩ ác,
-Với ý, nghĩ hạnh lành.’
+> “Chớ chê khinh điều ác,
+Cho rằng “chưa đến mình “,
+Như nước nhỏ từng giọt,
+Rồi bình cũng đầy tràn.
+Người ngu chứa đầy ác
+Do chất chứa dần dần.”
 >
-> *意の忿怒を摂護し、意を制御すべし。
-意の悪行を捨て、意によりて善行を修すべし。*
+> *「そは我に報い来らざるべし」とて、悪を軽視すべからず。
+点滴の落下によりて水瓶も満たさる。
+微々として積みつつも愚者は悪に満たさる。*
 
-<p align="right"><b>— Pham Phan No, Ke 233</b></p>
+<p align="right"><b>— Pham Ac, Ke 121</b></p>
 
 </td></tr>
 </table>
