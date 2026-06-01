@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年05月31日**
+### **2026年06月01日**
 
 <div align="center">
 <table>
@@ -37,27 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 社会的憎悪は、宗教的憎悪と同じく、政治的憎悪よりはるかに強烈かつ深刻である。
+> 人民の人民による人民のための政府は地上から滅びることはないだろう。
 
-<p align="right"><b>— バクーニン</b></p>
+<p align="right"><b>— リンカーン</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Chớ chê khinh điều ác,
-Cho rằng “chưa đến mình “,
-Như nước nhỏ từng giọt,
-Rồi bình cũng đầy tràn.
-Người ngu chứa đầy ác
-Do chất chứa dần dần.”
+> “Tỷ kheo nhiều hân hoan,
+Tịnh tín giáo pháp Phật,
+Chứng cảnh giới tịch tịnh,
+Các hạnh an tịnh lạc.”
 >
-> *「そは我に報い来らざるべし」とて、悪を軽視すべからず。
-点滴の落下によりて水瓶も満たさる。
-微々として積みつつも愚者は悪に満たさる。*
+> *悦楽多く、仏陀の教えを信ずる比丘は、寂静にして諸行静止せる安楽境に至るべし。*
 
-<p align="right"><b>— Pham Ac, Ke 121</b></p>
+<p align="right"><b>— Pham Ty Kheo, Ke 381</b></p>
 
 </td></tr>
 </table>
