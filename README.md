@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年06月01日**
+### **2026年06月02日**
 
 <div align="center">
 <table>
@@ -37,23 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 人民の人民による人民のための政府は地上から滅びることはないだろう。
+> 我々は、大人も子供も、利口も馬鹿も、貧者も富者も、死においては平等である。
 
-<p align="right"><b>— リンカーン</b></p>
+<p align="right"><b>— ロレンハーゲン</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Tỷ kheo nhiều hân hoan,
-Tịnh tín giáo pháp Phật,
-Chứng cảnh giới tịch tịnh,
-Các hạnh an tịnh lạc.”
+> “Ưa danh không tương xứng,
+Muốn ngồi trước tỷ kheo,
+Ưa quyền tại tịnh xá,
+Muốn mọi người lễ kính.”
 >
-> *悦楽多く、仏陀の教えを信ずる比丘は、寂静にして諸行静止せる安楽境に至るべし。*
+> *〔愚者をして〕虚名を欲せしめよ、比丘衆の間にありては上位を、僧院に於ては主権を、他人（在家衆）の間に於ては供養を〔欲せしめよ〕。*
 
-<p align="right"><b>— Pham Ty Kheo, Ke 381</b></p>
+<p align="right"><b>— Pham Ngu, Ke 73</b></p>
 
 </td></tr>
 </table>
