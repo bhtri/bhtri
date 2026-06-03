@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年06月02日**
+### **2026年06月03日**
 
 <div align="center">
 <table>
@@ -37,23 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 我々は、大人も子供も、利口も馬鹿も、貧者も富者も、死においては平等である。
+> 過去は安い本と同じ。読んだら捨ててしまえばいい。
 
-<p align="right"><b>— ロレンハーゲン</b></p>
+<p align="right"><b>— 『ヤングガン』</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Ưa danh không tương xứng,
-Muốn ngồi trước tỷ kheo,
-Ưa quyền tại tịnh xá,
-Muốn mọi người lễ kính.”
+> “Tìm không được bạn đường,
+Hơn mình hay bằng mình,
+Thà quyết sống một mình,
+Không bè bạn kẻ ngu.”
 >
-> *〔愚者をして〕虚名を欲せしめよ、比丘衆の間にありては上位を、僧院に於ては主権を、他人（在家衆）の間に於ては供養を〔欲せしめよ〕。*
+> *道を歩みて自己に勝る人、自己に等しき人に逢わざれば、敢えて独り行くべし。
+愚者は断じて伴侶となすべからず。*
 
-<p align="right"><b>— Pham Ngu, Ke 73</b></p>
+<p align="right"><b>— Pham Ngu, Ke 61</b></p>
 
 </td></tr>
 </table>
