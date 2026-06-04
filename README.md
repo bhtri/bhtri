@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年06月03日**
+### **2026年06月04日**
 
 <div align="center">
 <table>
@@ -37,24 +37,27 @@
 
 **🌸 名言 (Meigen)**
 
-> 過去は安い本と同じ。読んだら捨ててしまえばいい。
+> 罰せられるなら、子羊より親羊を盗んだほうがよい。
 
-<p align="right"><b>— 『ヤングガン』</b></p>
+<p align="right"><b>— イギリスの諺</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Tìm không được bạn đường,
-Hơn mình hay bằng mình,
-Thà quyết sống một mình,
-Không bè bạn kẻ ngu.”
+> “Chớ chê khinh điều ác,
+Cho rằng “chưa đến mình “,
+Như nước nhỏ từng giọt,
+Rồi bình cũng đầy tràn.
+Người ngu chứa đầy ác
+Do chất chứa dần dần.”
 >
-> *道を歩みて自己に勝る人、自己に等しき人に逢わざれば、敢えて独り行くべし。
-愚者は断じて伴侶となすべからず。*
+> *「そは我に報い来らざるべし」とて、悪を軽視すべからず。
+点滴の落下によりて水瓶も満たさる。
+微々として積みつつも愚者は悪に満たさる。*
 
-<p align="right"><b>— Pham Ngu, Ke 61</b></p>
+<p align="right"><b>— Pham Ac, Ke 121</b></p>
 
 </td></tr>
 </table>
