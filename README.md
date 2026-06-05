@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年06月04日**
+### **2026年06月05日**
 
 <div align="center">
 <table>
@@ -37,27 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 罰せられるなら、子羊より親羊を盗んだほうがよい。
+> 人はある恋を隠すこともできなければ、ない恋をよそおうこともできない。
 
-<p align="right"><b>— イギリスの諺</b></p>
+<p align="right"><b>— サブレ夫人</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Chớ chê khinh điều ác,
-Cho rằng “chưa đến mình “,
-Như nước nhỏ từng giọt,
-Rồi bình cũng đầy tràn.
-Người ngu chứa đầy ác
-Do chất chứa dần dần.”
+> “Một khi tử thần đến,
+Không có con che chở,
+Không cha, không bà con,
+Không thân thích che chở.”
 >
-> *「そは我に報い来らざるべし」とて、悪を軽視すべからず。
-点滴の落下によりて水瓶も満たさる。
-微々として積みつつも愚者は悪に満たさる。*
+> *子も救うあたわず、父も親戚もまた〔救うあたわず〕。
+死に捉えられし者を救うは、親族もなすあたわざる所なり。*
 
-<p align="right"><b>— Pham Ac, Ke 121</b></p>
+<p align="right"><b>— Pham Dao, Ke 288</b></p>
 
 </td></tr>
 </table>
