@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年06月05日**
+### **2026年06月08日**
 
 <div align="center">
 <table>
@@ -37,24 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 人はある恋を隠すこともできなければ、ない恋をよそおうこともできない。
+> 力なき正義は無能であり、正義なき力は圧制である。力なき正義は反抗を受け、正義なき力は弾劾を受ける。それゆえ正義を力を結合せねばならない。
 
-<p align="right"><b>— サブレ夫人</b></p>
+<p align="right"><b>— パスカル</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Một khi tử thần đến,
-Không có con che chở,
-Không cha, không bà con,
-Không thân thích che chở.”
+> Nay than, đời sau than,
+Kẻ ác, hai đời than,
+Nó than: ‘Ta làm ác’
+Ðọa cõi dữ, than hơn.
 >
-> *子も救うあたわず、父も親戚もまた〔救うあたわず〕。
-死に捉えられし者を救うは、親族もなすあたわざる所なり。*
+> *この世に於て苦しみ、死後に於ても苦しみ、悪業をなせる者は両処に於て苦しむ。
+「我悪業をなせり」とて苦しみ、悪趣に堕ちて更に苦しむ。*
 
-<p align="right"><b>— Pham Dao, Ke 288</b></p>
+<p align="right"><b>— Pham Song Yeu, Ke 17</b></p>
 
 </td></tr>
 </table>
