@@ -37,7 +37,7 @@ jobs:
           git pull --rebase
           git push
 
-      - uses: vn7n24fzkq/github-profile-summary-cards@v0.7.0
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.MY_SECRET }}
         with:
