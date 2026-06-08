@@ -37,25 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 救いの道は右にも左にも通じていない。それは自分自身の心に通じる道である。そこにのみ神があり、そこにのみ平和がある。
+> 国家と人類に対して、誰もができる最高の貢献とは、多分子供を育てる事だろう。
 
-<p align="right"><b>— ヘルマン・ヘッセ</b></p>
+<p align="right"><b>— バーナード・ショー(1856-1950：英：劇作家、批評家)</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Ai lậu hoặc đoạn sạch,
-Ăn uống không tham đắm,
-Tự tại trong hành xứ,
-“Không, vô tướng giải thoát. ”
-Như chim giữa hư không,
-Dấu chân thật khó tìm. ”
+> “Ai ở đời đoạn ái
+Bỏ nhà, sống xuất gia,
+Ái hữu được đoạn tận,
+Ta gọi Bà-la-môn.”
 >
-> *煩悩を滅尽し、飲食に捉われず、空にして無相の解脱を境とする人の跡は、虚空に於ける鳥の〔跡〕の如く、追随し難し。*
+> *この世に於て愛欲を捨て、家なくして遊行し、愛欲の生起を滅尽したる人、我はこれを婆羅門と呼ぶ。*
 
-<p align="right"><b>— Pham A-La-Han, Ke 93</b></p>
+<p align="right"><b>— Pham Ba La Mon, Ke 416</b></p>
 
 </td></tr>
 </table>
