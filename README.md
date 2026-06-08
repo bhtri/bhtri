@@ -37,24 +37,28 @@
 
 **🌸 名言 (Meigen)**
 
-> 力なき正義は無能であり、正義なき力は圧制である。力なき正義は反抗を受け、正義なき力は弾劾を受ける。それゆえ正義を力を結合せねばならない。
+> 人生は自分の手でつかむのです。恋も同じです。
 
-<p align="right"><b>— パスカル</b></p>
+<p align="right"><b>— 『麗しのサブリナ』</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> Nay than, đời sau than,
-Kẻ ác, hai đời than,
-Nó than: ‘Ta làm ác’
-Ðọa cõi dữ, than hơn.
+> “Tỷ kheo, hãy tu thiền,
+Chớ buông lung phóng dật,
+Tâm chớ đắm say dục,
+Phóng dật, nuốt sắt nóng
+Bị đốt, chớ than khổ!”
 >
-> *この世に於て苦しみ、死後に於ても苦しみ、悪業をなせる者は両処に於て苦しむ。
-「我悪業をなせり」とて苦しみ、悪趣に堕ちて更に苦しむ。*
+> *比丘よ、禅定を修せよ。
+放逸なるなかれ。
+汝の心を愛欲に迷い行かしむることなかれ。
+放逸にして〔熱〕鉄丸を呑むなかれ。
+焼かれつつ「こは苦なり」と叫ぶことなかれ。*
 
-<p align="right"><b>— Pham Song Yeu, Ke 17</b></p>
+<p align="right"><b>— Pham Ty Kheo, Ke 371</b></p>
 
 </td></tr>
 </table>
