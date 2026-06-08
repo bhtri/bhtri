@@ -29,7 +29,7 @@ jobs:
         run: |
           git config user.email "16353896+bhtri@users.noreply.github.com"
           git config user.name "bhtri"
-          git add README.md profile-summary-card-output/ gitartwork.svg
+          git add README.md gitartwork.svg
           git commit -m "Updated README.md" || echo "No changes to commit"
           git pull --rebase
           git push
