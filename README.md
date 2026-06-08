@@ -37,28 +37,25 @@
 
 **🌸 名言 (Meigen)**
 
-> 人生は自分の手でつかむのです。恋も同じです。
+> 救いの道は右にも左にも通じていない。それは自分自身の心に通じる道である。そこにのみ神があり、そこにのみ平和がある。
 
-<p align="right"><b>— 『麗しのサブリナ』</b></p>
+<p align="right"><b>— ヘルマン・ヘッセ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Tỷ kheo, hãy tu thiền,
-Chớ buông lung phóng dật,
-Tâm chớ đắm say dục,
-Phóng dật, nuốt sắt nóng
-Bị đốt, chớ than khổ!”
+> “Ai lậu hoặc đoạn sạch,
+Ăn uống không tham đắm,
+Tự tại trong hành xứ,
+“Không, vô tướng giải thoát. ”
+Như chim giữa hư không,
+Dấu chân thật khó tìm. ”
 >
-> *比丘よ、禅定を修せよ。
-放逸なるなかれ。
-汝の心を愛欲に迷い行かしむることなかれ。
-放逸にして〔熱〕鉄丸を呑むなかれ。
-焼かれつつ「こは苦なり」と叫ぶことなかれ。*
+> *煩悩を滅尽し、飲食に捉われず、空にして無相の解脱を境とする人の跡は、虚空に於ける鳥の〔跡〕の如く、追随し難し。*
 
-<p align="right"><b>— Pham Ty Kheo, Ke 371</b></p>
+<p align="right"><b>— Pham A-La-Han, Ke 93</b></p>
 
 </td></tr>
 </table>
