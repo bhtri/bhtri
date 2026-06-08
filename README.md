@@ -37,23 +37,27 @@
 
 **🌸 名言 (Meigen)**
 
-> 国家と人類に対して、誰もができる最高の貢献とは、多分子供を育てる事だろう。
+> この宇宙のために死んでくれる気になったら、また僕を呼んで！
 
-<p align="right"><b>— バーナード・ショー(1856-1950：英：劇作家、批評家)</b></p>
+<p align="right"><b>— キュゥべえ(魔法少女まどか☆マギカ)</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Ai ở đời đoạn ái
-Bỏ nhà, sống xuất gia,
-Ái hữu được đoạn tận,
-Ta gọi Bà-la-môn.”
+> “Biết thân như bọt nước,
+Ngộ thân là như huyễn,
+Bẻ tên hoa của ma,
+Vượt tầm mắt thần chết.”
 >
-> *この世に於て愛欲を捨て、家なくして遊行し、愛欲の生起を滅尽したる人、我はこれを婆羅門と呼ぶ。*
+> *この身は泡沫に譬うべきを知り、幻影に等しきを悟る人は、魔王の花矢（誘惑）を破り、〔
+地獄
+の〕死王（
+閻魔
+）に見ゆることなけん。*
 
-<p align="right"><b>— Pham Ba La Mon, Ke 416</b></p>
+<p align="right"><b>— Pham Hoa, Ke 46</b></p>
 
 </td></tr>
 </table>
