@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年06月08日**
+### **2026年06月09日**
 
 <div align="center">
 <table>
@@ -37,27 +37,25 @@
 
 **🌸 名言 (Meigen)**
 
-> この宇宙のために死んでくれる気になったら、また僕を呼んで！
+> 人生は苦しむためのものではない。それはただ、一つの所から別の所へと穏やかに進んで行くものなのだ。ちょうど、天気のよい日に谷間をゆっくり歩いてゆくように。
 
-<p align="right"><b>— キュゥべえ(魔法少女まどか☆マギカ)</b></p>
+<p align="right"><b>— スチュアート・ワイルド</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Biết thân như bọt nước,
-Ngộ thân là như huyễn,
-Bẻ tên hoa của ma,
-Vượt tầm mắt thần chết.”
+> “Dục ái sinh sầu ưu,
+Dục ái sinh sợ hãi,
+Ai thoát khỏi dục ái,
+Không sầu, đâu sợ hãi?”
 >
-> *この身は泡沫に譬うべきを知り、幻影に等しきを悟る人は、魔王の花矢（誘惑）を破り、〔
-地獄
-の〕死王（
-閻魔
-）に見ゆることなけん。*
+> *欲楽より憂患生じ、欲楽より畏怖生ず。
+欲楽を離脱せる人には憂患なし。
+何処にか畏怖あらん。*
 
-<p align="right"><b>— Pham Hoa, Ke 46</b></p>
+<p align="right"><b>— Pham Hy Ai, Ke 215</b></p>
 
 </td></tr>
 </table>
