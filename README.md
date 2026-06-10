@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年06月09日**
+### **2026年06月10日**
 
 <div align="center">
 <table>
@@ -37,25 +37,26 @@
 
 **🌸 名言 (Meigen)**
 
-> 人生は苦しむためのものではない。それはただ、一つの所から別の所へと穏やかに進んで行くものなのだ。ちょうど、天気のよい日に谷間をゆっくり歩いてゆくように。
+> 立法者にしろ、革命家にしろ、平等と自由を同じに約束する者は、空想家でなければ詐欺師である。
 
-<p align="right"><b>— スチュアート・ワイルド</b></p>
+<p align="right"><b>— ゲーテ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Dục ái sinh sầu ưu,
-Dục ái sinh sợ hãi,
-Ai thoát khỏi dục ái,
-Không sầu, đâu sợ hãi?”
+> “Chớ nói lời ác độc,
+Nói ác, bị nói lại,
+Khổ thay lời phẩn nộ,
+Ðao trượng phản chạm mình.”
 >
-> *欲楽より憂患生じ、欲楽より畏怖生ず。
-欲楽を離脱せる人には憂患なし。
-何処にか畏怖あらん。*
+> *粗暴の言を用うべからず。
+言われし者また汝に言を返さん。
+忿怒の言は実に苦なり。
+刀杖かえって汝に触れん。*
 
-<p align="right"><b>— Pham Hy Ai, Ke 215</b></p>
+<p align="right"><b>— Pham Hinh Phat, Ke 133</b></p>
 
 </td></tr>
 </table>
