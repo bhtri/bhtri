@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年06月10日**
+### **2026年06月11日**
 
 <div align="center">
 <table>
@@ -37,26 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 立法者にしろ、革命家にしろ、平等と自由を同じに約束する者は、空想家でなければ詐欺師である。
+> 我々は翼が欲しいという欲望を持っている。にもかかわらず結局は空を飛ぶことはできない。要するに、我々は幸せなのだ。さもなければ、空気はやがて吸うに堪えなくなるに違いない。
 
-<p align="right"><b>— ゲーテ</b></p>
+<p align="right"><b>— ルナール</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Chớ nói lời ác độc,
-Nói ác, bị nói lại,
-Khổ thay lời phẩn nộ,
-Ðao trượng phản chạm mình.”
+> “Dễ thay, sống không hổ
+Sống lỗ mãng như quạ,
+Sống công kích huênh hoang,
+Sống liều lĩnh, nhiễm ô.”
 >
-> *粗暴の言を用うべからず。
-言われし者また汝に言を返さん。
-忿怒の言は実に苦なり。
-刀杖かえって汝に触れん。*
+> *慚愧心
+なく、厚顔・暴戻・大胆・傲慢にして、罪に汚れたる人の生活は安易なり。*
 
-<p align="right"><b>— Pham Hinh Phat, Ke 133</b></p>
+<p align="right"><b>— Pham Cau Ue, Ke 244</b></p>
 
 </td></tr>
 </table>
