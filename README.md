@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年06月11日**
+### **2026年06月12日**
 
 <div align="center">
 <table>
@@ -37,24 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 我々は翼が欲しいという欲望を持っている。にもかかわらず結局は空を飛ぶことはできない。要するに、我々は幸せなのだ。さもなければ、空気はやがて吸うに堪えなくなるに違いない。
+> 恋の喜びは一瞬しか続かない。恋の悲しみは一生続く。
 
-<p align="right"><b>— ルナール</b></p>
+<p align="right"><b>— フロリアン</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Dễ thay, sống không hổ
-Sống lỗ mãng như quạ,
-Sống công kích huênh hoang,
-Sống liều lĩnh, nhiễm ô.”
+> “Như cỏ sa (1) vụng nắm,
+Tất bị họa đứt tay
+Hạnh Sa môn tà vạy,
+Tất bị đọa địa ngục.”
 >
-> *慚愧心
-なく、厚顔・暴戻・大胆・傲慢にして、罪に汚れたる人の生活は安易なり。*
+> *掴みそこねし茅草の手を切る如く、修行を誤れる沙門道は人を地獄に導く。*
 
-<p align="right"><b>— Pham Cau Ue, Ke 244</b></p>
+<p align="right"><b>— Pham Dia Nguc, Ke 311</b></p>
 
 </td></tr>
 </table>
