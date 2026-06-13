@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年06月12日**
+### **2026年06月13日**
 
 <div align="center">
 <table>
@@ -37,23 +37,27 @@
 
 **🌸 名言 (Meigen)**
 
-> 恋の喜びは一瞬しか続かない。恋の悲しみは一生続く。
+> 「自分は凡人だから」と言ってしまった時点で、「自分は今のままでいい」「努力したくない」と言っているようなもの。
 
-<p align="right"><b>— フロリアン</b></p>
+<p align="right"><b>— 堀江貴文</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Như cỏ sa (1) vụng nắm,
-Tất bị họa đứt tay
-Hạnh Sa môn tà vạy,
-Tất bị đọa địa ngục.”
+> “Ai tới đích, không sợ,
+Ly ái, không nhiễm ô
+Nhổ mũi tên sanh tử,
+Thân này thân cuối cùng.”
 >
-> *掴みそこねし茅草の手を切る如く、修行を誤れる沙門道は人を地獄に導く。*
+> *円成
+の境に達して畏怖なく、愛欲を離れて罪穢なく、
+有
+の矢を断てり。
+これ〔その〕最後身なり（すなわち更に輪廻せず）。*
 
-<p align="right"><b>— Pham Dia Nguc, Ke 311</b></p>
+<p align="right"><b>— Pham Tham Ai, Ke 351</b></p>
 
 </td></tr>
 </table>
