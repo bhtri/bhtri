@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年06月13日**
+### **2026年06月14日**
 
 <div align="center">
 <table>
@@ -37,27 +37,25 @@
 
 **🌸 名言 (Meigen)**
 
-> 「自分は凡人だから」と言ってしまった時点で、「自分は今のままでいい」「努力したくない」と言っているようなもの。
+> 宗教を愛し、守っていくには、それを守らぬ者を憎んだり迫害したりする必要はない。
 
-<p align="right"><b>— 堀江貴文</b></p>
+<p align="right"><b>— モンテスキュー</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Ai tới đích, không sợ,
-Ly ái, không nhiễm ô
-Nhổ mũi tên sanh tử,
-Thân này thân cuối cùng.”
+> “Bậc hiền sĩ, trí tuệ
+Bậc nghe nhiều, trì giới,
+Bậc tự chế, Thánh nhân;
+Hãy gần gũi, thân cận
+Thiện nhân, trí giả ấy,
+Như trăng theo đường sao.”
 >
-> *円成
-の境に達して畏怖なく、愛欲を離れて罪穢なく、
-有
-の矢を断てり。
-これ〔その〕最後身なり（すなわち更に輪廻せず）。*
+> *賢者、智者、博学の人、堅忍なる人、持戒者、聖者、この如き善良・賢明なる人に随うべし、あたかも月の星道に〔従う〕如く。*
 
-<p align="right"><b>— Pham Tham Ai, Ke 351</b></p>
+<p align="right"><b>— Pham An Lac, Ke 208</b></p>
 
 </td></tr>
 </table>
