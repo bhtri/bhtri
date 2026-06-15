@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年06月14日**
+### **2026年06月15日**
 
 <div align="center">
 <table>
@@ -37,25 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 宗教を愛し、守っていくには、それを守らぬ者を憎んだり迫害したりする必要はない。
+> 他人の幸福をうらやんではいけない。なぜならあなたは、彼の密かな悲しみを知らないのだから。
 
-<p align="right"><b>— モンテスキュー</b></p>
+<p align="right"><b>— ダンデミス</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Bậc hiền sĩ, trí tuệ
-Bậc nghe nhiều, trì giới,
-Bậc tự chế, Thánh nhân;
-Hãy gần gũi, thân cận
-Thiện nhân, trí giả ấy,
-Như trăng theo đường sao.”
+> “Dòng ái dục chảy khắp,
+Như giây leo mọc tràn,
+Thấy giây leo vừa sanh,
+Với tuệ, hãy đoạn gốc.”
 >
-> *賢者、智者、博学の人、堅忍なる人、持戒者、聖者、この如き善良・賢明なる人に随うべし、あたかも月の星道に〔従う〕如く。*
+> *〔愛欲の〕流れは至る所に流れ、〔その〕つるは芽を発して茂る。
+このつるの生ずるを見ば、智慧を以てその根を断て。*
 
-<p align="right"><b>— Pham An Lac, Ke 208</b></p>
+<p align="right"><b>— Pham Tham Ai, Ke 340</b></p>
 
 </td></tr>
 </table>
