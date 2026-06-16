@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年06月15日**
+### **2026年06月16日**
 
 <div align="center">
 <table>
@@ -37,24 +37,25 @@
 
 **🌸 名言 (Meigen)**
 
-> 他人の幸福をうらやんではいけない。なぜならあなたは、彼の密かな悲しみを知らないのだから。
+> 運命のなかに偶然はない。人間はある運命に出会う以前に、自分がそれを作っているのだ。
 
-<p align="right"><b>— ダンデミス</b></p>
+<p align="right"><b>— ウィルソン</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Dòng ái dục chảy khắp,
-Như giây leo mọc tràn,
-Thấy giây leo vừa sanh,
-Với tuệ, hãy đoạn gốc.”
+> Ai sống quán bất tịnh,
+Khéo hộ trì các căn,
+ăn uống có tiết độ,
+Có lòng tin, tinh cần,
+Ma không uy hiếp được,
+Như núi đá, trước gió.
 >
-> *〔愛欲の〕流れは至る所に流れ、〔その〕つるは芽を発して茂る。
-このつるの生ずるを見ば、智慧を以てその根を断て。*
+> *享楽を事とせずして住し、よく諸根を摂し、飲食度あり、信念ありて精勤するもの、実に魔王がかかる人を克服し得ざること、風の岩山に於けるが如し。*
 
-<p align="right"><b>— Pham Tham Ai, Ke 340</b></p>
+<p align="right"><b>— Pham Song Yeu, Ke 8</b></p>
 
 </td></tr>
 </table>
