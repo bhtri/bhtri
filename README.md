@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年06月16日**
+### **2026年06月17日**
 
 <div align="center">
 <table>
@@ -37,25 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 運命のなかに偶然はない。人間はある運命に出会う以前に、自分がそれを作っているのだ。
+> 「貧困は恥ではない」というのは、すべての人間が口にしながら、誰一人、心では納得していない諺である。
 
-<p align="right"><b>— ウィルソン</b></p>
+<p align="right"><b>— コッツェブー</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> Ai sống quán bất tịnh,
-Khéo hộ trì các căn,
-ăn uống có tiết độ,
-Có lòng tin, tinh cần,
-Ma không uy hiếp được,
-Như núi đá, trước gió.
+> “Cỏ làm hại ruộng vườn,
+Dục làm hại người đời.
+Bố thí người ly dục,
+Do vậy được quả lớn.”
 >
-> *享楽を事とせずして住し、よく諸根を摂し、飲食度あり、信念ありて精勤するもの、実に魔王がかかる人を克服し得ざること、風の岩山に於けるが如し。*
+> *田は雑草により損なわれ、この世の衆生は欲望により損なわる。
+されば欲望を離れし人への施与は大果報あり。*
 
-<p align="right"><b>— Pham Song Yeu, Ke 8</b></p>
+<p align="right"><b>— Pham Tham Ai, Ke 359</b></p>
 
 </td></tr>
 </table>
