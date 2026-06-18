@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年06月17日**
+### **2026年06月18日**
 
 <div align="center">
 <table>
@@ -37,24 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 「貧困は恥ではない」というのは、すべての人間が口にしながら、誰一人、心では納得していない諺である。
+> しかし……しかし君、恋は罪悪ですよ。解っていますか。
 
-<p align="right"><b>— コッツェブー</b></p>
+<p align="right"><b>— 夏目漱石「こころ」</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Cỏ làm hại ruộng vườn,
-Dục làm hại người đời.
-Bố thí người ly dục,
-Do vậy được quả lớn.”
+> “Sắt, cây, gai trói buộc
+Người trí xem chưa bền.
+Tham châu báu, trang sức
+Tham vọng vợ và con.”
 >
-> *田は雑草により損なわれ、この世の衆生は欲望により損なわる。
-されば欲望を離れし人への施与は大果報あり。*
+> *賢者は、鉄・木または草よりなる縄縛を堅牢なりと言わず。
+珠・環・妻・子に対する恋着こそ極めて強し。*
 
-<p align="right"><b>— Pham Tham Ai, Ke 359</b></p>
+<p align="right"><b>— Pham Tham Ai, Ke 345</b></p>
 
 </td></tr>
 </table>
