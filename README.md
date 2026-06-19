@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年06月18日**
+### **2026年06月19日**
 
 <div align="center">
 <table>
@@ -37,24 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> しかし……しかし君、恋は罪悪ですよ。解っていますか。
+> おお自由よ！汝の名においていかに多くの犯罪がなされたことか。
 
-<p align="right"><b>— 夏目漱石「こころ」</b></p>
+<p align="right"><b>— マダム・ジャンヌ・ローラン</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Sắt, cây, gai trói buộc
-Người trí xem chưa bền.
-Tham châu báu, trang sức
-Tham vọng vợ và con.”
+> “Dễ làm các điều ác,
+Dễ làm tự hại mình.
+Còn việc lành, việc tốt,
+Thật tối thượng khó làm.”
 >
-> *賢者は、鉄・木または草よりなる縄縛を堅牢なりと言わず。
-珠・環・妻・子に対する恋着こそ極めて強し。*
+> *不善にして自己に害あることは行い易く、〔自己に〕益ありてかつ善なることは極めて行い難し。*
 
-<p align="right"><b>— Pham Tham Ai, Ke 345</b></p>
+<p align="right"><b>— Pham Tu Nga, Ke 163</b></p>
 
 </td></tr>
 </table>
