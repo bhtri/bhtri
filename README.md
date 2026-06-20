@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年06月19日**
+### **2026年06月20日**
 
 <div align="center">
 <table>
@@ -37,23 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> おお自由よ！汝の名においていかに多くの犯罪がなされたことか。
+> 人生より難しき芸術はなし。他の芸術学問には至るところに師あり
 
-<p align="right"><b>— マダム・ジャンヌ・ローラン</b></p>
+<p align="right"><b>— セネカ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Dễ làm các điều ác,
-Dễ làm tự hại mình.
-Còn việc lành, việc tốt,
-Thật tối thượng khó làm.”
+> “Bỏ điều ưa, điều ghét,
+Mát lạnh, diệt sanh y
+Bậc anh hùng chiến thắng,
+Nhiếp phục mọi thế giới,
+Ta gọi Bà-la-môn.”
 >
-> *不善にして自己に害あることは行い易く、〔自己に〕益ありてかつ善なることは極めて行い難し。*
+> *楽と不楽とを捨て、清涼にして煩悩なく、一切世界を克服せる勇者、我はこれを婆羅門と呼ぶ。*
 
-<p align="right"><b>— Pham Tu Nga, Ke 163</b></p>
+<p align="right"><b>— Pham Ba La Mon, Ke 418</b></p>
 
 </td></tr>
 </table>
