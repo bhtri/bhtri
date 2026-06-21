@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年06月20日**
+### **2026年06月21日**
 
 <div align="center">
 <table>
@@ -37,24 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 人生より難しき芸術はなし。他の芸術学問には至るところに師あり
+> 大切なのは、ただ「パクる」のではなく、インスパイアを受けて新しいものを生むこと、敬意を払って一歩先に進めることだ。
 
-<p align="right"><b>— セネカ</b></p>
+<p align="right"><b>— 堀江貴文</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Bỏ điều ưa, điều ghét,
-Mát lạnh, diệt sanh y
-Bậc anh hùng chiến thắng,
-Nhiếp phục mọi thế giới,
+> “Nói lên lời ôn hòa,
+Lợi ích và chân thật,
+Không mất lòng một ai,
 Ta gọi Bà-la-môn.”
 >
-> *楽と不楽とを捨て、清涼にして煩悩なく、一切世界を克服せる勇者、我はこれを婆羅門と呼ぶ。*
+> *粗暴ならず、教訓的なる真実の語を発し、これによりて何者をも怒らしめざる人、我はこれを婆羅門と呼ぶ。*
 
-<p align="right"><b>— Pham Ba La Mon, Ke 418</b></p>
+<p align="right"><b>— Pham Ba La Mon, Ke 408</b></p>
 
 </td></tr>
 </table>
