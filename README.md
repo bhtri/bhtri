@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年06月21日**
+### **2026年06月22日**
 
 <div align="center">
 <table>
@@ -37,23 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 大切なのは、ただ「パクる」のではなく、インスパイアを受けて新しいものを生むこと、敬意を払って一歩先に進めることだ。
+> 我々は矛盾だけで生きている。そして矛盾ゆえに人生は悲劇であり、勝利も勝利の望みもない永久の闘争である。人生は矛盾なのである。
 
-<p align="right"><b>— 堀江貴文</b></p>
+<p align="right"><b>— ウナムーノ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Nói lên lời ôn hòa,
-Lợi ích và chân thật,
-Không mất lòng một ai,
-Ta gọi Bà-la-môn.”
+> “Như ong đến với hoa,
+Không hại sắc và hương,
+Che chở hoa, lấy nhụy.
+Bậc Thánh đi vào làng “.
 >
-> *粗暴ならず、教訓的なる真実の語を発し、これによりて何者をも怒らしめざる人、我はこれを婆羅門と呼ぶ。*
+> *蜜蜂の、花と色と香りとを損なうことなく、甘味のみを取り去る如く、かく智者は村落に乞食すべし。*
 
-<p align="right"><b>— Pham Ba La Mon, Ke 408</b></p>
+<p align="right"><b>— Pham Hoa, Ke 49</b></p>
 
 </td></tr>
 </table>
