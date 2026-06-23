@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年06月22日**
+### **2026年06月23日**
 
 <div align="center">
 <table>
@@ -37,23 +37,26 @@
 
 **🌸 名言 (Meigen)**
 
-> 我々は矛盾だけで生きている。そして矛盾ゆえに人生は悲劇であり、勝利も勝利の望みもない永久の闘争である。人生は矛盾なのである。
+> 愛する者と一緒に暮らすには一つの秘訣がいる。すなわち、相手を変えようとしないことだ。
 
-<p align="right"><b>— ウナムーノ</b></p>
+<p align="right"><b>— シャルドンヌ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Như ong đến với hoa,
-Không hại sắc và hương,
-Che chở hoa, lấy nhụy.
-Bậc Thánh đi vào làng “.
+> “Tỷ kheo, tát thuyền này,
+Thuyền không, nhẹ đi mau.
+Trừ tham, diệt sân hận,
+Tất chứng đạt Niết-Bàn.”
 >
-> *蜜蜂の、花と色と香りとを損なうことなく、甘味のみを取り去る如く、かく智者は村落に乞食すべし。*
+> *比丘よ、この舟〔の水〕（身中の邪念）を汲み出せ、〔水〕汲み出されなば、〔舟は〕汝の為に疾く進まん。
+貪欲と
+瞋恚
+とを断たば汝は涅槃に至らん。*
 
-<p align="right"><b>— Pham Hoa, Ke 49</b></p>
+<p align="right"><b>— Pham Ty Kheo, Ke 369</b></p>
 
 </td></tr>
 </table>
