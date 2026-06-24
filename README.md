@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年06月23日**
+### **2026年06月24日**
 
 <div align="center">
 <table>
@@ -37,26 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 愛する者と一緒に暮らすには一つの秘訣がいる。すなわち、相手を変えようとしないことだ。
+> 酒に害はない。泥酔する人に罪がある。
 
-<p align="right"><b>— シャルドンヌ</b></p>
+<p align="right"><b>— フランクリン</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Tỷ kheo, tát thuyền này,
-Thuyền không, nhẹ đi mau.
-Trừ tham, diệt sân hận,
-Tất chứng đạt Niết-Bàn.”
+> “Ai thấy lỗi của người,
+Thường sanh lòng chỉ trích,
+Người ấy lậu hoặc tăng,
+Rất xa lậu hoặc diệt.”
 >
-> *比丘よ、この舟〔の水〕（身中の邪念）を汲み出せ、〔水〕汲み出されなば、〔舟は〕汝の為に疾く進まん。
-貪欲と
-瞋恚
-とを断たば汝は涅槃に至らん。*
+> *他人の過失を詮索し、常に怒り易き人の煩悩は増長す。
+彼は煩悩の滅尽を去ること遠し。*
 
-<p align="right"><b>— Pham Ty Kheo, Ke 369</b></p>
+<p align="right"><b>— Pham Cau Ue, Ke 253</b></p>
 
 </td></tr>
 </table>
