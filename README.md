@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年06月24日**
+### **2026年06月25日**
 
 <div align="center">
 <table>
@@ -37,24 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 酒に害はない。泥酔する人に罪がある。
+> 上司がいい人であるように振る舞え。たとえそうでない場合でも。
 
-<p align="right"><b>— フランクリン</b></p>
+<p align="right"><b>— カリン・アイルランド</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Ai thấy lỗi của người,
-Thường sanh lòng chỉ trích,
-Người ấy lậu hoặc tăng,
-Rất xa lậu hoặc diệt.”
+> “Dầu nói trăm câu kệ
+Nhưng không gì lợi ích,
+Tốt hơn một câu pháp,
+Nghe xong, được tịnh lạc.”
 >
-> *他人の過失を詮索し、常に怒り易き人の煩悩は増長す。
-彼は煩悩の滅尽を去ること遠し。*
+> *無益の句よりなる百偈を誦すとも、聞きて寂静を得べき、一偈の一語これに勝る。*
 
-<p align="right"><b>— Pham Cau Ue, Ke 253</b></p>
+<p align="right"><b>— Pham Ngan, Ke 102</b></p>
 
 </td></tr>
 </table>
