@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年06月25日**
+### **2026年06月26日**
 
 <div align="center">
 <table>
@@ -37,23 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 上司がいい人であるように振る舞え。たとえそうでない場合でも。
+> 死ぬことに意味を持つな。生きるんだ！
 
-<p align="right"><b>— カリン・アイルランド</b></p>
+<p align="right"><b>—  出典:3年B組金八先生  キャラクタ:坂本 金八 [ドラマの名言]</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Dầu nói trăm câu kệ
-Nhưng không gì lợi ích,
-Tốt hơn một câu pháp,
-Nghe xong, được tịnh lạc.”
+> “Cỏ làm hại ruộng vườn,
+Dục làm hại người đời.
+Bố thí người ly dục,
+Do vậy được quả lớn.”
 >
-> *無益の句よりなる百偈を誦すとも、聞きて寂静を得べき、一偈の一語これに勝る。*
+> *田は雑草により損なわれ、この世の衆生は欲望により損なわる。
+されば欲望を離れし人への施与は大果報あり。*
 
-<p align="right"><b>— Pham Ngan, Ke 102</b></p>
+<p align="right"><b>— Pham Tham Ai, Ke 359</b></p>
 
 </td></tr>
 </table>
