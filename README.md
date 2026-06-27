@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年06月26日**
+### **2026年06月27日**
 
 <div align="center">
 <table>
@@ -37,24 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 死ぬことに意味を持つな。生きるんだ！
+> お互いの臆病が我々を平和に保つのだ。もし人類の半分が勇敢で、半分が臆病だったら、勇敢なものは絶えず臆病者を打ち負かすだろう。彼らは絶え間なく闘っているだろうから。けれども、みんなが臆病者だからわれわれは大変うまくやっている。
 
-<p align="right"><b>—  出典:3年B組金八先生  キャラクタ:坂本 金八 [ドラマの名言]</b></p>
+<p align="right"><b>— サミュエル・ジョンソン</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Cỏ làm hại ruộng vườn,
-Dục làm hại người đời.
-Bố thí người ly dục,
-Do vậy được quả lớn.”
+> “Không đáng hổ, lại hổ.
+Việc đáng hổ, lại không.
+Do chấp nhận tà kiến,
+Chúng sanh đi ác thú.”
 >
-> *田は雑草により損なわれ、この世の衆生は欲望により損なわる。
-されば欲望を離れし人への施与は大果報あり。*
+> *恥ずべからざるを恥じ、恥ずべきを恥じず、邪見を抱ける衆生は悪趣に至る。*
 
-<p align="right"><b>— Pham Tham Ai, Ke 359</b></p>
+<p align="right"><b>— Pham Dia Nguc, Ke 316</b></p>
 
 </td></tr>
 </table>
