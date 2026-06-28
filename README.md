@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年06月27日**
+### **2026年06月28日**
 
 <div align="center">
 <table>
@@ -37,23 +37,29 @@
 
 **🌸 名言 (Meigen)**
 
-> お互いの臆病が我々を平和に保つのだ。もし人類の半分が勇敢で、半分が臆病だったら、勇敢なものは絶えず臆病者を打ち負かすだろう。彼らは絶え間なく闘っているだろうから。けれども、みんなが臆病者だからわれわれは大変うまくやっている。
+> 人生を越えた何かがあるとき、人生は美しくなる。
 
-<p align="right"><b>— サミュエル・ジョンソン</b></p>
+<p align="right"><b>— J．ドルメッソン</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Không đáng hổ, lại hổ.
-Việc đáng hổ, lại không.
-Do chấp nhận tà kiến,
-Chúng sanh đi ác thú.”
+> “Lìa rừng lại hướng rừng (2)
+Thoát rừng chạy theo rừng.
+Nên xem người như vậy,
+Ðược thoát khỏi buộc ràng.
+Lại chạy theo ràng buộc.”
 >
-> *恥ずべからざるを恥じ、恥ずべきを恥じず、邪見を抱ける衆生は悪趣に至る。*
+> *欲林を出でて欲林に心を傾け、欲林を脱してまた欲林に走る者、実にこの人を見よ。
+彼は〔
+繋縛
+を〕脱してまた
+繋縛
+に走るなり。*
 
-<p align="right"><b>— Pham Dia Nguc, Ke 316</b></p>
+<p align="right"><b>— Pham Tham Ai, Ke 344</b></p>
 
 </td></tr>
 </table>
