@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年06月28日**
+### **2026年06月29日**
 
 <div align="center">
 <table>
@@ -37,29 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 人生を越えた何かがあるとき、人生は美しくなる。
+> 幸福の真の名前は「満足」である。
 
-<p align="right"><b>— J．ドルメッソン</b></p>
+<p align="right"><b>— H.F.アミエル</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Lìa rừng lại hướng rừng (2)
-Thoát rừng chạy theo rừng.
-Nên xem người như vậy,
-Ðược thoát khỏi buộc ràng.
-Lại chạy theo ràng buộc.”
+> Nay than, đời sau than,
+Kẻ ác, hai đời than,
+Nó than: ‘Ta làm ác’
+Ðọa cõi dữ, than hơn.
 >
-> *欲林を出でて欲林に心を傾け、欲林を脱してまた欲林に走る者、実にこの人を見よ。
-彼は〔
-繋縛
-を〕脱してまた
-繋縛
-に走るなり。*
+> *この世に於て苦しみ、死後に於ても苦しみ、悪業をなせる者は両処に於て苦しむ。
+「我悪業をなせり」とて苦しみ、悪趣に堕ちて更に苦しむ。*
 
-<p align="right"><b>— Pham Tham Ai, Ke 344</b></p>
+<p align="right"><b>— Pham Song Yeu, Ke 17</b></p>
 
 </td></tr>
 </table>
