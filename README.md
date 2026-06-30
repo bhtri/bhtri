@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年06月29日**
+### **2026年06月30日**
 
 <div align="center">
 <table>
@@ -37,24 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 幸福の真の名前は「満足」である。
+> 別れることがなければ、めぐり逢うこともできない。
 
-<p align="right"><b>— H.F.アミエル</b></p>
+<p align="right"><b>— 西洋のことわざ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> Nay than, đời sau than,
-Kẻ ác, hai đời than,
-Nó than: ‘Ta làm ác’
-Ðọa cõi dữ, than hơn.
+> Tâm khó thấy, tế nhị,
+Theo các dục quay cuồng.
+Người trí phòng hộ tâm,
+Tâm hộ, an lạc đến.
 >
-> *この世に於て苦しみ、死後に於ても苦しみ、悪業をなせる者は両処に於て苦しむ。
-「我悪業をなせり」とて苦しみ、悪趣に堕ちて更に苦しむ。*
+> *極めて見難く極めて微妙にして欲に随いて赴く心を、賢慮ある者は護るべし。
+護られたる心は安楽をもたらす。*
 
-<p align="right"><b>— Pham Song Yeu, Ke 17</b></p>
+<p align="right"><b>— Pham Tam, Ke 36</b></p>
 
 </td></tr>
 </table>
