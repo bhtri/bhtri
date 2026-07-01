@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年06月30日**
+### **2026年07月01日**
 
 <div align="center">
 <table>
@@ -37,24 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 別れることがなければ、めぐり逢うこともできない。
+> 世の中に　思ひあれども　子をこふる　思ひにまさる　思ひなき哉（世の中に感情、もの思う心はいろいろあるけれども、親が子を思いやる心以上に強く美しいものはない）
 
-<p align="right"><b>— 西洋のことわざ</b></p>
+<p align="right"><b>— 紀貫之</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> Tâm khó thấy, tế nhị,
-Theo các dục quay cuồng.
-Người trí phòng hộ tâm,
-Tâm hộ, an lạc đến.
+> “Tỷ kheo chế ngự miệng,
+Vừa lời, không cống cao,
+Khi trình bày pháp nghĩa,
+Lời lẽ dịu ngọt ngào.”
 >
-> *極めて見難く極めて微妙にして欲に随いて赴く心を、賢慮ある者は護るべし。
-護られたる心は安楽をもたらす。*
+> *口を慎み、語る所賢明に、寂静にして正理と正法とを明らかにする比丘は、その説く所甘美なり。*
 
-<p align="right"><b>— Pham Tam, Ke 36</b></p>
+<p align="right"><b>— Pham Ty Kheo, Ke 363</b></p>
 
 </td></tr>
 </table>
