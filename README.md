@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年07月01日**
+### **2026年07月02日**
 
 <div align="center">
 <table>
@@ -37,23 +37,26 @@
 
 **🌸 名言 (Meigen)**
 
-> 世の中に　思ひあれども　子をこふる　思ひにまさる　思ひなき哉（世の中に感情、もの思う心はいろいろあるけれども、親が子を思いやる心以上に強く美しいものはない）
+> 家庭はどこで始まるか？若い男と若い娘が恋愛に陥ることから始まる。
 
-<p align="right"><b>— 紀貫之</b></p>
+<p align="right"><b>— バーナード･ショウ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Tỷ kheo chế ngự miệng,
-Vừa lời, không cống cao,
-Khi trình bày pháp nghĩa,
-Lời lẽ dịu ngọt ngào.”
+> “Nếu người làm điều ác,
+Chớ tiếp tục làm thêm.
+Chớ ước muốn điều ác,
+Chứa ác, tất chịu khổ.”
 >
-> *口を慎み、語る所賢明に、寂静にして正理と正法とを明らかにする比丘は、その説く所甘美なり。*
+> *たとい人悪をなすも、重ねてこれをなすべからず、これを喜ぶべからず。
+悪の
+積集
+は苦なり。*
 
-<p align="right"><b>— Pham Ty Kheo, Ke 363</b></p>
+<p align="right"><b>— Pham Ac, Ke 117</b></p>
 
 </td></tr>
 </table>
