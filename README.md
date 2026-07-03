@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年07月02日**
+### **2026年07月03日**
 
 <div align="center">
 <table>
@@ -37,26 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 家庭はどこで始まるか？若い男と若い娘が恋愛に陥ることから始まる。
+> いかなるすぐれた大学でも、そこで修得する知識は、その後の人生において学ぶものにくらべたら一割にも満たない。
 
-<p align="right"><b>— バーナード･ショウ</b></p>
+<p align="right"><b>— ロバート・アンダーソン</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Nếu người làm điều ác,
-Chớ tiếp tục làm thêm.
-Chớ ước muốn điều ác,
-Chứa ác, tất chịu khổ.”
+> Tâm không đầy tràn dục,
+Tâm không (hận) công phá,
+Ðoạn tuyệt mọi thiện ác,
+Kẻ tỉnh không sợ hãi.
 >
-> *たとい人悪をなすも、重ねてこれをなすべからず、これを喜ぶべからず。
-悪の
-積集
-は苦なり。*
+> *心に煩悩なく、思慮惑乱せず、善悪を超脱し、覚醒せる人には恐怖なし。*
 
-<p align="right"><b>— Pham Ac, Ke 117</b></p>
+<p align="right"><b>— Pham Tam, Ke 39</b></p>
 
 </td></tr>
 </table>
