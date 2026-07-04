@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年07月03日**
+### **2026年07月04日**
 
 <div align="center">
 <table>
@@ -37,23 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> いかなるすぐれた大学でも、そこで修得する知識は、その後の人生において学ぶものにくらべたら一割にも満たない。
+> 幸せとは欲しいものを得たり、なりたいものになったり、したいことをしたりするところから来るものではなく、今得ているもの、今していることを、あなたが好きになるところから生まれる。
 
-<p align="right"><b>— ロバート・アンダーソン</b></p>
+<p align="right"><b>— トリーチェ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> Tâm không đầy tràn dục,
-Tâm không (hận) công phá,
-Ðoạn tuyệt mọi thiện ác,
-Kẻ tỉnh không sợ hãi.
+> “Bước vào ngôi nhà trống,
+Tỷ kheo tâm an tịnh,
+Thọ hưởng vui siêu nhân
+Tịnh quán theo chánh pháp.”
 >
-> *心に煩悩なく、思慮惑乱せず、善悪を超脱し、覚醒せる人には恐怖なし。*
+> *空屋（閑寂処）に入りて心寂静に、正しく法を観ずる比丘は、人界になき楽を受く。*
 
-<p align="right"><b>— Pham Tam, Ke 39</b></p>
+<p align="right"><b>— Pham Ty Kheo, Ke 373</b></p>
 
 </td></tr>
 </table>
