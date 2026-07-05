@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年07月04日**
+### **2026年07月05日**
 
 <div align="center">
 <table>
@@ -37,23 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 幸せとは欲しいものを得たり、なりたいものになったり、したいことをしたりするところから来るものではなく、今得ているもの、今していることを、あなたが好きになるところから生まれる。
+> 駒鳥は巣立ちしてまもなく林の中を一直線に飛翔するという。そして多くの若い駒鳥が樹木に衝突して地に落ちる。
 
-<p align="right"><b>— トリーチェ</b></p>
+<p align="right"><b>— 奥紳平</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Bước vào ngôi nhà trống,
-Tỷ kheo tâm an tịnh,
-Thọ hưởng vui siêu nhân
-Tịnh quán theo chánh pháp.”
+> “Vị tỷ kheo thích Pháp,
+Mến pháp, suy tư Pháp.
+Tâm tư niệm chánh Pháp,
+Không rời bỏ chánh Pháp.”
 >
-> *空屋（閑寂処）に入りて心寂静に、正しく法を観ずる比丘は、人界になき楽を受く。*
+> *法を楽園とし、法を楽しみ、法に随って思惟し、法を憶念する比丘は、正法より退堕することなし。*
 
-<p align="right"><b>— Pham Ty Kheo, Ke 373</b></p>
+<p align="right"><b>— Pham Ty Kheo, Ke 364</b></p>
 
 </td></tr>
 </table>
