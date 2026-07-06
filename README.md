@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年07月05日**
+### **2026年07月06日**
 
 <div align="center">
 <table>
@@ -37,23 +37,29 @@
 
 **🌸 名言 (Meigen)**
 
-> 駒鳥は巣立ちしてまもなく林の中を一直線に飛翔するという。そして多くの若い駒鳥が樹木に衝突して地に落ちる。
+> 英知は次になすべきことを知っており、美徳はつぎになすべきことを行っている。
 
-<p align="right"><b>— 奥紳平</b></p>
+<p align="right"><b>— ジョーダン「絶望の哲学」</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Vị tỷ kheo thích Pháp,
-Mến pháp, suy tư Pháp.
-Tâm tư niệm chánh Pháp,
-Không rời bỏ chánh Pháp.”
+> “Chẳng phải loài cưỡi ấy,
+Ðưa người đến Niết-Bàn,
+Chỉ có người tự điều,
+Ðến đích, nhờ điều phục.”
 >
-> *法を楽園とし、法を楽しみ、法に随って思惟し、法を憶念する比丘は、正法より退堕することなし。*
+> *これらの牽獣によりては未到の境（涅槃）に至ることなからん、
+調御
+せられたる人が、よく
+調御
+せられたる自己を
+調御
+せられたる〔牽獣〕として至るが如くに。*
 
-<p align="right"><b>— Pham Ty Kheo, Ke 364</b></p>
+<p align="right"><b>— Pham Voi, Ke 323</b></p>
 
 </td></tr>
 </table>
