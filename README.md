@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年07月06日**
+### **2026年07月07日**
 
 <div align="center">
 <table>
@@ -37,29 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 英知は次になすべきことを知っており、美徳はつぎになすべきことを行っている。
+> 夫を信頼し、夫を敬愛し、できるだけ多くのものを自分名義にしておきなさい。
 
-<p align="right"><b>— ジョーダン「絶望の哲学」</b></p>
+<p align="right"><b>— ジョーン・リバース</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Chẳng phải loài cưỡi ấy,
-Ðưa người đến Niết-Bàn,
-Chỉ có người tự điều,
-Ðến đích, nhờ điều phục.”
+> “Không gặp bạn hiền trí.
+Ðáng sống chung, hạnh lành
+Như vua bỏ nước bại,
+Hãy sống riêng cô độc,
+Như voi sống rừng voi.”
 >
-> *これらの牽獣によりては未到の境（涅槃）に至ることなからん、
-調御
-せられたる人が、よく
-調御
-せられたる自己を
-調御
-せられたる〔牽獣〕として至るが如くに。*
+> *もし思慮に富み、正しく行い、賢明なる同行の伴侶を得ざれば、独り行くべし、あたかも征服せられたる国土を捨てし王の如く、林中に於ける象の如くに。*
 
-<p align="right"><b>— Pham Voi, Ke 323</b></p>
+<p align="right"><b>— Pham Voi, Ke 329</b></p>
 
 </td></tr>
 </table>
