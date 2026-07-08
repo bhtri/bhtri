@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年07月07日**
+### **2026年07月08日**
 
 <div align="center">
 <table>
@@ -37,24 +37,26 @@
 
 **🌸 名言 (Meigen)**
 
-> 夫を信頼し、夫を敬愛し、できるだけ多くのものを自分名義にしておきなさい。
+> この世では成功しなければならないのだといわれている。だが私はこう思う、まず生きなければならないのだと。これこそ世の最大の成功なのである。
 
-<p align="right"><b>— ジョーン・リバース</b></p>
+<p align="right"><b>— ジャン・ジオノ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Không gặp bạn hiền trí.
-Ðáng sống chung, hạnh lành
-Như vua bỏ nước bại,
-Hãy sống riêng cô độc,
-Như voi sống rừng voi.”
+> “Ðây Tỷ kheo có trí,
+Tụ tập pháp căn bản
+Hộ căn, biết vừa đủ,
+Giữ gìn căn bản giới,
+Thường gần gũi bạn lành,
+Sống thanh tịnh tinh cần.”
 >
-> *もし思慮に富み、正しく行い、賢明なる同行の伴侶を得ざれば、独り行くべし、あたかも征服せられたる国土を捨てし王の如く、林中に於ける象の如くに。*
+> *こは現世に於て、智慧ある比丘の最初に〔為すべきこと〕なり。
+〔すなわち〕諸根を摂護し、満足し、戒律に従いて制御し、生活清浄にして倦むことなき良友と交われ。*
 
-<p align="right"><b>— Pham Voi, Ke 329</b></p>
+<p align="right"><b>— Pham Ty Kheo, Ke 375</b></p>
 
 </td></tr>
 </table>
