@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年07月08日**
+### **2026年07月09日**
 
 <div align="center">
 <table>
@@ -37,26 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> この世では成功しなければならないのだといわれている。だが私はこう思う、まず生きなければならないのだと。これこそ世の最大の成功なのである。
+> 幸福な家庭の顔はお互い似かよっているが、不幸な家庭の顔はどれもこれも違っている。
 
-<p align="right"><b>— ジャン・ジオノ</b></p>
+<p align="right"><b>— トルストイ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Ðây Tỷ kheo có trí,
-Tụ tập pháp căn bản
-Hộ căn, biết vừa đủ,
-Giữ gìn căn bản giới,
-Thường gần gũi bạn lành,
-Sống thanh tịnh tinh cần.”
+> “Một khi tử thần đến,
+Không có con che chở,
+Không cha, không bà con,
+Không thân thích che chở.”
 >
-> *こは現世に於て、智慧ある比丘の最初に〔為すべきこと〕なり。
-〔すなわち〕諸根を摂護し、満足し、戒律に従いて制御し、生活清浄にして倦むことなき良友と交われ。*
+> *子も救うあたわず、父も親戚もまた〔救うあたわず〕。
+死に捉えられし者を救うは、親族もなすあたわざる所なり。*
 
-<p align="right"><b>— Pham Ty Kheo, Ke 375</b></p>
+<p align="right"><b>— Pham Dao, Ke 288</b></p>
 
 </td></tr>
 </table>
