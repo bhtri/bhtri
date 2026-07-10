@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年07月09日**
+### **2026年07月10日**
 
 <div align="center">
 <table>
@@ -37,24 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 幸福な家庭の顔はお互い似かよっているが、不幸な家庭の顔はどれもこれも違っている。
+> 私にはクリスマスのお祭り騒ぎが以前からどうしても受け入れられない。それはイエスの生涯や教えに全くそぐわないように思える。
 
-<p align="right"><b>— トルストイ</b></p>
+<p align="right"><b>— M.ガンジー</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Một khi tử thần đến,
-Không có con che chở,
-Không cha, không bà con,
-Không thân thích che chở.”
+> Ai sống một trăm năm,
+Không thấy pháp tối thượng,
+Tốt hơn sống một ngày,
+Thấy được pháp tối thượng.
 >
-> *子も救うあたわず、父も親戚もまた〔救うあたわず〕。
-死に捉えられし者を救うは、親族もなすあたわざる所なり。*
+> *百歳の寿を全うするも、最上の法を見ざれば、最上の法を見る者の一日の生、これに勝る。*
 
-<p align="right"><b>— Pham Dao, Ke 288</b></p>
+<p align="right"><b>— Pham Ngan, Ke 115</b></p>
 
 </td></tr>
 </table>
