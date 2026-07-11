@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年07月10日**
+### **2026年07月11日**
 
 <div align="center">
 <table>
@@ -37,23 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 私にはクリスマスのお祭り騒ぎが以前からどうしても受け入れられない。それはイエスの生涯や教えに全くそぐわないように思える。
+> 人間はカメレオンだ。その天性、法則によって、終始行く場所の色をおびる。
 
-<p align="right"><b>— M.ガンジー</b></p>
+<p align="right"><b>— マーク・トゥエイン</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> Ai sống một trăm năm,
-Không thấy pháp tối thượng,
-Tốt hơn sống một ngày,
-Thấy được pháp tối thượng.
+> “Chiến thắng sinh thù oán,
+Thất bại chịu khổ đau,
+Sống tịch tịnh an lạc.
+Bỏ sau mọi thắng bại.”
 >
-> *百歳の寿を全うするも、最上の法を見ざれば、最上の法を見る者の一日の生、これに勝る。*
+> *勝利は怨憎を生じ、敗者は苦しみて臥す。
+寂静に帰せる人は、勝敗を捨てて安楽に臥す。*
 
-<p align="right"><b>— Pham Ngan, Ke 115</b></p>
+<p align="right"><b>— Pham An Lac, Ke 201</b></p>
 
 </td></tr>
 </table>
