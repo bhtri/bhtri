@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年07月11日**
+### **2026年07月12日**
 
 <div align="center">
 <table>
@@ -37,24 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 人間はカメレオンだ。その天性、法則によって、終始行く場所の色をおびる。
+> 名月や池をめぐりて夜もすがら
 
-<p align="right"><b>— マーク・トゥエイン</b></p>
+<p align="right"><b>— 芭蕉</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Chiến thắng sinh thù oán,
-Thất bại chịu khổ đau,
-Sống tịch tịnh an lạc.
-Bỏ sau mọi thắng bại.”
+> “Nhờ từ bỏ lạc nhỏ,
+Thấy được lạc lớn hơn,
+Bậc trí bỏ lạc nhỏ,
+Thấy được lạc lớn hơn.”
 >
-> *勝利は怨憎を生じ、敗者は苦しみて臥す。
-寂静に帰せる人は、勝敗を捨てて安楽に臥す。*
+> *もし小楽を捨つるによりて、大楽を見得るとせば、賢者は大楽を見つつ、小楽を捨つべし。*
 
-<p align="right"><b>— Pham An Lac, Ke 201</b></p>
+<p align="right"><b>— Pham Tap Luc, Ke 290</b></p>
 
 </td></tr>
 </table>
