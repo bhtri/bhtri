@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年07月12日**
+### **2026年07月13日**
 
 <div align="center">
 <table>
@@ -37,23 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 名月や池をめぐりて夜もすがら
+> どの一片の落葉も、舞い落ちながら宇宙の最大の法則の一つを満たす。
 
-<p align="right"><b>— 芭蕉</b></p>
+<p align="right"><b>— リルケ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Nhờ từ bỏ lạc nhỏ,
-Thấy được lạc lớn hơn,
-Bậc trí bỏ lạc nhỏ,
-Thấy được lạc lớn hơn.”
+> “Ngươi đâu phải pháp trụ,
+Xử sự quá chuyên chế,
+Bậc trí cần phân biệt
+Cả hai chánh và tà!”
 >
-> *もし小楽を捨つるによりて、大楽を見得るとせば、賢者は大楽を見つつ、小楽を捨つべし。*
+> *躁急に事を処するの故を以て、法住者たるにあらず。
+正と邪とを二つながらよく弁別し、学識あり、*
 
-<p align="right"><b>— Pham Tap Luc, Ke 290</b></p>
+<p align="right"><b>— Pham Phap Tru, Ke 256</b></p>
 
 </td></tr>
 </table>
