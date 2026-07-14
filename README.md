@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年07月13日**
+### **2026年07月14日**
 
 <div align="center">
 <table>
@@ -37,24 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> どの一片の落葉も、舞い落ちながら宇宙の最大の法則の一つを満たす。
+> 目の前で悲しんでいる人を見つけたらなんとかして笑わせたい。そのためなら警察に捕まってもいい。寿命が縮まってもいい
 
-<p align="right"><b>— リルケ</b></p>
+<p align="right"><b>— 江頭2:50</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Ngươi đâu phải pháp trụ,
-Xử sự quá chuyên chế,
-Bậc trí cần phân biệt
-Cả hai chánh và tà!”
+> “Giữ lời đừng phẫn nộ,
+Phòng lời, khéo bảo vệ,
+Từ bỏ lời thô ác,
+Với lời, nói điều lành.”
 >
-> *躁急に事を処するの故を以て、法住者たるにあらず。
-正と邪とを二つながらよく弁別し、学識あり、*
+> *語の忿怒を摂護し、語を制御すべし。
+語の悪行を捨て、語によりて善行を修すべし。*
 
-<p align="right"><b>— Pham Phap Tru, Ke 256</b></p>
+<p align="right"><b>— Pham Phan No, Ke 232</b></p>
 
 </td></tr>
 </table>
