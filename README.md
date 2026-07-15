@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年07月14日**
+### **2026年07月15日**
 
 <div align="center">
 <table>
@@ -37,24 +37,30 @@
 
 **🌸 名言 (Meigen)**
 
-> 目の前で悲しんでいる人を見つけたらなんとかして笑わせたい。そのためなら警察に捕まってもいい。寿命が縮まってもいい
+> 結婚の幸福は、まったく運次第ですもの。お互いに気心がわかっていても、前もって似ていても、そんなことで幸せが増すというわけのものじゃないわ。
 
-<p align="right"><b>— 江頭2:50</b></p>
+<p align="right"><b>— J.オースティン</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Giữ lời đừng phẫn nộ,
-Phòng lời, khéo bảo vệ,
-Từ bỏ lời thô ác,
-Với lời, nói điều lành.”
+> “Không phỉ báng, phá hoại,
+Hộ trì giới căn bản,
+Ăn uống có tiết độ,
+Sàng tọa chỗ nhàn tịnh
+Chuyên chú tăng thượng tâm,
+Chính lời chư Phật dạy.”
 >
-> *語の忿怒を摂護し、語を制御すべし。
-語の悪行を捨て、語によりて善行を修すべし。*
+> *謗らず
+害
+わず、
+戒律
+を厳守し、食するに量を知り、孤独に坐臥し、高尚なる思慮に専念す。
+これ諸仏の教えなり。*
 
-<p align="right"><b>— Pham Phan No, Ke 232</b></p>
+<p align="right"><b>— Pham Phat Da, Ke 185</b></p>
 
 </td></tr>
 </table>
