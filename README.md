@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年07月15日**
+### **2026年07月16日**
 
 <div align="center">
 <table>
@@ -37,30 +37,28 @@
 
 **🌸 名言 (Meigen)**
 
-> 結婚の幸福は、まったく運次第ですもの。お互いに気心がわかっていても、前もって似ていても、そんなことで幸せが増すというわけのものじゃないわ。
+> 現代では一回では上手く結婚できることは決してない。やり直す必要がある。
 
-<p align="right"><b>— J.オースティン</b></p>
+<p align="right"><b>— アルフレッド・カピュ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Không phỉ báng, phá hoại,
-Hộ trì giới căn bản,
-Ăn uống có tiết độ,
-Sàng tọa chỗ nhàn tịnh
-Chuyên chú tăng thượng tâm,
-Chính lời chư Phật dạy.”
+> “Im lặng nhưng ngu si,
+Ðâu được gọi ẩn sĩ?
+Như người cầm cán cân,
+Bậc trí chọn điều lành.”
 >
-> *謗らず
-害
-わず、
-戒律
-を厳守し、食するに量を知り、孤独に坐臥し、高尚なる思慮に専念す。
-これ諸仏の教えなり。*
+> *愚昧にして無知ならば、〔唯〕
+寂黙
+の故を以て、
+牟尼
+（寂黙者・賢人）たるを得ず。
+賢者もし権衡を執るが如くに善を取り、*
 
-<p align="right"><b>— Pham Phat Da, Ke 185</b></p>
+<p align="right"><b>— Pham Phap Tru, Ke 268</b></p>
 
 </td></tr>
 </table>
