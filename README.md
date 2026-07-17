@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年07月16日**
+### **2026年07月17日**
 
 <div align="center">
 <table>
@@ -37,28 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 現代では一回では上手く結婚できることは決してない。やり直す必要がある。
+> 酒は文明に対する一つの諷刺である。
 
-<p align="right"><b>— アルフレッド・カピュ</b></p>
+<p align="right"><b>— 萩原朔太郎</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Im lặng nhưng ngu si,
-Ðâu được gọi ẩn sĩ?
-Như người cầm cán cân,
-Bậc trí chọn điều lành.”
+> “Không phải vì nói nhiều,
+Mới xứng danh bậc trí.
+An ổn, không oán sợ.
+Thật đáng gọi bậc trí.”
 >
-> *愚昧にして無知ならば、〔唯〕
-寂黙
-の故を以て、
-牟尼
-（寂黙者・賢人）たるを得ず。
-賢者もし権衡を執るが如くに善を取り、*
+> *多言の故を以て賢者たるにあらず。
+平静にして怨憎なく、畏怖なき者は、賢者と称せらる。*
 
-<p align="right"><b>— Pham Phap Tru, Ke 268</b></p>
+<p align="right"><b>— Pham Phap Tru, Ke 258</b></p>
 
 </td></tr>
 </table>
