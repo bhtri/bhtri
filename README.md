@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年07月17日**
+### **2026年07月18日**
 
 <div align="center">
 <table>
@@ -37,24 +37,25 @@
 
 **🌸 名言 (Meigen)**
 
-> 酒は文明に対する一つの諷刺である。
+> いまだ生を知らず、いずくんぞ死を知らん
 
-<p align="right"><b>— 萩原朔太郎</b></p>
+<p align="right"><b>— 孔子「論語」</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Không phải vì nói nhiều,
-Mới xứng danh bậc trí.
-An ổn, không oán sợ.
-Thật đáng gọi bậc trí.”
+> Ðiều mẹ cha bà con,
+Không có thể làm được,
+Tâm hướng chánh làm được
+Làm được tốt đẹp hơn.
 >
-> *多言の故を以て賢者たるにあらず。
-平静にして怨憎なく、畏怖なき者は、賢者と称せらる。*
+> *父・母、はたまた他の親族のなす〔善〕にも勝り、正道に止住する心は、更に大なる
+善
+を人になすべし。*
 
-<p align="right"><b>— Pham Phap Tru, Ke 258</b></p>
+<p align="right"><b>— Pham Tam, Ke 43</b></p>
 
 </td></tr>
 </table>
