@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年07月18日**
+### **2026年07月19日**
 
 <div align="center">
 <table>
@@ -37,25 +37,25 @@
 
 **🌸 名言 (Meigen)**
 
-> いまだ生を知らず、いずくんぞ死を知らん
+> 勝てば官軍　負ければ賊軍
 
-<p align="right"><b>— 孔子「論語」</b></p>
+<p align="right"><b>— 日本の諺</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> Ðiều mẹ cha bà con,
-Không có thể làm được,
-Tâm hướng chánh làm được
-Làm được tốt đẹp hơn.
+> “Bậc hiền sĩ, trí tuệ
+Bậc nghe nhiều, trì giới,
+Bậc tự chế, Thánh nhân;
+Hãy gần gũi, thân cận
+Thiện nhân, trí giả ấy,
+Như trăng theo đường sao.”
 >
-> *父・母、はたまた他の親族のなす〔善〕にも勝り、正道に止住する心は、更に大なる
-善
-を人になすべし。*
+> *賢者、智者、博学の人、堅忍なる人、持戒者、聖者、この如き善良・賢明なる人に随うべし、あたかも月の星道に〔従う〕如く。*
 
-<p align="right"><b>— Pham Tam, Ke 43</b></p>
+<p align="right"><b>— Pham An Lac, Ke 208</b></p>
 
 </td></tr>
 </table>
