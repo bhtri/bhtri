@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年07月19日**
+### **2026年07月20日**
 
 <div align="center">
 <table>
@@ -37,25 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 勝てば官軍　負ければ賊軍
+> 生きる事に理由をつけるのは構わない。あそこの蕎麦が食いたいとか、来週のドラマの続きを見たいとか でも、死ぬことに理由をつけちゃいけねぇんだ
 
-<p align="right"><b>— 日本の諺</b></p>
+<p align="right"><b>— ビートたけし</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Bậc hiền sĩ, trí tuệ
-Bậc nghe nhiều, trì giới,
-Bậc tự chế, Thánh nhân;
-Hãy gần gũi, thân cận
-Thiện nhân, trí giả ấy,
-Như trăng theo đường sao.”
+> “Tất cả hành khổ đau
+Với Tuệ quán thấy vậy,
+Ðau khổ được nhàm chán;
+Chính con đường thanh tịnh.”
 >
-> *賢者、智者、博学の人、堅忍なる人、持戒者、聖者、この如き善良・賢明なる人に随うべし、あたかも月の星道に〔従う〕如く。*
+> *一切の事象は苦なりと、智によりて観る時、苦を厭離す。
+これ浄に至る道なり。*
 
-<p align="right"><b>— Pham An Lac, Ke 208</b></p>
+<p align="right"><b>— Pham Dao, Ke 278</b></p>
 
 </td></tr>
 </table>
