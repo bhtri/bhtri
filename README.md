@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年07月20日**
+### **2026年07月21日**
 
 <div align="center">
 <table>
@@ -37,24 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 生きる事に理由をつけるのは構わない。あそこの蕎麦が食いたいとか、来週のドラマの続きを見たいとか でも、死ぬことに理由をつけちゃいけねぇんだ
+> 奇跡を期待しなさい。しかしそれだけに頼らないこと
 
-<p align="right"><b>— ビートたけし</b></p>
+<p align="right"><b>— 『タムルード』</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Tất cả hành khổ đau
-Với Tuệ quán thấy vậy,
-Ðau khổ được nhàm chán;
-Chính con đường thanh tịnh.”
+> “Ðệ tử Gotama,
+Luôn luôn tự tỉnh giác,
+Vô luận ngày hay đêm,
+Tưởng Tăng Già thường niệm.”
 >
-> *一切の事象は苦なりと、智によりて観る時、苦を厭離す。
-これ浄に至る道なり。*
+> *瞿曇の弟子は常によく覚醒し、昼も夜も常に僧を念ず。*
 
-<p align="right"><b>— Pham Dao, Ke 278</b></p>
+<p align="right"><b>— Pham Tap Luc, Ke 298</b></p>
 
 </td></tr>
 </table>
