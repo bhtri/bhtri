@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年07月21日**
+### **2026年07月22日**
 
 <div align="center">
 <table>
@@ -37,23 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 奇跡を期待しなさい。しかしそれだけに頼らないこと
+> 英知は次になすべきことを知っており、美徳はつぎになすべきことを行っている。
 
-<p align="right"><b>— 『タムルード』</b></p>
+<p align="right"><b>— ジョーダン「絶望の哲学」</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Ðệ tử Gotama,
-Luôn luôn tự tỉnh giác,
-Vô luận ngày hay đêm,
-Tưởng Tăng Già thường niệm.”
+> “Ðầu trọc, không sa môn
+Nếu phóng túng, nói láo.
+Ai còn đầy dục tham,
+Sao được gọi sa môn?”
 >
-> *瞿曇の弟子は常によく覚醒し、昼も夜も常に僧を念ず。*
+> *剃髪すといえども、戒を破り、妄語を語る者は沙門にあらず。
+欲望と貪欲とを有する者、いかで沙門たるべき。*
 
-<p align="right"><b>— Pham Tap Luc, Ke 298</b></p>
+<p align="right"><b>— Pham Phap Tru, Ke 264</b></p>
 
 </td></tr>
 </table>
