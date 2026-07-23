@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年07月22日**
+### **2026年07月23日**
 
 <div align="center">
 <table>
@@ -37,24 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 英知は次になすべきことを知っており、美徳はつぎになすべきことを行っている。
+> 神は、我々を人間にするために、何らかの欠点を与える。
 
-<p align="right"><b>— ジョーダン「絶望の哲学」</b></p>
+<p align="right"><b>— シェークスピア</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Ðầu trọc, không sa môn
-Nếu phóng túng, nói láo.
-Ai còn đầy dục tham,
-Sao được gọi sa môn?”
+> “Vui thay, hiếu kính mẹ,
+Vui thay, hiếu kính cha,
+Vui thay, kính Sa môn,
+Vui thay, kính Hiền Thánh.”
 >
-> *剃髪すといえども、戒を破り、妄語を語る者は沙門にあらず。
-欲望と貪欲とを有する者、いかで沙門たるべき。*
+> *世に母を敬うは楽しく、父を敬うもまた楽し。
+世に〔真の〕沙門たることは楽しく、〔真の〕婆羅門たることもまた楽し。*
 
-<p align="right"><b>— Pham Phap Tru, Ke 264</b></p>
+<p align="right"><b>— Pham Voi, Ke 332</b></p>
 
 </td></tr>
 </table>
