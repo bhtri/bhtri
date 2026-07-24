@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年07月23日**
+### **2026年07月24日**
 
 <div align="center">
 <table>
@@ -37,24 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 神は、我々を人間にするために、何らかの欠点を与える。
+> 旅行するおかげで我々は確かめることが出来る。たとえ各民族に国境があろうとも、人間の愚行には国境がないと。
 
-<p align="right"><b>— シェークスピア</b></p>
+<p align="right"><b>— アンドレ=プレヴォ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Vui thay, hiếu kính mẹ,
-Vui thay, hiếu kính cha,
-Vui thay, kính Sa môn,
-Vui thay, kính Hiền Thánh.”
+> “Không phải vì nói nhiều,
+Mới xứng danh bậc trí.
+An ổn, không oán sợ.
+Thật đáng gọi bậc trí.”
 >
-> *世に母を敬うは楽しく、父を敬うもまた楽し。
-世に〔真の〕沙門たることは楽しく、〔真の〕婆羅門たることもまた楽し。*
+> *多言の故を以て賢者たるにあらず。
+平静にして怨憎なく、畏怖なき者は、賢者と称せらる。*
 
-<p align="right"><b>— Pham Voi, Ke 332</b></p>
+<p align="right"><b>— Pham Phap Tru, Ke 258</b></p>
 
 </td></tr>
 </table>
