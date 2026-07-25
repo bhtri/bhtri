@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年07月24日**
+### **2026年07月25日**
 
 <div align="center">
 <table>
@@ -37,24 +37,25 @@
 
 **🌸 名言 (Meigen)**
 
-> 旅行するおかげで我々は確かめることが出来る。たとえ各民族に国境があろうとも、人間の愚行には国境がないと。
+> 父母の心をもって我が心となし、父母の体をもって我が体とせよ。
 
-<p align="right"><b>— アンドレ=プレヴォ</b></p>
+<p align="right"><b>— 仮名草子</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Không phải vì nói nhiều,
-Mới xứng danh bậc trí.
-An ổn, không oán sợ.
-Thật đáng gọi bậc trí.”
+> Ðiều mẹ cha bà con,
+Không có thể làm được,
+Tâm hướng chánh làm được
+Làm được tốt đẹp hơn.
 >
-> *多言の故を以て賢者たるにあらず。
-平静にして怨憎なく、畏怖なき者は、賢者と称せらる。*
+> *父・母、はたまた他の親族のなす〔善〕にも勝り、正道に止住する心は、更に大なる
+善
+を人になすべし。*
 
-<p align="right"><b>— Pham Phap Tru, Ke 258</b></p>
+<p align="right"><b>— Pham Tam, Ke 43</b></p>
 
 </td></tr>
 </table>
