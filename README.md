@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年07月25日**
+### **2026年07月26日**
 
 <div align="center">
 <table>
@@ -37,25 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 父母の心をもって我が心となし、父母の体をもって我が体とせよ。
+> ジャーナリストは、真実でないと自ら心得ている事柄を語る。しかも、それをしゃべりつづけているうちに、真実になるかもしれないと願っている。
 
-<p align="right"><b>— 仮名草子</b></p>
+<p align="right"><b>— ベネット</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> Ðiều mẹ cha bà con,
-Không có thể làm được,
-Tâm hướng chánh làm được
-Làm được tốt đẹp hơn.
+> “Ai cắt được, phá được,
+Tận gốc nhổ tâm ấy.
+Người ấy ngày hoặc đêm,
+Ðạt được tâm thiền định.”
 >
-> *父・母、はたまた他の親族のなす〔善〕にも勝り、正道に止住する心は、更に大なる
-善
-を人になすべし。*
+> *かかる〔心を〕断ち、根元より絶滅する者は、昼も夜も実に三昧に入ることを得。*
 
-<p align="right"><b>— Pham Tam, Ke 43</b></p>
+<p align="right"><b>— Pham Cau Ue, Ke 250</b></p>
 
 </td></tr>
 </table>
