@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年07月26日**
+### **2026年07月27日**
 
 <div align="center">
 <table>
@@ -37,23 +37,26 @@
 
 **🌸 名言 (Meigen)**
 
-> ジャーナリストは、真実でないと自ら心得ている事柄を語る。しかも、それをしゃべりつづけているうちに、真実になるかもしれないと願っている。
+> 死者も我々がまったく忘れてしまうまで、本当に死んだのではない。
 
-<p align="right"><b>— ベネット</b></p>
+<p align="right"><b>— ジョージ・エリオット</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Ai cắt được, phá được,
-Tận gốc nhổ tâm ấy.
-Người ấy ngày hoặc đêm,
-Ðạt được tâm thiền định.”
+> “Trước tâm này buông lung,
+Chạy theo ái, dục, lạc.
+Nay Ta chánh chế ngự,
+Như cầm móc điều voi.”
 >
-> *かかる〔心を〕断ち、根元より絶滅する者は、昼も夜も実に三昧に入ることを得。*
+> *この心かつては望む所に従い、欲に随い楽に随いて徘徊せり。
+今は我全くこれを制御せん、あたかも
+鉤
+を持てる〔象師の、発情して苦汁を〕流せる象を〔制御する〕如くに。*
 
-<p align="right"><b>— Pham Cau Ue, Ke 250</b></p>
+<p align="right"><b>— Pham Voi, Ke 326</b></p>
 
 </td></tr>
 </table>
