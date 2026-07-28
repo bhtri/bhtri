@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年07月27日**
+### **2026年07月28日**
 
 <div align="center">
 <table>
@@ -37,26 +37,26 @@
 
 **🌸 名言 (Meigen)**
 
-> 死者も我々がまったく忘れてしまうまで、本当に死んだのではない。
+> どんな男の人と一緒になってみても同じ事だろうと私が言うと、「そんな筈ないわ、石鹸だって、 十銭と五十銭のじゃずいぶん品が違ってよ」
 
-<p align="right"><b>— ジョージ・エリオット</b></p>
+<p align="right"><b>— 林芙美子「放浪記」</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Trước tâm này buông lung,
-Chạy theo ái, dục, lạc.
-Nay Ta chánh chế ngự,
-Như cầm móc điều voi.”
+> Không phải vì nói nhiều,
+Mới xứng danh trì pháp,
+Những ai tuy nghe ít,
+Nhưng thân hành đúng pháp,
+Không phóng túng chánh pháp,
+Mới xứng danh trì pháp.”
 >
-> *この心かつては望む所に従い、欲に随い楽に随いて徘徊せり。
-今は我全くこれを制御せん、あたかも
-鉤
-を持てる〔象師の、発情して苦汁を〕流せる象を〔制御する〕如くに。*
+> *多言の故を以て持法者たるにあらず。
+聞くこと少なきも身を以て法を見、法を軽んぜざる者は、実に持法者なり。*
 
-<p align="right"><b>— Pham Voi, Ke 326</b></p>
+<p align="right"><b>— Pham Phap Tru, Ke 259</b></p>
 
 </td></tr>
 </table>
