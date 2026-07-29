@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年07月28日**
+### **2026年07月29日**
 
 <div align="center">
 <table>
@@ -37,26 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> どんな男の人と一緒になってみても同じ事だろうと私が言うと、「そんな筈ないわ、石鹸だって、 十銭と五十銭のじゃずいぶん品が違ってよ」
+> 私が小説を読みたい時は、自分で小説を書き上げてしまう。
 
-<p align="right"><b>— 林芙美子「放浪記」</b></p>
+<p align="right"><b>— ディスレーリ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> Không phải vì nói nhiều,
-Mới xứng danh trì pháp,
-Những ai tuy nghe ít,
-Nhưng thân hành đúng pháp,
-Không phóng túng chánh pháp,
-Mới xứng danh trì pháp.”
+> “Suốt năm cúng tế vật,
+Ðể cầu phước ở đời.
+Không bằng một phần tư
+Kính lễ bậc chánh trực.”
 >
-> *多言の故を以て持法者たるにあらず。
-聞くこと少なきも身を以て法を見、法を軽んぜざる者は、実に持法者なり。*
+> *この世に於て、福を求めて一年の間、或いは供犠し或いは祭祀に従事するも、そのすべては、直行の人（阿羅漢）を敬礼する四分の一に値せず。*
 
-<p align="right"><b>— Pham Phap Tru, Ke 259</b></p>
+<p align="right"><b>— Pham Ngan, Ke 108</b></p>
 
 </td></tr>
 </table>
