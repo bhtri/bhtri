@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年07月29日**
+### **2026年07月30日**
 
 <div align="center">
 <table>
@@ -37,23 +37,26 @@
 
 **🌸 名言 (Meigen)**
 
-> 私が小説を読みたい時は、自分で小説を書き上げてしまう。
+> 結婚とは誰もが犯さなければならない過ちである。
 
-<p align="right"><b>— ディスレーリ</b></p>
+<p align="right"><b>— ジョージ･ジュセル</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Suốt năm cúng tế vật,
-Ðể cầu phước ở đời.
-Không bằng một phần tư
-Kính lễ bậc chánh trực.”
+> “Hãy xem bong bóng đẹp,
+Chỗ chất chứa vết thương,
+Bệnh hoạn nhiều suy tư,
+Thật không gì trường cửu.”
 >
-> *この世に於て、福を求めて一年の間、或いは供犠し或いは祭祀に従事するも、そのすべては、直行の人（阿羅漢）を敬礼する四分の一に値せず。*
+> *見よ粉飾せる形骸を。
+〔そは〕傷痍の
+積集
+にして病患絶えず、多欲にして、堅固・常住ならず。*
 
-<p align="right"><b>— Pham Ngan, Ke 108</b></p>
+<p align="right"><b>— Pham Gia, Ke 147</b></p>
 
 </td></tr>
 </table>
