@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年07月30日**
+### **2026年07月31日**
 
 <div align="center">
 <table>
@@ -37,26 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 結婚とは誰もが犯さなければならない過ちである。
+> 女房に愛される技術というものは発明されないものだろうか。
 
-<p align="right"><b>— ジョージ･ジュセル</b></p>
+<p align="right"><b>— ラ・ブリュイエール</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Hãy xem bong bóng đẹp,
-Chỗ chất chứa vết thương,
-Bệnh hoạn nhiều suy tư,
-Thật không gì trường cửu.”
+> “Cỏ làm hại ruộng vườn,
+Tham làm hại người đời.
+Bố thí người ly tham,
+Do vậy được quả lớn.”
 >
-> *見よ粉飾せる形骸を。
-〔そは〕傷痍の
-積集
-にして病患絶えず、多欲にして、堅固・常住ならず。*
+> *田は雑草により損なわれ、この世の衆生は貪欲により損なわる。
+されば貪欲を離れし人への施与は大果報あり。*
 
-<p align="right"><b>— Pham Gia, Ke 147</b></p>
+<p align="right"><b>— Pham Tham Ai, Ke 356</b></p>
 
 </td></tr>
 </table>
