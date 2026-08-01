@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年07月31日**
+### **2026年08月01日**
 
 <div align="center">
 <table>
@@ -37,24 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 女房に愛される技術というものは発明されないものだろうか。
+> 男がもっとも情を込めて愛している女は必ずしも一番愛したいと思っている女ではない。
 
-<p align="right"><b>— ラ・ブリュイエール</b></p>
+<p align="right"><b>— アンリ・ド・レニエ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Cỏ làm hại ruộng vườn,
-Tham làm hại người đời.
-Bố thí người ly tham,
-Do vậy được quả lớn.”
+> Người nhặt các loại hoa,
+Ý đắm say tham nhiễm,
+Các dục chưa thỏa mãn,
+Ðã bị chết chinh phục.”
 >
-> *田は雑草により損なわれ、この世の衆生は貪欲により損なわる。
-されば貪欲を離れし人への施与は大果報あり。*
+> *花をのみ摘みて心貪着し、愛欲に飽くことなき人を死は克服す。*
 
-<p align="right"><b>— Pham Tham Ai, Ke 356</b></p>
+<p align="right"><b>— Pham Hoa, Ke 48</b></p>
 
 </td></tr>
 </table>
