@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年08月01日**
+### **2026年08月02日**
 
 <div align="center">
 <table>
@@ -37,23 +37,29 @@
 
 **🌸 名言 (Meigen)**
 
-> 男がもっとも情を込めて愛している女は必ずしも一番愛したいと思っている女ではない。
+> 結果だけが強調されていて、練習でどのくらい成長したかなんて気にもとめられない。どれだけ進歩しているのか、その過程は自分で楽しめ。勝敗についてあれこれ思うのはやめるんだ。
 
-<p align="right"><b>— アンリ・ド・レニエ</b></p>
+<p align="right"><b>— マット・ビオンディ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> Người nhặt các loại hoa,
-Ý đắm say tham nhiễm,
-Các dục chưa thỏa mãn,
-Ðã bị chết chinh phục.”
+> “Ai sống tự trang sức,
+Nhưng an tịnh, nhiếp phục,
+Sống kiên trì, phạm hạnh,
+Không hại mọi sinh linh,
+Vị ấy là phạm chí,
+Hay sa môn, khất sĩ.”
 >
-> *花をのみ摘みて心貪着し、愛欲に飽くことなき人を死は克服す。*
+> *たとい〔その身を〕荘厳するとも、一切の有情に刀杖を加うることなく、寂静に住し、〔心を〕
+調御
+し、自ら制し、
+梵行
+を持し、行う所平等なる者、彼は婆羅門なり、彼は沙門なり、彼は比丘なり。*
 
-<p align="right"><b>— Pham Hoa, Ke 48</b></p>
+<p align="right"><b>— Pham Hinh Phat, Ke 142</b></p>
 
 </td></tr>
 </table>
