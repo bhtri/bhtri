@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年08月02日**
+### **2026年08月03日**
 
 <div align="center">
 <table>
@@ -37,29 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 結果だけが強調されていて、練習でどのくらい成長したかなんて気にもとめられない。どれだけ進歩しているのか、その過程は自分で楽しめ。勝敗についてあれこれ思うのはやめるんだ。
+> うらを見せ表を見せて散るもみじ
 
-<p align="right"><b>— マット・ビオンディ</b></p>
+<p align="right"><b>— 良寛</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Ai sống tự trang sức,
-Nhưng an tịnh, nhiếp phục,
-Sống kiên trì, phạm hạnh,
-Không hại mọi sinh linh,
-Vị ấy là phạm chí,
-Hay sa môn, khất sĩ.”
+> “Giữ thân đừng phẫn nộ,
+Phòng thân khéo bảo vệ,
+Từ bỏ thân làm ác,
+Với thân làm hạnh lành.”
 >
-> *たとい〔その身を〕荘厳するとも、一切の有情に刀杖を加うることなく、寂静に住し、〔心を〕
-調御
-し、自ら制し、
-梵行
-を持し、行う所平等なる者、彼は婆羅門なり、彼は沙門なり、彼は比丘なり。*
+> *身の忿怒を摂護し、身を制御すべし。
+身の悪行を捨て、身によりて善行を修すべし。*
 
-<p align="right"><b>— Pham Hinh Phat, Ke 142</b></p>
+<p align="right"><b>— Pham Phan No, Ke 231</b></p>
 
 </td></tr>
 </table>
