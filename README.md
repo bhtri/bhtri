@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年08月03日**
+### **2026年08月04日**
 
 <div align="center">
 <table>
@@ -37,24 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> うらを見せ表を見せて散るもみじ
+> 成功する商売の術は、90%の準備と10%の売り込みから成る。
 
-<p align="right"><b>— 良寛</b></p>
+<p align="right"><b>— バートランド　Ｒ．キャンフィールド</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Giữ thân đừng phẫn nộ,
-Phòng thân khéo bảo vệ,
-Từ bỏ thân làm ác,
-Với thân làm hạnh lành.”
+> “Người trí, dầu một khắc,
+Thân cận người có trí,
+Biết ngay chân diệu pháp,
+Như lưỡi với vị canh.”
 >
-> *身の忿怒を摂護し、身を制御すべし。
-身の悪行を捨て、身によりて善行を修すべし。*
+> *たとい一瞬賢者に侍すとも、智者は直ちに正法を悟ること、あたかも舌の香味に於けるが如し。*
 
-<p align="right"><b>— Pham Phan No, Ke 231</b></p>
+<p align="right"><b>— Pham Ngu, Ke 65</b></p>
 
 </td></tr>
 </table>
