@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年08月04日**
+### **2026年08月05日**
 
 <div align="center">
 <table>
@@ -37,23 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 成功する商売の術は、90%の準備と10%の売り込みから成る。
+> 時はその使い方によって金にも鉛にもなる。
 
-<p align="right"><b>— バートランド　Ｒ．キャンフィールド</b></p>
+<p align="right"><b>— プレヴォ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Người trí, dầu một khắc,
-Thân cận người có trí,
-Biết ngay chân diệu pháp,
-Như lưỡi với vị canh.”
+> “Người đời nhớ ái dục,
+Ưa thích các hỷ lạc.
+Tuy mong cầu an lạc,
+Họ vẫn phải sanh già.”
 >
-> *たとい一瞬賢者に侍すとも、智者は直ちに正法を悟ること、あたかも舌の香味に於けるが如し。*
+> *人の喜悦は奔放にして、かつ愛着す。
+歓楽に耽り快楽を求むる人、かかる人は実に生と老とを受く。*
 
-<p align="right"><b>— Pham Ngu, Ke 65</b></p>
+<p align="right"><b>— Pham Tham Ai, Ke 341</b></p>
 
 </td></tr>
 </table>
