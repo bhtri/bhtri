@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年08月05日**
+### **2026年08月06日**
 
 <div align="center">
 <table>
@@ -37,24 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 時はその使い方によって金にも鉛にもなる。
+> 若き日の恋なんてな、老いたる男が老妻に抱く愛に比べたらまるで軽薄じゃよ。
 
-<p align="right"><b>— プレヴォ</b></p>
+<p align="right"><b>— ウィル･ディラント</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Người đời nhớ ái dục,
-Ưa thích các hỷ lạc.
-Tuy mong cầu an lạc,
-Họ vẫn phải sanh già.”
+> Tinh cần giữa phóng dật,
+Tỉnh thức giữa quần mê.
+Người trí như ngựa phi,
+Bỏ sau con ngựa hèn.
 >
-> *人の喜悦は奔放にして、かつ愛着す。
-歓楽に耽り快楽を求むる人、かかる人は実に生と老とを受く。*
+> *放逸なる者の中に在りて不放逸に、睡眠者の中に在りてよく覚醒せる賢者は、駿馬の駑馬を後にして〔進む〕が如くに往く。*
 
-<p align="right"><b>— Pham Tham Ai, Ke 341</b></p>
+<p align="right"><b>— Pham Khong Phong Dat, Ke 29</b></p>
 
 </td></tr>
 </table>
