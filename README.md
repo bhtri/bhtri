@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年08月06日**
+### **2026年08月07日**
 
 <div align="center">
 <table>
@@ -37,23 +37,25 @@
 
 **🌸 名言 (Meigen)**
 
-> 若き日の恋なんてな、老いたる男が老妻に抱く愛に比べたらまるで軽薄じゃよ。
+> ある種の欠点は、個人の生存のために必要である。旧友が昔からの癖を脱ぎ捨てるとしたら、我々は不愉快になるだろう。
 
-<p align="right"><b>— ウィル･ディラント</b></p>
+<p align="right"><b>— ゲーテ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> Tinh cần giữa phóng dật,
-Tỉnh thức giữa quần mê.
-Người trí như ngựa phi,
-Bỏ sau con ngựa hèn.
+> “Do ái sinh sầu ưu,
+Do ái sinh sợ hãi,
+Ai thoát khỏi tham ái,
+Không sầu, đâu sợ hãi?”
 >
-> *放逸なる者の中に在りて不放逸に、睡眠者の中に在りてよく覚醒せる賢者は、駿馬の駑馬を後にして〔進む〕が如くに往く。*
+> *愛好より憂患生じ、愛好より畏怖生ず。
+愛好を離脱せる人には憂患なし。
+何処にか畏怖あらん。*
 
-<p align="right"><b>— Pham Khong Phong Dat, Ke 29</b></p>
+<p align="right"><b>— Pham Hy Ai, Ke 212</b></p>
 
 </td></tr>
 </table>
