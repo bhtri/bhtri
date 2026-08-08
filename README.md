@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年08月07日**
+### **2026年08月08日**
 
 <div align="center">
 <table>
@@ -37,25 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> ある種の欠点は、個人の生存のために必要である。旧友が昔からの癖を脱ぎ捨てるとしたら、我々は不愉快になるだろう。
+> 自由であることは、自由であるべく呪われていることである。
 
-<p align="right"><b>— ゲーテ</b></p>
+<p align="right"><b>— サルトル</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Do ái sinh sầu ưu,
-Do ái sinh sợ hãi,
-Ai thoát khỏi tham ái,
-Không sầu, đâu sợ hãi?”
+> “Bước vào ngôi nhà trống,
+Tỷ kheo tâm an tịnh,
+Thọ hưởng vui siêu nhân
+Tịnh quán theo chánh pháp.”
 >
-> *愛好より憂患生じ、愛好より畏怖生ず。
-愛好を離脱せる人には憂患なし。
-何処にか畏怖あらん。*
+> *空屋（閑寂処）に入りて心寂静に、正しく法を観ずる比丘は、人界になき楽を受く。*
 
-<p align="right"><b>— Pham Hy Ai, Ke 212</b></p>
+<p align="right"><b>— Pham Ty Kheo, Ke 373</b></p>
 
 </td></tr>
 </table>
