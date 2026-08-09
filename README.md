@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年08月08日**
+### **2026年08月09日**
 
 <div align="center">
 <table>
@@ -37,23 +37,25 @@
 
 **🌸 名言 (Meigen)**
 
-> 自由であることは、自由であるべく呪われていることである。
+> 心優しくあたたかい男性こそが、真に男らしい頼りになる男性なのだと気づくとき､たいていの女はもうすでに年老いてしまっている
 
-<p align="right"><b>— サルトル</b></p>
+<p align="right"><b>— 池田理代子</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Bước vào ngôi nhà trống,
-Tỷ kheo tâm an tịnh,
-Thọ hưởng vui siêu nhân
-Tịnh quán theo chánh pháp.”
+> “Không ác ý, nhẫn chịu,
+Phỉ báng, đánh, phạt hình,
+Lấy nhẫn làm quân lực,
+Ta gọi Bà-la-môn.”
 >
-> *空屋（閑寂処）に入りて心寂静に、正しく法を観ずる比丘は、人界になき楽を受く。*
+> *罪なくして罵詈と体刑と縄縛とを忍び、
+忍辱
+を力とし、勇力を軍兵として有する人、我はこれを婆羅門と呼ぶ。*
 
-<p align="right"><b>— Pham Ty Kheo, Ke 373</b></p>
+<p align="right"><b>— Pham Ba La Mon, Ke 399</b></p>
 
 </td></tr>
 </table>
