@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年08月09日**
+### **2026年08月10日**
 
 <div align="center">
 <table>
@@ -37,25 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 心優しくあたたかい男性こそが、真に男らしい頼りになる男性なのだと気づくとき､たいていの女はもうすでに年老いてしまっている
+> 一つのものが同時に善であったり、悪であったり、そのいずれでもなかったりすることがある。例えば、音楽は憂鬱な人には善であるが、喪に服している人には悪であり、聾者にとっては善でもなく悪でもない。
 
-<p align="right"><b>— 池田理代子</b></p>
+<p align="right"><b>— スピノザ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Không ác ý, nhẫn chịu,
-Phỉ báng, đánh, phạt hình,
-Lấy nhẫn làm quân lực,
-Ta gọi Bà-la-môn.”
+> “Hãy cầu vui Niết Bàn,
+Bỏ dục, không sở hữu,
+Kẻ trí tự rửa sạch,
+Cấu uế từ nội tâm.”
 >
-> *罪なくして罵詈と体刑と縄縛とを忍び、
-忍辱
-を力とし、勇力を軍兵として有する人、我はこれを婆羅門と呼ぶ。*
+> *〔法〕楽を求むべし。
+賢者は諸欲を捨て、無一物となり、自己を心垢より浄むべし。*
 
-<p align="right"><b>— Pham Ba La Mon, Ke 399</b></p>
+<p align="right"><b>— Pham Hien Tri, Ke 88</b></p>
 
 </td></tr>
 </table>
