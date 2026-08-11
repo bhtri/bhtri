@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年08月10日**
+### **2026年08月11日**
 
 <div align="center">
 <table>
@@ -37,24 +37,27 @@
 
 **🌸 名言 (Meigen)**
 
-> 一つのものが同時に善であったり、悪であったり、そのいずれでもなかったりすることがある。例えば、音楽は憂鬱な人には善であるが、喪に服している人には悪であり、聾者にとっては善でもなく悪でもない。
+> しんのすけ！命が大切なんじゃない！お前が大切なんだ！
 
-<p align="right"><b>— スピノザ</b></p>
+<p align="right"><b>— 野原ひろし（クレヨンしんちゃん）</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Hãy cầu vui Niết Bàn,
-Bỏ dục, không sở hữu,
-Kẻ trí tự rửa sạch,
-Cấu uế từ nội tâm.”
+> Người trí dẹp phóng dật,
+Với hạnh không phóng dật,
+Leo lầu cao trí tuệ,
+Không sầu, nhìn khổ sầu,
+Bậc trí đứng núi cao,
+Nhìn kẻ ngu, đất bằng.
 >
-> *〔法〕楽を求むべし。
-賢者は諸欲を捨て、無一物となり、自己を心垢より浄むべし。*
+> *識者が不放逸により放逸を退くる時、かかる賢者は
+智慧
+の高閣に登り、憂を去って憂ある衆愚を瞰下す、あたかも山上に立てる人が地上の人を〔瞰下する〕如く。*
 
-<p align="right"><b>— Pham Hien Tri, Ke 88</b></p>
+<p align="right"><b>— Pham Khong Phong Dat, Ke 28</b></p>
 
 </td></tr>
 </table>
