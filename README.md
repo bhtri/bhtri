@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年08月11日**
+### **2026年08月12日**
 
 <div align="center">
 <table>
@@ -37,27 +37,25 @@
 
 **🌸 名言 (Meigen)**
 
-> しんのすけ！命が大切なんじゃない！お前が大切なんだ！
+> 神様はどこにでもいるというわけにはいかなかった。そこで神様は母親をつくり給うた。
 
-<p align="right"><b>— 野原ひろし（クレヨンしんちゃん）</b></p>
+<p align="right"><b>— ユダヤの俚諺</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> Người trí dẹp phóng dật,
-Với hạnh không phóng dật,
-Leo lầu cao trí tuệ,
-Không sầu, nhìn khổ sầu,
-Bậc trí đứng núi cao,
-Nhìn kẻ ngu, đất bằng.
+> “Ai sống một trăm năm,
+Lười nhác không tinh tấn,
+Tốt hơn sống một ngày
+Tinh tấn tận sức mình.”
 >
-> *識者が不放逸により放逸を退くる時、かかる賢者は
-智慧
-の高閣に登り、憂を去って憂ある衆愚を瞰下す、あたかも山上に立てる人が地上の人を〔瞰下する〕如く。*
+> *百歳の寿を全うするも、怠惰にして
+精進
+せざれば、堅固なる精進を行ずる者の一日の生、これに勝る。*
 
-<p align="right"><b>— Pham Khong Phong Dat, Ke 28</b></p>
+<p align="right"><b>— Pham Ngan, Ke 112</b></p>
 
 </td></tr>
 </table>
