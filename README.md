@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年08月13日**
+### **2026年08月14日**
 
 <div align="center">
 <table>
@@ -37,23 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 本日サーバーが混雑しています。明日また会いましょう。
+> 目の前で悲しんでいる人を見つけたらなんとかして笑わせたい。そのためなら警察に捕まってもいい。寿命が縮まってもいい
 
-<p align="right"><b>— System</b></p>
+<p align="right"><b>— 江頭2:50</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Mùa mưa ta ở đây
-Ðông, hạ cũng ở đây,
-Người ngu tâm tưởng vậy,
-Không tự giác hiểm nguy.”
+> “Ai sống một trăm năm,
+Không thấy câu bất tử,
+Tốt hơn sống một ngày,
+Thấy được câu bất tử.”
 >
-> *「我雨期にはここに住せん、冬と夏とはここに〔住せん〕」と、愚者は思惟して、死の〔至る〕を覚らず。*
+> *百歳の寿を全うするも、不死の道（涅槃）を見ざれば、不死の道を見る者の一日の生、これに勝る。*
 
-<p align="right"><b>— Pham Dao, Ke 286</b></p>
+<p align="right"><b>— Pham Ngan, Ke 114</b></p>
 
 </td></tr>
 </table>
