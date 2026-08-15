@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年08月14日**
+### **2026年08月15日**
 
 <div align="center">
 <table>
@@ -37,23 +37,27 @@
 
 **🌸 名言 (Meigen)**
 
-> 目の前で悲しんでいる人を見つけたらなんとかして笑わせたい。そのためなら警察に捕まってもいい。寿命が縮まってもいい
+> 女の欠点を知ろうと思ったら、彼女の女友達の前で彼女を誉めてみることだ。
 
-<p align="right"><b>— 江頭2:50</b></p>
+<p align="right"><b>— フランクリン</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Ai sống một trăm năm,
-Không thấy câu bất tử,
-Tốt hơn sống một ngày,
-Thấy được câu bất tử.”
+> “Không tin, hiểu vô vi.
+Người cắt mọi hệ lụy
+Cơ hội tận, xả ly
+Vị ấy thật tối thượng.”
 >
-> *百歳の寿を全うするも、不死の道（涅槃）を見ざれば、不死の道を見る者の一日の生、これに勝る。*
+> *妄信なく、無為（涅槃）を悟り、〔輪廻の〕
+繋縛
+を断ち、〔善悪の〕契機を退け、
+欲望
+を捨てたる人こそ実に最上の人士なれ。*
 
-<p align="right"><b>— Pham Ngan, Ke 114</b></p>
+<p align="right"><b>— Pham A-La-Han, Ke 97</b></p>
 
 </td></tr>
 </table>
