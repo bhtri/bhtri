@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年08月15日**
+### **2026年08月16日**
 
 <div align="center">
 <table>
@@ -37,27 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 女の欠点を知ろうと思ったら、彼女の女友達の前で彼女を誉めてみることだ。
+> 人間は毅然として現実の運命に耐えていくべきだ。そこには一切の真理が潜んでいる。
 
-<p align="right"><b>— フランクリン</b></p>
+<p align="right"><b>— ソロー</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Không tin, hiểu vô vi.
-Người cắt mọi hệ lụy
-Cơ hội tận, xả ly
-Vị ấy thật tối thượng.”
+> Vui thích không phóng dật,
+Tỷ kheo sợ phóng dật,
+Không thể bị thối đọa,
+Nhất định gần Niết Bàn.
 >
-> *妄信なく、無為（涅槃）を悟り、〔輪廻の〕
-繋縛
-を断ち、〔善悪の〕契機を退け、
-欲望
-を捨てたる人こそ実に最上の人士なれ。*
+> *不放逸を楽しみ、また放逸に畏怖を感ずる比丘は、既に涅槃に近づき、決して退転することなし。*
 
-<p align="right"><b>— Pham A-La-Han, Ke 97</b></p>
+<p align="right"><b>— Pham Khong Phong Dat, Ke 32</b></p>
 
 </td></tr>
 </table>
