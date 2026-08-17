@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年08月16日**
+### **2026年08月17日**
 
 <div align="center">
 <table>
@@ -37,23 +37,27 @@
 
 **🌸 名言 (Meigen)**
 
-> 人間は毅然として現実の運命に耐えていくべきだ。そこには一切の真理が潜んでいる。
+> 平和は戦争よりもよい。というのは、平時において息子たちは父親たちを埋葬し、戦時において父親たちが息子たちを埋葬するからである。
 
-<p align="right"><b>— ソロー</b></p>
+<p align="right"><b>— フランシス＝ベーコン「格言集」</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> Vui thích không phóng dật,
-Tỷ kheo sợ phóng dật,
-Không thể bị thối đọa,
-Nhất định gần Niết Bàn.
+> “Không phải sống lõa thể
+Bện tóc, tro trét mình,
+Tuyệt thực, lăn trên đất,
+Sống nhớp, siêng ngồi xổm,
+Làm con người được sạch,
+Nếu không trừ nghi hoặc.”
 >
-> *不放逸を楽しみ、また放逸に畏怖を感ずる比丘は、既に涅槃に近づき、決して退転することなし。*
+> *裸行も、
+螺髻
+も、汚泥も、断食も、或いは地上の横臥も、塵垢身も、蹲踞も、疑惑を断ぜざる人を浄むることなし。*
 
-<p align="right"><b>— Pham Khong Phong Dat, Ke 32</b></p>
+<p align="right"><b>— Pham Hinh Phat, Ke 141</b></p>
 
 </td></tr>
 </table>
