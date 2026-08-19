@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年08月18日**
+### **2026年08月19日**
 
 <div align="center">
 <table>
@@ -37,23 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 人間は神のごとくならず、ただ最も人間らしき時、神に似る。
+> 誠の恋をするものは、みな一目で恋をする。
 
-<p align="right"><b>— テニスン</b></p>
+<p align="right"><b>— シェークスピア</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Như bông hoa tươi đẹp,
-Có sắc nhưng không hương.
-Cũng vậy, lời khéo nói,
-Không làm, không kết quả.”
+> “Ít bạn đường, nhiều tiền,
+Người buôn tránh đường hiểm.
+Muốn sống, tránh thuốc độc,
+Hãy tránh ác như vậy.”
 >
-> *愛すべく色麗しくとも芳香なき花の如く、実行なき人の語は、善く説かるるとも効果なし。*
+> *伴侶少なく財貨多き商人の、危なき道を〔避くる〕如く、寿を願う者の毒を〔避くる〕如く、悪業を避くべし。*
 
-<p align="right"><b>— Pham Hoa, Ke 51</b></p>
+<p align="right"><b>— Pham Ac, Ke 123</b></p>
 
 </td></tr>
 </table>
