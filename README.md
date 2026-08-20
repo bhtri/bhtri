@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年08月19日**
+### **2026年08月20日**
 
 <div align="center">
 <table>
@@ -37,23 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 誠の恋をするものは、みな一目で恋をする。
+> 絶望は死に至る病（やまい）である
 
-<p align="right"><b>— シェークスピア</b></p>
+<p align="right"><b>— キルケゴール</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Ít bạn đường, nhiều tiền,
-Người buôn tránh đường hiểm.
-Muốn sống, tránh thuốc độc,
-Hãy tránh ác như vậy.”
+> “Bỏ điều ưa, điều ghét,
+Mát lạnh, diệt sanh y
+Bậc anh hùng chiến thắng,
+Nhiếp phục mọi thế giới,
+Ta gọi Bà-la-môn.”
 >
-> *伴侶少なく財貨多き商人の、危なき道を〔避くる〕如く、寿を願う者の毒を〔避くる〕如く、悪業を避くべし。*
+> *楽と不楽とを捨て、清涼にして煩悩なく、一切世界を克服せる勇者、我はこれを婆羅門と呼ぶ。*
 
-<p align="right"><b>— Pham Ac, Ke 123</b></p>
+<p align="right"><b>— Pham Ba La Mon, Ke 418</b></p>
 
 </td></tr>
 </table>
