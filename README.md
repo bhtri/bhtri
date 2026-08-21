@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年08月20日**
+### **2026年08月21日**
 
 <div align="center">
 <table>
@@ -37,24 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 絶望は死に至る病（やまい）である
+> 本日サーバーが混雑しています。明日また会いましょう。
 
-<p align="right"><b>— キルケゴール</b></p>
+<p align="right"><b>— System</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Bỏ điều ưa, điều ghét,
-Mát lạnh, diệt sanh y
-Bậc anh hùng chiến thắng,
-Nhiếp phục mọi thế giới,
-Ta gọi Bà-la-môn.”
+> “Người ngu nghĩ mình ngu,
+Nhờ vậy thành có trí.
+Người ngu tưởng có trí,
+Thật xứng gọi chí ngu.”
 >
-> *楽と不楽とを捨て、清涼にして煩悩なく、一切世界を克服せる勇者、我はこれを婆羅門と呼ぶ。*
+> *愚者にして〔自ら〕その愚を知るものは、これによりて既に賢なり。
+されど愚者にして〔自ら〕賢なりと思うものは、実に〔真の〕愚者と称せらる。*
 
-<p align="right"><b>— Pham Ba La Mon, Ke 418</b></p>
+<p align="right"><b>— Pham Ngu, Ke 63</b></p>
 
 </td></tr>
 </table>
