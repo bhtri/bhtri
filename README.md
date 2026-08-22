@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年08月21日**
+### **2026年08月22日**
 
 <div align="center">
 <table>
@@ -37,24 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 本日サーバーが混雑しています。明日また会いましょう。
+> どんな幸運な人間でも、一度は死にたいほど悲しくてつらいことがある。
 
-<p align="right"><b>— System</b></p>
+<p align="right"><b>— 井上　靖(小説家)</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Người ngu nghĩ mình ngu,
-Nhờ vậy thành có trí.
-Người ngu tưởng có trí,
-Thật xứng gọi chí ngu.”
+> Ai mặc áo cà sa.
+tâm chưa rời uế trược,
+không tự chế, không thực,
+không xứng áo cà sa
 >
-> *愚者にして〔自ら〕その愚を知るものは、これによりて既に賢なり。
-されど愚者にして〔自ら〕賢なりと思うものは、実に〔真の〕愚者と称せらる。*
+> *汚濁を脱せざるもの、袈裟を纏わんとするも、節度なく真実なければ、彼は袈裟に相応せず。*
 
-<p align="right"><b>— Pham Ngu, Ke 63</b></p>
+<p align="right"><b>— Pham Song Yeu, Ke 9</b></p>
 
 </td></tr>
 </table>
