@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年08月22日**
+### **2026年08月23日**
 
 <div align="center">
 <table>
@@ -37,23 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> どんな幸運な人間でも、一度は死にたいほど悲しくてつらいことがある。
+> けわしい丘に登るためには、最初はゆっくりと登ることが必要である。
 
-<p align="right"><b>— 井上　靖(小説家)</b></p>
+<p align="right"><b>— シェークスピア</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> Ai mặc áo cà sa.
-tâm chưa rời uế trược,
-không tự chế, không thực,
-không xứng áo cà sa
+> “Như bông hoa tươi đẹp,
+Có sắc lại thêm hương;
+Cũng vậy, lời khéo nói,
+Có làm, có kết quả.”
 >
-> *汚濁を脱せざるもの、袈裟を纏わんとするも、節度なく真実なければ、彼は袈裟に相応せず。*
+> *愛すべく色麗しく芳香ある花の如く、実行する人の語は、善く説かれてしかも効果あり。*
 
-<p align="right"><b>— Pham Song Yeu, Ke 9</b></p>
+<p align="right"><b>— Pham Hoa, Ke 52</b></p>
 
 </td></tr>
 </table>
