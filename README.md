@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年08月24日**
+### **2026年08月25日**
 
 <div align="center">
 <table>
@@ -37,25 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 人間の先生より、AI先生の方が、筋がいい。
+> 恋愛、それは神聖なる狂気である。
 
-<p align="right"><b>— 堀江貴文</b></p>
+<p align="right"><b>— ルネサンス期の言葉</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Ngươi nay giống lá héo,
-Diêm sứ đang chờ ngươi,
-Ngươi đứng trước cửa chết,
-Ðường trường thiếu tư lương.”
+> “Không chuyên chế, đúng pháp,
+Công bằng, dắt dẫn người,
+Bậc trí sống đúng pháp,
+Thật xứng danh pháp trụ.”
 >
-> *汝は今や枯葉の如く、閻魔の使者また汝に近づけり。
-汝は死出の門に立つ。
-されど汝に旅路の糧なし。*
+> *躁急ならず如法・平等に他を導き、正法を護り、賢慮ある者は、法住者と称せらる。*
 
-<p align="right"><b>— Pham Cau Ue, Ke 235</b></p>
+<p align="right"><b>— Pham Phap Tru, Ke 257</b></p>
 
 </td></tr>
 </table>
