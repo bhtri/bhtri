@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年08月25日**
+### **2026年08月26日**
 
 <div align="center">
 <table>
@@ -37,23 +37,25 @@
 
 **🌸 名言 (Meigen)**
 
-> 恋愛、それは神聖なる狂気である。
+> 青春の持つエネルギーは、傷つく事を怖れているようでは、何事も成しえない。
 
-<p align="right"><b>— ルネサンス期の言葉</b></p>
+<p align="right"><b>— 田宮虎彦（1911-88：小説家）</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Không chuyên chế, đúng pháp,
-Công bằng, dắt dẫn người,
-Bậc trí sống đúng pháp,
-Thật xứng danh pháp trụ.”
+> “Thật quy y an ổn,
+Thật quy y tối thượng,
+Có quy y như vậy,
+Mới thoát mọi khổ đau.”
 >
-> *躁急ならず如法・平等に他を導き、正法を護り、賢慮ある者は、法住者と称せらる。*
+> *こは安全なる依所なり。
+最上の依所なり。
+かかる依所に赴きて、一切の苦より脱す。*
 
-<p align="right"><b>— Pham Phap Tru, Ke 257</b></p>
+<p align="right"><b>— Pham Phat Da, Ke 192</b></p>
 
 </td></tr>
 </table>
