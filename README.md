@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年08月26日**
+### **2026年08月27日**
 
 <div align="center">
 <table>
@@ -37,25 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 青春の持つエネルギーは、傷つく事を怖れているようでは、何事も成しえない。
+> 誰からも信頼され尊敬されるには、日頃から細かい心遣いをしなければならない。
 
-<p align="right"><b>— 田宮虎彦（1911-88：小説家）</b></p>
+<p align="right"><b>— 十八史略</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Thật quy y an ổn,
-Thật quy y tối thượng,
-Có quy y như vậy,
-Mới thoát mọi khổ đau.”
+> “Như cây bị chặt đốn,
+Gốc chưa hại vẫn bền
+Ái tùy miên chưa nhổ,
+Khổ này vẫn sanh hoài.”
 >
-> *こは安全なる依所なり。
-最上の依所なり。
-かかる依所に赴きて、一切の苦より脱す。*
+> *樹根損なわれずして固ければ、樹は伐らるるとも再び生ずるが如く、愛欲の執着断たれざれば、この苦（生死の苦）は再々生起す。*
 
-<p align="right"><b>— Pham Phat Da, Ke 192</b></p>
+<p align="right"><b>— Pham Tham Ai, Ke 338</b></p>
 
 </td></tr>
 </table>
