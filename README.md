@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年08月27日**
+### **2026年08月28日**
 
 <div align="center">
 <table>
@@ -37,23 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 誰からも信頼され尊敬されるには、日頃から細かい心遣いをしなければならない。
+> 芸術とは目に見えるものを写すことではない。見えないものを見えるようにすることなのだ。
 
-<p align="right"><b>— 十八史略</b></p>
+<p align="right"><b>— クレー</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Như cây bị chặt đốn,
-Gốc chưa hại vẫn bền
-Ái tùy miên chưa nhổ,
-Khổ này vẫn sanh hoài.”
+> “Ai cắt được, phá được,
+Tận gốc nhổ tâm ấy.
+Người ấy ngày hoặc đêm,
+Ðạt được tâm thiền định.”
 >
-> *樹根損なわれずして固ければ、樹は伐らるるとも再び生ずるが如く、愛欲の執着断たれざれば、この苦（生死の苦）は再々生起す。*
+> *かかる〔心を〕断ち、根元より絶滅する者は、昼も夜も実に三昧に入ることを得。*
 
-<p align="right"><b>— Pham Tham Ai, Ke 338</b></p>
+<p align="right"><b>— Pham Cau Ue, Ke 250</b></p>
 
 </td></tr>
 </table>
