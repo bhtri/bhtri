@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年08月28日**
+### **2026年08月29日**
 
 <div align="center">
 <table>
@@ -37,23 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 芸術とは目に見えるものを写すことではない。見えないものを見えるようにすることなのだ。
+> 結婚をしばしば宝くじにたとえるが、それは誤りだ。宝くじなら当たることもあるのだから。
 
-<p align="right"><b>— クレー</b></p>
+<p align="right"><b>— バーナード・ショウ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Ai cắt được, phá được,
-Tận gốc nhổ tâm ấy.
-Người ấy ngày hoặc đêm,
-Ðạt được tâm thiền định.”
+> “Người hiền thấy là ác,
+Khi thiện chưa chín muồi.
+Khi thiện được chín muồi,
+Người hiền thấy là thiện.”
 >
-> *かかる〔心を〕断ち、根元より絶滅する者は、昼も夜も実に三昧に入ることを得。*
+> *善人といえども、善の未だ熟せざる間は、苦悪を見る。
+然れども善の熟するや、その時善人は福善を見る。*
 
-<p align="right"><b>— Pham Cau Ue, Ke 250</b></p>
+<p align="right"><b>— Pham Ac, Ke 120</b></p>
 
 </td></tr>
 </table>
