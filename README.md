@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年08月29日**
+### **2026年08月30日**
 
 <div align="center">
 <table>
@@ -37,24 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 結婚をしばしば宝くじにたとえるが、それは誤りだ。宝くじなら当たることもあるのだから。
+> みずから苦しむか、もしくは他人を苦しませるか。そのいずれかなしに恋愛というものは存在しない。
 
-<p align="right"><b>— バーナード・ショウ</b></p>
+<p align="right"><b>— レニエ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Người hiền thấy là ác,
-Khi thiện chưa chín muồi.
-Khi thiện được chín muồi,
-Người hiền thấy là thiện.”
+> “Ai chặn được phẫn nộ,
+Như dừng xe đang lăn,
+Ta gọi người đánh xe,
+Kẻ khác, cầm cương hờ.”
 >
-> *善人といえども、善の未だ熟せざる間は、苦悪を見る。
-然れども善の熟するや、その時善人は福善を見る。*
+> *勃発したる忿怒を、動揺する馬車の如くに抑止する人、我はこれを〔真の〕御者と呼ぶ。
+他はただ手綱を執れるのみ。*
 
-<p align="right"><b>— Pham Ac, Ke 120</b></p>
+<p align="right"><b>— Pham Phan No, Ke 222</b></p>
 
 </td></tr>
 </table>
