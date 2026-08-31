@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年08月30日**
+### **2026年08月31日**
 
 <div align="center">
 <table>
@@ -37,24 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> みずから苦しむか、もしくは他人を苦しませるか。そのいずれかなしに恋愛というものは存在しない。
+> 我々は現在だけを耐え忍べばよい。過去にも未来にも苦しむ必要はない。過去はもう存在しないし、未来はまだ存在していないのだから。
 
-<p align="right"><b>— レニエ</b></p>
+<p align="right"><b>— アラン</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Ai chặn được phẫn nộ,
-Như dừng xe đang lăn,
-Ta gọi người đánh xe,
-Kẻ khác, cầm cương hờ.”
+> “Người trí chuyên thiền định,
+Thích an tịnh viễn ly,
+Chư thiên đều ái kính,
+Bậc chánh giác, chánh niệm.”
 >
-> *勃発したる忿怒を、動揺する馬車の如くに抑止する人、我はこれを〔真の〕御者と呼ぶ。
-他はただ手綱を執れるのみ。*
+> *禅定に専念し、賢明にして出家の寂静を喜び、正覚を得て憶念に富む賢者は、諸天すらこれを羨む。*
 
-<p align="right"><b>— Pham Phan No, Ke 222</b></p>
+<p align="right"><b>— Pham Phat Da, Ke 181</b></p>
 
 </td></tr>
 </table>
