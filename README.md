@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年08月31日**
+### **2026年09月01日**
 
 <div align="center">
 <table>
@@ -37,23 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 我々は現在だけを耐え忍べばよい。過去にも未来にも苦しむ必要はない。過去はもう存在しないし、未来はまだ存在していないのだから。
+> 人にできて、きみだけにできないなんてことあるもんか
 
-<p align="right"><b>— アラン</b></p>
+<p align="right"><b>— ドラえもん</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Người trí chuyên thiền định,
-Thích an tịnh viễn ly,
-Chư thiên đều ái kính,
-Bậc chánh giác, chánh niệm.”
+> “Người chế ngự tay chân,
+Chế ngự lời và đầu,
+Vui thích nội thiền định.
+Ðộc thân, biết vừa đủ,
+Thật xứng gọi tỷ kheo.”
 >
-> *禅定に専念し、賢明にして出家の寂静を喜び、正覚を得て憶念に富む賢者は、諸天すらこれを羨む。*
+> *手を慎み、足を慎み、語を慎み、最もよく慎み、内心に喜び、三昧に住し、独居して満足する者、これを比丘と称す。*
 
-<p align="right"><b>— Pham Phat Da, Ke 181</b></p>
+<p align="right"><b>— Pham Ty Kheo, Ke 362</b></p>
 
 </td></tr>
 </table>
