@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年09月01日**
+### **2026年09月02日**
 
 <div align="center">
 <table>
@@ -37,24 +37,26 @@
 
 **🌸 名言 (Meigen)**
 
-> 人にできて、きみだけにできないなんてことあるもんか
+> 笑いとは、地球上で一番苦しんでいる動物が発明したものである。
 
-<p align="right"><b>— ドラえもん</b></p>
+<p align="right"><b>— ニーチェ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Người chế ngự tay chân,
-Chế ngự lời và đầu,
-Vui thích nội thiền định.
-Ðộc thân, biết vừa đủ,
-Thật xứng gọi tỷ kheo.”
+> “Người bị ái buộc ràng,
+Vùng vẫy và hoảng sợ,
+Như thỏ bị sa lưới.
+Họ sanh ái trói buộc,
+Chịu khổ đau dài dài.”
 >
-> *手を慎み、足を慎み、語を慎み、最もよく慎み、内心に喜び、三昧に住し、独居して満足する者、これを比丘と称す。*
+> *愛欲に満たされたる人は、罠に係れる兎の如く馳せ回る。
+繋縛
+と執着とに捉えられ、久しき間再々苦を受く。*
 
-<p align="right"><b>— Pham Ty Kheo, Ke 362</b></p>
+<p align="right"><b>— Pham Tham Ai, Ke 342</b></p>
 
 </td></tr>
 </table>
