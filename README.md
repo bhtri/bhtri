@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年09月02日**
+### **2026年09月03日**
 
 <div align="center">
 <table>
@@ -37,26 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 笑いとは、地球上で一番苦しんでいる動物が発明したものである。
+> 運命みたいなものをさ。「これでいいのだ」って思うか？それとも「これでいいのか？」って疑うか？
 
-<p align="right"><b>— ニーチェ</b></p>
+<p align="right"><b>— 大槻ケンヂ 出典:グミ･チョコレート・パイン-グミ編</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Người bị ái buộc ràng,
-Vùng vẫy và hoảng sợ,
-Như thỏ bị sa lưới.
-Họ sanh ái trói buộc,
-Chịu khổ đau dài dài.”
+> “Hãy cầu vui Niết Bàn,
+Bỏ dục, không sở hữu,
+Kẻ trí tự rửa sạch,
+Cấu uế từ nội tâm.”
 >
-> *愛欲に満たされたる人は、罠に係れる兎の如く馳せ回る。
-繋縛
-と執着とに捉えられ、久しき間再々苦を受く。*
+> *〔法〕楽を求むべし。
+賢者は諸欲を捨て、無一物となり、自己を心垢より浄むべし。*
 
-<p align="right"><b>— Pham Tham Ai, Ke 342</b></p>
+<p align="right"><b>— Pham Hien Tri, Ke 88</b></p>
 
 </td></tr>
 </table>
