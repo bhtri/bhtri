@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年09月03日**
+### **2026年09月04日**
 
 <div align="center">
 <table>
@@ -37,24 +37,25 @@
 
 **🌸 名言 (Meigen)**
 
-> 運命みたいなものをさ。「これでいいのだ」って思うか？それとも「これでいいのか？」って疑うか？
+> 世の中は美しい。それを見る目を持っていればね。
 
-<p align="right"><b>— 大槻ケンヂ 出典:グミ･チョコレート・パイン-グミ編</b></p>
+<p align="right"><b>— 『聖メリイの鐘』</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Hãy cầu vui Niết Bàn,
-Bỏ dục, không sở hữu,
-Kẻ trí tự rửa sạch,
-Cấu uế từ nội tâm.”
+> “Tháng tháng bỏ ngàn vàng,
+Tế tự cả trăm năm,
+Chẳng bằng trong giây lát,
+Cúng dường bậc tự tu.
+Cúng dường vậy tốt hơn,
+Hơn trăm năm tế tự.”
 >
-> *〔法〕楽を求むべし。
-賢者は諸欲を捨て、無一物となり、自己を心垢より浄むべし。*
+> *月に月に千金を投じて供犠すること百年、しかも一人のよく修養せる人に供養すること瞬時なれば、この供養はかの百年の祭祀に勝る。*
 
-<p align="right"><b>— Pham Hien Tri, Ke 88</b></p>
+<p align="right"><b>— Pham Ngan, Ke 106</b></p>
 
 </td></tr>
 </table>
