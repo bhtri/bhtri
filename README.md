@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年09月04日**
+### **2026年09月05日**
 
 <div align="center">
 <table>
@@ -37,25 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 世の中は美しい。それを見る目を持っていればね。
+> 最高のものを求める人は、つねにわが道を行く。人間は最高のものを決して共存しない。幸福になろうとする人はまず孤独であれ。
 
-<p align="right"><b>— 『聖メリイの鐘』</b></p>
+<p align="right"><b>— ハーマーリング</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Tháng tháng bỏ ngàn vàng,
-Tế tự cả trăm năm,
-Chẳng bằng trong giây lát,
-Cúng dường bậc tự tu.
-Cúng dường vậy tốt hơn,
-Hơn trăm năm tế tự.”
+> “Những ai hành trì pháp,
+Theo chánh pháp khéo dạy,
+Sẽ đến bờ bên kia,
+Vượt ma lực khó thoát.”
 >
-> *月に月に千金を投じて供犠すること百年、しかも一人のよく修養せる人に供養すること瞬時なれば、この供養はかの百年の祭祀に勝る。*
+> *法の正しく説かれたる時、〔その〕法に従う人は彼岸に至らん。
+死の境域（生死界）は実に越え難し。*
 
-<p align="right"><b>— Pham Ngan, Ke 106</b></p>
+<p align="right"><b>— Pham Hien Tri, Ke 86</b></p>
 
 </td></tr>
 </table>
