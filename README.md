@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年09月05日**
+### **2026年09月06日**
 
 <div align="center">
 <table>
@@ -37,24 +37,32 @@
 
 **🌸 名言 (Meigen)**
 
-> 最高のものを求める人は、つねにわが道を行く。人間は最高のものを決して共存しない。幸福になろうとする人はまず孤独であれ。
+> 真実は疑いなく美しい。しかし、嘘もまた同様である。
 
-<p align="right"><b>— ハーマーリング</b></p>
+<p align="right"><b>— エマーソン(作家)</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Những ai hành trì pháp,
-Theo chánh pháp khéo dạy,
-Sẽ đến bờ bên kia,
-Vượt ma lực khó thoát.”
+> “Hương các loại hoa thơm
+Không ngược bay chiều gió
+Nhưng hương người đức hạnh
+Ngược gió khắp tung bay
+Chỉ có bậc chân nhân
+Tỏa khắp mọi phương trời.”
 >
-> *法の正しく説かれたる時、〔その〕法に従う人は彼岸に至らん。
-死の境域（生死界）は実に越え難し。*
+> *花の香りは風に逆らいて進まず、
+栴檀
+・
+多伽羅
+または
+茉莉花
+（香木の名）の〔香り〕も〔また然り〕。
+されど善人の香りは風に逆らいても進み、正しき人は一切方に薫ず。*
 
-<p align="right"><b>— Pham Hien Tri, Ke 86</b></p>
+<p align="right"><b>— Pham Hoa, Ke 54</b></p>
 
 </td></tr>
 </table>
