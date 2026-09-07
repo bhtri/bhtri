@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年09月06日**
+### **2026年09月07日**
 
 <div align="center">
 <table>
@@ -37,32 +37,25 @@
 
 **🌸 名言 (Meigen)**
 
-> 真実は疑いなく美しい。しかし、嘘もまた同様である。
+> 長い人生を営々と歩んできて、その果てに老耄（おいぼれ）が待ち受けているとしたら、人間はまったく何のために生きていることになるのだろう。
 
-<p align="right"><b>— エマーソン(作家)</b></p>
+<p align="right"><b>— 有吉佐和子</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Hương các loại hoa thơm
-Không ngược bay chiều gió
-Nhưng hương người đức hạnh
-Ngược gió khắp tung bay
-Chỉ có bậc chân nhân
-Tỏa khắp mọi phương trời.”
+> “Không phải nói lưu loát,
+Không phải sắc mặt đẹp,
+Thành được người lương thiện,
+Nếu ganh, tham, dối trá.”
 >
-> *花の香りは風に逆らいて進まず、
-栴檀
-・
-多伽羅
-または
-茉莉花
-（香木の名）の〔香り〕も〔また然り〕。
-されど善人の香りは風に逆らいても進み、正しき人は一切方に薫ず。*
+> *嫉妬・
+慳貪
+・虚偽ある者は、弁舌の故のみを以て、或いは容色の美の故を以て、端正の人たるにあらず。*
 
-<p align="right"><b>— Pham Hoa, Ke 54</b></p>
+<p align="right"><b>— Pham Phap Tru, Ke 262</b></p>
 
 </td></tr>
 </table>
