@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年09月07日**
+### **2026年09月08日**
 
 <div align="center">
 <table>
@@ -37,25 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 長い人生を営々と歩んできて、その果てに老耄（おいぼれ）が待ち受けているとしたら、人間はまったく何のために生きていることになるのだろう。
+> 人類の歴史は、虐げられたものの勝利を忍耐強く待っている。
 
-<p align="right"><b>— 有吉佐和子</b></p>
+<p align="right"><b>— タゴール</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Không phải nói lưu loát,
-Không phải sắc mặt đẹp,
-Thành được người lương thiện,
-Nếu ganh, tham, dối trá.”
+> “Tỷ kheo trú từ bi,
+Tín thành giáo Pháp Phật,
+Chứng cảnh giới tịch tỉnh.
+Các hạnh an tịnh lạc.”
 >
-> *嫉妬・
-慳貪
-・虚偽ある者は、弁舌の故のみを以て、或いは容色の美の故を以て、端正の人たるにあらず。*
+> *慈悲
+に住し、仏陀の教えを信ずる比丘は、寂静にして諸行静止せる安楽境に至るべし。*
 
-<p align="right"><b>— Pham Phap Tru, Ke 262</b></p>
+<p align="right"><b>— Pham Ty Kheo, Ke 368</b></p>
 
 </td></tr>
 </table>
