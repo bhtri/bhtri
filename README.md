@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年09月08日**
+### **2026年09月09日**
 
 <div align="center">
 <table>
@@ -37,24 +37,25 @@
 
 **🌸 名言 (Meigen)**
 
-> 人類の歴史は、虐げられたものの勝利を忍耐強く待っている。
+> 道は近くとも行かなければ到達せず、事は小さくても行わなければ成就しない。
 
-<p align="right"><b>— タゴール</b></p>
+<p align="right"><b>— 中国の諺</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Tỷ kheo trú từ bi,
-Tín thành giáo Pháp Phật,
-Chứng cảnh giới tịch tỉnh.
-Các hạnh an tịnh lạc.”
+> “Chớ gần gũi người yêu,
+Trọn đời xa kẻ ghét.
+Yêu không gặp là khổ,
+Oán phải gặp cũng đau.”
 >
-> *慈悲
-に住し、仏陀の教えを信ずる比丘は、寂静にして諸行静止せる安楽境に至るべし。*
+> *愛好するものと会するなかれ、愛好せざるものと決して〔会するなかれ〕。
+愛好するものを見ざるは苦なり。
+愛好せざるものを見るもまた〔苦なり〕。*
 
-<p align="right"><b>— Pham Ty Kheo, Ke 368</b></p>
+<p align="right"><b>— Pham Hy Ai, Ke 210</b></p>
 
 </td></tr>
 </table>
