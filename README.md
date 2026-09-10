@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年09月09日**
+### **2026年09月10日**
 
 <div align="center">
 <table>
@@ -37,25 +37,28 @@
 
 **🌸 名言 (Meigen)**
 
-> 道は近くとも行かなければ到達せず、事は小さくても行わなければ成就しない。
+> 成功に秘訣というものがあれば、それは他人の立場を理解し、自分の立場と同時に、他人の立場からも物事を見ることの出来る能力である。
 
-<p align="right"><b>— 中国の諺</b></p>
+<p align="right"><b>— フォード</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Chớ gần gũi người yêu,
-Trọn đời xa kẻ ghét.
-Yêu không gặp là khổ,
-Oán phải gặp cũng đau.”
+> “A-tu-la, nên biết,
+Xưa vậy, nay cũng vậy,
+Ngồi im, bị người chê,
+Nói nhiều bị người chê.
+Nói vừa phải, bị chê.
+Làm người không bị chê,
+Thật khó tìm ở đời.”
 >
-> *愛好するものと会するなかれ、愛好せざるものと決して〔会するなかれ〕。
-愛好するものを見ざるは苦なり。
-愛好せざるものを見るもまた〔苦なり〕。*
+> *アトゥラ（優婆塞の名）よ、こは古来より然り、今始まれるにあらず。
+〔すなわち〕人は黙して坐するを謗り、多言を謗り、寡言をもまた謗る。
+世に謗られざる者なし。*
 
-<p align="right"><b>— Pham Hy Ai, Ke 210</b></p>
+<p align="right"><b>— Pham Phan No, Ke 227</b></p>
 
 </td></tr>
 </table>
