@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年09月10日**
+### **2026年09月11日**
 
 <div align="center">
 <table>
@@ -37,28 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 成功に秘訣というものがあれば、それは他人の立場を理解し、自分の立場と同時に、他人の立場からも物事を見ることの出来る能力である。
+> 命というものは、はかないからこそ、尊く、厳かに美しいのだ。
 
-<p align="right"><b>— フォード</b></p>
+<p align="right"><b>— トーマス・マン</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “A-tu-la, nên biết,
-Xưa vậy, nay cũng vậy,
-Ngồi im, bị người chê,
-Nói nhiều bị người chê.
-Nói vừa phải, bị chê.
-Làm người không bị chê,
-Thật khó tìm ở đời.”
+> “Chúng sanh cầu an lạc,
+Không dùng trượng hại người,
+Ðể tìm lạc cho mình,
+Ðời sau được hưởng lạc.”
 >
-> *アトゥラ（優婆塞の名）よ、こは古来より然り、今始まれるにあらず。
-〔すなわち〕人は黙して坐するを謗り、多言を謗り、寡言をもまた謗る。
-世に謗られざる者なし。*
+> *自己の安楽を欲して、安楽を好む有情を、刀杖を以て害せざる者は、死後安楽を得。*
 
-<p align="right"><b>— Pham Phan No, Ke 227</b></p>
+<p align="right"><b>— Pham Hinh Phat, Ke 132</b></p>
 
 </td></tr>
 </table>
