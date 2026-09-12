@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年09月11日**
+### **2026年09月12日**
 
 <div align="center">
 <table>
@@ -37,23 +37,25 @@
 
 **🌸 名言 (Meigen)**
 
-> 命というものは、はかないからこそ、尊く、厳かに美しいのだ。
+> 人間に課してきた人生を神も生きてみよ、という判決が突きつけられたら、神は自殺するだろう。
 
-<p align="right"><b>— トーマス・マン</b></p>
+<p align="right"><b>— アレクサンドル・デュマ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Chúng sanh cầu an lạc,
-Không dùng trượng hại người,
-Ðể tìm lạc cho mình,
-Ðời sau được hưởng lạc.”
+> “Nỗ lực, chớ phóng dật!
+Hãy sống theo chánh hạnh;
+Người chánh hạnh hưởng lạc,
+Cả đời này, đời sau.”
 >
-> *自己の安楽を欲して、安楽を好む有情を、刀杖を以て害せざる者は、死後安楽を得。*
+> *奮起すべし、放逸なるべからず。
+善行の法を行うべし。
+法に従って行なう人は、この世に於てもかの世に於ても安楽に臥す。*
 
-<p align="right"><b>— Pham Hinh Phat, Ke 132</b></p>
+<p align="right"><b>— Pham The Gian, Ke 168</b></p>
 
 </td></tr>
 </table>
