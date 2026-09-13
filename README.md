@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年09月12日**
+### **2026年09月13日**
 
 <div align="center">
 <table>
@@ -37,25 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 人間に課してきた人生を神も生きてみよ、という判決が突きつけられたら、神は自殺するだろう。
+> 男の勇気は束縛を逃れることにあるが、女の勇気はそれを耐え忍ぶことにある。
 
-<p align="right"><b>— アレクサンドル・デュマ</b></p>
+<p align="right"><b>— ギゾー夫人</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Nỗ lực, chớ phóng dật!
-Hãy sống theo chánh hạnh;
-Người chánh hạnh hưởng lạc,
-Cả đời này, đời sau.”
+> Tinh cần giữa phóng dật,
+Tỉnh thức giữa quần mê.
+Người trí như ngựa phi,
+Bỏ sau con ngựa hèn.
 >
-> *奮起すべし、放逸なるべからず。
-善行の法を行うべし。
-法に従って行なう人は、この世に於てもかの世に於ても安楽に臥す。*
+> *放逸なる者の中に在りて不放逸に、睡眠者の中に在りてよく覚醒せる賢者は、駿馬の駑馬を後にして〔進む〕が如くに往く。*
 
-<p align="right"><b>— Pham The Gian, Ke 168</b></p>
+<p align="right"><b>— Pham Khong Phong Dat, Ke 29</b></p>
 
 </td></tr>
 </table>
