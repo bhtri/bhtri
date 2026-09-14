@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年09月13日**
+### **2026年09月14日**
 
 <div align="center">
 <table>
@@ -37,23 +37,25 @@
 
 **🌸 名言 (Meigen)**
 
-> 男の勇気は束縛を逃れることにあるが、女の勇気はそれを耐え忍ぶことにある。
+> 人間は自分の恋していた時のことを思い出すと、そのあいだには何一つ起こらなかったような気がするものだ。
 
-<p align="right"><b>— ギゾー夫人</b></p>
+<p align="right"><b>— モーリアック</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> Tinh cần giữa phóng dật,
-Tỉnh thức giữa quần mê.
-Người trí như ngựa phi,
-Bỏ sau con ngựa hèn.
+> “Không bệnh, lợi tối thượng,
+Biết đủ, tiền tối thượng,
+Thành tín đối với nhau,
+Là bà con tối thượng.
+Niết Bàn, lạc tối thượng.”
 >
-> *放逸なる者の中に在りて不放逸に、睡眠者の中に在りてよく覚醒せる賢者は、駿馬の駑馬を後にして〔進む〕が如くに往く。*
+> *無病は最上の利にして、満足は最上の財なり。
+信頼は最上の親族にして、涅槃は最上の安楽なり。*
 
-<p align="right"><b>— Pham Khong Phong Dat, Ke 29</b></p>
+<p align="right"><b>— Pham An Lac, Ke 204</b></p>
 
 </td></tr>
 </table>
