@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年09月14日**
+### **2026年09月15日**
 
 <div align="center">
 <table>
@@ -37,25 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 人間は自分の恋していた時のことを思い出すと、そのあいだには何一つ起こらなかったような気がするものだ。
+> 大衆はモノを書かない批評家である。
 
-<p align="right"><b>— モーリアック</b></p>
+<p align="right"><b>— ヴォルテール</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Không bệnh, lợi tối thượng,
-Biết đủ, tiền tối thượng,
-Thành tín đối với nhau,
-Là bà con tối thượng.
-Niết Bàn, lạc tối thượng.”
+> “Người ít nghe kém học,
+Lớn già như trâu đực.
+Thịt nó tuy lớn lên,
+Nhưng tuệ không tăng trưởng.”
 >
-> *無病は最上の利にして、満足は最上の財なり。
-信頼は最上の親族にして、涅槃は最上の安楽なり。*
+> *寡聞の人（愚者）は雄牛の如くに老ゆ。
+彼の肉は増せども、彼の智は増すことなし。*
 
-<p align="right"><b>— Pham An Lac, Ke 204</b></p>
+<p align="right"><b>— Pham Gia, Ke 152</b></p>
 
 </td></tr>
 </table>
