@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年09月15日**
+### **2026年09月16日**
 
 <div align="center">
 <table>
@@ -37,24 +37,27 @@
 
 **🌸 名言 (Meigen)**
 
-> 大衆はモノを書かない批評家である。
+> 恋する女の最高の幸福は、恋する男性によって彼自身の一部と認められることである。
 
-<p align="right"><b>— ヴォルテール</b></p>
+<p align="right"><b>— ボーヴォワール</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Người ít nghe kém học,
-Lớn già như trâu đực.
-Thịt nó tuy lớn lên,
-Nhưng tuệ không tăng trưởng.”
+> “Bỏ quá, hiện, vị lai,
+Ðến bờ kia cuộc đời,
+Ý giải thoát tất cả,
+Chớ vướng lại sanh già.”
 >
-> *寡聞の人（愚者）は雄牛の如くに老ゆ。
-彼の肉は増せども、彼の智は増すことなし。*
+> *有
+の彼岸に達し、
+前
+（未来の煩悩）を離れよ、後（過去の煩悩）を離れよ、中（現在の煩悩）を離れよ。
+意一切処に於て解脱せば、汝は再び生と老とを受くることなし。*
 
-<p align="right"><b>— Pham Gia, Ke 152</b></p>
+<p align="right"><b>— Pham Tham Ai, Ke 348</b></p>
 
 </td></tr>
 </table>
