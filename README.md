@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年09月16日**
+### **2026年09月17日**
 
 <div align="center">
 <table>
@@ -37,27 +37,26 @@
 
 **🌸 名言 (Meigen)**
 
-> 恋する女の最高の幸福は、恋する男性によって彼自身の一部と認められることである。
+> 海が嫌いなら、山が嫌いなら、都会が嫌いなら、田舎が嫌いなら、勝手にしやがれ。
 
-<p align="right"><b>— ボーヴォワール</b></p>
+<p align="right"><b>— 『勝手にしやがれ』（監督：ジャン・リュック・ゴダール、1959年公開）</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Bỏ quá, hiện, vị lai,
-Ðến bờ kia cuộc đời,
-Ý giải thoát tất cả,
-Chớ vướng lại sanh già.”
+> “Bỏ phẫn nộ, ly mạn,
+Vượt qua mọi kiết sử,
+Không chấp trước danh sắc.
+Khổ không theo vô sản.”
 >
-> *有
-の彼岸に達し、
-前
-（未来の煩悩）を離れよ、後（過去の煩悩）を離れよ、中（現在の煩悩）を離れよ。
-意一切処に於て解脱せば、汝は再び生と老とを受くることなし。*
+> *忿怒を去るべし、慢心を捨つべし、一切の
+繋縛
+を脱すべし。
+かく名色（精神・物質）に執着せざる無一物の人には苦の随うことなし。*
 
-<p align="right"><b>— Pham Tham Ai, Ke 348</b></p>
+<p align="right"><b>— Pham Phan No, Ke 221</b></p>
 
 </td></tr>
 </table>
