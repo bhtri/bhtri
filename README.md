@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年09月17日**
+### **2026年09月18日**
 
 <div align="center">
 <table>
@@ -37,26 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 海が嫌いなら、山が嫌いなら、都会が嫌いなら、田舎が嫌いなら、勝手にしやがれ。
+> 人生は学校である。そこでは幸福よりも不幸のほうがよい教師である。
 
-<p align="right"><b>— 『勝手にしやがれ』（監督：ジャン・リュック・ゴダール、1959年公開）</b></p>
+<p align="right"><b>— フリーチェ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Bỏ phẫn nộ, ly mạn,
-Vượt qua mọi kiết sử,
-Không chấp trước danh sắc.
-Khổ không theo vô sản.”
+> “Thấy khổ và khổ tập,
+Thấy sự khổ vượt qua,
+Thấy đường Thánh tám ngành,
+Ðưa đến khổ não tận.”
 >
-> *忿怒を去るべし、慢心を捨つべし、一切の
-繋縛
-を脱すべし。
-かく名色（精神・物質）に執着せざる無一物の人には苦の随うことなし。*
+> *苦と、苦の因と、苦の滅と、苦の滅尽に至る八支の聖道、〔すなわちこれなり〕。*
 
-<p align="right"><b>— Pham Phan No, Ke 221</b></p>
+<p align="right"><b>— Pham Phat Da, Ke 191</b></p>
 
 </td></tr>
 </table>
