@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年09月18日**
+### **2026年09月19日**
 
 <div align="center">
 <table>
@@ -37,23 +37,25 @@
 
 **🌸 名言 (Meigen)**
 
-> 人生は学校である。そこでは幸福よりも不幸のほうがよい教師である。
+> 過去の労働の記憶は甘美なり。
 
-<p align="right"><b>— フリーチェ</b></p>
+<p align="right"><b>— エウリピデス</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Thấy khổ và khổ tập,
-Thấy sự khổ vượt qua,
-Thấy đường Thánh tám ngành,
-Ðưa đến khổ não tận.”
+> “Như trái bầu mùa thu,
+Bị vất bỏ quăng đi,
+Nhóm xương trắng bồ câu,
+Thấy chúng còn vui gì?”
 >
-> *苦と、苦の因と、苦の滅と、苦の滅尽に至る八支の聖道、〔すなわちこれなり〕。*
+> *秋到りて〔捨てられし〕
+瓢箪
+の如く、委棄せられしこれらの白骨を見て、何の喜びありや。*
 
-<p align="right"><b>— Pham Phat Da, Ke 191</b></p>
+<p align="right"><b>— Pham Gia, Ke 149</b></p>
 
 </td></tr>
 </table>
