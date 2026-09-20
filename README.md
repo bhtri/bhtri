@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年09月19日**
+### **2026年09月20日**
 
 <div align="center">
 <table>
@@ -37,25 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 過去の労働の記憶は甘美なり。
+> 見ろ　あの夕焼けを　美しい・・・上昇し続けることはできなくても　また　やり直せるさ
 
-<p align="right"><b>— エウリピデス</b></p>
+<p align="right"><b>— 草野正宗：スピッツ(歌手) 出典:放浪カモメはどこまでも</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Như trái bầu mùa thu,
-Bị vất bỏ quăng đi,
-Nhóm xương trắng bồ câu,
-Thấy chúng còn vui gì?”
+> “Hư không, không dấu chân,
+Ngoài đây, không sa môn,
+Chúng sanh thích hý luận,
+Như lai, hý luận trừ.”
 >
-> *秋到りて〔捨てられし〕
-瓢箪
-の如く、委棄せられしこれらの白骨を見て、何の喜びありや。*
+> *虚空に道なく、外道に沙門なし。
+衆生は虚妄を喜び、如来には虚妄なし。*
 
-<p align="right"><b>— Pham Gia, Ke 149</b></p>
+<p align="right"><b>— Pham Cau Ue, Ke 254</b></p>
 
 </td></tr>
 </table>
