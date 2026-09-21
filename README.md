@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年09月20日**
+### **2026年09月21日**
 
 <div align="center">
 <table>
@@ -37,24 +37,25 @@
 
 **🌸 名言 (Meigen)**
 
-> 見ろ　あの夕焼けを　美しい・・・上昇し続けることはできなくても　また　やり直せるさ
+> 一般に青年が主張する内容は正しくない。しかし、青年がそれを主張するそのこと自体は正しい。
 
-<p align="right"><b>— 草野正宗：スピッツ(歌手) 出典:放浪カモメはどこまでも</b></p>
+<p align="right"><b>— ジンメル</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Hư không, không dấu chân,
-Ngoài đây, không sa môn,
-Chúng sanh thích hý luận,
-Như lai, hý luận trừ.”
+> “Quy y ấy không ổn,
+Không quy y tối thượng.
+Quy y các chỗ ấy,
+Không thoát mọi khổ đau.”
 >
-> *虚空に道なく、外道に沙門なし。
-衆生は虚妄を喜び、如来には虚妄なし。*
+> *然れどもこは安全なる依所にあらず。
+最上の依所にあらず。
+かかる依所に赴くとも、一切の苦より脱することなし。*
 
-<p align="right"><b>— Pham Cau Ue, Ke 254</b></p>
+<p align="right"><b>— Pham Phat Da, Ke 189</b></p>
 
 </td></tr>
 </table>
