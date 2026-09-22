@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年09月21日**
+### **2026年09月22日**
 
 <div align="center">
 <table>
@@ -37,25 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 一般に青年が主張する内容は正しくない。しかし、青年がそれを主張するそのこと自体は正しい。
+> レモンを手に入れたらレモネードを作れ。すっぱいからといって捨ててしまうな
 
-<p align="right"><b>— ジンメル</b></p>
+<p align="right"><b>— ジュリアス･ローザンヴォルド</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Quy y ấy không ổn,
-Không quy y tối thượng.
-Quy y các chỗ ấy,
-Không thoát mọi khổ đau.”
+> “Như bông hoa tươi đẹp,
+Có sắc nhưng không hương.
+Cũng vậy, lời khéo nói,
+Không làm, không kết quả.”
 >
-> *然れどもこは安全なる依所にあらず。
-最上の依所にあらず。
-かかる依所に赴くとも、一切の苦より脱することなし。*
+> *愛すべく色麗しくとも芳香なき花の如く、実行なき人の語は、善く説かるるとも効果なし。*
 
-<p align="right"><b>— Pham Phat Da, Ke 189</b></p>
+<p align="right"><b>— Pham Hoa, Ke 51</b></p>
 
 </td></tr>
 </table>
