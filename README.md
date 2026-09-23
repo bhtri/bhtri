@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年09月22日**
+### **2026年09月23日**
 
 <div align="center">
 <table>
@@ -37,23 +37,29 @@
 
 **🌸 名言 (Meigen)**
 
-> レモンを手に入れたらレモネードを作れ。すっぱいからといって捨ててしまうな
+> 神はつかのまの人生から、釣りに費やした時間を差し引いてはくれない。
 
-<p align="right"><b>— ジュリアス･ローザンヴォルド</b></p>
+<p align="right"><b>— バビロニアの諺</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Như bông hoa tươi đẹp,
-Có sắc nhưng không hương.
-Cũng vậy, lời khéo nói,
-Không làm, không kết quả.”
+> “Lành thay,phòng hộ thân!
+Lành thay, phòng hộ lời,
+Lành thay, phòng hộ ý.
+Lành thay, phòng tất cả.
+Tỷ kheo phòng tất cả.
+Thoát được mọi khổ đau.”
 >
-> *愛すべく色麗しくとも芳香なき花の如く、実行なき人の語は、善く説かるるとも効果なし。*
+> *身を制するは善し。
+語を制するは善し。
+意を制するは善し。
+一切に於て制するは善し。
+一切に於て制したる比丘は一切の苦より脱す。*
 
-<p align="right"><b>— Pham Hoa, Ke 51</b></p>
+<p align="right"><b>— Pham Ty Kheo, Ke 361</b></p>
 
 </td></tr>
 </table>
