@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年09月23日**
+### **2026年09月24日**
 
 <div align="center">
 <table>
@@ -37,29 +37,26 @@
 
 **🌸 名言 (Meigen)**
 
-> 神はつかのまの人生から、釣りに費やした時間を差し引いてはくれない。
+> 自分の肉体の欠陥や奇形をむき出しにして同情を呼ぼうとする乞食と同じように、自分のくだけた心の状態をさらけ出して人目を惹こうとする作家がある。
 
-<p align="right"><b>— バビロニアの諺</b></p>
+<p align="right"><b>— キルケゴール</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Lành thay,phòng hộ thân!
-Lành thay, phòng hộ lời,
-Lành thay, phòng hộ ý.
-Lành thay, phòng tất cả.
-Tỷ kheo phòng tất cả.
-Thoát được mọi khổ đau.”
+> “Chớ nói lời ác độc,
+Nói ác, bị nói lại,
+Khổ thay lời phẩn nộ,
+Ðao trượng phản chạm mình.”
 >
-> *身を制するは善し。
-語を制するは善し。
-意を制するは善し。
-一切に於て制するは善し。
-一切に於て制したる比丘は一切の苦より脱す。*
+> *粗暴の言を用うべからず。
+言われし者また汝に言を返さん。
+忿怒の言は実に苦なり。
+刀杖かえって汝に触れん。*
 
-<p align="right"><b>— Pham Ty Kheo, Ke 361</b></p>
+<p align="right"><b>— Pham Hinh Phat, Ke 133</b></p>
 
 </td></tr>
 </table>
