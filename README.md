@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年09月24日**
+### **2026年09月25日**
 
 <div align="center">
 <table>
@@ -37,26 +37,25 @@
 
 **🌸 名言 (Meigen)**
 
-> 自分の肉体の欠陥や奇形をむき出しにして同情を呼ぼうとする乞食と同じように、自分のくだけた心の状態をさらけ出して人目を惹こうとする作家がある。
+> 委員会：必要のないことをするために、やる気のない者によって招集された、適任でない人間の集まり。
 
-<p align="right"><b>— キルケゴール</b></p>
+<p align="right"><b>— ハロル</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Chớ nói lời ác độc,
-Nói ác, bị nói lại,
-Khổ thay lời phẩn nộ,
-Ðao trượng phản chạm mình.”
+> “Bốn nạn chờ đợi người,
+Phóng dật theo vợ người;
+Mắc họa, ngủ không yên,
+Bị chê là thứ ba,
+Ðọa địa ngục, thứ bốn.”
 >
-> *粗暴の言を用うべからず。
-言われし者また汝に言を返さん。
-忿怒の言は実に苦なり。
-刀杖かえって汝に触れん。*
+> *放逸にして他人の妻を犯す人は、〔次の〕四事に達す。
+罪業を得ること、安臥せざること、第三に誹謗、第四に地獄。*
 
-<p align="right"><b>— Pham Hinh Phat, Ke 133</b></p>
+<p align="right"><b>— Pham Dia Nguc, Ke 309</b></p>
 
 </td></tr>
 </table>
