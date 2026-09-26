@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年09月25日**
+### **2026年09月26日**
 
 <div align="center">
 <table>
@@ -37,25 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 委員会：必要のないことをするために、やる気のない者によって招集された、適任でない人間の集まり。
+> 僕はおまえが好きだった。そして今でも好きなんだ。たとえ世界が木っ端微塵になったとしても、その残骸の破片から、恋の想いは炎となって燃え上がる。
 
-<p align="right"><b>— ハロル</b></p>
+<p align="right"><b>— ハイネ『歌の本』</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Bốn nạn chờ đợi người,
-Phóng dật theo vợ người;
-Mắc họa, ngủ không yên,
-Bị chê là thứ ba,
-Ðọa địa ngục, thứ bốn.”
+> “Hoặc phòng ốc nhà cửa
+Bị hỏa tai thiêu đốt.
+Khi thân hoại mạng chung,
+Ác tuệ sanh địa ngục.”
 >
-> *放逸にして他人の妻を犯す人は、〔次の〕四事に達す。
-罪業を得ること、安臥せざること、第三に誹謗、第四に地獄。*
+> *或いはまた浄火彼の家を焼く。
+愚痴なる者はその身滅びて後地獄に堕つ。*
 
-<p align="right"><b>— Pham Dia Nguc, Ke 309</b></p>
+<p align="right"><b>— Pham Hinh Phat, Ke 140</b></p>
 
 </td></tr>
 </table>
