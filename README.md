@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年09月26日**
+### **2026年09月27日**
 
 <div align="center">
 <table>
@@ -37,24 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 僕はおまえが好きだった。そして今でも好きなんだ。たとえ世界が木っ端微塵になったとしても、その残骸の破片から、恋の想いは炎となって燃え上がる。
+> 名物にうまいものなし。
 
-<p align="right"><b>— ハイネ『歌の本』</b></p>
+<p align="right"><b>— 日本の諺</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Hoặc phòng ốc nhà cửa
-Bị hỏa tai thiêu đốt.
-Khi thân hoại mạng chung,
-Ác tuệ sanh địa ngục.”
+> “Dầu nói trăm câu kệ
+Nhưng không gì lợi ích,
+Tốt hơn một câu pháp,
+Nghe xong, được tịnh lạc.”
 >
-> *或いはまた浄火彼の家を焼く。
-愚痴なる者はその身滅びて後地獄に堕つ。*
+> *無益の句よりなる百偈を誦すとも、聞きて寂静を得べき、一偈の一語これに勝る。*
 
-<p align="right"><b>— Pham Hinh Phat, Ke 140</b></p>
+<p align="right"><b>— Pham Ngan, Ke 102</b></p>
 
 </td></tr>
 </table>
