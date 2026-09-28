@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年09月27日**
+### **2026年09月28日**
 
 <div align="center">
 <table>
@@ -37,23 +37,25 @@
 
 **🌸 名言 (Meigen)**
 
-> 名物にうまいものなし。
+> 人間は自由な喝采を願望するものである。大衆にはよく理解されなくても、よい勝利を欲するものである。
 
-<p align="right"><b>— 日本の諺</b></p>
+<p align="right"><b>— アラン</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Dầu nói trăm câu kệ
-Nhưng không gì lợi ích,
-Tốt hơn một câu pháp,
-Nghe xong, được tịnh lạc.”
+> ” Ai vượt qua thiện ác,
+Chuyên sống đời Phạm Hạnh,
+Sống thẩm sát ở đời,
+Mới xứng danh tỷ kheo.”
 >
-> *無益の句よりなる百偈を誦すとも、聞きて寂静を得べき、一偈の一語これに勝る。*
+> *この世に於て善と悪とを捨て、
+梵行
+を修し、慎重に世を行く者は、実に比丘と称せらる。*
 
-<p align="right"><b>— Pham Ngan, Ke 102</b></p>
+<p align="right"><b>— Pham Phap Tru, Ke 267</b></p>
 
 </td></tr>
 </table>
