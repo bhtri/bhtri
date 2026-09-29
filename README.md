@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年09月28日**
+### **2026年09月29日**
 
 <div align="center">
 <table>
@@ -37,25 +37,26 @@
 
 **🌸 名言 (Meigen)**
 
-> 人間は自由な喝采を願望するものである。大衆にはよく理解されなくても、よい勝利を欲するものである。
+> 親の言う通りに子はならぬ 、親のする通りに子はなっていく
 
-<p align="right"><b>— アラン</b></p>
+<p align="right"><b>— お寺の掲示板</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> ” Ai vượt qua thiện ác,
-Chuyên sống đời Phạm Hạnh,
-Sống thẩm sát ở đời,
-Mới xứng danh tỷ kheo.”
+> “Người tà ý nhiếp phục,
+Tham sắc bén nhìn tịnh,
+Người ấy ái tăng trưởng,
+Làm giây trói mình chặt.”
 >
-> *この世に於て善と悪とを捨て、
-梵行
-を修し、慎重に世を行く者は、実に比丘と称せらる。*
+> *疑惑に擾乱せられ、貪欲熾烈にして享楽を事とする人の愛欲は、ますます増長す。
+かかる人は実に〔その〕
+繋縛
+を堅くす。*
 
-<p align="right"><b>— Pham Phap Tru, Ke 267</b></p>
+<p align="right"><b>— Pham Tham Ai, Ke 349</b></p>
 
 </td></tr>
 </table>
