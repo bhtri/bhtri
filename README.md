@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年09月29日**
+### **2026年09月30日**
 
 <div align="center">
 <table>
@@ -37,26 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 親の言う通りに子はならぬ 、親のする通りに子はなっていく
+> 政府は帆であり、国民は風であり、国家は船であり、時代は海である。
 
-<p align="right"><b>— お寺の掲示板</b></p>
+<p align="right"><b>— ベルネ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Người tà ý nhiếp phục,
-Tham sắc bén nhìn tịnh,
-Người ấy ái tăng trưởng,
-Làm giây trói mình chặt.”
+> Như ngôi nhà khéo lợp,
+Mưa không xâm nhập vào.
+Cũng vậy tâm khéo tu,
+Tham dục không xâm nhập.
 >
-> *疑惑に擾乱せられ、貪欲熾烈にして享楽を事とする人の愛欲は、ますます増長す。
-かかる人は実に〔その〕
-繋縛
-を堅くす。*
+> *善く葺きたる家屋に雨の漏らざる如く、貪欲は修養せる心を侵さず。*
 
-<p align="right"><b>— Pham Tham Ai, Ke 349</b></p>
+<p align="right"><b>— Pham Song Yeu, Ke 14</b></p>
 
 </td></tr>
 </table>
