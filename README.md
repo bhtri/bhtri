@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年09月30日**
+### **2026年10月01日**
 
 <div align="center">
 <table>
@@ -37,23 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 政府は帆であり、国民は風であり、国家は船であり、時代は海である。
+> 友情は瞬間が咲かせる花であり、そして時間が実らせる果実である。
 
-<p align="right"><b>— ベルネ</b></p>
+<p align="right"><b>— コッツェブー</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> Như ngôi nhà khéo lợp,
-Mưa không xâm nhập vào.
-Cũng vậy tâm khéo tu,
-Tham dục không xâm nhập.
+> “Mùa mưa ta ở đây
+Ðông, hạ cũng ở đây,
+Người ngu tâm tưởng vậy,
+Không tự giác hiểm nguy.”
 >
-> *善く葺きたる家屋に雨の漏らざる如く、貪欲は修養せる心を侵さず。*
+> *「我雨期にはここに住せん、冬と夏とはここに〔住せん〕」と、愚者は思惟して、死の〔至る〕を覚らず。*
 
-<p align="right"><b>— Pham Song Yeu, Ke 14</b></p>
+<p align="right"><b>— Pham Dao, Ke 286</b></p>
 
 </td></tr>
 </table>
