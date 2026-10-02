@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年10月01日**
+### **2026年10月02日**
 
 <div align="center">
 <table>
@@ -37,23 +37,28 @@
 
 **🌸 名言 (Meigen)**
 
-> 友情は瞬間が咲かせる花であり、そして時間が実らせる果実である。
+> 友人は服のようなものだ。すり切れないうちに捨てねばならぬ。さもないと、向こうがこちらを捨てる。
 
-<p align="right"><b>— コッツェブー</b></p>
+<p align="right"><b>— ルナール</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Mùa mưa ta ở đây
-Ðông, hạ cũng ở đây,
-Người ngu tâm tưởng vậy,
-Không tự giác hiểm nguy.”
+> “Ai biết được đời trước,
+Thấy thiên giới, đọa xứ,
+Ðạt được sanh diệt tận
+Thắng trí, tự viên thành
+Bậc mâu ni đạo sĩ.
+Viên mãn mọi thành tựu
+Ta gọi Bà-la-môn.”
 >
-> *「我雨期にはここに住せん、冬と夏とはここに〔住せん〕」と、愚者は思惟して、死の〔至る〕を覚らず。*
+> *前生を知り、天界と悪趣とを見、更に生の滅尽に達し、智に於て完成したる
+牟尼
+（賢人）、一切円満成就の人、我はこれを婆羅門と呼ぶ。*
 
-<p align="right"><b>— Pham Dao, Ke 286</b></p>
+<p align="right"><b>— Pham Ba La Mon, Ke 423</b></p>
 
 </td></tr>
 </table>
