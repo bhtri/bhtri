@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年10月02日**
+### **2026年10月03日**
 
 <div align="center">
 <table>
@@ -37,28 +37,30 @@
 
 **🌸 名言 (Meigen)**
 
-> 友人は服のようなものだ。すり切れないうちに捨てねばならぬ。さもないと、向こうがこちらを捨てる。
+> どこにも人を引きつける所を持たないことを自覚している人間は、それについてくよくよとあせるより、自然のままで一人で生きているほうが賢明である。
 
-<p align="right"><b>— ルナール</b></p>
+<p align="right"><b>— 河盛好蔵「人と付き合う法」</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Ai biết được đời trước,
-Thấy thiên giới, đọa xứ,
-Ðạt được sanh diệt tận
-Thắng trí, tự viên thành
-Bậc mâu ni đạo sĩ.
-Viên mãn mọi thành tựu
-Ta gọi Bà-la-môn.”
+> “Ôi! Người làm nhà kia
+Nay ta đã thấy ngươi!
+Ngươi không làm nhà nữa.
+Ðòn tay ngươi bị gẫy,
+Kèo cột ngươi bị tan
+Tâm ta đạt tịch diệt,
+Tham ái thảy tiêu vong.”
 >
-> *前生を知り、天界と悪趣とを見、更に生の滅尽に達し、智に於て完成したる
-牟尼
-（賢人）、一切円満成就の人、我はこれを婆羅門と呼ぶ。*
+> *屋舎を作るものよ。
+汝は見出されたり。
+再び屋舎を作ることなけん。
+汝のすべての椽桷は毀たれ、棟梁は砕かれたり。
+心は万象を離れて愛欲を滅尽し得たり。*
 
-<p align="right"><b>— Pham Ba La Mon, Ke 423</b></p>
+<p align="right"><b>— Pham Gia, Ke 154</b></p>
 
 </td></tr>
 </table>
