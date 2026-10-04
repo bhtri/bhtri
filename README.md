@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年10月03日**
+### **2026年10月04日**
 
 <div align="center">
 <table>
@@ -37,30 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> どこにも人を引きつける所を持たないことを自覚している人間は、それについてくよくよとあせるより、自然のままで一人で生きているほうが賢明である。
+> 落ち着きのなさや欲求不満は、進歩にとって最初の必要不可欠なものである。
 
-<p align="right"><b>— 河盛好蔵「人と付き合う法」</b></p>
+<p align="right"><b>— エジソン</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Ôi! Người làm nhà kia
-Nay ta đã thấy ngươi!
-Ngươi không làm nhà nữa.
-Ðòn tay ngươi bị gẫy,
-Kèo cột ngươi bị tan
-Tâm ta đạt tịch diệt,
-Tham ái thảy tiêu vong.”
+> “Tài sản hại người ngu.
+Không người tìm bờ kia
+Kẻ ngu vì tham giàu,
+Hại mình và hại người.”
 >
-> *屋舎を作るものよ。
-汝は見出されたり。
-再び屋舎を作ることなけん。
-汝のすべての椽桷は毀たれ、棟梁は砕かれたり。
-心は万象を離れて愛欲を滅尽し得たり。*
+> *財は愚者を滅ぼし、決して彼岸を求むる者を〔滅ぼさ〕ず。
+愚者は財欲によりて自己を滅ぼすこと、他人を〔滅ぼすが〕如し。*
 
-<p align="right"><b>— Pham Gia, Ke 154</b></p>
+<p align="right"><b>— Pham Tham Ai, Ke 355</b></p>
 
 </td></tr>
 </table>
