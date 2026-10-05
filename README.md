@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年10月04日**
+### **2026年10月05日**
 
 <div align="center">
 <table>
@@ -37,24 +37,25 @@
 
 **🌸 名言 (Meigen)**
 
-> 落ち着きのなさや欲求不満は、進歩にとって最初の必要不可欠なものである。
+> 死は救いとは言いながら、そうは悟りきれぬものである。
 
-<p align="right"><b>— エジソン</b></p>
+<p align="right"><b>— 大佛次郎</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Tài sản hại người ngu.
-Không người tìm bờ kia
-Kẻ ngu vì tham giàu,
-Hại mình và hại người.”
+> “Như trái bầu mùa thu,
+Bị vất bỏ quăng đi,
+Nhóm xương trắng bồ câu,
+Thấy chúng còn vui gì?”
 >
-> *財は愚者を滅ぼし、決して彼岸を求むる者を〔滅ぼさ〕ず。
-愚者は財欲によりて自己を滅ぼすこと、他人を〔滅ぼすが〕如し。*
+> *秋到りて〔捨てられし〕
+瓢箪
+の如く、委棄せられしこれらの白骨を見て、何の喜びありや。*
 
-<p align="right"><b>— Pham Tham Ai, Ke 355</b></p>
+<p align="right"><b>— Pham Gia, Ke 149</b></p>
 
 </td></tr>
 </table>
