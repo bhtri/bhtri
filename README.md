@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年10月05日**
+### **2026年10月06日**
 
 <div align="center">
 <table>
@@ -37,25 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 死は救いとは言いながら、そうは悟りきれぬものである。
+> 人は軽蔑されたと感じたときに最もよく怒る。だから自信のあるものはあまり怒らない。
 
-<p align="right"><b>— 大佛次郎</b></p>
+<p align="right"><b>— 三木清</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Như trái bầu mùa thu,
-Bị vất bỏ quăng đi,
-Nhóm xương trắng bồ câu,
-Thấy chúng còn vui gì?”
+> “Ai thấy lỗi của người,
+Thường sanh lòng chỉ trích,
+Người ấy lậu hoặc tăng,
+Rất xa lậu hoặc diệt.”
 >
-> *秋到りて〔捨てられし〕
-瓢箪
-の如く、委棄せられしこれらの白骨を見て、何の喜びありや。*
+> *他人の過失を詮索し、常に怒り易き人の煩悩は増長す。
+彼は煩悩の滅尽を去ること遠し。*
 
-<p align="right"><b>— Pham Gia, Ke 149</b></p>
+<p align="right"><b>— Pham Cau Ue, Ke 253</b></p>
 
 </td></tr>
 </table>
