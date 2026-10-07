@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年10月06日**
+### **2026年10月07日**
 
 <div align="center">
 <table>
@@ -37,24 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 人は軽蔑されたと感じたときに最もよく怒る。だから自信のあるものはあまり怒らない。
+> 僕、どこに行ってもだいたい悲観的なんですよね。企画会議をしていても、常に悲観的ですし。
 
-<p align="right"><b>— 三木清</b></p>
+<p align="right"><b>— 西村博之（ひろゆき）</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Ai thấy lỗi của người,
-Thường sanh lòng chỉ trích,
-Người ấy lậu hoặc tăng,
-Rất xa lậu hoặc diệt.”
+> “Nhưng ai có giới hạnh,
+An trú không phóng dật,
+Chánh trí, chơn giải thoát,
+Ác ma không thấy đường.”
 >
-> *他人の過失を詮索し、常に怒り易き人の煩悩は増長す。
-彼は煩悩の滅尽を去ること遠し。*
+> *戒行を成就し、不放逸に住し、正智により解脱せる者には、魔王も近づくあたわず。*
 
-<p align="right"><b>— Pham Cau Ue, Ke 253</b></p>
+<p align="right"><b>— Pham Hoa, Ke 57</b></p>
 
 </td></tr>
 </table>
