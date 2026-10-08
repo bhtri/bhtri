@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年10月07日**
+### **2026年10月08日**
 
 <div align="center">
 <table>
@@ -37,23 +37,26 @@
 
 **🌸 名言 (Meigen)**
 
-> 僕、どこに行ってもだいたい悲観的なんですよね。企画会議をしていても、常に悲観的ですし。
+> 世間の人は虎を、性欲の虎を放し飼いにして、どうかするとその背に乗って滅亡の谷に落ちる。
 
-<p align="right"><b>— 西村博之（ひろゆき）</b></p>
+<p align="right"><b>— 森鴎外</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Nhưng ai có giới hạnh,
-An trú không phóng dật,
-Chánh trí, chơn giải thoát,
-Ác ma không thấy đường.”
+> Ý dẫn đầu các pháp,
+Ý làm chủ, ý tạo;
+Nếu với ý ô nhiễm,
+Nói lên hay hành động,
+Khổ não bước theo sau,
+Như xe, chân vật kéo.
 >
-> *戒行を成就し、不放逸に住し、正智により解脱せる者には、魔王も近づくあたわず。*
+> *諸法は意に支配せられ、意を主とし、意よりなる。
+人もし穢れたる意を以て、或いは語り或いは行わば、苦の彼に随うこと、車輪が牽獣の足に〔随う〕が如し。*
 
-<p align="right"><b>— Pham Hoa, Ke 57</b></p>
+<p align="right"><b>— Pham Song Yeu, Ke 1</b></p>
 
 </td></tr>
 </table>
