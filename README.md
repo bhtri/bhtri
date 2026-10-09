@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年10月08日**
+### **2026年10月09日**
 
 <div align="center">
 <table>
@@ -37,26 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 世間の人は虎を、性欲の虎を放し飼いにして、どうかするとその背に乗って滅亡の谷に落ちる。
+> 孤独はこの世で一番恐ろしい苦しみだ。どんなに激しい恐怖も、みんながいっしょなら絶えれるが、孤独は死に等しい。
 
-<p align="right"><b>— 森鴎外</b></p>
+<p align="right"><b>— ゲオルギウ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> Ý dẫn đầu các pháp,
-Ý làm chủ, ý tạo;
-Nếu với ý ô nhiễm,
-Nói lên hay hành động,
-Khổ não bước theo sau,
-Như xe, chân vật kéo.
+> “Bỏ trượng, đối chúng sanh,
+Yếu kém hay kiên cường,
+Không giết, không bảo giết,
+Ta gọi Bà-la-môn.”
 >
-> *諸法は意に支配せられ、意を主とし、意よりなる。
-人もし穢れたる意を以て、或いは語り或いは行わば、苦の彼に随うこと、車輪が牽獣の足に〔随う〕が如し。*
+> *弱きも強きも一切の有情の中にありて刀杖を捨て、殺すことなく、殺さしむることなき人、我はこれを婆羅門と呼ぶ。*
 
-<p align="right"><b>— Pham Song Yeu, Ke 1</b></p>
+<p align="right"><b>— Pham Ba La Mon, Ke 405</b></p>
 
 </td></tr>
 </table>
