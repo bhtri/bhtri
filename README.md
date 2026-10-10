@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年10月09日**
+### **2026年10月10日**
 
 <div align="center">
 <table>
@@ -37,23 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 孤独はこの世で一番恐ろしい苦しみだ。どんなに激しい恐怖も、みんながいっしょなら絶えれるが、孤独は死に等しい。
+> 運の悪い人は安心するがよい。なぜなら、なおいっそうの悪運におちいる心配はないから。
 
-<p align="right"><b>— ゲオルギウ</b></p>
+<p align="right"><b>— オーヴィット</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Bỏ trượng, đối chúng sanh,
-Yếu kém hay kiên cường,
-Không giết, không bảo giết,
-Ta gọi Bà-la-môn.”
+> Chúng ngu si, thiếu trí,
+Chuyên sống đời phóng dật.
+Người trí, không phóng dật,
+Như giữ tài sản quý.
 >
-> *弱きも強きも一切の有情の中にありて刀杖を捨て、殺すことなく、殺さしむることなき人、我はこれを婆羅門と呼ぶ。*
+> *痴鈍愚昧の輩は放逸に耽り、賢慮ある者は不放逸を護ること、最上の宝を〔護る〕が如し。*
 
-<p align="right"><b>— Pham Ba La Mon, Ke 405</b></p>
+<p align="right"><b>— Pham Khong Phong Dat, Ke 26</b></p>
 
 </td></tr>
 </table>
