@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年10月10日**
+### **2026年10月11日**
 
 <div align="center">
 <table>
@@ -37,23 +37,25 @@
 
 **🌸 名言 (Meigen)**
 
-> 運の悪い人は安心するがよい。なぜなら、なおいっそうの悪運におちいる心配はないから。
+> 死と太陽は直視することは不可能である。
 
-<p align="right"><b>— オーヴィット</b></p>
+<p align="right"><b>— ラ・ロシュフーコー</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> Chúng ngu si, thiếu trí,
-Chuyên sống đời phóng dật.
-Người trí, không phóng dật,
-Như giữ tài sản quý.
+> “Do ái sinh sầu ưu,
+Do ái sinh sợ hãi,
+Ai thoát khỏi tham ái,
+Không sầu, đâu sợ hãi?”
 >
-> *痴鈍愚昧の輩は放逸に耽り、賢慮ある者は不放逸を護ること、最上の宝を〔護る〕が如し。*
+> *愛好より憂患生じ、愛好より畏怖生ず。
+愛好を離脱せる人には憂患なし。
+何処にか畏怖あらん。*
 
-<p align="right"><b>— Pham Khong Phong Dat, Ke 26</b></p>
+<p align="right"><b>— Pham Hy Ai, Ke 212</b></p>
 
 </td></tr>
 </table>
