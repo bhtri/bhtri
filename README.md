@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年10月11日**
+### **2026年10月12日**
 
 <div align="center">
 <table>
@@ -37,25 +37,25 @@
 
 **🌸 名言 (Meigen)**
 
-> 死と太陽は直視することは不可能である。
+> 年齢というものには元来意味はない。若い生活をしている者は若いし、老いた生活をしているものは老いている。
 
-<p align="right"><b>— ラ・ロシュフーコー</b></p>
+<p align="right"><b>— 井上靖</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Do ái sinh sầu ưu,
-Do ái sinh sợ hãi,
-Ai thoát khỏi tham ái,
-Không sầu, đâu sợ hãi?”
+> “Ðối với Bà-la-môn,
+Ðây (3) không lợi ích nhỏ.
+Khi ý không ái luyến,
+Tâm hại được chận đứng,
+Chỉ khi ấy khổ diệt,”
 >
-> *愛好より憂患生じ、愛好より畏怖生ず。
-愛好を離脱せる人には憂患なし。
-何処にか畏怖あらん。*
+> *婆羅門もし愛好するものより心を抑制せば、彼に少なからざる利益あり。
+害心の消滅するに随い、苦悩もこれに随いて静止す。*
 
-<p align="right"><b>— Pham Hy Ai, Ke 212</b></p>
+<p align="right"><b>— Pham Ba La Mon, Ke 390</b></p>
 
 </td></tr>
 </table>
