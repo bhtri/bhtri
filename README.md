@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年10月12日**
+### **2026年10月13日**
 
 <div align="center">
 <table>
@@ -37,25 +37,25 @@
 
 **🌸 名言 (Meigen)**
 
-> 年齢というものには元来意味はない。若い生活をしている者は若いし、老いた生活をしているものは老いている。
+> 幸せとは「瞬間」的なものだ。ほとんど毎日、幸せな瞬間なら、少なくとも一度はある。
 
-<p align="right"><b>— 井上靖</b></p>
+<p align="right"><b>— メイ・サートン</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Ðối với Bà-la-môn,
-Ðây (3) không lợi ích nhỏ.
-Khi ý không ái luyến,
-Tâm hại được chận đứng,
-Chỉ khi ấy khổ diệt,”
+> Tâm hoảng hốt giao động,
+Khó hộ trì, khó nhiếp,
+Người trí làm tâm thẳng,
+Như thợ tên, làm tên.
 >
-> *婆羅門もし愛好するものより心を抑制せば、彼に少なからざる利益あり。
-害心の消滅するに随い、苦悩もこれに随いて静止す。*
+> *賢慮ある者は、戦慄し動揺し護り難く制し難き心を直くすること、あたかも箭匠の
+箭
+に於けるが如し。*
 
-<p align="right"><b>— Pham Ba La Mon, Ke 390</b></p>
+<p align="right"><b>— Pham Tam, Ke 33</b></p>
 
 </td></tr>
 </table>
