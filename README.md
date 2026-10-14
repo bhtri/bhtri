@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年10月13日**
+### **2026年10月14日**
 
 <div align="center">
 <table>
@@ -37,25 +37,28 @@
 
 **🌸 名言 (Meigen)**
 
-> 幸せとは「瞬間」的なものだ。ほとんど毎日、幸せな瞬間なら、少なくとも一度はある。
+> 金持ちは世界の隅々にまで従兄弟やおばさんをもっている。貧乏人が持っている親戚は不幸だけだ。
 
-<p align="right"><b>— メイ・サートン</b></p>
+<p align="right"><b>— コッツェブー</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> Tâm hoảng hốt giao động,
-Khó hộ trì, khó nhiếp,
-Người trí làm tâm thẳng,
-Như thợ tên, làm tên.
+> “Ta hàng phục tất cả,
+Ta rõ biết tất cả,
+Không bị nhiễm pháp nào.
+Ta từ bỏ tất cả
+Ái diệt, tự giải thoát.
+Ðã tự mình thắng trí,
+Ta gọi ai thầy ta?”
 >
-> *賢慮ある者は、戦慄し動揺し護り難く制し難き心を直くすること、あたかも箭匠の
-箭
-に於けるが如し。*
+> *我は一切を征服し、一切を知悉し、一切の法に於て汚さるることなし。
+一切を捨て愛欲を滅して解脱せり。
+自ら悟りて誰をか〔師と〕いわん。*
 
-<p align="right"><b>— Pham Tam, Ke 33</b></p>
+<p align="right"><b>— Pham Tham Ai, Ke 353</b></p>
 
 </td></tr>
 </table>
