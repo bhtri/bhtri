@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年10月14日**
+### **2026年10月15日**
 
 <div align="center">
 <table>
@@ -37,28 +37,25 @@
 
 **🌸 名言 (Meigen)**
 
-> 金持ちは世界の隅々にまで従兄弟やおばさんをもっている。貧乏人が持っている親戚は不幸だけだ。
+> 蜜蜂が他の動物より尊敬されるのは、勤勉であるからではない。他の者のために働くからである。
 
-<p align="right"><b>— コッツェブー</b></p>
+<p align="right"><b>— クリソストムス</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Ta hàng phục tất cả,
-Ta rõ biết tất cả,
-Không bị nhiễm pháp nào.
-Ta từ bỏ tất cả
-Ái diệt, tự giải thoát.
-Ðã tự mình thắng trí,
-Ta gọi ai thầy ta?”
+> “Ai tự trên đời này,
+Giác khổ, diệt trừ khổ,
+Bỏ gánh nặng, giải thoát,
+Ta gọi Bà-la-môn.”
 >
-> *我は一切を征服し、一切を知悉し、一切の法に於て汚さるることなし。
-一切を捨て愛欲を滅して解脱せり。
-自ら悟りて誰をか〔師と〕いわん。*
+> *既にこの世に於て、自己の苦の滅尽を悟り、重担を下ろし、
+繋縛
+を離れたる人、我はこれを婆羅門と呼ぶ。*
 
-<p align="right"><b>— Pham Tham Ai, Ke 353</b></p>
+<p align="right"><b>— Pham Ba La Mon, Ke 402</b></p>
 
 </td></tr>
 </table>
