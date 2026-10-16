@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年10月15日**
+### **2026年10月16日**
 
 <div align="center">
 <table>
@@ -37,25 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 蜜蜂が他の動物より尊敬されるのは、勤勉であるからではない。他の者のために働くからである。
+> 文学の目的は、人生の目的と同じく不変である。
 
-<p align="right"><b>— クリソストムス</b></p>
+<p align="right"><b>— ヴァレリー</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Ai tự trên đời này,
-Giác khổ, diệt trừ khổ,
-Bỏ gánh nặng, giải thoát,
-Ta gọi Bà-la-môn.”
+> “Hoặc khổ thọ khốc liệt,
+Thân thể bị thương vong,
+Hoặc thọ bệnh kịch liệt,
+Hay loạn ý tán tâm.”
 >
-> *既にこの世に於て、自己の苦の滅尽を悟り、重担を下ろし、
-繋縛
-を離れたる人、我はこれを婆羅門と呼ぶ。*
+> *激しき苦痛、老衰、身体の毀損、或いは重き病苦、もしくは心の錯乱に遇うべし。*
 
-<p align="right"><b>— Pham Ba La Mon, Ke 402</b></p>
+<p align="right"><b>— Pham Hinh Phat, Ke 138</b></p>
 
 </td></tr>
 </table>
