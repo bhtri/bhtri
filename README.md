@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年10月16日**
+### **2026年10月17日**
 
 <div align="center">
 <table>
@@ -37,23 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 文学の目的は、人生の目的と同じく不変である。
+> 国を鉄床にたとえよう。ハンマーは支配者、打ち曲げられる鉄板は民衆。勝手気ままなめくら打ちに、いつまでたっても金ができあがらねば、鉄板こそ迷惑である。
 
-<p align="right"><b>— ヴァレリー</b></p>
+<p align="right"><b>— ゲーテ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Hoặc khổ thọ khốc liệt,
-Thân thể bị thương vong,
-Hoặc thọ bệnh kịch liệt,
-Hay loạn ý tán tâm.”
+> “Ai chặn được phẫn nộ,
+Như dừng xe đang lăn,
+Ta gọi người đánh xe,
+Kẻ khác, cầm cương hờ.”
 >
-> *激しき苦痛、老衰、身体の毀損、或いは重き病苦、もしくは心の錯乱に遇うべし。*
+> *勃発したる忿怒を、動揺する馬車の如くに抑止する人、我はこれを〔真の〕御者と呼ぶ。
+他はただ手綱を執れるのみ。*
 
-<p align="right"><b>— Pham Hinh Phat, Ke 138</b></p>
+<p align="right"><b>— Pham Phan No, Ke 222</b></p>
 
 </td></tr>
 </table>
