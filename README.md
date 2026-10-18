@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年10月17日**
+### **2026年10月18日**
 
 <div align="center">
 <table>
@@ -37,24 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 国を鉄床にたとえよう。ハンマーは支配者、打ち曲げられる鉄板は民衆。勝手気ままなめくら打ちに、いつまでたっても金ができあがらねば、鉄板こそ迷惑である。
+> 趣味に没頭してその嫌なことを一切意識しない一定時間をつくるというのは、「怒りを消す」ための対策として、けっこう有効だと思うのですよ。
 
-<p align="right"><b>— ゲーテ</b></p>
+<p align="right"><b>— 西村博之（ひろゆき）</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Ai chặn được phẫn nộ,
-Như dừng xe đang lăn,
-Ta gọi người đánh xe,
-Kẻ khác, cầm cương hờ.”
+> “Chẳng phải chỉ giới cấm
+Cũng không phải học nhiều,
+Chẳng phải chứng thiền định,
+Sống thanh vắng một mình.”
 >
-> *勃発したる忿怒を、動揺する馬車の如くに抑止する人、我はこれを〔真の〕御者と呼ぶ。
-他はただ手綱を執れるのみ。*
+> *戒律・戒行のみによりても、或いはまた多聞によりても、或いは禅定の達成によりても、或いは独臥によりても、*
 
-<p align="right"><b>— Pham Phan No, Ke 222</b></p>
+<p align="right"><b>— Pham Phap Tru, Ke 271</b></p>
 
 </td></tr>
 </table>
