@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年10月18日**
+### **2026年10月19日**
 
 <div align="center">
 <table>
@@ -37,23 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 趣味に没頭してその嫌なことを一切意識しない一定時間をつくるというのは、「怒りを消す」ための対策として、けっこう有効だと思うのですよ。
+> 女と猫は呼ばないときにやってくる。
 
-<p align="right"><b>— 西村博之（ひろゆき）</b></p>
+<p align="right"><b>— ボードレール</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Chẳng phải chỉ giới cấm
-Cũng không phải học nhiều,
-Chẳng phải chứng thiền định,
-Sống thanh vắng một mình.”
+> “Tài sản hại người ngu.
+Không người tìm bờ kia
+Kẻ ngu vì tham giàu,
+Hại mình và hại người.”
 >
-> *戒律・戒行のみによりても、或いはまた多聞によりても、或いは禅定の達成によりても、或いは独臥によりても、*
+> *財は愚者を滅ぼし、決して彼岸を求むる者を〔滅ぼさ〕ず。
+愚者は財欲によりて自己を滅ぼすこと、他人を〔滅ぼすが〕如し。*
 
-<p align="right"><b>— Pham Phap Tru, Ke 271</b></p>
+<p align="right"><b>— Pham Tham Ai, Ke 355</b></p>
 
 </td></tr>
 </table>
