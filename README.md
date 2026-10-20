@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年10月19日**
+### **2026年10月20日**
 
 <div align="center">
 <table>
@@ -37,24 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 女と猫は呼ばないときにやってくる。
+> 幸福を外に求めるのは、知恵を他の人の頭に求めるよりも、もっと無駄だ。本当の幸福は、自分の心にあるのだ。日が昇っても、目を閉じれば暗夜と同じ、空は晴れても濡れた着物を身につけていれば、雨天よりも気持ち悪い。
 
-<p align="right"><b>— ボードレール</b></p>
+<p align="right"><b>— メーテルリンク</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Tài sản hại người ngu.
-Không người tìm bờ kia
-Kẻ ngu vì tham giàu,
-Hại mình và hại người.”
+> Ai rời bỏ uế trược,
+giới luật khéo nghiêm trì,
+tự chế, sống chơn thực,
+thật xứng áo cà sa.
 >
-> *財は愚者を滅ぼし、決して彼岸を求むる者を〔滅ぼさ〕ず。
-愚者は財欲によりて自己を滅ぼすこと、他人を〔滅ぼすが〕如し。*
+> *汚濁を捨棄し、よく戒行に住し、節度を守り真実あれば、彼は実に袈裟に相応す。*
 
-<p align="right"><b>— Pham Tham Ai, Ke 355</b></p>
+<p align="right"><b>— Pham Song Yeu, Ke 10</b></p>
 
 </td></tr>
 </table>
