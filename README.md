@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年10月20日**
+### **2026年10月21日**
 
 <div align="center">
 <table>
@@ -37,23 +37,26 @@
 
 **🌸 名言 (Meigen)**
 
-> 幸福を外に求めるのは、知恵を他の人の頭に求めるよりも、もっと無駄だ。本当の幸福は、自分の心にあるのだ。日が昇っても、目を閉じれば暗夜と同じ、空は晴れても濡れた着物を身につけていれば、雨天よりも気持ち悪い。
+> 間違ったことをして、それに苦しむことができない人間くらい、たびたび間違ったことをする人間はいない。
 
-<p align="right"><b>— メーテルリンク</b></p>
+<p align="right"><b>— ラ・ロシュフコー</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> Ai rời bỏ uế trược,
-giới luật khéo nghiêm trì,
-tự chế, sống chơn thực,
-thật xứng áo cà sa.
+> “Hãy xem bong bóng đẹp,
+Chỗ chất chứa vết thương,
+Bệnh hoạn nhiều suy tư,
+Thật không gì trường cửu.”
 >
-> *汚濁を捨棄し、よく戒行に住し、節度を守り真実あれば、彼は実に袈裟に相応す。*
+> *見よ粉飾せる形骸を。
+〔そは〕傷痍の
+積集
+にして病患絶えず、多欲にして、堅固・常住ならず。*
 
-<p align="right"><b>— Pham Song Yeu, Ke 10</b></p>
+<p align="right"><b>— Pham Gia, Ke 147</b></p>
 
 </td></tr>
 </table>
