@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年10月21日**
+### **2026年10月22日**
 
 <div align="center">
 <table>
@@ -37,26 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 間違ったことをして、それに苦しむことができない人間くらい、たびたび間違ったことをする人間はいない。
+> 死者も我々がまったく忘れてしまうまで、本当に死んだのではない。
 
-<p align="right"><b>— ラ・ロシュフコー</b></p>
+<p align="right"><b>— ジョージ・エリオット</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Hãy xem bong bóng đẹp,
-Chỗ chất chứa vết thương,
-Bệnh hoạn nhiều suy tư,
-Thật không gì trường cửu.”
+> “Khách lâu ngày ly hương,
+An toàn từ xa về,
+Bà con cùng thân hữu,
+Hân hoan đón chào mừng.”
 >
-> *見よ粉飾せる形骸を。
-〔そは〕傷痍の
-積集
-にして病患絶えず、多欲にして、堅固・常住ならず。*
+> *久しく異郷にあり、遠隔の地より無事に戻れる帰来者を、親族・朋友・知己は歓び迎う。*
 
-<p align="right"><b>— Pham Gia, Ke 147</b></p>
+<p align="right"><b>— Pham Hy Ai, Ke 219</b></p>
 
 </td></tr>
 </table>
