@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年10月22日**
+### **2026年10月23日**
 
 <div align="center">
 <table>
@@ -37,23 +37,25 @@
 
 **🌸 名言 (Meigen)**
 
-> 死者も我々がまったく忘れてしまうまで、本当に死んだのではない。
+> 人々はお金で貴いものは買えないという。そういう決り文句こそ、貧乏を経験したことのない何よりの証拠だ。
 
-<p align="right"><b>— ジョージ・エリオット</b></p>
+<p align="right"><b>— ギッシング</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Khách lâu ngày ly hương,
-An toàn từ xa về,
-Bà con cùng thân hữu,
-Hân hoan đón chào mừng.”
+> “Dầu trải một trăm năm,
+Thờ lửa tại rừng sâu,
+Chẳng bằng trong giây lát,
+Cúng dường bậc tự tu.
+Cúng dường vậy tốt hơn,
+Hơn trăm năm tế tự.”
 >
-> *久しく異郷にあり、遠隔の地より無事に戻れる帰来者を、親族・朋友・知己は歓び迎う。*
+> *林中に於て祭火に奉仕すること百年、しかも一人のよく修養せる人に供養すること瞬時なれば、この供養はかの百年の祭祀に勝る。*
 
-<p align="right"><b>— Pham Hy Ai, Ke 219</b></p>
+<p align="right"><b>— Pham Ngan, Ke 107</b></p>
 
 </td></tr>
 </table>
