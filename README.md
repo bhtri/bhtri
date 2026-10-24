@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年10月23日**
+### **2026年10月24日**
 
 <div align="center">
 <table>
@@ -37,25 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 人々はお金で貴いものは買えないという。そういう決り文句こそ、貧乏を経験したことのない何よりの証拠だ。
+> 遊びを仕事にして、仕事を遊び倒す人生。僕の人生を簡潔に表すとこうなる。
 
-<p align="right"><b>— ギッシング</b></p>
+<p align="right"><b>— 堀江貴文</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Dầu trải một trăm năm,
-Thờ lửa tại rừng sâu,
-Chẳng bằng trong giây lát,
-Cúng dường bậc tự tu.
-Cúng dường vậy tốt hơn,
-Hơn trăm năm tế tự.”
+> “Ở đời, vật dài, ngắn,
+Nhỏ, lớn, đẹp hay xấu
+Phàm không cho không lấy,
+Ta gọi Bà-la-môn.”
 >
-> *林中に於て祭火に奉仕すること百年、しかも一人のよく修養せる人に供養すること瞬時なれば、この供養はかの百年の祭祀に勝る。*
+> *この世に於て、長きも短きも、小なるも大なるも、浄きも浄からざるも、与えられざるものを取らざる人、我はこれを婆羅門と呼ぶ。*
 
-<p align="right"><b>— Pham Ngan, Ke 107</b></p>
+<p align="right"><b>— Pham Ba La Mon, Ke 409</b></p>
 
 </td></tr>
 </table>
