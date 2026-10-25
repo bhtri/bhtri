@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年10月24日**
+### **2026年10月25日**
 
 <div align="center">
 <table>
@@ -37,23 +37,25 @@
 
 **🌸 名言 (Meigen)**
 
-> 遊びを仕事にして、仕事を遊び倒す人生。僕の人生を簡潔に表すとこうなる。
+> 犬が人を噛んでもニュースにならないが、人が犬を噛むとニュースになる。
 
-<p align="right"><b>— 堀江貴文</b></p>
+<p align="right"><b>— ボガート</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Ở đời, vật dài, ngắn,
-Nhỏ, lớn, đẹp hay xấu
-Phàm không cho không lấy,
-Ta gọi Bà-la-môn.”
+> Ai sống quán bất tịnh,
+Khéo hộ trì các căn,
+ăn uống có tiết độ,
+Có lòng tin, tinh cần,
+Ma không uy hiếp được,
+Như núi đá, trước gió.
 >
-> *この世に於て、長きも短きも、小なるも大なるも、浄きも浄からざるも、与えられざるものを取らざる人、我はこれを婆羅門と呼ぶ。*
+> *享楽を事とせずして住し、よく諸根を摂し、飲食度あり、信念ありて精勤するもの、実に魔王がかかる人を克服し得ざること、風の岩山に於けるが如し。*
 
-<p align="right"><b>— Pham Ba La Mon, Ke 409</b></p>
+<p align="right"><b>— Pham Song Yeu, Ke 8</b></p>
 
 </td></tr>
 </table>
