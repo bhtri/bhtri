@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年10月25日**
+### **2026年10月26日**
 
 <div align="center">
 <table>
@@ -37,25 +37,27 @@
 
 **🌸 名言 (Meigen)**
 
-> 犬が人を噛んでもニュースにならないが、人が犬を噛むとニュースになる。
+> 人生はB級映画に似ている。途中でやめようとは思わないが、二度と見ようと思わない
 
-<p align="right"><b>— ボガート</b></p>
+<p align="right"><b>— テッド・ターナー(CNN設立者)</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> Ai sống quán bất tịnh,
-Khéo hộ trì các căn,
-ăn uống có tiết độ,
-Có lòng tin, tinh cần,
-Ma không uy hiếp được,
-Như núi đá, trước gió.
+> Người hằng tu thiền định,
+Thường kiên trì tinh tấn.
+Bậc trí hưởng Niết Bàn,
+Ðạt an tịnh vô thượng.
 >
-> *享楽を事とせずして住し、よく諸根を摂し、飲食度あり、信念ありて精勤するもの、実に魔王がかかる人を克服し得ざること、風の岩山に於けるが如し。*
+> *これらの賢者は
+禅定
+に住し、堅忍に満ち、常に勇猛にして、無上安穏の
+涅槃
+を獲得す。*
 
-<p align="right"><b>— Pham Song Yeu, Ke 8</b></p>
+<p align="right"><b>— Pham Khong Phong Dat, Ke 23</b></p>
 
 </td></tr>
 </table>
