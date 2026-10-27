@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年10月26日**
+### **2026年10月27日**
 
 <div align="center">
 <table>
@@ -37,27 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 人生はB級映画に似ている。途中でやめようとは思わないが、二度と見ようと思わない
+> 恋の味を痛烈に味わいたいならば、それは片思いか失恋する以外にないだろう。
 
-<p align="right"><b>— テッド・ターナー(CNN設立者)</b></p>
+<p align="right"><b>— 亀井勝一郎</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> Người hằng tu thiền định,
-Thường kiên trì tinh tấn.
-Bậc trí hưởng Niết Bàn,
-Ðạt an tịnh vô thượng.
+> “Người tâm ý an tịnh,
+Lời an, nghiệp cũng an,
+Chánh trí, chơn giải thoát,
+Tịnh lạc là vị ấy.”
 >
-> *これらの賢者は
-禅定
-に住し、堅忍に満ち、常に勇猛にして、無上安穏の
-涅槃
-を獲得す。*
+> *正智によりて解脱し、安穏を得たる聖者の意は寂静なり。
+語もまた業も寂静なり。*
 
-<p align="right"><b>— Pham Khong Phong Dat, Ke 23</b></p>
+<p align="right"><b>— Pham A-La-Han, Ke 96</b></p>
 
 </td></tr>
 </table>
