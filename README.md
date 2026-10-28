@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年10月27日**
+### **2026年10月28日**
 
 <div align="center">
 <table>
@@ -37,24 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 恋の味を痛烈に味わいたいならば、それは片思いか失恋する以外にないだろう。
+> いま努力がつらくても、焦らなくて大丈夫。「努力」が楽しくなるのは、少し自分が得意になってからだ。
 
-<p align="right"><b>— 亀井勝一郎</b></p>
+<p align="right"><b>— 堀江貴文</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Người tâm ý an tịnh,
-Lời an, nghiệp cũng an,
-Chánh trí, chơn giải thoát,
-Tịnh lạc là vị ấy.”
+> “Không đáng hổ, lại hổ.
+Việc đáng hổ, lại không.
+Do chấp nhận tà kiến,
+Chúng sanh đi ác thú.”
 >
-> *正智によりて解脱し、安穏を得たる聖者の意は寂静なり。
-語もまた業も寂静なり。*
+> *恥ずべからざるを恥じ、恥ずべきを恥じず、邪見を抱ける衆生は悪趣に至る。*
 
-<p align="right"><b>— Pham A-La-Han, Ke 96</b></p>
+<p align="right"><b>— Pham Dia Nguc, Ke 316</b></p>
 
 </td></tr>
 </table>
