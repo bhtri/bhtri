@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年10月28日**
+### **2026年10月29日**
 
 <div align="center">
 <table>
@@ -37,23 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> いま努力がつらくても、焦らなくて大丈夫。「努力」が楽しくなるのは、少し自分が得意になってからだ。
+> 誰しも生まれながらに心に鬼がいる。ある人は鬼と戦い、他の人は鬼に愛を感じる。
 
-<p align="right"><b>— 堀江貴文</b></p>
+<p align="right"><b>— L.ブロワ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Không đáng hổ, lại hổ.
-Việc đáng hổ, lại không.
-Do chấp nhận tà kiến,
-Chúng sanh đi ác thú.”
+> “Lang thang bao kiếp sống
+Ta tìm nhưng chẳng gặp,
+Người xây dựng nhà này,
+Khổ thay, phải tái sanh.”
 >
-> *恥ずべからざるを恥じ、恥ずべきを恥じず、邪見を抱ける衆生は悪趣に至る。*
+> *われ屋舎を作るもの（輪廻の原因）を求めて〔これを〕見出さず、多生の流転を経たり。
+生を受くること数次〔みな〕苦なり。*
 
-<p align="right"><b>— Pham Dia Nguc, Ke 316</b></p>
+<p align="right"><b>— Pham Gia, Ke 153</b></p>
 
 </td></tr>
 </table>
