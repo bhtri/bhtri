@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年10月29日**
+### **2026年10月30日**
 
 <div align="center">
 <table>
@@ -37,24 +37,27 @@
 
 **🌸 名言 (Meigen)**
 
-> 誰しも生まれながらに心に鬼がいる。ある人は鬼と戦い、他の人は鬼に愛を感じる。
+> 子供は父母の行為を映す鏡である。
 
-<p align="right"><b>— L.ブロワ</b></p>
+<p align="right"><b>— スペンサー</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Lang thang bao kiếp sống
-Ta tìm nhưng chẳng gặp,
-Người xây dựng nhà này,
-Khổ thay, phải tái sanh.”
+> “Không phải sống lõa thể
+Bện tóc, tro trét mình,
+Tuyệt thực, lăn trên đất,
+Sống nhớp, siêng ngồi xổm,
+Làm con người được sạch,
+Nếu không trừ nghi hoặc.”
 >
-> *われ屋舎を作るもの（輪廻の原因）を求めて〔これを〕見出さず、多生の流転を経たり。
-生を受くること数次〔みな〕苦なり。*
+> *裸行も、
+螺髻
+も、汚泥も、断食も、或いは地上の横臥も、塵垢身も、蹲踞も、疑惑を断ぜざる人を浄むることなし。*
 
-<p align="right"><b>— Pham Gia, Ke 153</b></p>
+<p align="right"><b>— Pham Hinh Phat, Ke 141</b></p>
 
 </td></tr>
 </table>
