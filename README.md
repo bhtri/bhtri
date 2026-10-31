@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年10月30日**
+### **2026年10月31日**
 
 <div align="center">
 <table>
@@ -37,27 +37,25 @@
 
 **🌸 名言 (Meigen)**
 
-> 子供は父母の行為を映す鏡である。
+> 知識を得たいならば、現実を変革する実践に参加しなければならない。梨のうまい味を知りたいなら、自分でそれを食べて、梨を変革しなければならない。
 
-<p align="right"><b>— スペンサー</b></p>
+<p align="right"><b>— 毛沢東</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Không phải sống lõa thể
-Bện tóc, tro trét mình,
-Tuyệt thực, lăn trên đất,
-Sống nhớp, siêng ngồi xổm,
-Làm con người được sạch,
-Nếu không trừ nghi hoặc.”
+> “Ai sống một trăm năm,
+Lười nhác không tinh tấn,
+Tốt hơn sống một ngày
+Tinh tấn tận sức mình.”
 >
-> *裸行も、
-螺髻
-も、汚泥も、断食も、或いは地上の横臥も、塵垢身も、蹲踞も、疑惑を断ぜざる人を浄むることなし。*
+> *百歳の寿を全うするも、怠惰にして
+精進
+せざれば、堅固なる精進を行ずる者の一日の生、これに勝る。*
 
-<p align="right"><b>— Pham Hinh Phat, Ke 141</b></p>
+<p align="right"><b>— Pham Ngan, Ke 112</b></p>
 
 </td></tr>
 </table>
