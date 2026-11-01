@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年10月31日**
+### **2026年11月01日**
 
 <div align="center">
 <table>
@@ -37,25 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 知識を得たいならば、現実を変革する実践に参加しなければならない。梨のうまい味を知りたいなら、自分でそれを食べて、梨を変革しなければならない。
+> 全ての人間が平等である一つの場所がある――死ぬときである。その場合、彼らはすべてゼロである。
 
-<p align="right"><b>— 毛沢東</b></p>
+<p align="right"><b>— ウィリアム・サムナー</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Ai sống một trăm năm,
-Lười nhác không tinh tấn,
-Tốt hơn sống một ngày
-Tinh tấn tận sức mình.”
+> “Người trí chuyên thiền định,
+Thích an tịnh viễn ly,
+Chư thiên đều ái kính,
+Bậc chánh giác, chánh niệm.”
 >
-> *百歳の寿を全うするも、怠惰にして
-精進
-せざれば、堅固なる精進を行ずる者の一日の生、これに勝る。*
+> *禅定に専念し、賢明にして出家の寂静を喜び、正覚を得て憶念に富む賢者は、諸天すらこれを羨む。*
 
-<p align="right"><b>— Pham Ngan, Ke 112</b></p>
+<p align="right"><b>— Pham Phat Da, Ke 181</b></p>
 
 </td></tr>
 </table>
