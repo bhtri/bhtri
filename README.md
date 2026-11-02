@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年11月01日**
+### **2026年11月02日**
 
 <div align="center">
 <table>
@@ -37,23 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 全ての人間が平等である一つの場所がある――死ぬときである。その場合、彼らはすべてゼロである。
+> 一緒に泣いた時に、はじめてお互いがどんなに愛し合っているのかが分かるものだ。
 
-<p align="right"><b>— ウィリアム・サムナー</b></p>
+<p align="right"><b>— エミール・デシャン</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Người trí chuyên thiền định,
-Thích an tịnh viễn ly,
-Chư thiên đều ái kính,
-Bậc chánh giác, chánh niệm.”
+> “Nói lên lời ôn hòa,
+Lợi ích và chân thật,
+Không mất lòng một ai,
+Ta gọi Bà-la-môn.”
 >
-> *禅定に専念し、賢明にして出家の寂静を喜び、正覚を得て憶念に富む賢者は、諸天すらこれを羨む。*
+> *粗暴ならず、教訓的なる真実の語を発し、これによりて何者をも怒らしめざる人、我はこれを婆羅門と呼ぶ。*
 
-<p align="right"><b>— Pham Phat Da, Ke 181</b></p>
+<p align="right"><b>— Pham Ba La Mon, Ke 408</b></p>
 
 </td></tr>
 </table>
