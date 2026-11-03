@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年11月02日**
+### **2026年11月03日**
 
 <div align="center">
 <table>
@@ -37,23 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 一緒に泣いた時に、はじめてお互いがどんなに愛し合っているのかが分かるものだ。
+> 保守主義者とは、何事も最初になされる時は初めてなのだという事実に、思い至らぬ人である
 
-<p align="right"><b>— エミール・デシャン</b></p>
+<p align="right"><b>— フランク・ヴァンダーリップ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Nói lên lời ôn hòa,
-Lợi ích và chân thật,
-Không mất lòng một ai,
-Ta gọi Bà-la-môn.”
+> “Người ngu làm điều ác,
+Không ý thức việc làm.
+Do tự nghiệp, người ngu
+Bị nung nấu, như lửa.”
 >
-> *粗暴ならず、教訓的なる真実の語を発し、これによりて何者をも怒らしめざる人、我はこれを婆羅門と呼ぶ。*
+> *愚者は悪業をなして悟らず、暗鈍にして自己の業により苦しむこと、あたかも火に焼かるるが如し。*
 
-<p align="right"><b>— Pham Ba La Mon, Ke 408</b></p>
+<p align="right"><b>— Pham Hinh Phat, Ke 136</b></p>
 
 </td></tr>
 </table>
