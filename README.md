@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年11月03日**
+### **2026年11月04日**
 
 <div align="center">
 <table>
@@ -37,23 +37,26 @@
 
 **🌸 名言 (Meigen)**
 
-> 保守主義者とは、何事も最初になされる時は初めてなのだという事実に、思い至らぬ人である
+> 金がないから何もできないという人間は、金があってもなにも出来ない人間である。
 
-<p align="right"><b>— フランク・ヴァンダーリップ</b></p>
+<p align="right"><b>— 小林一三</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Người ngu làm điều ác,
-Không ý thức việc làm.
-Do tự nghiệp, người ngu
-Bị nung nấu, như lửa.”
+> “Những ai với chánh tâm,
+Khéo tu tập giác chi,
+Từ bỏ mọi ái nhiễm,
+Hoan hỷ không chấp thủ.
+Không lậu hoặc, sáng chói,
+Sống tịch tịnh ở đời.”
 >
-> *愚者は悪業をなして悟らず、暗鈍にして自己の業により苦しむこと、あたかも火に焼かるるが如し。*
+> *菩提
+の支分（七菩提分）に於て心を正しく修養し、執着なく、貪着を捨つるを喜び、煩悩を滅尽して輝く人は、現世に於て涅槃に入れるなり。*
 
-<p align="right"><b>— Pham Hinh Phat, Ke 136</b></p>
+<p align="right"><b>— Pham Hien Tri, Ke 89</b></p>
 
 </td></tr>
 </table>
