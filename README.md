@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年11月04日**
+### **2026年11月05日**
 
 <div align="center">
 <table>
@@ -37,26 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 金がないから何もできないという人間は、金があってもなにも出来ない人間である。
+> 公にされることを望む慈善はもう慈善ではない。
 
-<p align="right"><b>— 小林一三</b></p>
+<p align="right"><b>— ハットン</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Những ai với chánh tâm,
-Khéo tu tập giác chi,
-Từ bỏ mọi ái nhiễm,
-Hoan hỷ không chấp thủ.
-Không lậu hoặc, sáng chói,
-Sống tịch tịnh ở đời.”
+> ” Còn sát hại sinh linh,
+Ðâu được gọi Hiền thánh.
+Không hại mọi hữu tình,
+Mới được gọi Hiền Thánh.”
 >
-> *菩提
-の支分（七菩提分）に於て心を正しく修養し、執着なく、貪着を捨つるを喜び、煩悩を滅尽して輝く人は、現世に於て涅槃に入れるなり。*
+> *生類を害するの故を以て、聖者たるにあらず。
+一切の生類を害せざるの故を以て、聖者と称せらる。*
 
-<p align="right"><b>— Pham Hien Tri, Ke 89</b></p>
+<p align="right"><b>— Pham Phap Tru, Ke 270</b></p>
 
 </td></tr>
 </table>
