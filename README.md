@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年11月05日**
+### **2026年11月06日**
 
 <div align="center">
 <table>
@@ -37,24 +37,25 @@
 
 **🌸 名言 (Meigen)**
 
-> 公にされることを望む慈善はもう慈善ではない。
+> 何も香水をつけていない女性が一番いい匂いがする。
 
-<p align="right"><b>— ハットン</b></p>
+<p align="right"><b>— プラウトウス</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> ” Còn sát hại sinh linh,
-Ðâu được gọi Hiền thánh.
-Không hại mọi hữu tình,
-Mới được gọi Hiền Thánh.”
+> “Vượt đường nguy hiểm này,
+Nhiếp phục luân hồi, si,
+Ðến bờ kia thiền định
+Không dục ái, không nghi,
+Không chấp trước, tịch tịnh,
+Ta gọi Bà-la-môn.”
 >
-> *生類を害するの故を以て、聖者たるにあらず。
-一切の生類を害せざるの故を以て、聖者と称せらる。*
+> *この泥濘（貪欲等）と越え難き輪廻と愚痴とを越え、渡りて彼岸に達し、禅定に住し、無欲にして疑惑なく、執着を捨てて寂静なる人、我はこれを婆羅門と呼ぶ。*
 
-<p align="right"><b>— Pham Phap Tru, Ke 270</b></p>
+<p align="right"><b>— Pham Ba La Mon, Ke 414</b></p>
 
 </td></tr>
 </table>
