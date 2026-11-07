@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年11月06日**
+### **2026年11月07日**
 
 <div align="center">
 <table>
@@ -37,25 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 何も香水をつけていない女性が一番いい匂いがする。
+> （夫に向かって）ねえ、あたしは死なないわよね？あたしたちは離されやしない、あんなに幸せだったんですもの。
 
-<p align="right"><b>— プラウトウス</b></p>
+<p align="right"><b>— シャーロット・ブロンテ（英・作家）（娘が「少しベッドの上でからだの位置を変えると、呼吸がもっと楽になりますよ」と言うと）</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Vượt đường nguy hiểm này,
-Nhiếp phục luân hồi, si,
-Ðến bờ kia thiền định
-Không dục ái, không nghi,
-Không chấp trước, tịch tịnh,
-Ta gọi Bà-la-môn.”
+> “Hoặc phòng ốc nhà cửa
+Bị hỏa tai thiêu đốt.
+Khi thân hoại mạng chung,
+Ác tuệ sanh địa ngục.”
 >
-> *この泥濘（貪欲等）と越え難き輪廻と愚痴とを越え、渡りて彼岸に達し、禅定に住し、無欲にして疑惑なく、執着を捨てて寂静なる人、我はこれを婆羅門と呼ぶ。*
+> *或いはまた浄火彼の家を焼く。
+愚痴なる者はその身滅びて後地獄に堕つ。*
 
-<p align="right"><b>— Pham Ba La Mon, Ke 414</b></p>
+<p align="right"><b>— Pham Hinh Phat, Ke 140</b></p>
 
 </td></tr>
 </table>
