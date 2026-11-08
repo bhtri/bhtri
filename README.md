@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年11月07日**
+### **2026年11月08日**
 
 <div align="center">
 <table>
@@ -37,24 +37,28 @@
 
 **🌸 名言 (Meigen)**
 
-> （夫に向かって）ねえ、あたしは死なないわよね？あたしたちは離されやしない、あんなに幸せだったんですもの。
+> 苦しみを恐れるものは、その恐怖だけで十分苦しんでいる。
 
-<p align="right"><b>— シャーロット・ブロンテ（英・作家）（娘が「少しベッドの上でからだの位置を変えると、呼吸がもっと楽になりますよ」と言うと）</b></p>
+<p align="right"><b>— モンテーニュ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Hoặc phòng ốc nhà cửa
-Bị hỏa tai thiêu đốt.
-Khi thân hoại mạng chung,
-Ác tuệ sanh địa ngục.”
+> “Mong cả hai tăng, tục,
+Nghĩ rằng (chính ta làm).
+Trong mọi việc lớn nhỏ,
+Phải theo mệnh lệnh ta ”
+Người ngu nghĩ như vậy
+Dục và mạn tăng trưởng.
 >
-> *或いはまた浄火彼の家を焼く。
-愚痴なる者はその身滅びて後地獄に堕つ。*
+> *「こは我により為されたりと、在家も
+出家
+も共に考うべし、彼らは為すべきこと、為すべからざること、何事に於てもわが意に従うべし」とは、愚者の思惟なり。
+〔この故に〕欲心と慢心とは増長す。*
 
-<p align="right"><b>— Pham Hinh Phat, Ke 140</b></p>
+<p align="right"><b>— Pham Ngu, Ke 74</b></p>
 
 </td></tr>
 </table>
