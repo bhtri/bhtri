@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年11月08日**
+### **2026年11月09日**
 
 <div align="center">
 <table>
@@ -37,28 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 苦しみを恐れるものは、その恐怖だけで十分苦しんでいる。
+> 宴会と同じように、人生からも飲みすぎもせず、喉が乾きもしないうちに立ち去ることが一番良い。
 
-<p align="right"><b>— モンテーニュ</b></p>
+<p align="right"><b>— アリストテレス</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Mong cả hai tăng, tục,
-Nghĩ rằng (chính ta làm).
-Trong mọi việc lớn nhỏ,
-Phải theo mệnh lệnh ta ”
-Người ngu nghĩ như vậy
-Dục và mạn tăng trưởng.
+> “Ai chinh phục đất này
+Dạ ma, Thiên giới này?
+Ai khéo giảng Pháp cú,
+Như người khéo hái hoa?”
 >
-> *「こは我により為されたりと、在家も
-出家
-も共に考うべし、彼らは為すべきこと、為すべからざること、何事に於てもわが意に従うべし」とは、愚者の思惟なり。
-〔この故に〕欲心と慢心とは増長す。*
+> *誰かこの地界と閻魔界と天界とを征服する。
+誰か妙説の法句を摘み集むること、熟練せる人の花を〔摘む〕如くする。*
 
-<p align="right"><b>— Pham Ngu, Ke 74</b></p>
+<p align="right"><b>— Pham Hoa, Ke 44</b></p>
 
 </td></tr>
 </table>
