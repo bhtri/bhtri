@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年11月09日**
+### **2026年11月10日**
 
 <div align="center">
 <table>
@@ -37,24 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 宴会と同じように、人生からも飲みすぎもせず、喉が乾きもしないうちに立ち去ることが一番良い。
+> 醜い女は我慢できるが、高慢な女は辛抱できない。
 
-<p align="right"><b>— アリストテレス</b></p>
+<p align="right"><b>— ナポレオン</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Ai chinh phục đất này
-Dạ ma, Thiên giới này?
-Ai khéo giảng Pháp cú,
-Như người khéo hái hoa?”
+> “Ðệ tử Gotama,
+Luôn luôn tự tỉnh giác
+Vô luận ngày hay đêm,
+Tưởng Phật Ðà thường niệm.”
 >
-> *誰かこの地界と閻魔界と天界とを征服する。
-誰か妙説の法句を摘み集むること、熟練せる人の花を〔摘む〕如くする。*
+> *瞿曇
+（釈尊）の弟子は常によく覚醒し、昼も夜も常に仏を念ず。*
 
-<p align="right"><b>— Pham Hoa, Ke 44</b></p>
+<p align="right"><b>— Pham Tap Luc, Ke 296</b></p>
 
 </td></tr>
 </table>
