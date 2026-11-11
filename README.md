@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年11月10日**
+### **2026年11月11日**
 
 <div align="center">
 <table>
@@ -37,24 +37,25 @@
 
 **🌸 名言 (Meigen)**
 
-> 醜い女は我慢できるが、高慢な女は辛抱できない。
+> 借金を返すということは収入の問題ではない。性質の問題だ。
 
-<p align="right"><b>— ナポレオン</b></p>
+<p align="right"><b>— ローガン・スミス</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Ðệ tử Gotama,
-Luôn luôn tự tỉnh giác
-Vô luận ngày hay đêm,
-Tưởng Phật Ðà thường niệm.”
+> ” Từ bỏ các ác pháp,
+Mới thật là ẩn sĩ.
+Ai thật hiểu hai đời
+Mới được gọi ẩn sĩ.”
 >
-> *瞿曇
-（釈尊）の弟子は常によく覚醒し、昼も夜も常に仏を念ず。*
+> *悪を退くれば、彼は牟尼なり。
+彼はこれによりて牟尼なり。
+この世に於て、〔善悪〕二つながら知る者は、これによりて牟尼と称せらる。*
 
-<p align="right"><b>— Pham Tap Luc, Ke 296</b></p>
+<p align="right"><b>— Pham Phap Tru, Ke 269</b></p>
 
 </td></tr>
 </table>
