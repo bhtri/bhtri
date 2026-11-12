@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年11月11日**
+### **2026年11月12日**
 
 <div align="center">
 <table>
@@ -37,25 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 借金を返すということは収入の問題ではない。性質の問題だ。
+> 恋愛においては疑うよりもだますほうが先に立つ。
 
-<p align="right"><b>— ローガン・スミス</b></p>
+<p align="right"><b>— ラ＝ロシュフーコー</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> ” Từ bỏ các ác pháp,
-Mới thật là ẩn sĩ.
-Ai thật hiểu hai đời
-Mới được gọi ẩn sĩ.”
+> “Không đáng sợ, lại sợ,
+Ðáng sợ, lại thấy không,
+Do chấp nhận tà kiến.
+Chúng sanh đi ác thú.”
 >
-> *悪を退くれば、彼は牟尼なり。
-彼はこれによりて牟尼なり。
-この世に於て、〔善悪〕二つながら知る者は、これによりて牟尼と称せらる。*
+> *怖るべからざることに恐怖を見、怖るべきことに恐怖を見ず、邪見を抱ける衆生は悪趣に至る。*
 
-<p align="right"><b>— Pham Phap Tru, Ke 269</b></p>
+<p align="right"><b>— Pham Dia Nguc, Ke 317</b></p>
 
 </td></tr>
 </table>
