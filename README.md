@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年11月12日**
+### **2026年11月13日**
 
 <div align="center">
 <table>
@@ -37,23 +37,25 @@
 
 **🌸 名言 (Meigen)**
 
-> 恋愛においては疑うよりもだますほうが先に立つ。
+> 幸福の便りというものは、待っている時には決して来ないものだ。
 
-<p align="right"><b>— ラ＝ロシュフーコー</b></p>
+<p align="right"><b>— 太宰治</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Không đáng sợ, lại sợ,
-Ðáng sợ, lại thấy không,
-Do chấp nhận tà kiến.
-Chúng sanh đi ác thú.”
+> “Không bờ này, bờ kia (2)
+Cả hai bờ không có,
+Lìa khổ, không trói buộc
+Ta gọi Bà-la-môn.”
 >
-> *怖るべからざることに恐怖を見、怖るべきことに恐怖を見ず、邪見を抱ける衆生は悪趣に至る。*
+> *彼岸（来世）も此岸（現世）もなく、彼此両岸もなく、畏怖を去り、
+繋縛
+を捨てたる人、我はこれを婆羅門と呼ぶ。*
 
-<p align="right"><b>— Pham Dia Nguc, Ke 317</b></p>
+<p align="right"><b>— Pham Ba La Mon, Ke 385</b></p>
 
 </td></tr>
 </table>
