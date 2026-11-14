@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年11月13日**
+### **2026年11月14日**
 
 <div align="center">
 <table>
@@ -37,25 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 幸福の便りというものは、待っている時には決して来ないものだ。
+> 人は労働なしに休息に達することなく、戦闘なしに勝利に達することもない。
 
-<p align="right"><b>— 太宰治</b></p>
+<p align="right"><b>— トーマス・ア・ケンピス</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Không bờ này, bờ kia (2)
-Cả hai bờ không có,
-Lìa khổ, không trói buộc
-Ta gọi Bà-la-môn.”
+> Tinh cần giữa phóng dật,
+Tỉnh thức giữa quần mê.
+Người trí như ngựa phi,
+Bỏ sau con ngựa hèn.
 >
-> *彼岸（来世）も此岸（現世）もなく、彼此両岸もなく、畏怖を去り、
-繋縛
-を捨てたる人、我はこれを婆羅門と呼ぶ。*
+> *放逸なる者の中に在りて不放逸に、睡眠者の中に在りてよく覚醒せる賢者は、駿馬の駑馬を後にして〔進む〕が如くに往く。*
 
-<p align="right"><b>— Pham Ba La Mon, Ke 385</b></p>
+<p align="right"><b>— Pham Khong Phong Dat, Ke 29</b></p>
 
 </td></tr>
 </table>
