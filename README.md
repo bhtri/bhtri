@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年11月14日**
+### **2026年11月15日**
 
 <div align="center">
 <table>
@@ -37,23 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 人は労働なしに休息に達することなく、戦闘なしに勝利に達することもない。
+> 楽しく生きていきたいなら、与えるための袋と、受け取るために袋を持って行け。
 
-<p align="right"><b>— トーマス・ア・ケンピス</b></p>
+<p align="right"><b>— ゲーテ「箴言と考察」</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> Tinh cần giữa phóng dật,
-Tỉnh thức giữa quần mê.
-Người trí như ngựa phi,
-Bỏ sau con ngựa hèn.
+> Khó nắm giữ, khinh động,
+Theo các dục quay cuồng.
+Lành thay, điều phục tâm;
+Tâm điều, an lạc đến.
 >
-> *放逸なる者の中に在りて不放逸に、睡眠者の中に在りてよく覚醒せる賢者は、駿馬の駑馬を後にして〔進む〕が如くに往く。*
+> *捉え難く軽躁にして欲に随いて赴く心を、制御するはまことに善し。
+制御せられたる心は安楽をもたらす。*
 
-<p align="right"><b>— Pham Khong Phong Dat, Ke 29</b></p>
+<p align="right"><b>— Pham Tam, Ke 35</b></p>
 
 </td></tr>
 </table>
