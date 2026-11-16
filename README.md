@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年11月15日**
+### **2026年11月16日**
 
 <div align="center">
 <table>
@@ -37,24 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 楽しく生きていきたいなら、与えるための袋と、受け取るために袋を持って行け。
+> 哲学はあらゆることについて、まことしやかな話をし、学の浅い人々の称賛を博する手段を与える。
 
-<p align="right"><b>— ゲーテ「箴言と考察」</b></p>
+<p align="right"><b>— デカルト「方法序説」</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> Khó nắm giữ, khinh động,
-Theo các dục quay cuồng.
-Lành thay, điều phục tâm;
-Tâm điều, an lạc đến.
+> “Tỷ kheo chế ngự miệng,
+Vừa lời, không cống cao,
+Khi trình bày pháp nghĩa,
+Lời lẽ dịu ngọt ngào.”
 >
-> *捉え難く軽躁にして欲に随いて赴く心を、制御するはまことに善し。
-制御せられたる心は安楽をもたらす。*
+> *口を慎み、語る所賢明に、寂静にして正理と正法とを明らかにする比丘は、その説く所甘美なり。*
 
-<p align="right"><b>— Pham Tam, Ke 35</b></p>
+<p align="right"><b>— Pham Ty Kheo, Ke 363</b></p>
 
 </td></tr>
 </table>
