@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年11月16日**
+### **2026年11月17日**
 
 <div align="center">
 <table>
@@ -37,23 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 哲学はあらゆることについて、まことしやかな話をし、学の浅い人々の称賛を博する手段を与える。
+> 少年は生活に直面することを恐れない。嫉妬、裁判、人生の悲しさ、これらがすべて苦にならない。
 
-<p align="right"><b>— デカルト「方法序説」</b></p>
+<p align="right"><b>— サン・テグジュぺリ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Tỷ kheo chế ngự miệng,
-Vừa lời, không cống cao,
-Khi trình bày pháp nghĩa,
-Lời lẽ dịu ngọt ngào.”
+> “Tự thắng, tốt đẹp hơn,
+Hơn chiến thắng người khác.
+Người khéo điều phục mình,
+Thường sống tự chế ngự.”
 >
-> *口を慎み、語る所賢明に、寂静にして正理と正法とを明らかにする比丘は、その説く所甘美なり。*
+> *克服せられたる自己は、実に他の衆人に勝る。
+自己を制御し、常に節制して行う人の〔勝利を〕、*
 
-<p align="right"><b>— Pham Ty Kheo, Ke 363</b></p>
+<p align="right"><b>— Pham Ngan, Ke 104</b></p>
 
 </td></tr>
 </table>
