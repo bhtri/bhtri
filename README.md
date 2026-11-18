@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年11月17日**
+### **2026年11月18日**
 
 <div align="center">
 <table>
@@ -37,24 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 少年は生活に直面することを恐れない。嫉妬、裁判、人生の悲しさ、これらがすべて苦にならない。
+> あなたは目的があってここにいます。この広い世界にあなたと同じ人間はいません。過去にもいなかったし、未来にもいないのです。あなたは何かの必要を満たすためにここに連れてこられたのです。このことについて、ゆっくりと考えてみて下さい。
 
-<p align="right"><b>— サン・テグジュぺリ</b></p>
+<p align="right"><b>— ルー・オースティン</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Tự thắng, tốt đẹp hơn,
-Hơn chiến thắng người khác.
-Người khéo điều phục mình,
-Thường sống tự chế ngự.”
+> “Những người thường giác tỉnh,
+Ngày đêm siêng tu học,
+Chuyên tâm hướng Niết Bàn,
+Mọi lậu hoặc được tiêu.”
 >
-> *克服せられたる自己は、実に他の衆人に勝る。
-自己を制御し、常に節制して行う人の〔勝利を〕、*
+> *常に覚醒し、昼夜に勉学し、涅槃に志す者の煩悩は終息す。*
 
-<p align="right"><b>— Pham Ngan, Ke 104</b></p>
+<p align="right"><b>— Pham Phan No, Ke 226</b></p>
 
 </td></tr>
 </table>
