@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年11月18日**
+### **2026年11月19日**
 
 <div align="center">
 <table>
@@ -37,23 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> あなたは目的があってここにいます。この広い世界にあなたと同じ人間はいません。過去にもいなかったし、未来にもいないのです。あなたは何かの必要を満たすためにここに連れてこられたのです。このことについて、ゆっくりと考えてみて下さい。
+> あなたの価値を最大化するのは、「どれだけ我慢したか」ではなく、「どれだけ自ら決断したか」なのである。
 
-<p align="right"><b>— ルー・オースティン</b></p>
+<p align="right"><b>— 堀江貴文</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Những người thường giác tỉnh,
-Ngày đêm siêng tu học,
-Chuyên tâm hướng Niết Bàn,
-Mọi lậu hoặc được tiêu.”
+> Vui thích không phóng dật,
+Tỷ kheo sợ phóng dật,
+Không thể bị thối đọa,
+Nhất định gần Niết Bàn.
 >
-> *常に覚醒し、昼夜に勉学し、涅槃に志す者の煩悩は終息す。*
+> *不放逸を楽しみ、また放逸に畏怖を感ずる比丘は、既に涅槃に近づき、決して退転することなし。*
 
-<p align="right"><b>— Pham Phan No, Ke 226</b></p>
+<p align="right"><b>— Pham Khong Phong Dat, Ke 32</b></p>
 
 </td></tr>
 </table>
