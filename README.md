@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年11月19日**
+### **2026年11月20日**
 
 <div align="center">
 <table>
@@ -37,23 +37,27 @@
 
 **🌸 名言 (Meigen)**
 
-> あなたの価値を最大化するのは、「どれだけ我慢したか」ではなく、「どれだけ自ら決断したか」なのである。
+> 歴史の任務は人間の冒険に意味を与えることです。神々がそうであったように。
 
-<p align="right"><b>— 堀江貴文</b></p>
+<p align="right"><b>— マルロー</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> Vui thích không phóng dật,
-Tỷ kheo sợ phóng dật,
-Không thể bị thối đọa,
-Nhất định gần Niết Bàn.
+> “Chớ chê khinh điều thiện
+Cho rằng “Chưa đến mình, ”
+Như nước nhỏ từng giọt,
+Rồi bình cũng đầy tràn.
+Người trí chứa đầy thiện,
+Do chất chứa dần dần.”
 >
-> *不放逸を楽しみ、また放逸に畏怖を感ずる比丘は、既に涅槃に近づき、決して退転することなし。*
+> *「そは我に報い来らざるべし」とて、善を軽視すべからず。
+点滴の落下によりて水瓶も満たさる。
+微々として積みつつも賢者は善に満たさる。*
 
-<p align="right"><b>— Pham Khong Phong Dat, Ke 32</b></p>
+<p align="right"><b>— Pham Ac, Ke 122</b></p>
 
 </td></tr>
 </table>
