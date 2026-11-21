@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年11月20日**
+### **2026年11月21日**
 
 <div align="center">
 <table>
@@ -37,27 +37,27 @@
 
 **🌸 名言 (Meigen)**
 
-> 歴史の任務は人間の冒険に意味を与えることです。神々がそうであったように。
+> 希望は人を成功に導く信仰である。希望がなければ、何事も成就するものではない。
 
-<p align="right"><b>— マルロー</b></p>
+<p align="right"><b>— ヘレン・ケラー</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Chớ chê khinh điều thiện
-Cho rằng “Chưa đến mình, ”
-Như nước nhỏ từng giọt,
-Rồi bình cũng đầy tràn.
-Người trí chứa đầy thiện,
-Do chất chứa dần dần.”
+> Người hằng tu thiền định,
+Thường kiên trì tinh tấn.
+Bậc trí hưởng Niết Bàn,
+Ðạt an tịnh vô thượng.
 >
-> *「そは我に報い来らざるべし」とて、善を軽視すべからず。
-点滴の落下によりて水瓶も満たさる。
-微々として積みつつも賢者は善に満たさる。*
+> *これらの賢者は
+禅定
+に住し、堅忍に満ち、常に勇猛にして、無上安穏の
+涅槃
+を獲得す。*
 
-<p align="right"><b>— Pham Ac, Ke 122</b></p>
+<p align="right"><b>— Pham Khong Phong Dat, Ke 23</b></p>
 
 </td></tr>
 </table>
