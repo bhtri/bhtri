@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年11月21日**
+### **2026年11月22日**
 
 <div align="center">
 <table>
@@ -37,27 +37,27 @@
 
 **🌸 名言 (Meigen)**
 
-> 希望は人を成功に導く信仰である。希望がなければ、何事も成就するものではない。
+> 全ての政党は、最後には自分自身のついた嘘を呑み下すために死んでしまう。
 
-<p align="right"><b>— ヘレン・ケラー</b></p>
+<p align="right"><b>— ジョン・アーバスネット</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> Người hằng tu thiền định,
-Thường kiên trì tinh tấn.
-Bậc trí hưởng Niết Bàn,
-Ðạt an tịnh vô thượng.
+> “Biết thân như bọt nước,
+Ngộ thân là như huyễn,
+Bẻ tên hoa của ma,
+Vượt tầm mắt thần chết.”
 >
-> *これらの賢者は
-禅定
-に住し、堅忍に満ち、常に勇猛にして、無上安穏の
-涅槃
-を獲得す。*
+> *この身は泡沫に譬うべきを知り、幻影に等しきを悟る人は、魔王の花矢（誘惑）を破り、〔
+地獄
+の〕死王（
+閻魔
+）に見ゆることなけん。*
 
-<p align="right"><b>— Pham Khong Phong Dat, Ke 23</b></p>
+<p align="right"><b>— Pham Hoa, Ke 46</b></p>
 
 </td></tr>
 </table>
