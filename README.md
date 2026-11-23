@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年11月22日**
+### **2026年11月23日**
 
 <div align="center">
 <table>
@@ -37,27 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 全ての政党は、最後には自分自身のついた嘘を呑み下すために死んでしまう。
+> 歴史が教える最も実際的な知恵は、民族が進展の可能性を持っていることである。
 
-<p align="right"><b>— ジョン・アーバスネット</b></p>
+<p align="right"><b>— 柳田国男</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Biết thân như bọt nước,
-Ngộ thân là như huyễn,
-Bẻ tên hoa của ma,
-Vượt tầm mắt thần chết.”
+> Ai rời bỏ uế trược,
+giới luật khéo nghiêm trì,
+tự chế, sống chơn thực,
+thật xứng áo cà sa.
 >
-> *この身は泡沫に譬うべきを知り、幻影に等しきを悟る人は、魔王の花矢（誘惑）を破り、〔
-地獄
-の〕死王（
-閻魔
-）に見ゆることなけん。*
+> *汚濁を捨棄し、よく戒行に住し、節度を守り真実あれば、彼は実に袈裟に相応す。*
 
-<p align="right"><b>— Pham Hoa, Ke 46</b></p>
+<p align="right"><b>— Pham Song Yeu, Ke 10</b></p>
 
 </td></tr>
 </table>
