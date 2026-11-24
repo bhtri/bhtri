@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年11月23日**
+### **2026年11月24日**
 
 <div align="center">
 <table>
@@ -37,23 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 歴史が教える最も実際的な知恵は、民族が進展の可能性を持っていることである。
+> 1人殺せば悪党で、100万人殺せば英雄になる。数が殺人を神聖なものにするのだ
 
-<p align="right"><b>— 柳田国男</b></p>
+<p align="right"><b>— チャップリン 出典:殺人狂時代」のラストシーンのセリフ or (独裁? [映画の名言]</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> Ai rời bỏ uế trược,
-giới luật khéo nghiêm trì,
-tự chế, sống chơn thực,
-thật xứng áo cà sa.
+> “Ðã nếm vị độc cư,
+Ðược hưởng vị nhàn tịnh,
+Không sợ hải, không ác,
+Nếm được vị pháp hỷ.”
 >
-> *汚濁を捨棄し、よく戒行に住し、節度を守り真実あれば、彼は実に袈裟に相応す。*
+> *孤独の甘味と寂静の甘味とを飲みたる者は、法悦の甘味を飲みつつ畏怖を去り、悪を離る。*
 
-<p align="right"><b>— Pham Song Yeu, Ke 10</b></p>
+<p align="right"><b>— Pham An Lac, Ke 205</b></p>
 
 </td></tr>
 </table>
