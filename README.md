@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年11月24日**
+### **2026年11月25日**
 
 <div align="center">
 <table>
@@ -37,23 +37,27 @@
 
 **🌸 名言 (Meigen)**
 
-> 1人殺せば悪党で、100万人殺せば英雄になる。数が殺人を神聖なものにするのだ
+> 文学とジャーナリズムの違いは、ジャーナリズムが読んでも面白くないものであり、文学が読まれないものであるということである。
 
-<p align="right"><b>— チャップリン 出典:殺人狂時代」のラストシーンのセリフ or (独裁? [映画の名言]</b></p>
+<p align="right"><b>— ワイルド</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Ðã nếm vị độc cư,
-Ðược hưởng vị nhàn tịnh,
-Không sợ hải, không ác,
-Nếm được vị pháp hỷ.”
+> “Người trị thủy dẫn nước,
+Kẻ làm tên nắn tên,
+Người thợ mộc uốn gỗ,
+Bậc trí nhiếp tự thân.”
 >
-> *孤独の甘味と寂静の甘味とを飲みたる者は、法悦の甘味を飲みつつ畏怖を去り、悪を離る。*
+> *治水者は水を導き、箭匠は
+箭
+を矯め、木匠は木を矯め、賢者は自己を
+調御
+す。*
 
-<p align="right"><b>— Pham An Lac, Ke 205</b></p>
+<p align="right"><b>— Pham Hien Tri, Ke 80</b></p>
 
 </td></tr>
 </table>
