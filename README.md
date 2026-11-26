@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年11月25日**
+### **2026年11月26日**
 
 <div align="center">
 <table>
@@ -37,27 +37,27 @@
 
 **🌸 名言 (Meigen)**
 
-> 文学とジャーナリズムの違いは、ジャーナリズムが読んでも面白くないものであり、文学が読まれないものであるということである。
+> 幼児を抱いた母親ほど見る目に清らかなものはなく、多くの子に取り囲まれた母親ほど敬愛を感じさせるものはない
 
-<p align="right"><b>— ワイルド</b></p>
+<p align="right"><b>— ゲーテ</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Người trị thủy dẫn nước,
-Kẻ làm tên nắn tên,
-Người thợ mộc uốn gỗ,
-Bậc trí nhiếp tự thân.”
+> “Tự mình y chỉ mình,
+Nào có y chỉ khác.
+Nhờ khéo điều phục mình,
+Ðược y chỉ khó được.”
 >
-> *治水者は水を導き、箭匠は
-箭
-を矯め、木匠は木を矯め、賢者は自己を
+> *自己の依所は自己のみなり。
+他にいかなる依所あらんや。
+自己のよく
 調御
-す。*
+せられたる時、人は得難き依所を獲得す。*
 
-<p align="right"><b>— Pham Hien Tri, Ke 80</b></p>
+<p align="right"><b>— Pham Tu Nga, Ke 160</b></p>
 
 </td></tr>
 </table>
