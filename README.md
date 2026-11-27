@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年11月26日**
+### **2026年11月27日**
 
 <div align="center">
 <table>
@@ -37,27 +37,24 @@
 
 **🌸 名言 (Meigen)**
 
-> 幼児を抱いた母親ほど見る目に清らかなものはなく、多くの子に取り囲まれた母親ほど敬愛を感じさせるものはない
+> 若い者はその血気によって趣味を変え、老人は習慣によりその趣味を保つ。
 
-<p align="right"><b>— ゲーテ</b></p>
+<p align="right"><b>— ラ・ロシュフーコー</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Tự mình y chỉ mình,
-Nào có y chỉ khác.
-Nhờ khéo điều phục mình,
-Ðược y chỉ khó được.”
+> “Người ác thấy là hiền.
+Khi ác chưa chín muồi,
+Khi ác nghiệp chín muồi,
+Người ác mới thấy ác.”
 >
-> *自己の依所は自己のみなり。
-他にいかなる依所あらんや。
-自己のよく
-調御
-せられたる時、人は得難き依所を獲得す。*
+> *悪人といえども、悪の未だ熟せざる間は、福善を見る。
+然れども悪の熟するや、その時悪人は苦悪を見る。*
 
-<p align="right"><b>— Pham Tu Nga, Ke 160</b></p>
+<p align="right"><b>— Pham Ac, Ke 119</b></p>
 
 </td></tr>
 </table>
