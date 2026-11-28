@@ -29,7 +29,7 @@
 
 ---
 
-### **2026年11月27日**
+### **2026年11月28日**
 
 <div align="center">
 <table>
@@ -37,24 +37,23 @@
 
 **🌸 名言 (Meigen)**
 
-> 若い者はその血気によって趣味を変え、老人は習慣によりその趣味を保つ。
+> 恋する人のために食事の支度をしている女の姿ほど、胸打つものはない。
 
-<p align="right"><b>— ラ・ロシュフーコー</b></p>
+<p align="right"><b>— T・ウルフ（米・作家）</b></p>
 
 </td></tr>
 <tr><td>
 
 **📿 Kinh Phap Cu (Dhammapada)**
 
-> “Người ác thấy là hiền.
-Khi ác chưa chín muồi,
-Khi ác nghiệp chín muồi,
-Người ác mới thấy ác.”
+> “Biết rõ ý nghĩa này,
+Bậc trí lo trì giới,
+Mau lẹ làm thanh tịnh,
+Con đường đến Niết-Bàn.”
 >
-> *悪人といえども、悪の未だ熟せざる間は、福善を見る。
-然れども悪の熟するや、その時悪人は苦悪を見る。*
+> *この義を知りて、賢者は戒により制御し、涅槃に至る道を速やかに浄むべし。*
 
-<p align="right"><b>— Pham Ac, Ke 119</b></p>
+<p align="right"><b>— Pham Dao, Ke 289</b></p>
 
 </td></tr>
 </table>
